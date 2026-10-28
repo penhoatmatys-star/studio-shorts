@@ -463,7 +463,7 @@ def action_scripts(corps):
         d = appel_claude(prompts.prompt_scripts(v, s, corps.get("consigne", ""),
                                                 int(corps.get("nombre", 3))),
                          schema=prompts.SCHEMA_SCRIPTS,
-                         outils="Read,Glob,Grep,WebSearch,WebFetch", timeout=1500)
+                         outils=prompts.OUTILS_SCRIPT, timeout=2400)
         scripts = d.get("scripts", [])
         for sc in scripts:
             sc["id"] = uuid.uuid4().hex[:6]
@@ -491,7 +491,7 @@ def action_chat(corps):
     def f():
         try:
             d = appel_claude(prompts.prompt_chat(s, sc, message), schema=prompts.SCHEMA_CHAT,
-                             outils="Read,Glob,Grep,WebSearch,WebFetch", timeout=600)
+                             outils=prompts.OUTILS_SCRIPT, timeout=900)
         except Exception as e:  # noqa: BLE001
             d = {"reponse": "⚠️ " + str(e)[-400:], "texte": None}
         etat2 = lire_etat(vid).get(sid, {})

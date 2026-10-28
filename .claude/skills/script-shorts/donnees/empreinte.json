@@ -1,0 +1,323 @@
+{
+ "maxparra_long": {
+  "n": 121,
+  "mots": 270,
+  "mots_par_phrase_mediane": 25,
+  "part_phrases_courtes_<=8": 0.08,
+  "part_phrases_longues_>=25": 0.5,
+  "hook_mots": 27,
+  "va_infinitif_pour_100": 1.17,
+  "tu_vous_pour_100": 0.0,
+  "je_pour_100": 0.0,
+  "questions_par_script": 0,
+  "liaisons_pour_100_moyenne": {
+   "mais": 1.09,
+   "parce que": 0.38,
+   "alors": 0.3,
+   "donc": 0.25,
+   "sauf que": 0.21,
+   "beaucoup": 0.2,
+   "vu que": 0.17,
+   "tout le monde": 0.16,
+   "bizarrement": 0.13,
+   "et pour cause": 0.09,
+   "en fait": 0.05,
+   "c'est là que": 0.05,
+   "personne ne se doutait": 0.04,
+   "étrangement": 0.04,
+   "aujourd'hui": 0.03,
+   "pour une très bonne raison": 0.03,
+   "du coup": 0.02,
+   "en réalité": 0.02
+  },
+  "ouvertures_frequentes": [
+   [
+    "quand ce",
+    29
+   ],
+   [
+    "quand cette",
+    10
+   ],
+   [
+    "qu'est-ce qui",
+    10
+   ],
+   [
+    "mais pourquoi",
+    10
+   ],
+   [
+    "tu t'es",
+    9
+   ],
+   [
+    "ça c'est",
+    5
+   ],
+   [
+    "quand cet",
+    4
+   ],
+   [
+    "regarde bien",
+    4
+   ],
+   [
+    "ce mec",
+    3
+   ],
+   [
+    "quand le",
+    3
+   ],
+   [
+    "quand la",
+    2
+   ],
+   [
+    "quand ces",
+    2
+   ]
+  ],
+  "tics_ia_presents_dans_la_base": [
+   [
+    "littéralement",
+    7
+   ],
+   [
+    "historique",
+    5
+   ],
+   [
+    "choc",
+    2
+   ],
+   [
+    "il faut savoir que",
+    1
+   ],
+   [
+    "et là,",
+    1
+   ],
+   [
+    "tout simplement",
+    1
+   ]
+  ]
+ },
+ "topfoot_long": {
+  "n": 75,
+  "mots": 251,
+  "mots_par_phrase_mediane": 11.5,
+  "part_phrases_courtes_<=8": 0.26,
+  "part_phrases_longues_>=25": 0.05,
+  "hook_mots": 14,
+  "va_infinitif_pour_100": 0.0,
+  "tu_vous_pour_100": 1.19,
+  "je_pour_100": 0.0,
+  "questions_par_script": 0,
+  "liaisons_pour_100_moyenne": {
+   "mais": 0.83,
+   "parce que": 0.44,
+   "abonne-toi": 0.3,
+   "beaucoup": 0.19,
+   "donc": 0.14,
+   "alors": 0.11,
+   "aujourd'hui": 0.09,
+   "sauf que": 0.09,
+   "tout le monde": 0.07,
+   "autrement dit": 0.04,
+   "en réalité": 0.03,
+   "c'est là que": 0.03,
+   "et c'est pour ça que": 0.01,
+   "du coup": 0.01,
+   "en fait": 0.01
+  },
+  "ouvertures_frequentes": [
+   [
+    "et si",
+    5
+   ],
+   [
+    "ça c'est",
+    2
+   ],
+   [
+    "est-ce que",
+    2
+   ],
+   [
+    "vous avez",
+    2
+   ],
+   [
+    "je pense",
+    1
+   ],
+   [
+    "tu crois",
+    1
+   ],
+   [
+    "c'est un",
+    1
+   ],
+   [
+    "je ne",
+    1
+   ],
+   [
+    "il est",
+    1
+   ],
+   [
+    "tout commence",
+    1
+   ],
+   [
+    "j'ai vu",
+    1
+   ],
+   [
+    "ce joueur",
+    1
+   ]
+  ],
+  "tics_ia_presents_dans_la_base": [
+   [
+    "et là,",
+    6
+   ],
+   [
+    "historique",
+    4
+   ],
+   [
+    "véritable",
+    2
+   ],
+   [
+    "légendaire",
+    2
+   ],
+   [
+    "imaginez",
+    2
+   ],
+   [
+    "au final",
+    1
+   ],
+   [
+    "le verdict",
+    1
+   ],
+   [
+    "choc",
+    1
+   ]
+  ]
+ },
+ "maxparra_court": {
+  "n": 150,
+  "mots": 108.0,
+  "mots_par_phrase_mediane": 25.75,
+  "part_phrases_courtes_<=8": 0.0,
+  "part_phrases_longues_>=25": 0.5,
+  "hook_mots": 22.0,
+  "va_infinitif_pour_100": 0.74,
+  "tu_vous_pour_100": 0.0,
+  "je_pour_100": 0.0,
+  "questions_par_script": 0.0,
+  "liaisons_pour_100_moyenne": {
+   "mais": 0.96,
+   "vu que": 0.49,
+   "parce que": 0.46,
+   "alors": 0.23,
+   "bizarrement": 0.15,
+   "sauf que": 0.14,
+   "beaucoup": 0.14,
+   "et pour cause": 0.08,
+   "tout le monde": 0.08,
+   "donc": 0.07,
+   "en réalité": 0.03,
+   "pour une très bonne raison": 0.03,
+   "ce qui fait que": 0.02,
+   "aujourd'hui": 0.02,
+   "du coup": 0.02,
+   "personne ne se doutait": 0.01,
+   "en fait": 0.01,
+   "étrangement": 0.01
+  },
+  "ouvertures_frequentes": [
+   [
+    "quand ce",
+    22
+   ],
+   [
+    "tu t'es",
+    12
+   ],
+   [
+    "mais pourquoi",
+    8
+   ],
+   [
+    "pourquoi ce",
+    5
+   ],
+   [
+    "pourquoi les",
+    4
+   ],
+   [
+    "sans le",
+    4
+   ],
+   [
+    "si tu",
+    4
+   ],
+   [
+    "ce joueur",
+    4
+   ],
+   [
+    "quand cette",
+    3
+   ],
+   [
+    "ce mec",
+    3
+   ],
+   [
+    "si un",
+    3
+   ],
+   [
+    "ça c'est",
+    3
+   ]
+  ],
+  "tics_ia_presents_dans_la_base": [
+   [
+    "historique",
+    3
+   ],
+   [
+    "littéralement",
+    2
+   ],
+   [
+    "choc",
+    2
+   ],
+   [
+    "véritable",
+    1
+   ]
+  ]
+ }
+}

@@ -79,6 +79,11 @@ Mémoire longue durée du projet : voir `…/.claude/projects/…/memory/` (`MEM
   25-43 plans) et `court` = **25-30 s** (110-130 mots, un seul fil, 11-16 plans, musique tiki).
 - **Veille du jour** (chaque matin, Matys 2026-10-28) : 9 sujets, **4 shorts d'1 min** (3 tennis +
   au moins 1 foot) et **5 shorts de 25-30 s**, avec un script écrit d'office pour chacun.
+- **SKILL `script-shorts` OBLIGATOIRE pour tout script** (`.claude/skills/script-shorts/SKILL.md`,
+  2026-10-28) : on écrit en imitant les 3 vrais scripts les plus proches (`outils/exemples.py`), dans
+  la voix mesurée de la base (phrases ~25 mots qui s'enchaînent, hook d'une longue phrase, pas de
+  « tu », pas de fragments), puis `outils/verif.py` jusqu'à « OK ». Il prime sur les règles ci-dessous
+  quand elles divergent.
 - **MODÈLE DE RÉFÉRENCE : `scripts_modeles.md`** (Dembélé / Mbappé / Enrique, jugé
   « parfait »). Le relire avant chaque script et en reproduire les mécanismes : hook
   « cette réponse de X est la raison pour laquelle… » + clip immédiat, clips parlés comme

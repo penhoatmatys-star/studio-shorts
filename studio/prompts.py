@@ -1,6 +1,7 @@
 """Prompts et schémas JSON envoyés à Claude Code par le studio."""
 import json
 import os
+import sys
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -141,19 +142,26 @@ def fmt(sujet):
     return FORMATS.get((sujet or {}).get("format"), FORMATS["long"])
 
 
+SKILL = ".claude/skills/script-shorts"
+PY = os.path.relpath(sys.executable, RACINE).replace("\\", "/") if sys.executable.startswith(RACINE) else "python3"
+# outils du skill script-shorts (exemples.py, verif.py) : seules commandes shell autorisées pour écrire
+OUTILS_SCRIPT = f"Read,Glob,Grep,WebSearch,WebFetch,Write,Bash({PY}:*)"
+
+
 def regles_script(sujet=None):
     f = fmt(sujet)
-    return f"""Règles d'écriture (CLAUDE.md §4, prioritaires) :
-- Relis d'abord `scripts_modeles.md` (modèle de référence jugé parfait), `GUIDE_SCRIPTS_FUSION.md`
-  et `shorts/_recherche_maxparra/analyse_storytelling.md` (hooks classés par vues).
-- Cible : {f['libelle']} dite à l'oral par le clone (≈ 4,5 mots/s) → {f['mots']} mots de VO, HORS clips.
-- Un humain écoute : langue parlée, phrases courtes, « Parce que », « Sauf que », « Aujourd'hui ».
-- Reprendre les mécanismes du modèle : hook « cette réponse/phrase de X est la raison pour
-  laquelle… » + clip immédiat (ou un autre hook à fort potentiel tiré de l'analyse), clips parlés
-  comme preuves, duel arbitré par un tiers, retournement « Sauf que… », chute en antithèse +
-  échéance datée.{" En 25-30 s : un seul fil, hook immédiat, un retournement, une chute ; pas de détour." if f is FORMATS["court"] else ""}
+    k = "court" if f is FORMATS["court"] else "long"
+    return f"""Méthode d'écriture OBLIGATOIRE : lis et suis À LA LETTRE `{SKILL}/SKILL.md` (skill
+script-shorts). En résumé : (1) lis `scripts_modeles.md` et `{SKILL}/donnees/structures.md` ;
+(2) `{PY} {SKILL}/outils/exemples.py "<joueurs, club, ce qui s'est passé>" --format {k} --style <maxparra|mix> -n 3`
+et lis les 3 vrais scripts en entier ; (3) copie la suite de temps du plus proche ; (4) écris dans la
+voix de la base : phrases longues qui s'enchaînent (~25 mots), hook d'une seule longue phrase, pas de
+« tu / vous », pas de question, pas de fragment punchy, ton plat, chute = un fait ; (5) écris le
+script dans `studio/_jobs/brouillon_<id du sujet>.txt` puis
+`{PY} {SKILL}/outils/verif.py studio/_jobs/brouillon_<id du sujet>.txt --format {k}` et corrige jusqu'à « OK ».
+- Cible : {f['libelle']} dite par le clone (≈ 4,5 mots/s) → {f['mots']} mots de VO, HORS clips.
 - Clips parlés : ligne à part `[CLIP Nom] citation exacte` (vraie citation sourcée, jamais
-  inventée ; en langue étrangère → donner la traduction française). {f['clips']} clip(s).
+  inventée ; en langue étrangère → traduction française). {f['clips']} clip(s).
 - Aucune invention : un fait non confirmé est dit au conditionnel ou retiré.
 - Prononciation : écrire les nombres et sigles comme on les dit si c'est ambigu."""
 

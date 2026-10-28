@@ -43,5 +43,9 @@ ce fichier et viser ce niveau** (structure, rythme, chute). Ils passent avant le
 7. **Chute en antithèse + échéance ouverte** : « L'un est parti d'un collectif…, l'autre d'un
    statut », puis une date et un lieu précis (26 octobre, Londres) qui laissent la question en
    suspens → commentaires.
-8. **Langue parlée** : phrases courtes, « Parce que », « Sauf que », « Aujourd'hui », aucune
-   tournure écrite. ~270 mots pour 1 min avec les clips.
+8. **Langue parlée, phrases qui coulent** : mesuré le 2026-10-28, ce script fait des phrases de
+   24 mots en médiane, **aucune phrase de 8 mots ou moins**, zéro « tu / vous », zéro question :
+   exactement la voix de Max Parra (25 mots en médiane sur 121 shorts d'1 min). Les idées
+   s'enchaînent avec « Parce que », « Sauf que », « Alors », « Aujourd'hui », jamais en fragments
+   punchy. ~270 mots pour 1 min avec les clips. (L'ancienne consigne « phrases courtes » était
+   fausse et rendait les scripts IA.)
