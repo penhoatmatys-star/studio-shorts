@@ -30,6 +30,16 @@ def icone_windows(fenetre):
         print("icône :", e, file=sys.stderr)
 
 
+def synchro():
+    """Toutes les 5 min : récupère la veille du matin (écrite dans le cloud) et partage l'état."""
+    import time
+    while True:
+        msg = serveur.synchro_git()
+        if msg != "ok":
+            print("synchro :", msg, file=sys.stderr)
+        time.sleep(300)
+
+
 def veille_auto():
     """Filet de sécurité de la tâche planifiée : app ouverte après 7 h sans veille du jour (ni en
     cours) → on la lance. Seulement sur le PC de Matys (Windows) : les veilles sont partagées, le
@@ -37,7 +47,8 @@ def veille_auto():
     import time
     from datetime import datetime
     while os.environ.get("STUDIO_VEILLE_AUTO", "1" if os.name == "nt" else "0") != "0":
-        if datetime.now().hour >= 7 and not serveur.veille_en_cours():
+        # 9 h : laisse à la veille cloud de 7 h le temps d'arriver par git pull (thread synchro)
+        if datetime.now().hour >= 9 and not serveur.veille_en_cours():
             if not serveur.veille_du_jour_faite():
                 serveur.action_veille({"quotidien": True})
             else:  # veille finie pendant que l'app était fermée : on écrit les scripts manquants
@@ -48,6 +59,7 @@ def veille_auto():
 if __name__ == "__main__":
     http = serveur.serveur_http(0)  # port 0 = libre, pas de conflit avec un vieux serveur
     threading.Thread(target=http.serve_forever, daemon=True).start()
+    threading.Thread(target=synchro, daemon=True).start()
     threading.Thread(target=veille_auto, daemon=True).start()
     fenetre = webview.create_window("Studio Shorts", "http://127.0.0.1:%d/" % http.server_address[1],
                                     width=1480, height=920, min_size=(1100, 680), background_color="#16171a")

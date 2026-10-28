@@ -361,6 +361,29 @@ def action_veille(corps):
     return job_agent(job, prompts.prompt_veille(nom, corps.get("consigne", ""), quotidien))
 
 
+def synchro_git():
+    """Veilles partagées par Git : récupère celle écrite dans le cloud chaque matin et envoie
+    l'état local (sujets validés, scripts, retouches). Seul shorts/_veille/ est commité ici."""
+    import shutil
+    git = shutil.which("git")
+    if not git or not os.path.isdir(os.path.join(RACINE, ".git")):
+        return "pas de dépôt git"
+
+    def g(*args):
+        return subprocess.run([git, *args], cwd=RACINE, capture_output=True, text=True,
+                              encoding="utf-8", errors="replace", timeout=120)
+    with VERROU:
+        g("add", "shorts/_veille")
+        if g("diff", "--cached", "--quiet").returncode:
+            g("commit", "-q", "-m", "veille : état du studio (%s)" % os.environ.get("USERNAME", os.environ.get("USER", "?")))
+        r = g("pull", "--rebase", "--autostash", "-q")
+        if r.returncode:
+            g("rebase", "--abort")
+            return "pull impossible : " + (r.stderr or r.stdout)[-300:]
+    r = g("push", "-q")
+    return "ok" if r.returncode == 0 else "push impossible : " + (r.stderr or r.stdout)[-300:]
+
+
 def veille_du_jour_faite():
     return os.path.exists(os.path.join(VEILLE, datetime.now().strftime("%Y-%m-%d_jour.json")))
 
@@ -380,7 +403,9 @@ def veille_en_cours():
 
 def veille_du_jour_bloquante():
     """Pour la tâche planifiée (studio/quotidien.py) : veille du jour puis scripts, en attendant
-    la fin de chaque étape. Ne fait rien si la veille du jour existe déjà."""
+    la fin de chaque étape. Ne fait rien si la veille du jour existe déjà (y compris celle
+    écrite dans le cloud, récupérée d'abord par git)."""
+    synchro_git()
     if veille_du_jour_faite():
         return "veille du jour déjà faite"
     job = action_veille({"quotidien": True, "bloquant": True})
