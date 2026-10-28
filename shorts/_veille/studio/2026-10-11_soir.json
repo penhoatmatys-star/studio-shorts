@@ -1,0 +1,165 @@
+{
+ "vinicius_mourinho_villarreal": {
+  "valide": true,
+  "job_scripts": "20261011-163531-b58e",
+  "scripts": [
+   {
+    "titre": "Le tirage de cheveux qui coûte le Clasico",
+    "mecanisme": "Hook modèle Dembélé « Ce [geste] est la raison pour laquelle… » + clip VAR immédiat comme preuve, chaîne de cause à effet (but → VAR → rouge → rapport → silence), arbitre en tiers, « Sauf que », « Et pour cause », chute en antithèse Mourinho banc / Vinicius tribunes + échéance mercredi.",
+    "texte": "Ce tirage de cheveux est la raison pour laquelle le Real Madrid pourrait perdre le prochain Clasico.\n\n[CLIP Audio VAR, espagnol] citation à relever mot pour mot à la transcription du clip (échange VAR / arbitre sur le tirage de cheveux), traduction française à l'écran\n\nParce que samedi contre Villarreal, le Real mène un à zéro grâce à Yan Diomande, Vinicius entre en deuxième période, et sur une course de Bellingham, il reçoit le ballon dans la surface et il met le deux à zéro. Sauf que la VAR demande à l'arbitre de revoir le début de l'action, et sur les images, on voit Vinicius tirer les cheveux de Nathan Saliba, alors que le ballon n'est même pas entre eux deux. Le but est annulé, et l'arbitre lui sort un rouge direct.\n\nDans son rapport, l'arbitre écrit que Vinicius a continué à protester, qu'il s'est approché de lui de façon agressive, et que ses coéquipiers ont dû le retenir. Aujourd'hui, la presse espagnole parle de deux à quatre matchs, ce qui voudrait dire Séville le dix-huit octobre, puis le Camp Nou le vingt-cinq. Le Real irait au Clasico sans Vinicius.\n\nMourinho, lui, a fait l'inverse. En deux mille onze, après une demi-finale contre le Barça, il avait répété « Pourquoi ? » face aux caméras en visant l'arbitre, et l'UEFA l'avait suspendu. Quinze ans plus tard, samedi soir, il a refusé de parler. Selon Marca, il aurait expliqué : « Je ne vais pas parler parce que je veux être sur le banc contre Séville et Barcelone. » Un seul mot sur l'arbitre pouvait le faire suspendre lui aussi.\n\nMourinho a su se taire pour garder sa place sur le banc du Camp Nou, Vinicius n'a pas su garder ses mains pour lui, et c'est peut-être depuis les tribunes qu'il regardera le Clasico. Le comité de compétition devrait trancher mercredi.",
+    "clips": [
+     {
+      "description": "Plan d'ouverture vertical : Vinicius / le rouge (vérifier texte incrusté, sinon chercher un autre 9:16)",
+      "url": "https://www.youtube.com/shorts/ZGBFnZ4Nnh8",
+      "moment": "0-2 s, sous le hook"
+     },
+     {
+      "description": "CLIP PARLÉ : audio VAR en espagnol, garder le son + traduction à l'écran",
+      "url": "https://www.youtube.com/watch?v=yajT6vE-mOk",
+      "moment": "juste après le hook"
+     },
+     {
+      "description": "Ralenti du tirage de cheveux sur Saliba",
+      "url": "https://www.youtube.com/watch?v=L2fijrZP6SE",
+      "moment": "« tirer les cheveux de Nathan Saliba »"
+     },
+     {
+      "description": "Carton rouge sorti",
+      "url": "https://www.youtube.com/watch?v=QmBkbj5Xvx8",
+      "moment": "« rouge direct »"
+     },
+     {
+      "description": "Vinicius qui proteste, retenu par ses coéquipiers (son coupé)",
+      "url": "https://www.youtube.com/watch?v=k-_dfn5HRic",
+      "moment": "« ses coéquipiers ont dû le retenir »"
+     },
+     {
+      "description": "But de Diomande",
+      "url": "https://www.youtube.com/watch?v=MGiTTOQoKgo",
+      "moment": "« grâce à Yan Diomande »"
+     }
+    ],
+    "forces": "Reprend exactement la mécanique du modèle validé : la preuve tombe dans les 3 premières secondes. Deux fils liés dès le hook (Vinicius et Mourinho), ce qui tient jusqu'à la fin. Le détail « le ballon n'est même pas entre eux deux » vient du rapport arbitral et rend le geste absurde.",
+    "risques": "274 mots hors clip. La citation du clip VAR est à relever à la transcription : je ne l'ai pas inventée, il faut l'écouter (si l'audio est une reconstitution ou un montage de chaîne, l'écarter). La phrase de Mourinho est rapportée par Marca, pas filmée : d'où le conditionnel. « Mercredi » = date attendue par la presse, pas officielle. Minute de l'action variable selon les sources (71e, 72e, 73e) : retirée du texte. Beaucoup de mots en « é » final (entré, annulé évité) : écouter la prise du clone.",
+    "id": "538b2b",
+    "mots": 299,
+    "chat": [
+     {
+      "role": "moi",
+      "x": "regarde le nouveau hook et adapte le reste du texte",
+      "t": 1791730331.8527045
+     },
+     {
+      "role": "ia",
+      "x": "Ton hook promet que le Real pourrait perdre le Clasico, alors j'ai remonté la suspension (Séville le 18, Camp Nou le 25) juste après le rapport de l'arbitre : on comprend plus vite le lien avec le hook. Mourinho arrive ensuite comme celui qui, lui, a su se taire pour garder sa place, et la chute oppose les deux autour du Camp Nou. Le texte fait environ 274 mots hors clip, sans nouveau fait ajouté.",
+      "modifie": true,
+      "t": 1791730382.9689896
+     },
+     {
+      "role": "moi",
+      "x": "change la partie sur mourniho rend plus interessante parle pas trop de la conférence de presse",
+      "t": 1791730498.861285
+     },
+     {
+      "role": "ia",
+      "x": "J'ai réécrit le passage sur Mourinho autour d'un contraste. En deux mille onze, il avait attaqué l'arbitre à coups de « Pourquoi ? » après la demi-finale contre le Barça et l'UEFA l'avait suspendu. Quinze ans plus tard, il se tait pour ne pas manquer le Clasico. Les quarante minutes d'attente des journalistes ont disparu, et le texte reste autour de 270 mots hors clip. Le fait de 2011 est historique (il avait pris cinq matchs de suspension UEFA), donc rien d'inventé, mais j'ai écrit cette partie sans vérifier les sources, alors relis-la avant de lancer la voix.",
+      "modifie": true,
+      "t": 1791730535.7143078
+     }
+    ],
+    "versions": [
+     "Ce tirage de cheveux est la raison pour laquelle Vinicius pourrait rater le Clasico, et pourquoi Mourinho a refusé de parler après le match.\n\n[CLIP Audio VAR, espagnol] citation à relever mot pour mot à la transcription du clip (échange VAR / arbitre sur le tirage de cheveux), traduction française à l'écran\n\nParce que samedi contre Villarreal, Vinicius entre en deuxième période, le Real mène un à zéro grâce à Yan Diomande, et sur une course de Bellingham, il reçoit le ballon dans la surface et il met le deux à zéro. Sauf que la VAR va demander à l'arbitre de revoir le début de l'action, et sur les images, on voit Vinicius tirer les cheveux de Nathan Saliba, alors que le ballon n'est même pas entre eux deux. Le but ne compte plus, et l'arbitre lui sort un rouge direct.\n\nDans son rapport, l'arbitre écrit que Vinicius a continué à protester, qu'il s'est approché de lui de façon agressive, et que ses coéquipiers ont dû le retenir. Le Real gagne un à zéro, et les journalistes vont attendre Mourinho en salle de presse pendant quarante minutes, jusqu'à ce que la Liga vienne leur dire qu'il ne viendra pas. Selon Marca, il aurait expliqué : « Je ne vais pas parler parce que je veux être sur le banc contre Séville et Barcelone. » Parce qu'un seul mot sur l'arbitre pouvait lui valoir une suspension, et il a préféré risquer une amende de la Liga.\n\nAujourd'hui, la presse espagnole parle de deux à quatre matchs pour Vinicius, ce qui voudrait dire Séville le dix-huit octobre, puis le Camp Nou le vingt-cinq. Mourinho s'est tu pour garder sa place sur le banc, et c'est peut-être Vinicius qui va regarder le Clasico depuis les tribunes. Le comité de compétition devrait trancher mercredi.",
+     "Ce tirage de cheveux est la raison pour laquelle le real madrid pourrait perdre le Clasico\n\n[CLIP Audio VAR, espagnol] citation à relever mot pour mot à la transcription du clip (échange VAR / arbitre sur le tirage de cheveux), traduction française à l'écran\n\nParce que samedi contre Villarreal, Vinicius entre en deuxième période, le Real mène un à zéro grâce à Yan Diomande, et sur une course de Bellingham, il reçoit le ballon dans la surface et il met le deux à zéro. Sauf que la VAR va demander à l'arbitre de revoir le début de l'action, et sur les images, on voit Vinicius tirer les cheveux de Nathan Saliba, alors que le ballon n'est même pas entre eux deux. Le but ne compte plus, et l'arbitre lui sort un rouge direct.\n\nDans son rapport, l'arbitre écrit que Vinicius a continué à protester, qu'il s'est approché de lui de façon agressive, et que ses coéquipiers ont dû le retenir. Le Real gagne un à zéro, et les journalistes vont attendre Mourinho en salle de presse pendant quarante minutes, jusqu'à ce que la Liga vienne leur dire qu'il ne viendra pas. Selon Marca, il aurait expliqué : « Je ne vais pas parler parce que je veux être sur le banc contre Séville et Barcelone. » Parce qu'un seul mot sur l'arbitre pouvait lui valoir une suspension, et il a préféré risquer une amende de la Liga.\n\nAujourd'hui, la presse espagnole parle de deux à quatre matchs pour Vinicius, ce qui voudrait dire Séville le dix-huit octobre, puis le Camp Nou le vingt-cinq. Mourinho s'est tu pour garder sa place sur le banc, et c'est peut-être Vinicius qui va regarder le Clasico depuis les tribunes. Le comité de compétition devrait trancher mercredi.",
+     "Ce tirage de cheveux est la raison pour laquelle le real madrid pourrait perdre le prochain Clasico\n\n[CLIP Audio VAR, espagnol] citation à relever mot pour mot à la transcription du clip (échange VAR / arbitre sur le tirage de cheveux), traduction française à l'écran\n\nParce que samedi contre Villarreal, Vinicius entre en deuxième période, le Real mène un à zéro grâce à Yan Diomande, et sur une course de Bellingham, il reçoit le ballon dans la surface et il met le deux à zéro. Sauf que la VAR va demander à l'arbitre de revoir le début de l'action, et sur les images, on voit Vinicius tirer les cheveux de Nathan Saliba, alors que le ballon n'est même pas entre eux deux. Le but ne compte plus, et l'arbitre lui sort un rouge direct.\n\nDans son rapport, l'arbitre écrit que Vinicius a continué à protester, qu'il s'est approché de lui de façon agressive, et que ses coéquipiers ont dû le retenir. Le Real gagne un à zéro, et les journalistes vont attendre Mourinho en salle de presse pendant quarante minutes, jusqu'à ce que la Liga vienne leur dire qu'il ne viendra pas. Selon Marca, il aurait expliqué : « Je ne vais pas parler parce que je veux être sur le banc contre Séville et Barcelone. » Parce qu'un seul mot sur l'arbitre pouvait lui valoir une suspension, et il a préféré risquer une amende de la Liga.\n\nAujourd'hui, la presse espagnole parle de deux à quatre matchs pour Vinicius, ce qui voudrait dire Séville le dix-huit octobre, puis le Camp Nou le vingt-cinq. Mourinho s'est tu pour garder sa place sur le banc, et c'est peut-être Vinicius qui va regarder le Clasico depuis les tribunes. Le comité de compétition devrait trancher mercredi.",
+     "Ce tirage de cheveux est la raison pour laquelle le Real Madrid pourrait perdre le prochain Clasico.\n\n[CLIP Audio VAR, espagnol] citation à relever mot pour mot à la transcription du clip (échange VAR / arbitre sur le tirage de cheveux), traduction française à l'écran\n\nParce que samedi contre Villarreal, le Real mène un à zéro grâce à Yan Diomande, Vinicius entre en deuxième période, et sur une course de Bellingham, il reçoit le ballon dans la surface et il met le deux à zéro. Sauf que la VAR demande à l'arbitre de revoir le début de l'action, et sur les images, on voit Vinicius tirer les cheveux de Nathan Saliba, alors que le ballon n'est même pas entre eux deux. Le but est annulé, et l'arbitre lui sort un rouge direct.\n\nDans son rapport, l'arbitre écrit que Vinicius a continué à protester, qu'il s'est approché de lui de façon agressive, et que ses coéquipiers ont dû le retenir. Aujourd'hui, la presse espagnole parle de deux à quatre matchs, ce qui voudrait dire Séville le dix-huit octobre, puis le Camp Nou le vingt-cinq. Le Real irait au Clasico sans Vinicius.\n\nLe Real gagne un à zéro, les journalistes attendent Mourinho en salle de presse pendant quarante minutes, jusqu'à ce que la Liga vienne leur dire qu'il ne viendra pas. Selon Marca, il aurait expliqué : « Je ne vais pas parler parce que je veux être sur le banc contre Séville et Barcelone. » Parce qu'un seul mot sur l'arbitre pouvait lui valoir une suspension à lui aussi, et il a préféré risquer une amende.\n\nMourinho a su se taire pour garder sa place sur le banc du Camp Nou, Vinicius n'a pas su garder ses mains pour lui, et c'est peut-être depuis les tribunes qu'il regardera le Clasico. Le comité de compétition devrait trancher mercredi."
+    ],
+    "chat_attente": false
+   },
+   {
+    "titre": "Si tu entraînes le Real, tu te tais",
+    "mecanisme": "Hook « Si tu… » (le meilleur score de la base Max Parra, 1,72 M médiane) qui pose une règle contre-intuitive, Mourinho en personnage principal, « Sauf que » qui ramène son propre rouge de Benfica comme preuve parlée, chute en antithèse banc / terrain + échéance.",
+    "texte": "Si tu entraînes le Real Madrid et que ta star prend un rouge pour avoir tiré les cheveux d'un adversaire, il y a une chose que tu ne dois surtout pas faire, c'est parler. Et c'est pour ça que samedi soir, Mourinho n'est jamais venu en conférence de presse.\n\nParce que contre Villarreal, Vinicius entre en deuxième période, il met le deux à zéro, et la VAR va remonter l'action : au début de l'action, il a tiré les cheveux de Nathan Saliba. Le but ne compte pas, et l'arbitre lui sort un rouge direct. Sur le banc, Mourinho proteste, le Real gagne un à zéro, et les journalistes vont l'attendre pendant quarante minutes en salle de presse, avant que la Liga vienne leur dire qu'il ne viendra pas.\n\nSauf que ce silence a une raison, et Mourinho la connaît mieux que personne. En début d'année, quand il entraînait encore Benfica, il s'était fait expulser contre le Real, et voilà ce qu'il avait dit après le match.\n\n[CLIP Mourinho] « J'ai été expulsé pour avoir dit quelque chose de très évident. »\n\nCe rouge l'avait privé du banc pour le match retour au Bernabéu. Alors cette fois, selon Marca, il aurait simplement expliqué : « Je ne vais pas parler parce que je veux être sur le banc contre Séville et Barcelone. » Quitte à risquer une amende de la Liga.\n\nAujourd'hui, la presse espagnole parle de deux à quatre matchs de suspension pour Vinicius, ce qui lui ferait rater Séville le dix-huit octobre, puis le Clasico au Camp Nou le vingt-cinq. Mourinho a tout fait pour être sur le banc au Camp Nou, reste à savoir si Vinicius sera sur le terrain. Le comité de compétition devrait trancher mercredi.",
+    "clips": [
+     {
+      "description": "Plan d'ouverture vertical de Mourinho (à trouver, cf. a_trouver) ou short ZGBFnZ4Nnh8 si Mourinho n'existe pas en 9:16 propre",
+      "url": "https://www.youtube.com/shorts/ZGBFnZ4Nnh8",
+      "moment": "0-2 s"
+     },
+     {
+      "description": "CLIP PARLÉ : conférence de presse de Mourinho après son rouge à Benfica contre le Real (Ligue des champions, début 2026), la phrase « expulsé pour avoir dit quelque chose de très évident ». URL à trouver, traduction à l'écran si en portugais/espagnol",
+      "moment": "après « voilà ce qu'il avait dit après le match »"
+     },
+     {
+      "description": "Mourinho qui proteste sur le banc du Bernabéu",
+      "url": "https://www.youtube.com/watch?v=pgYwIWhxpEs",
+      "moment": "« Sur le banc, Mourinho proteste »"
+     },
+     {
+      "description": "Ralenti du tirage de cheveux",
+      "url": "https://www.youtube.com/watch?v=L2fijrZP6SE",
+      "moment": "« tiré les cheveux de Nathan Saliba »"
+     },
+     {
+      "description": "Carton rouge",
+      "url": "https://www.youtube.com/watch?v=QmBkbj5Xvx8",
+      "moment": "« rouge direct »"
+     }
+    ],
+    "forces": "Le hook le plus viral de la base, et il pose un mystère (« ne surtout pas parler ») qu'on résout au milieu. Le passé de Mourinho donne une vraie preuve filmée au lieu d'une citation seulement rapportée. Le personnage principal change (Mourinho et non Vinicius), ce qui le rend vraiment différent des deux autres.",
+    "risques": "271 mots hors clip. Le clip Benfica est à trouver et sa phrase exacte à vérifier : je l'ai d'un compte rendu en anglais (« I was sent off for saying something very obvious »), pas de la vidéo. La suspension de Mourinho pour le match retour au Bernabéu était annoncée comme probable dans l'article : à confirmer avant la voix, sinon remplacer par « Ce rouge l'avait déjà mis dans le viseur des arbitres ». Le clip pgYwIWhxpEs a un titre ambigu : vérifier ce qu'on y voit.",
+    "id": "6aa249",
+    "mots": 282,
+    "chat": []
+   },
+   {
+    "titre": "De critique à complice : Mourinho et Vinicius",
+    "mecanisme": "Hook en antithèse sèche (il critiquait ses célébrations, samedi il célèbre avec lui) + clip parlé de l'ancien Mourinho comme preuve du duel, VAR en arbitre, fausse piste « tout le monde pense qu'il est furieux » cassée par « sauf que », citation Instagram de Vinicius, chute qui retourne le hook + échéance.",
+    "texte": "Il y a quelques mois, Mourinho reprochait à Vinicius sa façon de célébrer ses buts. Samedi, il a couru jusqu'au coin du terrain pour célébrer avec lui, et ce but va peut-être coûter le Clasico au Real.\n\nParce qu'en début d'année, Mourinho entraînait encore Benfica, et le soir de l'affaire Prestianni, il avait dit ça en conférence de presse.\n\n[CLIP Mourinho] « Pourquoi il n'a pas célébré comme Eusebio, Pelé ou Di Stéfano ? »\n\nAujourd'hui, il l'entraîne au Real, et samedi contre Villarreal, Vinicius entre en deuxième période et met le deux à zéro. Sauf que la VAR rappelle l'arbitre, et sur les images, on voit Vinicius tirer les cheveux de Nathan Saliba au début de l'action, alors qu'ils ne se disputaient même pas le ballon.\n\n[CLIP Audio VAR, espagnol] citation à relever mot pour mot à la transcription, traduction française à l'écran\n\nLe but ne compte plus, rouge direct, et d'après le rapport de l'arbitre, il a continué à protester jusqu'à ce que ses coéquipiers le retiennent. Le Real gagne un à zéro, et Mourinho ne vient pas en conférence. Tout le monde pense qu'il est furieux contre l'arbitre, sauf que selon Marca, il aurait dit : « Je ne vais pas parler parce que je veux être sur le banc contre Séville et Barcelone. » Parce qu'un mot de trop sur l'arbitrage pouvait le faire suspendre lui aussi, et le Real se serait retrouvé sans son entraîneur et sans son joueur. De son côté, Vinicius a juste posté sur Instagram : « La joie demeure. Désolé envers mon équipe et les supporters. »\n\nLa presse espagnole parle de deux à quatre matchs, donc Séville le dix-huit octobre, puis le Clasico au Camp Nou le vingt-cinq. En début d'année, Mourinho parlait de Vinicius. Aujourd'hui, il se tait à cause de lui. Le comité de compétition devrait trancher mercredi.",
+    "clips": [
+     {
+      "description": "Plan d'ouverture vertical : Vinicius qui célèbre (le short doit montrer la célébration, sinon chercher un autre 9:16)",
+      "url": "https://www.youtube.com/shorts/ZGBFnZ4Nnh8",
+      "moment": "0-2 s"
+     },
+     {
+      "description": "Mourinho qui court au coin du terrain célébrer avec Vinicius (dans un résumé du match)",
+      "url": "https://www.youtube.com/watch?v=MGiTTOQoKgo",
+      "moment": "« il a couru jusqu'au coin du terrain »"
+     },
+     {
+      "description": "CLIP PARLÉ : Mourinho (Benfica) sur la célébration de Vinicius, « comme Eusebio, Pelé ou Di Stéfano ». URL à trouver, traduction à l'écran",
+      "moment": "après « il avait dit ça en conférence de presse »"
+     },
+     {
+      "description": "CLIP PARLÉ : audio VAR",
+      "url": "https://www.youtube.com/watch?v=yajT6vE-mOk",
+      "moment": "après « pas le ballon »"
+     },
+     {
+      "description": "Vinicius retenu par ses coéquipiers (son coupé)",
+      "url": "https://www.youtube.com/watch?v=k-_dfn5HRic",
+      "moment": "« ses coéquipiers le retiennent »"
+     },
+     {
+      "description": "Photo : capture du post Instagram de Vinicius",
+      "moment": "« La joie demeure »"
+     }
+    ],
+    "forces": "Le vrai duel du sujet, Mourinho contre Vinicius, avec un passé que les fans connaissent. La célébration commune au coin du terrain est un détail que peu de gens ont vu, et elle donne un hook visuel. La chute « il parlait de lui, il se tait à cause de lui » retourne le hook en une ligne.",
+    "risques": "271 mots hors clips. Le clip Benfica est à trouver, et la phrase exacte (dite en portugais ou en espagnol) est à vérifier sur la vidéo. Je l'ai d'un compte rendu en anglais. Sujet Prestianni sensible (accusation de propos discriminatoires) : je ne cite que « l'affaire Prestianni » sans détailler, à garder ainsi. La célébration commune avec Mourinho vient d'Eurosport : il faut la retrouver en image, sinon réécrire le hook. Le texte Instagram est traduit de l'espagnol « La alegría sigue… perdón a mi equipo y a la afición ».",
+    "id": "3f38bc",
+    "mots": 295,
+    "chat": []
+   }
+  ],
+  "choisi": "538b2b",
+  "production": {
+   "job": "20261011-171900-70b0",
+   "projet": "vinicius_mourinho_villarreal",
+   "jobs": [
+    "20261011-171900-70b0"
+   ],
+   "chat": []
+  }
+ }
+}

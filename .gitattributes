@@ -1,0 +1,7 @@
+* text=auto
+# le Mac d'Elian refuse les scripts shell en fins de ligne Windows
+*.command text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.woff2 binary
+*.ico binary

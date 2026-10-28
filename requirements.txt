@@ -1,0 +1,9 @@
+faster-whisper
+requests
+pyjianyingdraft==0.3.0
+pymediainfo
+imageio-ffmpeg
+pillow
+mutagen
+pycryptodomex
+pywebview

@@ -1,0 +1,290 @@
+{
+  "titre": "Veille sport, dimanche 11 octobre 2026 soir",
+  "date": "2026-10-11",
+  "moment": "soir",
+  "tldr": "Trois sujets GO. N°1 Ronaldo suspendu provisoirement par sa propre fédération après avoir quitté la sélection à cause de Jorge Jesus (duel parlé idéal, citations des deux côtés). N°2 Vinicius expulsé pour un tirage de cheveux, Mourinho boycotte la conférence pour pouvoir être sur le banc au Clasico du 25 octobre. N°3 Arthur Géa, 241e mondial en janvier, sort Ben Shelton (n°4) pour son premier Masters 1000. À surveiller : Djokovic sorti d'entrée par Hurkacz à Shanghai.",
+  "sujets": [
+    {
+      "id": "ronaldo_jorgejesus",
+      "titre": "Ronaldo suspendu par le Portugal après sa guerre avec Jorge Jesus",
+      "note": 9,
+      "verdict": "go",
+      "suite": false,
+      "sport": "football",
+      "resume": "Laissé 90 minutes sur le banc contre la Norvège alors que Jorge Jesus lui avait promis du temps de jeu, Ronaldo a quitté le rassemblement du Portugal. La FPF a ouvert le 9 octobre une procédure disciplinaire et l'a suspendu provisoirement : il risque 1 à 6 mois.",
+      "faits": [
+        "27 septembre : Portugal 2-1 Norvège (Ligue des nations, Oslo). Ronaldo s'échauffe dès la mi-temps, n'entre jamais. Premier match de sélection entier sur le banc depuis 18 ans selon India Today.",
+        "Il ne va pas saluer les supporters avec ses coéquipiers après le match.",
+        "Conférence de presse de Jorge Jesus avant Danemark-Portugal : « Je peux promettre ce que je veux, c'est moi l'entraîneur » ; il limite à deux les questions sur Ronaldo (« je n'ai pas un joueur, j'en ai 23 »).",
+        "Fin septembre (vers le 30) : Ronaldo quitte le camp à Copenhague la veille du match contre le Danemark, après avoir parlé au président de la FPF, Pedro Proença. A Bola le filme quittant le stade dans un véhicule de la fédération.",
+        "7 octobre : communiqué de près de 2 000 mots. « Le sélectionneur n'a pas tenu sa parole. » Il s'excuse auprès des coéquipiers et des supporters, dit qu'il ne prend pas sa retraite internationale et accepte une sanction.",
+        "Réponse de Jesus : « Je n'ai pas lu le communiqué de Cristiano. Je regardais le match des Espoirs. »",
+        "9 octobre : la Section non professionnelle de la FPF ouvre une procédure disciplinaire. 10 octobre : dossier transmis à la Commission d'instruction, déclaré urgent, Ronaldo suspendu provisoirement, silence imposé jusqu'à la fin de l'enquête.",
+        "Règlement FPF : abandonner la sélection sans justification = suspension de 1 à 6 mois + amende.",
+        "9 octobre : pendant ce temps il marque avec Al-Nassr (3-0 contre Diriyah), son 980e but en carrière. Il a 41 ans.",
+        "Jesus a entraîné Ronaldo à Al-Nassr avant de devenir sélectionneur ; à sa nomination, il disait que Ronaldo ne serait « jamais un problème »."
+      ],
+      "pourquoi": "Le plus gros nom du foot, sanctionné par son propre pays à 41 ans, contre un coach qui l'a entraîné en club. Conflit à deux voix avec des phrases-chocs filmées des deux côtés : c'est exactement la mécanique « duel arbitré par un tiers » de scripts_modeles.md (le tiers = la FPF).",
+      "angle": "« Je peux promettre ce que je veux » : la phrase de Jorge Jesus qui a poussé Ronaldo à quitter le Portugal. Raconter la promesse, l'échauffement de 45 minutes pour rien, la fuite de Copenhague, puis la fédération qui tranche contre son capitaine. Chute : il risque 6 mois, et la Coupe du monde est passée, donc ce bras de fer pourrait être sa sortie de sélection.",
+      "videos": [
+        {"url": "https://www.youtube.com/shorts/9Jvib2mW69g", "titre": "Jorge Jesus en conf : « I can promise whatever I want! » (traduit)", "format": "9:16", "parle": true, "usage": "hook / preuve parlée (clip immédiat après le hook)", "alerte": "titre à emojis : vérifier sous-titres incrustés et bandeau de chaîne en planche-contact"},
+        {"url": "https://www.youtube.com/shorts/mSzN1fv372k", "titre": "Jesus : « Je n'ai pas un joueur, j'ai 23 joueurs »", "format": "9:16", "parle": true, "usage": "preuve parlée, ton du coach", "alerte": "probable sous-titrage incrusté, à vérifier"},
+        {"url": "https://www.youtube.com/shorts/AwBAjihx_PY", "titre": "Jesus admet l'erreur de l'échauffement de Ronaldo contre la Norvège", "format": "9:16", "parle": true, "usage": "retournement « Sauf que… »", "alerte": "à vérifier en planche-contact"},
+        {"url": "https://www.youtube.com/shorts/SS5yko8ADng", "titre": "Ronaldo attend, Jorge Jesus ne l'appelle jamais (banc, échauffement)", "format": "9:16", "parle": false, "usage": "plan d'ouverture vertical : Ronaldo seul sur le banc", "alerte": "short de compte fan : texte incrusté probable"},
+        {"url": "https://www.youtube.com/shorts/eey-4LKHmwE", "titre": "Ronaldo pas content pendant Portugal-Norvège", "format": "9:16", "parle": false, "usage": "émotion", "alerte": "compte fan, à vérifier"},
+        {"url": "https://www.youtube.com/shorts/_Mh2tuETDuE", "titre": "Ronaldo sur le banc", "format": "9:16", "parle": false, "usage": "émotion / hook visuel", "alerte": "edit possible, à vérifier"},
+        {"url": "https://www.youtube.com/shorts/AO5FTLPMpqk", "titre": "Victoire du Portugal en Norvège le soir où Ronaldo reste sur le banc", "format": "9:16", "parle": false, "usage": "contexte match", "alerte": "à vérifier"},
+        {"url": "https://www.youtube.com/watch?v=KobYcVheBkE", "titre": "India Today : Ronaldo sur le banc 90 minutes pour la première fois en 18 ans", "format": "16:9", "parle": false, "usage": "images du banc (B-roll)", "alerte": "logo chaîne TV, bandeau info probable"},
+        {"url": "https://www.youtube.com/watch?v=AG25oPN5VGA", "titre": "La conférence de Jesus qui a fait partir Ronaldo (« Ronaldo ne changera jamais mes idées »)", "format": "16:9", "parle": true, "usage": "source longue de la conf, couper la phrase de la promesse", "alerte": "16:9, fond flou CapCut"},
+        {"url": "https://www.youtube.com/watch?v=keUm1iPLni8", "titre": "Conf de presse complète de Jorge Jesus avant Danemark-Portugal (VO portugaise)", "format": "16:9", "parle": true, "usage": "source brute sans commentaire pour le clip parlé", "alerte": "en portugais : traduction à l'écran (clé textes)"},
+        {"url": "https://www.youtube.com/watch?v=zUL2Irl8TA4", "titre": "Jorge Jesus explose sur la polémique Ronaldo et les médias (toutes ses réponses)", "format": "16:9", "parle": true, "usage": "preuve parlée", "alerte": "habillage de chaîne possible"},
+        {"url": "https://www.youtube.com/watch?v=4PICUXRXv38", "titre": "Jesus nommé sélectionneur : Ronaldo « ne sera jamais un problème »", "format": "16:9", "parle": true, "usage": "ironie du début (flashback)", "alerte": ""},
+        {"url": "https://www.youtube.com/watch?v=dhF1MkGgp6U", "titre": "Ronaldo rompt le silence (commentaire espagnol sur le communiqué)", "format": "16:9", "parle": false, "usage": "à éviter sauf B-roll", "alerte": "vidéo de commentateur, voix et habillage"}
+      ],
+      "a_trouver": [
+        "Images A Bola de Ronaldo quittant le stade de Copenhague en voiture de la fédération",
+        "Plan vertical propre de Ronaldo avec Al-Nassr (but du 9 octobre, 980e)",
+        "Ronaldo et Jorge Jesus ensemble à Al-Nassr (contraste)"
+      ],
+      "photos": [
+        "Capture du communiqué Instagram de Ronaldo",
+        "Logo / communiqué officiel FPF",
+        "Pedro Proença (président FPF)",
+        "Jorge Jesus en survêtement Portugal",
+        "Une de A Bola ou Record sur la suspension"
+      ],
+      "citations": [
+        {"auteur": "Jorge Jesus", "texte": "I can promise whatever I want. I'm the coach.", "source": "conférence de presse avant Danemark-Portugal", "video": "https://www.youtube.com/shorts/9Jvib2mW69g"},
+        {"auteur": "Jorge Jesus", "texte": "I don't have one player, I have 23 players.", "source": "même conférence", "video": "https://www.youtube.com/shorts/mSzN1fv372k"},
+        {"auteur": "Cristiano Ronaldo", "texte": "The coach had broken his word to me.", "source": "communiqué du 7 octobre (Sky Sports)", "video": ""},
+        {"auteur": "Cristiano Ronaldo", "texte": "This is, believe me, the purest of truths.", "source": "communiqué du 7 octobre (Sky Sports)", "video": ""},
+        {"auteur": "Jorge Jesus", "texte": "I didn't read Cristiano's statement. I was watching the U21 game.", "source": "Sky Sports", "video": ""},
+        {"auteur": "FPF", "texte": "Disciplinary proceedings have been initiated against Cristiano Ronaldo dos Santos Aveiro.", "source": "communiqué FPF, 10 octobre (ESPN)", "video": ""}
+      ],
+      "sources": [
+        {"titre": "ESPN : Ronaldo suspendu, procédure disciplinaire ouverte", "url": "https://www.espn.com/soccer/story/_/id/50146841/cristiano-ronaldo-suspended-portugal-national-team-walkout-jorge-jesus-disciplinary"},
+        {"titre": "Eurosport : Ronaldo suspendu provisoirement", "url": "https://www.eurosport.fr/football/ligue-des-nations/2026-2027/portugal-cristiano-ronaldo-suspendu-provisoirement-une-procedure-disciplinaire-ouverte_sto23344469/story.shtml"},
+        {"titre": "France 24 : la FPF ouvre une procédure contre Ronaldo", "url": "https://www.france24.com/fr/sports/20261010-f%C3%A9d%C3%A9ration-portugaise-football-ouvre-proc%C3%A9dure-disciplinaire-contre-ronaldo"},
+        {"titre": "Sky Sports : Ronaldo brise le silence", "url": "https://www.skysports.com/football/news/13595921/cristiano-ronaldo-portugal-star-breaks-silence-over-national-team-walkout-in-statement"},
+        {"titre": "Al Jazeera : Ronaldo quitte le camp du Portugal", "url": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift"},
+        {"titre": "Foot Mercato : procédure disciplinaire", "url": "https://www.footmercato.net/a4798055500523705331-la-federation-portugaise-ouvre-une-procedure-disciplinaire-contre-cristiano-ronaldo"}
+      ],
+      "fiabilite": "confirme",
+      "fiabilite_detail": "Procédure et suspension provisoire confirmées par la FPF (ESPN, France 24, Eurosport). Le « 1 à 6 mois » vient du règlement cité par la presse portugaise, pas d'une décision. « Il ne reviendra pas tant que Jesus est là » = CNN Portugal, non confirmé : ne pas l'affirmer. Citations de Jesus : formulation anglaise issue de traductions, vérifier le portugais dans la conf brute.",
+      "echeance": "Décision de la Commission d'instruction FPF, date inconnue (dossier urgent). Prochain rassemblement du Portugal en novembre.",
+      "hooks": [
+        "Cette phrase de Jorge Jesus est la raison pour laquelle Cristiano Ronaldo vient d'être suspendu par son propre pays.",
+        "Quand Cristiano Ronaldo a passé 45 minutes à s'échauffer pour rien, il ne savait pas que ça allait lui coûter la sélection.",
+        "À 41 ans, Cristiano Ronaldo risque six mois de suspension, et ce n'est pas un arbitre qui l'a sanctionné, c'est le Portugal."
+      ],
+      "structure": [
+        "Hook : phrase de Jesus « Je peux promettre ce que je veux » + clip parlé immédiat",
+        "Contexte : Norvège, Ronaldo s'échauffe dès la mi-temps, n'entre jamais, ne salue pas les fans",
+        "Escalade : conf de presse, Ronaldo quitte Copenhague en voiture de la fédération",
+        "Sa version : communiqué de 2 000 mots, « il n'a pas tenu sa parole »",
+        "Réponse sèche de Jesus : « je regardais le match des Espoirs »",
+        "Sauf que… le tiers tranche : la FPF ouvre une procédure et le suspend provisoirement",
+        "Chute en antithèse : 980 buts en carrière, et c'est un banc qui pourrait finir sa carrière internationale ; décision attendue avant le rassemblement de novembre"
+      ],
+      "scores": {"viral": 10, "faits": 8, "images": 8}
+    },
+    {
+      "id": "vinicius_mourinho_villarreal",
+      "titre": "Vinicius expulsé pour un tirage de cheveux, Mourinho boycotte la conférence",
+      "note": 8,
+      "verdict": "go",
+      "suite": false,
+      "sport": "football",
+      "resume": "Entré en jeu contre Villarreal, Vinicius marque, la VAR annule le but et lui met un rouge direct pour avoir tiré les cheveux de Nathan Saliba. Mourinho refuse de parler « pour pouvoir être sur le banc contre Séville et le Barça », et Vinicius va très probablement manquer le Clasico du 25 octobre.",
+      "faits": [
+        "10 octobre, Bernabéu : Real Madrid 1-0 Villarreal, but de Yan Diomande peu après l'heure de jeu.",
+        "72e (71e selon l'AFP) : Vinicius, entré en seconde période, croit marquer. La VAR remonte l'action : il a tiré les cheveux de Nathan Saliba. But annulé, rouge direct pour conduite violente (arbitre Isidro Díaz de Mera).",
+        "Rapport arbitral : il a continué à protester et s'est approché de l'arbitre de façon agressive, ses coéquipiers ont dû le retenir.",
+        "Mourinho ne vient pas en conférence : la Liga prévient les journalistes au bout d'environ 40 minutes. Selon Marca : « Je ne vais pas parler parce que je veux être sur le banc contre Séville et Barcelone. »",
+        "Mourinho s'expose lui-même à une amende de la Liga pour ce boycott.",
+        "Vinicius sur Instagram : « La joie demeure. Désolé envers mon équipe et les supporters. »",
+        "Sanction attendue : 2 matchs minimum (AS, article 121), 3 selon COPE, jusqu'à 4 selon Mundo Deportivo. Décision du comité de compétition attendue mercredi 14 octobre.",
+        "Avec 2 matchs : il manque Real-Séville (18 octobre) et le Clasico au Camp Nou (25 octobre).",
+        "Contexte : en début d'année Mourinho, alors à Benfica, s'était déjà écharpé avec Vinicius sur l'affaire Prestianni."
+      ],
+      "pourquoi": "Vinicius + Mourinho + Clasico, trois aimants à clics. Le geste est absurde (un tirage de cheveux qui coûte un but et un Clasico) et la réaction de Mourinho est du pur Mourinho. Images abondantes et fraîches.",
+      "angle": "Le but le plus cher de la saison : Vinicius marque, perd le but, perd le Clasico, et Mourinho se tait pour ne pas le perdre aussi. Fil rouge : le silence de Mourinho comme stratégie.",
+      "videos": [
+        {"url": "https://www.youtube.com/shorts/ZGBFnZ4Nnh8", "titre": "Vinicius, le carton rouge le plus évident de la soirée", "format": "9:16", "parle": false, "usage": "hook visuel (plan d'ouverture vertical)", "alerte": "short de compte fan : vérifier texte incrusté"},
+        {"url": "https://www.youtube.com/watch?v=L2fijrZP6SE", "titre": "Vini Jr rouge pour tirage de cheveux dans l'action de son but annulé", "format": "16:9", "parle": false, "usage": "preuve : ralenti du tirage de cheveux", "alerte": "logo diffuseur probable (ESPN/beIN)"},
+        {"url": "https://www.youtube.com/watch?v=QmBkbj5Xvx8", "titre": "Vinicius exclu, rouge direct contre Villarreal", "format": "16:9", "parle": false, "usage": "action : carton sorti", "alerte": "logo diffuseur"},
+        {"url": "https://www.youtube.com/watch?v=yajT6vE-mOk", "titre": "Audio VAR du but annulé et du rouge direct", "format": "16:9", "parle": true, "usage": "preuve parlée (arbitres), en espagnol", "alerte": "traduction à l'écran nécessaire, habillage chaîne"},
+        {"url": "https://www.youtube.com/watch?v=k-_dfn5HRic", "titre": "Vinicius expulsé fait un caprice, Real à dix", "format": "16:9", "parle": false, "usage": "émotion : sa réaction en sortant", "alerte": "commentaire espagnol en voix, couper le son"},
+        {"url": "https://www.youtube.com/watch?v=172kzZ_xh5Q", "titre": "Vinicius rouge contre Villarreal ?!", "format": "16:9", "parle": false, "usage": "B-roll", "alerte": "à vérifier"},
+        {"url": "https://www.youtube.com/watch?v=pgYwIWhxpEs", "titre": "Mourinho réagit au rouge de Vinicius", "format": "16:9", "parle": true, "usage": "émotion Mourinho sur le banc", "alerte": "titre ambigu (pas de conf ce soir-là) : vérifier ce qu'on voit"},
+        {"url": "https://www.youtube.com/watch?v=MGiTTOQoKgo", "titre": "Real 1-0 Villarreal : Diomande sauve Mourinho, honte avec Vinicius", "format": "16:9", "parle": false, "usage": "résumé : but de Diomande", "alerte": "émission de commentaire"},
+        {"url": "https://www.youtube.com/watch?v=_-5nh-chPVg", "titre": "ESPN FC : le Real doit-il tourner la page Vini Jr ?", "format": "16:9", "parle": true, "usage": "débat (Sid Lowe) en preuve d'ampleur", "alerte": "habillage ESPN FC"}
+      ],
+      "a_trouver": [
+        "Plan vertical de Mourinho sur le banc du Bernabéu",
+        "Salle de presse vide après le match (image du boycott)",
+        "Story Instagram de Vinicius"
+      ],
+      "photos": [
+        "Nathan Saliba (Villarreal)",
+        "Capture du post Instagram de Vinicius",
+        "Une de Marca avec la phrase de Mourinho",
+        "Affiche du Clasico 25 octobre, Camp Nou",
+        "Yan Diomande célébrant"
+      ],
+      "citations": [
+        {"auteur": "José Mourinho", "texte": "I'm not going to talk because I want to be on the bench against Sevilla and Barcelona.", "source": "Marca via Goal (rapporté, pas filmé)", "video": ""},
+        {"auteur": "Vinicius Jr", "texte": "The joy remains. Sorry to my team and the fans.", "source": "Instagram", "video": ""}
+      ],
+      "sources": [
+        {"titre": "Goal : Mourinho boycotte la conférence", "url": "https://www.goal.com/en-us/lists/jose-mourinho-vinicius-jr-real-madrid-villarreal/blt2fdc6c4a554c23ec"},
+        {"titre": "20 minutes : Mourinho boycotte la conférence", "url": "https://www.20min.ch/fr/story/football-furieux-jose-mourinho-annule-sa-conference-de-presse-103647748"},
+        {"titre": "SportBible : la règle qui prive Vinicius du Clasico", "url": "https://www.sportbible.com/football/la-liga/real-madrid/vinicius-jr-real-madrid-red-card-decision-barcelona-614852-20261011"},
+        {"titre": "Morocco World News : Vinicius risque le Clasico", "url": "https://www.moroccoworldnews.com/2026/10/341604/vinicius-risks-missing-el-clasico-after-villarreal-red-card/"},
+        {"titre": "Goal : sa participation au Clasico est impossible", "url": "https://www.goal.com/en-in/news/his-participation-impossible-vinicius-out-of-real-madrid-s-plans-for-the-clasico/blte39c7649ef245ed6"}
+      ],
+      "fiabilite": "confirme",
+      "fiabilite_detail": "Rouge, motif et boycott confirmés (AFP, Goal). Phrase de Mourinho rapportée par Marca, pas filmée. Durée de suspension non officielle (2 à 4 matchs selon les médias) : formuler au conditionnel jusqu'à mercredi.",
+      "echeance": "Mercredi 14 octobre : décision du comité de compétition. 18 octobre Real-Séville, 25 octobre Clasico au Camp Nou.",
+      "hooks": [
+        "Ce tirage de cheveux est la raison pour laquelle Vinicius va rater le Clasico.",
+        "Quand Vinicius a marqué contre Villarreal, il ne savait pas qu'il venait de perdre le Clasico.",
+        "Après ce match, Mourinho a refusé de parler, et la raison est un calcul."
+      ],
+      "structure": [
+        "Hook : Vinicius célèbre un but + phrase « il venait de perdre le Clasico »",
+        "Ralenti VAR : le tirage de cheveux sur Saliba, but annulé, rouge direct",
+        "Réaction : il proteste, ses coéquipiers le retiennent (rapport arbitral)",
+        "Mourinho : 40 minutes d'attente, puis la Liga annonce qu'il ne viendra pas",
+        "Sauf que… ce silence est un calcul : « je veux être sur le banc contre Séville et Barcelone »",
+        "Conséquence : 2 à 4 matchs selon les médias, Séville puis le Camp Nou",
+        "Chute : le Real a gagné le match et perdu son joueur, verdict mercredi 14 octobre"
+      ],
+      "scores": {"viral": 9, "faits": 8, "images": 9}
+    },
+    {
+      "id": "gea_shelton_shanghai",
+      "titre": "Arthur Géa, 241e mondial en janvier, sort Ben Shelton à Shanghai",
+      "note": 7,
+      "verdict": "go",
+      "suite": false,
+      "sport": "tennis",
+      "resume": "Pour son tout premier match de tableau en Masters 1000, le Français Arthur Géa (21 ans) bat Ben Shelton, n°4 mondial et finaliste de l'US Open, 7-6 7-6. Il était 241e en janvier et avait dû sortir aux toilettes en plein match à Roland-Garros.",
+      "faits": [
+        "11 octobre, 3e tour de Shanghai : Géa bat Shelton (tête de série 3, n°4 mondial) 7-6(5) 7-6(3) en 2h07.",
+        "Premier match de tableau principal en Masters 1000 de sa carrière, première victoire sur un top 10.",
+        "Aucun break dans le match au final : deux tie-breaks gagnés, 20 points sur 28 au filet.",
+        "Il a perdu son service à 5-4 dans le premier set et a quand même gagné le tie-break.",
+        "Début 2026 : 241e mondial. Cette semaine : 48e au classement live.",
+        "Juillet : premier titre ATP à Los Cabos (250). US Open : repêché comme lucky loser, il va jusqu'en 8e (perdu en 5 sets contre Van de Zandschulp).",
+        "Roland-Garros 2026 : pause toilettes en plein match contre Khachanov (clip viral).",
+        "Shelton, finaliste de l'US Open en septembre, sortait d'une blessure à l'épaule (forfait à Tokyo) : « Mon corps n'était pas prêt », « Il a mieux joué que moi ». Cette défaite freine sa qualification pour le Masters de Turin.",
+        "Prochain tour : Jakub Mensik en 8e."
+      ],
+      "pourquoi": "Histoire d'ascension française en temps réel, avec un contraste fort (lucky loser, toilettes à Roland, puis le n°4 mondial). Audience tennis plus petite mais angle « inconnu qui bat un géant » très partageable. Peu d'images 9:16 du match pour l'instant.",
+      "angle": "En janvier il était 241e et il jouait les qualifs. Neuf mois plus tard, il sort le finaliste de l'US Open pour son premier match en Masters 1000. Le passage toilettes de Roland-Garros sert de contraste humain.",
+      "videos": [
+        {"url": "https://www.atptour.com/en/video/hot-shot-gritty-gea-frenchman-outlasts-shelton-in-shanghai-2026-point", "titre": "Hot Shot ATP : le point de Géa contre Shelton", "format": "16:9", "parle": false, "usage": "action / payoff", "alerte": "site ATP, pas YouTube : vérifier que telecharger.py le prend, sinon chercher l'upload YouTube de TennisTV"},
+        {"url": "https://en.tennistemple.com/video/arthur-gea-defeats-ben-shelton-at-rolex-shanghai/KYkFP", "titre": "Géa bat Shelton au Rolex Shanghai Masters (résumé)", "format": "?", "parle": false, "usage": "action", "alerte": "page agrégateur, vidéo source à retrouver"},
+        {"url": "https://www.youtube.com/shorts/1PG6wTept_k", "titre": "Il a dû aller aux toilettes en plein match (Roland-Garros vs Khachanov)", "format": "9:16", "parle": false, "usage": "contraste / flashback", "alerte": "texte incrusté probable"},
+        {"url": "https://www.youtube.com/shorts/OFiy8JsP5Bw", "titre": "L'entrée de Géa sur le Lenglen", "format": "9:16", "parle": false, "usage": "plan d'ouverture vertical (Géa seul)", "alerte": "à vérifier"},
+        {"url": "https://www.youtube.com/watch?v=kJOE5H0LMc4", "titre": "Géa explique sa pause toilettes à Roland-Garros", "format": "16:9", "parle": true, "usage": "clip parlé humain", "alerte": ""},
+        {"url": "https://www.youtube.com/watch?v=FhGKKQ-tGh8", "titre": "Interview sur le court de Géa (US Open, 3e tour)", "format": "16:9", "parle": true, "usage": "preuve parlée (parcours lucky loser)", "alerte": "en anglais : traduction à l'écran"},
+        {"url": "https://www.youtube.com/watch?v=jdjW7--zJFs", "titre": "Lehecka - Géa, Open d'Australie 2026 (résumé)", "format": "16:9", "parle": false, "usage": "B-roll début de saison", "alerte": ""},
+        {"url": "https://www.youtube.com/watch?v=ic7eXsMUWgU", "titre": "Sans Filet : Arthur Géa, une saison 2026 référence", "format": "16:9", "parle": true, "usage": "contexte (à éviter en plan)", "alerte": "émission de commentaire"}
+      ],
+      "a_trouver": [
+        "Résumé YouTube TennisTV de Géa-Shelton (pas encore remonté dans les recherches)",
+        "Balle de match en 9:16",
+        "Images de Los Cabos (titre)"
+      ],
+      "photos": [
+        "Arthur Géa avec le trophée de Los Cabos",
+        "Ben Shelton finaliste US Open",
+        "Capture du classement ATP (241e → 48e)",
+        "Tableau du Masters 1000 de Shanghai"
+      ],
+      "citations": [
+        {"auteur": "Arthur Géa", "texte": "I changed my game a lot. I am more confident on the court.", "source": "ATP Tour", "video": ""},
+        {"auteur": "Arthur Géa", "texte": "It has been an incredible few weeks.", "source": "ATP Tour", "video": ""},
+        {"auteur": "Ben Shelton", "texte": "My body wasn't ready. The guy played better than me.", "source": "ATP Tour (réaction)", "video": ""}
+      ],
+      "sources": [
+        {"titre": "ATP : Géa sort Shelton", "url": "https://www.atptour.com/en/news/gea-shelton-shanghai-2026-sunday"},
+        {"titre": "ATP : réaction de Shelton", "url": "https://www.atptour.com/en/news/shelton-reaction-shanghai-2026-sunday"},
+        {"titre": "Tennis Majors : première victoire top 10", "url": "https://www.tennismajors.com/atp/gea-stuns-shelton-for-first-top-10-win-and-reaches-shanghai-last-16-on-masters-1000-debut-863001.html"},
+        {"titre": "Tennis Temple : Géa bat le n°4 mondial", "url": "https://en.tennistemple.com/actu/arthur-gea-stuns-world-no-4-ben-shelton-in/ywcJ"}
+      ],
+      "fiabilite": "confirme",
+      "fiabilite_detail": "Score, stats et citations depuis le site officiel ATP. Petite incohérence : une source le donne 56e avant le tournoi, l'ATP dit 48e au live cette semaine (après progression). Le citer « dans le top 50 ».",
+      "echeance": "8e de finale contre Jakub Mensik (date non publiée, probablement 12 ou 13 octobre).",
+      "hooks": [
+        "En janvier, Arthur Géa était 241e mondial. Aujourd'hui, il vient de sortir le finaliste de l'US Open.",
+        "Quand Arthur Géa a quitté le court en plein match à Roland-Garros pour aller aux toilettes, personne n'imaginait ce qu'il ferait quatre mois plus tard.",
+        "Ce Français jouait son tout premier match en Masters 1000, et en face il y avait le numéro 4 mondial."
+      ],
+      "structure": [
+        "Hook : 241e en janvier, vainqueur du n°4 mondial en octobre",
+        "Flashback : Roland-Garros, la pause toilettes contre Khachanov",
+        "Montée : Los Cabos, premier titre ; US Open repêché lucky loser jusqu'en 8e",
+        "Le match : premier Masters 1000, Shelton finaliste de l'US Open, deux tie-breaks",
+        "Sauf que… Shelton avoue « mon corps n'était pas prêt » (nuance honnête)",
+        "Chute : Mensik en 8e, et un Français de 21 ans dans le top 50"
+      ],
+      "scores": {"viral": 6, "faits": 9, "images": 5}
+    },
+    {
+      "id": "djokovic_hurkacz_shanghai",
+      "titre": "Djokovic sorti d'entrée à Shanghai par Hurkacz, juste après son titre à Pékin",
+      "note": 6,
+      "verdict": "surveiller",
+      "suite": false,
+      "sport": "tennis",
+      "resume": "Tout juste vainqueur de l'ATP 500 de Pékin, Novak Djokovic perd son premier match à Shanghai contre Hubert Hurkacz, 6-4 6-3, le 9 octobre. Une vidéo parle d'une conférence de presse énervée (« je ne sais pas quoi faire »), à confirmer.",
+      "faits": [
+        "9 octobre, 2e tour (entrée en lice) : Hurkacz bat Djokovic 6-4 6-3.",
+        "Hurkacz est l'ancien vainqueur de Shanghai (2023).",
+        "Djokovic arrivait avec le titre de Pékin la semaine précédente (selon une vidéo française, à confirmer).",
+        "Même tableau : Rublev battu par Rei Sakamoto, Cobolli par Mannarino."
+      ],
+      "pourquoi": "Djokovic fait toujours des vues, mais une défaite en deux sets n'a pas de récit sans la conférence de presse. Si la phrase « I don't know what to do » est confirmée, le sujet monte.",
+      "angle": "Le paradoxe Pékin / Shanghai : champion une semaine, éliminé d'entrée la suivante, et ce qu'il en dit en conférence.",
+      "videos": [
+        {"url": "https://www.youtube.com/watch?v=4c6J0LHp-7E", "titre": "Djokovic - Hurkacz, résumé", "format": "16:9", "parle": false, "usage": "action", "alerte": "logo diffuseur probable"},
+        {"url": "https://www.youtube.com/watch?v=1RzsU9d0OHU", "titre": "Conf de presse énervée de Djokovic après Hurkacz « I don't know what to do »", "format": "16:9", "parle": true, "usage": "preuve parlée", "alerte": "titre racoleur, vérifier ce qu'il dit vraiment"},
+        {"url": "https://www.youtube.com/watch?v=QCHqiZ365jc", "titre": "Masters 1000 Shanghai : Djokovic terrassé, résumé du 2e tour (FR)", "format": "16:9", "parle": true, "usage": "contexte", "alerte": "émission de commentaire"},
+        {"url": "https://www.youtube.com/watch?v=H5ZrwzLfN5o", "titre": "Hurkacz bat Djokovic et passe au 3e tour (PT)", "format": "16:9", "parle": false, "usage": "B-roll", "alerte": "à vérifier"}
+      ],
+      "a_trouver": ["Confirmation écrite du titre de Pékin et des propos de conférence", "Plans 9:16 de la poignée de main"],
+      "photos": ["Djokovic avec le trophée de Pékin", "Hurkacz trophée Shanghai 2023"],
+      "citations": [
+        {"auteur": "Novak Djokovic", "texte": "I don't know what to do.", "source": "titre de vidéo YouTube, non vérifié", "video": "https://www.youtube.com/watch?v=1RzsU9d0OHU"}
+      ],
+      "sources": [
+        {"titre": "ATP : résultats de Shanghai", "url": "https://www.atptour.com/en/scores/current/shanghai/5014/results"},
+        {"titre": "Sunday Guardian : résultats Shanghai 2026", "url": "https://sundayguardianlive.com/sports/shanghai-masters-2026-tennis-results-live-alexander-zverev-ben-shelton-win-andrey-rublev-flavio-cobolli-suffer-shock-defeats-302169/"}
+      ],
+      "fiabilite": "partiel",
+      "fiabilite_detail": "Score confirmé par l'ATP. Titre à Pékin et propos de conférence seulement vus dans des titres de vidéos.",
+      "echeance": "Prochain tournoi de Djokovic non annoncé (Paris-Bercy fin octobre ?).",
+      "hooks": [
+        "Il y a une semaine, Novak Djokovic soulevait un trophée à Pékin. Cette semaine, il n'a pas passé un seul tour.",
+        "Après cette défaite, Djokovic a dit une phrase qu'on ne l'avait jamais entendu dire."
+      ],
+      "structure": [
+        "Hook : trophée de Pékin puis défaite d'entrée",
+        "Le match : Hurkacz, ancien vainqueur du tournoi, 6-4 6-3",
+        "Sauf que… la conférence de presse (si confirmée)",
+        "Chute : le prochain rendez-vous et ce qu'il reste de sa saison"
+      ],
+      "scores": {"viral": 7, "faits": 5, "images": 6}
+    }
+  ],
+  "ecartes": [
+    {"titre": "Liverpool - Manchester City (11 octobre, 17h30)", "raison": "Match pas encore joué au moment de la veille. À regarder demain matin."},
+    {"titre": "Troyes - OM (Ligue 1, 11 octobre 20h45)", "raison": "Pas encore joué. À regarder demain."},
+    {"titre": "Rublev battu par Sakamoto à Shanghai", "raison": "Surprise réelle mais pas de récit ni d'images fortes."},
+    {"titre": "Ronaldo, 980e but avec Al-Nassr", "raison": "Intégré comme fait dans le sujet Ronaldo / Jesus plutôt qu'en sujet à part."},
+    {"titre": "Rumeurs mercato (PSG - Andy Diouf, avenir d'Endrick)", "raison": "Sources faibles, rien de confirmé."}
+  ]
+}

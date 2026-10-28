@@ -1,0 +1,25 @@
+# Environnements : recréés par l'installeur sur chaque machine
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+
+# Projets et vidéos : trop lourds pour Git (dossier synchronisé ou chacun les siens).
+# Seules les veilles (petits JSON/Markdown + état des sujets et scripts) passent par Git :
+# la veille du matin est écrite dans le cloud et arrive chez Matys et Elian par un git pull.
+shorts/*
+!shorts/_veille/
+shorts/_fleche.json
+
+# Secrets : jamais dans Git
+_voix_clone/elevenlabs.json
+*.local.json
+.claude/settings.local.json
+
+# Propre à chaque machine
+studio/_jobs/
+studio/_ancien_web/
+_bin/ffmpeg
+_bin/ffmpeg.exe
+*.bak
+.DS_Store

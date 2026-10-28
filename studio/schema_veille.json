@@ -1,0 +1,249 @@
+{
+ "type": "object",
+ "properties": {
+  "titre": {
+   "type": "string",
+   "description": "« Veille sport — jeudi 8 octobre 2026 matin »"
+  },
+  "date": {
+   "type": "string",
+   "description": "AAAA-MM-JJ"
+  },
+  "moment": {
+   "type": "string"
+  },
+  "tldr": {
+   "type": "string"
+  },
+  "sujets": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "properties": {
+     "id": {
+      "type": "string",
+      "description": "slug court, ex. maupay_dezerbi"
+     },
+     "titre": {
+      "type": "string"
+     },
+     "note": {
+      "type": "number",
+      "description": "/10"
+     },
+     "verdict": {
+      "type": "string",
+      "enum": [
+       "go",
+       "surveiller",
+       "non"
+      ]
+     },
+     "suite": {
+      "type": "boolean",
+      "description": "rebondissement d'un sujet déjà proposé"
+     },
+     "sport": {
+      "type": "string"
+     },
+     "format": {
+      "type": "string",
+      "enum": [
+       "long",
+       "court"
+      ],
+      "description": "long = short d'1 min, court = short de 25-30 s"
+     },
+     "resume": {
+      "type": "string",
+      "description": "2 phrases max"
+     },
+     "faits": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "pourquoi": {
+      "type": "string"
+     },
+     "angle": {
+      "type": "string"
+     },
+     "videos": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "url": {
+         "type": "string"
+        },
+        "titre": {
+         "type": "string",
+         "description": "ce qu'on voit / ce qui est dit"
+        },
+        "format": {
+         "type": "string",
+         "enum": [
+          "9:16",
+          "16:9",
+          "?"
+         ]
+        },
+        "parle": {
+         "type": "boolean",
+         "description": "clip parlé utilisable comme preuve"
+        },
+        "usage": {
+         "type": "string",
+         "description": "hook, preuve, action, émotion, payoff…"
+        },
+        "alerte": {
+         "type": "string",
+         "description": "bandeau, watermark, à vérifier… (vide si rien)"
+        }
+       },
+       "required": [
+        "url",
+        "titre",
+        "format"
+       ]
+      }
+     },
+     "a_trouver": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "images encore à chercher"
+     },
+     "photos": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "idées de photos d'incrustation"
+     },
+     "citations": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "auteur": {
+         "type": "string"
+        },
+        "texte": {
+         "type": "string"
+        },
+        "source": {
+         "type": "string"
+        },
+        "video": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "auteur",
+        "texte"
+       ]
+      }
+     },
+     "sources": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "titre": {
+         "type": "string"
+        },
+        "url": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "titre",
+        "url"
+       ]
+      }
+     },
+     "fiabilite": {
+      "type": "string",
+      "enum": [
+       "confirme",
+       "partiel",
+       "rumeur"
+      ]
+     },
+     "fiabilite_detail": {
+      "type": "string"
+     },
+     "echeance": {
+      "type": "string",
+      "description": "prochaine date clé (match, verdict…)"
+     },
+     "hooks": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "structure": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "scores": {
+      "type": "object",
+      "properties": {
+       "viral": {
+        "type": "number"
+       },
+       "faits": {
+        "type": "number"
+       },
+       "images": {
+        "type": "number"
+       }
+      }
+     }
+    },
+    "required": [
+     "id",
+     "titre",
+     "note",
+     "verdict",
+     "resume",
+     "faits",
+     "videos",
+     "sources",
+     "fiabilite"
+    ]
+   }
+  },
+  "ecartes": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "properties": {
+     "titre": {
+      "type": "string"
+     },
+     "raison": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "titre",
+     "raison"
+    ]
+   }
+  }
+ },
+ "required": [
+  "titre",
+  "date",
+  "tldr",
+  "sujets"
+ ]
+}
