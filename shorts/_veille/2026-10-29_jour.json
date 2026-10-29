@@ -1,0 +1,700 @@
+{
+ "titre": "Veille sport, jeudi 29 octobre 2026",
+ "date": "2026-10-29",
+ "moment": "jour",
+ "tldr": "Neuf sujets GO. Longs : Kane remporte le Ballon d'Or à Londres (Dembélé 7e, PSG club de l'année) ; adieux de Wawrinka à Bâle ; Djokovic de retour à Bâle vise le record de Federer ; Zverev n°1 de fin d'année avec Sinner absent. Courts : glissade de Mourinho au Camp Nou, Dembélé 7e, Masters de Paris sans Sinner, message de Federer à Wawrinka, fuite du Ballon d'Or. Les recherches web étaient limitées : plusieurs faits restent partiels (voir fiabilité).",
+ "sujets": [
+  {
+   "id": "kane_ballon_dor",
+   "format": "long",
+   "sport": "football",
+   "titre": "Kane remporte le Ballon d'Or 2026, Dembélé septième",
+   "note": 9,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Harry Kane gagne le Ballon d'Or lors de la première cérémonie hors de France ou de Suisse, à Londres, devant Mbappé et Yamal. Dembélé, tenant du titre, finit septième, et le PSG est élu meilleur club.",
+   "faits": [
+    "Cérémonie le 26 octobre 2026 au London Palladium, première organisée hors de France ou de Suisse (hôtes : Kate Scott et Thierry Henry).",
+    "Top 10 : 1 Kane, 2 Mbappé, 3 Yamal, 4 Rodri, 5 Messi, 6 Kvaratskhelia, 7 Dembélé, 8 Haaland, 9 Olise, 10 Fabián Ruiz.",
+    "Kane : 73 buts en 2025-26 (club + sélection), Bundesliga, demi-finale de C1, 3e de la Coupe du monde avec l'Angleterre ; trophée Gerd Müller pour la 2e fois.",
+    "Premier Anglais lauréat depuis Michael Owen (2001).",
+    "Yamal remporte le trophée Kopa pour la 3e année de suite ; PSG club de l'année (9 points) ; Unai Simón trophée Yachine ; Luis de la Fuente meilleur entraîneur ; Saka prix Sócrates ; Alexia Putellas 3e Ballon d'Or féminin.",
+    "Quelques heures avant la cérémonie, trois articles (Kane, Yamal, Mbappé) ont été publiés par erreur puis retirés."
+   ],
+   "pourquoi": "Le Ballon d'Or est le sujet le plus partagé de la semaine, avec trois Français dans le top 10 et un classement qui fait débattre (Dembélé 7e un an après son sacre).",
+   "angle": "Hook sur la fuite des trois articles, puis le classement et le contraste PSG club de l'année / Dembélé septième.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Ballon+d'Or+2026+Kane+annonce+Palladium",
+     "titre": "Annonce du vainqueur au London Palladium",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook / payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Harry+Kane+Ballon+d'Or+2026+shorts",
+     "titre": "Kane reçoit le trophée",
+     "format": "?",
+     "parle": false,
+     "usage": "payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Mbappé+Yamal+Ballon+d'Or+2026+reaction",
+     "titre": "Réactions Mbappé / Yamal",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Wikipedia, 2026 Ballon d'Or",
+     "url": "https://en.wikipedia.org/wiki/2026_Ballon_d'Or"
+    },
+    {
+     "titre": "Yahoo Sports, Ballon d'Or 2026 winners",
+     "url": "https://sports.yahoo.com/articles/ballon-d-full-list-2026-213455584.html"
+    },
+    {
+     "titre": "SEN, Ballon d'Or winner leaked",
+     "url": "https://www.sen.com.au/news/2026/10/26/ballon-dor-winner-leaked-harry-kane"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Classement et prix recoupés sur Wikipedia et Yahoo/ESPN ; buts de Kane : 73 toutes compétitions (un outil donne 61 pour le seul Bayern).",
+   "echeance": "Prochain classement : saison 2026-27",
+   "hooks": [
+    "Lundi à Londres, trois articles aux noms de Kane, de Yamal et de Mbappé ont été publiés par erreur, sans que personne sache lequel était le vrai.",
+    "Dembélé septième, un an après son Ballon d'Or : le classement qui fait réagir.",
+    "Le PSG élu meilleur club avec trois joueurs dans le top 10."
+   ],
+   "structure": [
+    "Hook : la fuite des trois articles",
+    "Décor : London Palladium, saison 2025-26",
+    "Résultat : Kane, premier Anglais depuis Owen, podium Mbappé / Yamal",
+    "Retournement : Dembélé 7e, trois PSG dans le top 10",
+    "Payoff : PSG club de l'année, autres prix",
+    "Chute : Kane trophée Gerd Müller, 73 buts"
+   ],
+   "scores": {
+    "viral": 9,
+    "faits": 9,
+    "images": 8
+   },
+   "photos": [
+    "Harry Kane Ballon d'Or",
+    "Mbappé",
+    "Yamal",
+    "Dembélé",
+    "London Palladium",
+    "Trophée du PSG club de l'année"
+   ],
+   "a_trouver": [
+    "Images officielles de la cérémonie",
+    "Réaction de Kane (non retrouvée en source)"
+   ],
+   "citations": []
+  },
+  {
+   "id": "wawrinka_adieux",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Les adieux de Wawrinka à Bâle",
+   "note": 9,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Stan Wawrinka (41 ans) a perdu 7-5, 7-6 contre Lehecka au premier tour de Bâle, son dernier match professionnel, après une cérémonie d'adieu la veille. Federer lui a adressé un message.",
+   "faits": [
+    "Mardi 27 octobre 2026, Swiss Indoors de Bâle, 1er tour : Lehecka (21e) bat Wawrinka 7-5, 7-6(2) en 1h51.",
+    "Wawrinka avait annoncé que Bâle serait son dernier tournoi ; cérémonie d'adieu le lundi.",
+    "Palmarès : 3 titres du Grand Chelem, 16 titres ATP, or olympique en double, Coupe Davis ; professionnel depuis 2002 ; 41 ans.",
+    "Citations : adieux « much more beautiful than I could have dreamed », « no regrets », « a dream end » ; ovation des journalistes en conférence de presse.",
+    "Message de Federer relayé : « I think of you. I miss you. I love you, my boy. »",
+    "Federer a remporté son dernier titre à Bâle en 2019."
+   ],
+   "pourquoi": "Fin de carrière d'une légende, très émotionnelle, avec le lien Federer.",
+   "angle": "Hook sur l'ovation après une défaite au 1er tour ; clip de sa phrase d'adieu.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Wawrinka+retraite+Bâle+adieux+Lehecka",
+     "titre": "Derniers points et adieux de Wawrinka",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook / action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Wawrinka+farewell+Basel+press+conference",
+     "titre": "Conférence de presse et ovation",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Federer+Wawrinka+message+Basel",
+     "titre": "Message de Federer",
+     "format": "?",
+     "parle": true,
+     "usage": "payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis365, Wawrinka farewell",
+     "url": "https://www.tennis365.com/tennis-news/what-stan-wawrinka-said-retirement-farewell-swiss-indoors-basel"
+    },
+    {
+     "titre": "Malay Mail, Wawrinka to retire",
+     "url": "https://www.malaymail.com/amp/news/sports/2026/10/28/former-grand-slam-champion-wawrinka-to-retire-from-tennis/240876"
+    },
+    {
+     "titre": "Tennis Temple",
+     "url": "https://en.tennistemple.com/actu/wawrinka-bids-farewell-in-basel-an-ideal-ending-a/Cg5i"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et retraite recoupés sur 4 sources ; message de Federer vu dans un seul article lié (partiel).",
+   "echeance": "Aucune (carrière terminée)",
+   "hooks": [
+    "Un joueur de 41 ans perd au premier tour, et tout le monde l'applaudit jusqu'en conférence de presse.",
+    "Le message de Federer à Wawrinka après son dernier match.",
+    "Wawrinka : « des adieux bien plus beaux que ce que j'avais rêvé »."
+   ],
+   "structure": [
+    "Hook : la défaite applaudie",
+    "Clip : la phrase d'adieu",
+    "Décor : annonce, cérémonie, Lehecka",
+    "Palmarès",
+    "Conférence de presse",
+    "Message de Federer, Bâle 2019"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 9,
+    "images": 7
+   },
+   "photos": [
+    "Wawrinka",
+    "Federer",
+    "Jiri Lehecka",
+    "Trophée Roland-Garros 2015"
+   ],
+   "a_trouver": [
+    "Images de la cérémonie",
+    "Vidéo de la conférence de presse"
+   ],
+   "citations": [
+    {
+     "auteur": "Stan Wawrinka",
+     "texte": "Much more beautiful than I could have dreamed.",
+     "source": "Tennis365, 28 octobre 2026"
+    }
+   ]
+  },
+  {
+   "id": "djokovic_bale",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Djokovic revient à Bâle et vise le record de Federer",
+   "note": 8,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Djokovic, 39 ans, bat Humbert 4-6, 6-3, 6-4 à Bâle, tournoi qu'il n'avait pas joué depuis 2011, et revient dans le top 10 de la Race. Un 103e titre l'égalerait avec Federer.",
+   "faits": [
+    "Mercredi 28 octobre 2026 : Djokovic (n°4) bat Ugo Humbert 4-6, 6-3, 6-4 en 2h29.",
+    "Il revient dans le top 10 : 9e de la Race to Turin avec 2 890 points, à 294 du dernier qualifié.",
+    "Titre à Bâle en 2009, pas de participation depuis 2011, bilan 13-2.",
+    "Selon Tennis Majors, il compte 102 titres ; un 103e égalerait Federer au 2e rang de l'ère Open.",
+    "Federer a gagné son 103e et dernier titre à Bâle en 2019.",
+    "Prochain match : Struff, jeudi 29 octobre (huitième de finale)."
+   ],
+   "pourquoi": "Le plus grand record de l'ère Open se joue sur le terrain de Federer.",
+   "angle": "Duel de symboles Djokovic / Federer à Bâle, avec un Français battu.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Djokovic+Humbert+Basel+2026+highlights",
+     "titre": "Résumé Djokovic - Humbert",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Djokovic+Basel+2026+interview",
+     "titre": "Interview de Djokovic",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors",
+     "url": "https://tennismajors.com/atp/djokovic-comes-from-a-set-down-to-beat-humbert-in-basel-and-climb-back-into-the-top-10-864306.html"
+    },
+    {
+     "titre": "ATP Tour, Djokovic Basel",
+     "url": "https://www.atptour.com/en/news/djokovic-basel-2026-first-match"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Un seul article détaillé retrouvé ; le nombre de titres (102) vient de cet article et diffère de ce qu'on trouve ailleurs.",
+   "echeance": "Struff jeudi 29 octobre ; final en fin de semaine",
+   "hooks": [
+    "Un joueur de 39 ans qui n'est pas revenu à Bâle depuis quinze ans perd le premier set contre un Français, et se rapproche d'un record de Federer.",
+    "Djokovic à un titre du record de Federer, sur son terrain."
+   ],
+   "structure": [
+    "Hook : retour après quinze ans",
+    "Match contre Humbert",
+    "Top 10 et Race",
+    "Historique à Bâle",
+    "Enjeu : 103e titre",
+    "Chute : Federer 2019, Struff jeudi"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 6,
+    "images": 8
+   },
+   "photos": [
+    "Djokovic",
+    "Federer",
+    "Ugo Humbert",
+    "Trophée de Bâle"
+   ],
+   "a_trouver": [
+    "Vérifier le nombre exact de titres de Djokovic",
+    "Résumé du match"
+   ],
+   "citations": []
+  },
+  {
+   "id": "zverev_sinner_numero1",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Zverev n°1 mondial de fin d'année, Sinner absent",
+   "note": 8.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Zverev, 29 ans, a assuré la place de n°1 de fin d'année le 12 octobre après la défaite d'Alcaraz à Shanghai, Sinner étant éloigné des courts par une inflammation du genou jusqu'en 2027.",
+   "faits": [
+    "6 octobre : Sinner annonce qu'il manque la fin de saison (inflammation du genou droit) : Shanghai, Paris, Finales ATP, Coupe Davis.",
+    "Sinner n'a plus joué depuis Wimbledon (juillet) et avait forfait à l'US Open.",
+    "12 octobre (AP) : Zverev est assuré de finir n°1 après la défaite d'Alcaraz à Shanghai ; à 29 ans, plus âgé n°1 de fin d'année pour la première fois.",
+    "Selon l'AP : Zverev a gagné Roland-Garros et l'US Open, finaliste à Wimbledon, demi-finaliste à l'Open d'Australie.",
+    "Il peut devenir n°1 dès le 2 novembre ; classement final le 23 novembre.",
+    "Vienne : Zverev tête de série n°1, ouvre contre Landaluce."
+   ],
+   "pourquoi": "Un n°1 mondial désigné par forfait de son rival : sujet de débat récurrent.",
+   "angle": "Le n°1 par défaut / sans affronter Sinner.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Zverev+year-end+number+one+2026",
+     "titre": "Zverev n°1 de fin d'année",
+     "format": "?",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Sinner+annonce+forfait+fin+de+saison+genou",
+     "titre": "Annonce de Sinner",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "AP/ABC, Zverev clinches year-end No. 1",
+     "url": "https://abcnews.com/Sports/wireStory/zverev-clinches-year-end-1-ranking-after-alcaraz-137198238"
+    },
+    {
+     "titre": "CTV, Sinner to miss rest of the year",
+     "url": "https://www.ctvnews.ca/sports/article/jannik-sinner-to-miss-the-rest-of-the-year-due-to-knee-inflammation/"
+    },
+    {
+     "titre": "Tennis Majors",
+     "url": "https://www.tennismajors.com/?p=862894"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Annonce de Sinner confirmée par plusieurs agences ; qui a gagné Wimbledon est donné de façon contradictoire selon les sources, donc non utilisé.",
+   "echeance": "2 novembre (classement), 23 novembre (classement final)",
+   "hooks": [
+    "Le prochain n°1 mondial de fin d'année a été désigné sans jouer le moindre match décisif.",
+    "Zverev, le plus âgé à finir n°1 pour la première fois."
+   ],
+   "structure": [
+    "Hook : n°1 sans match décisif",
+    "Forfait de Sinner",
+    "Défaite d'Alcaraz à Shanghai",
+    "Bilan 2026 de Zverev",
+    "Retournement : Sinner reste 1er quelques semaines",
+    "Chute : dates 2 et 23 novembre"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 7,
+    "images": 8
+   },
+   "photos": [
+    "Zverev",
+    "Sinner",
+    "Alcaraz",
+    "Trophée n°1 ATP"
+   ],
+   "a_trouver": [
+    "Confirmer les titres 2026 de Zverev",
+    "Annonce de Sinner en vidéo"
+   ],
+   "citations": []
+  },
+  {
+   "id": "clasico_mourinho",
+   "format": "court",
+   "sport": "football",
+   "titre": "Mourinho glisse à genoux au Camp Nou",
+   "note": 8.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Real Madrid bat Barcelone 2-1 au Camp Nou, avec un but de Mbappé à la 87e. Mourinho refait sa glissade de 2010 et réclame un rouge pour Cancelo.",
+   "faits": [
+    "Dimanche 25 octobre 2026, Barça 1-2 Real (Liga) : Mbappé 41e (csc Gerard Martín sur son centre), Raphinha 61e, Mbappé 87e.",
+    "Mourinho refait sa glissade à genoux de 2010 (Inter) à la fin du match.",
+    "Barcelone avait gagné ses 9 premiers matchs de Liga ; Madrid à 3 points.",
+    "Mourinho : VAR endormie, rouge manqué pour Cancelo sur Diomande ; « le Real joue pour gagner la Liga ».",
+    "Barça avait perdu 4-2 contre le PSG cinq jours plus tôt."
+   ],
+   "pourquoi": "Mourinho + Clasico + Mbappé : image iconique.",
+   "angle": "Hook sur la glissade, puis explication en 3 temps.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Mourinho+knee+slide+Camp+Nou+Clasico",
+     "titre": "Glissade de Mourinho",
+     "format": "?",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Mbappé+but+87+Barcelone+Real+Madrid",
+     "titre": "But de Mbappé",
+     "format": "?",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13603624/barcelona-1-2-real-madrid-kylian-mbappe-scores-late-winner-in-el-clasico-to-beat-laliga-leaders"
+    },
+    {
+     "titre": "ESPN, Mourinho",
+     "url": "https://www.espn.com/soccer/story/_/id/50282227/jose-mourinho-barcelona-real-madrid-play-win-league"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et minutes recoupés (Sky, ESPN) ; l'accusation sur Cancelo est l'avis de Mourinho.",
+   "echeance": "Prochain Clasico : à vérifier",
+   "hooks": [
+    "Mourinho a glissé à genoux au Camp Nou comme en 2010.",
+    "Barça : deux défaites en une semaine."
+   ],
+   "structure": [
+    "Hook : la glissade",
+    "Contexte du match",
+    "Retournement : Mourinho et la VAR"
+   ],
+   "scores": {
+    "viral": 8.5,
+    "faits": 8,
+    "images": 9
+   },
+   "photos": [
+    "Mourinho",
+    "Mbappé",
+    "Cancelo"
+   ],
+   "a_trouver": [
+    "Images de la glissade"
+   ],
+   "citations": []
+  },
+  {
+   "id": "dembele_septieme",
+   "format": "court",
+   "sport": "football",
+   "titre": "Dembélé septième, le PSG meilleur club",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Un an après son Ballon d'Or, Dembélé finit 7e ; trois PSG dans le top 10 et PSG meilleur club de l'année.",
+   "faits": [
+    "Top 10 : Kvaratskhelia 6e, Dembélé 7e, Fabián Ruiz 10e.",
+    "PSG club de l'année avec 9 points.",
+    "Dembélé était le tenant du titre (2025).",
+    "PSG au Havre vendredi 30 octobre (Ligue 1)."
+   ],
+   "pourquoi": "Angle français sur le classement.",
+   "angle": "Contraste individuel / collectif, façon Dembélé-Enrique.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Dembélé+Ballon+d'Or+2026+septième+réaction",
+     "titre": "Réaction de Dembélé",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=PSG+meilleur+club+de+l'année+Ballon+d'Or+2026",
+     "titre": "PSG club de l'année",
+     "format": "?",
+     "parle": false,
+     "usage": "payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Wikipedia, 2026 Ballon d'Or",
+     "url": "https://en.wikipedia.org/wiki/2026_Ballon_d'Or"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Classement vu sur Wikipedia (lecture partielle de la page).",
+   "echeance": "PSG au Havre le 30 octobre",
+   "hooks": [
+    "Un an après son Ballon d'Or, Dembélé repart septième de Londres."
+   ],
+   "structure": [
+    "Hook : septième",
+    "Trois PSG dans le top 10",
+    "PSG club de l'année"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 7
+   },
+   "photos": [
+    "Dembélé",
+    "Kvaratskhelia",
+    "Trophée du club de l'année"
+   ],
+   "a_trouver": [
+    "Réaction de Dembélé"
+   ],
+   "citations": []
+  },
+  {
+   "id": "paris_masters_sinner",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Le Masters de Paris sans Sinner, à Nanterre",
+   "note": 7,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Le tournoi de Paris se joue à la Paris La Défense Arena sans son tenant du titre Sinner, forfait jusqu'en 2027.",
+   "faits": [
+    "Wikipedia place l'édition 2026 à la Paris La Défense Arena (Nanterre) début novembre.",
+    "Sinner (vainqueur 2025 contre Auger-Aliassime) est forfait pour le reste de 2026.",
+    "Favoris : Zverev, Alcaraz, Shelton, Medvedev (TennisUpToDate).",
+    "Zverev est déjà assuré de finir n°1 mondial."
+   ],
+   "pourquoi": "Événement français imminent.",
+   "angle": "Tournoi sans le champion.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Rolex+Paris+Masters+2026+La+Défense+Arena",
+     "titre": "Présentation du tournoi",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Wikipedia, 2026 Paris Masters",
+     "url": "https://en.wikipedia.org/wiki/2026_Rolex_Paris_Masters"
+    },
+    {
+     "titre": "TennisUpToDate",
+     "url": "https://tennisuptodate.com/atp/paris-masters-2026-entry-list-when-is-the-draw-and-schedule-confirmed-prize-money-and-history"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Dates divergentes (2-8 ou 31 octobre-8 novembre) ; lieu à reconfirmer.",
+   "echeance": "Début novembre",
+   "hooks": [
+    "Le tournoi de Paris commence sans son tenant du titre."
+   ],
+   "structure": [
+    "Hook",
+    "Pourquoi Sinner est absent",
+    "Favoris"
+   ],
+   "scores": {
+    "viral": 6.5,
+    "faits": 5.5,
+    "images": 6
+   },
+   "photos": [
+    "Sinner",
+    "La Défense Arena"
+   ],
+   "a_trouver": [
+    "Dates exactes",
+    "Wild cards français"
+   ],
+   "citations": []
+  },
+  {
+   "id": "federer_wawrinka",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Le message de Federer à Wawrinka",
+   "note": 8,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Après le dernier match de Wawrinka à Bâle, Federer lui écrit qu'il pense à lui, qu'il lui manque et qu'il l'aime.",
+   "faits": [
+    "Message relayé : « I think of you. I miss you. I love you, my boy. »",
+    "Federer et Wawrinka : or olympique en double (2008) et Coupe Davis (2014).",
+    "Score du dernier match : 7-5, 7-6(2) contre Lehecka.",
+    "Dernier titre de Federer à Bâle en 2019."
+   ],
+   "pourquoi": "Émotion et amitié des deux Suisses.",
+   "angle": "Message de trois phrases.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Federer+message+Wawrinka+retirement",
+     "titre": "Message de Federer",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis365",
+     "url": "https://www.tennis365.com/tennis-news/what-stan-wawrinka-said-retirement-farewell-swiss-indoors-basel"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Message vu dans un seul article lié ; à recouper avant publication.",
+   "echeance": "Aucune",
+   "hooks": [
+    "Après la dernière défaite de Wawrinka, c'est un message de Federer qui marque."
+   ],
+   "structure": [
+    "Hook",
+    "Message",
+    "Chute Bâle 2019"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 5,
+    "images": 7
+   },
+   "photos": [
+    "Federer et Wawrinka",
+    "Médaille d'or 2008"
+   ],
+   "a_trouver": [
+    "Capture du message"
+   ],
+   "citations": []
+  },
+  {
+   "id": "ballon_fuite",
+   "format": "court",
+   "sport": "football",
+   "titre": "La fuite du Ballon d'Or",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Quelques heures avant la cérémonie, trois articles (Kane, Yamal, Mbappé) ont été publiés par erreur puis retirés.",
+   "faits": [
+    "Trois articles au nom de Kane, Yamal et Mbappé en ligne puis retirés.",
+    "Un porte-parole : des profils de nominés préparés ont été publiés par erreur.",
+    "Des supporters anglais ont célébré en voyant l'article Kane.",
+    "Kane l'a emporté devant Mbappé et Yamal."
+   ],
+   "pourquoi": "Un coup de théâtre avant le résultat.",
+   "angle": "Histoire en un fil.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Ballon+d'Or+2026+fuite+Kane+article+retiré",
+     "titre": "La fuite",
+     "format": "?",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "SEN, Ballon d'Or winner leaked",
+     "url": "https://www.sen.com.au/news/2026/10/26/ballon-dor-winner-leaked-harry-kane"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Une seule source détaillée (SEN).",
+   "echeance": "Aucune",
+   "hooks": [
+    "Trois articles, trois noms, un seul vrai."
+   ],
+   "structure": [
+    "Hook",
+    "Explication du porte-parole",
+    "Résultat"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 5.5,
+    "images": 6
+   },
+   "photos": [
+    "Kane",
+    "Yamal",
+    "Mbappé"
+   ],
+   "a_trouver": [
+    "Captures des articles"
+   ],
+   "citations": []
+  }
+ ],
+ "ecartes": [
+  {
+   "titre": "Alcaraz disponible en double pour la Coupe Davis (Bologne, 24-29 novembre)",
+   "raison": "Source retrouvée datée de 2024, rien de 2026 confirmé."
+  },
+  {
+   "titre": "Magnus Norman nouveau coach de Sinner",
+   "raison": "Aucune confirmation retrouvée."
+  },
+  {
+   "titre": "Musetti bat Tiafoe à Vienne",
+   "raison": "Score non recoupé, intérêt faible."
+  },
+  {
+   "titre": "PSG 4-2 Barça en Ligue des champions (20 octobre)",
+   "raison": "Vieux de 9 jours, intégré dans le sujet Clasico."
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "kane_ballon_dor": {
+  "scripts": [
+   {
+    "id": "13ce2b",
+    "titre": "Kane remporte le Ballon d'Or 2026, Dembélé septième",
+    "mecanisme": "Hook « fausse annonce » (3 articles retirés) + chaîne de « Parce que », retournement « Sauf que » sur le PSG, chute-fait (Gerd Müller).",
+    "texte": "Lundi à Londres, quelques heures avant la cérémonie, trois articles aux noms de Kane, de Yamal et de Mbappé ont été publiés par erreur sur le site du Ballon d'Or, puis retirés, sans que personne sache lequel était le vrai.\n\nParce que cette cérémonie est la première organisée hors de France ou de Suisse, au London Palladium, et qu'elle récompense la saison du trois août deux mille vingt-cinq au dix-neuf juillet deux mille vingt-six. Sur cette période, Harry Kane a marqué soixante-treize buts avec le Bayern et l'Angleterre, il a gagné la Bundesliga, il a emmené le Bayern en demi-finale de Ligue des champions et il a terminé troisième de la Coupe du monde avec les Anglais.\n\nRésultat, c'est lui qui repart avec le trophée, le premier Anglais à le gagner depuis Michael Owen en deux mille un. Kylian Mbappé finit deuxième avec le Real Madrid, Lamine Yamal troisième avec Barcelone, et Yamal remporte quand même le trophée Kopa pour la troisième année de suite.\n\nMais ce que beaucoup vont remarquer, c'est la suite du classement. Rodri est quatrième, Messi cinquième, Kvaratskhelia sixième, et Ousmane Dembélé septième, un an seulement après avoir gagné le trophée, devant Haaland, Olise et Fabián Ruiz. Trois joueurs du PSG sont dans les dix premiers.\n\nSauf que le PSG repart de Londres avec le prix de meilleur club de l'année pendant que Unai Simón reçoit le trophée Yachine et que Luis de la Fuente est élu meilleur entraîneur.\n\nEt pour Kane, ce n'est pas tout, puisqu'il gagne aussi le trophée Gerd Müller pour la deuxième fois, avec ses soixante-treize buts.",
+    "mots": 265,
+    "clips": [
+     {
+      "moment": "hook / payoff",
+      "description": "Annonce du vainqueur au London Palladium",
+      "url": "https://www.youtube.com/results?search_query=Ballon+d'Or+2026+Kane+annonce+Palladium"
+     },
+     {
+      "moment": "payoff",
+      "description": "Kane reçoit le trophée",
+      "url": "https://www.youtube.com/results?search_query=Harry+Kane+Ballon+d'Or+2026+shorts"
+     },
+     {
+      "moment": "preuve",
+      "description": "Réactions Mbappé / Yamal",
+      "url": "https://www.youtube.com/results?search_query=Mbappé+Yamal+Ballon+d'Or+2026+reaction"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, angle français (Dembélé, PSG), aucun adjectif d'émotion.",
+    "risques": "Aucune citation de Kane retrouvée ; pas de clip parlé ; vérifier les images libres de droits de la cérémonie.",
+    "chat": []
+   }
+  ],
+  "choisi": "13ce2b"
+ },
+ "wawrinka_adieux": {
+  "scripts": [
+   {
+    "id": "416e5c",
+    "titre": "Les adieux de Wawrinka à Bâle",
+    "mecanisme": "Hook « scène incongrue » (défaite mais ovation), clip parlé en preuve, « Sauf que » sur le message de Federer, chute reboucle sur Bâle 2019.",
+    "texte": "Mardi soir à Bâle, un joueur de quarante et un ans a perdu au premier tour d'un tournoi ordinaire, et pourtant tout le monde l'a applaudi jusque dans la salle de conférence de presse.\n\n[CLIP Wawrinka] Ces adieux sont bien plus beaux que tout ce que j'avais pu rêver.\n\nParce que Stan Wawrinka avait annoncé que les Swiss Indoors seraient son dernier tournoi, et que le tournoi avait organisé une cérémonie d'adieu la veille, le lundi, avant même son match. Face à lui, Jiri Lehecka, vingt et unième mondial, qui va l'emporter sept-cinq, sept-six, après une heure et cinquante et une minutes, avec un jeu décisif conclu deux points à sept.\n\nÀ quarante et un ans, il quitte le circuit après plus de vingt ans de carrière professionnelle. Ce score n'a rien d'exceptionnel, mais la carrière qui s'arrête derrière, elle, est difficile à résumer. Trois titres du Grand Chelem, seize titres sur le circuit, une médaille d'or olympique en double et une Coupe Davis, pour un joueur qui a débuté chez les professionnels en deux mille deux.\n\nEt c'est justement ici que ça devient intéressant, parce qu'à la conférence de presse, les journalistes l'ont applaudi longuement en le voyant entrer. Il a dit qu'il n'avait aucun regret, que l'essentiel était de tout donner à chaque match, et il a décrit cette fin comme une fin de rêve.\n\nSauf que le message qui a le plus marqué est celui de Roger Federer, son ami, qui lui a écrit qu'il pensait à lui, qu'il lui manquait et qu'il l'aimait.\n\nFederer, qui avait gagné son dernier titre à Bâle, dans la même salle, en deux mille dix-neuf, et Wawrinka, qui y a donc terminé sa carrière sept ans plus tard, après une dernière défaite.",
+    "mots": 276,
+    "clips": [
+     {
+      "moment": "Après le hook",
+      "description": "Wawrinka sur ses adieux",
+      "url": "https://www.youtube.com/results?search_query=Wawrinka+farewell+Basel"
+     }
+    ],
+    "forces": "Émotion sans adjectif, faits sourcés, lien Federer-Bâle.",
+    "risques": "Citation traduite de l'anglais à retranscrire du clip ; message de Federer à reconfirmer.",
+    "chat": []
+   }
+  ],
+  "choisi": "416e5c"
+ },
+ "djokovic_bale": {
+  "scripts": [
+   {
+    "id": "05738f",
+    "titre": "Djokovic revient à Bâle et vise le record de Federer",
+    "mecanisme": "Hook chiffre + durée absurde (15 ans), « Parce que », retournement « Sauf que », chute reboucle sur Federer 2019.",
+    "texte": "Mercredi soir à Bâle, un joueur de trente-neuf ans qui n'avait pas mis les pieds dans ce tournoi depuis quinze ans a perdu le premier set contre un Français, et pourtant il se rapproche d'un record de Federer.\n\nParce que Novak Djokovic, tête de série numéro quatre, a affronté Ugo Humbert, gaucher réputé dangereux en salle, et il a perdu la première manche quatre-six avant de s'imposer six-trois, six-quatre, après deux heures et vingt-neuf minutes de match.\n\nRésultat, Djokovic atteint les huitièmes de finale et revient dans le top dix. Il est neuvième de la course aux Finales ATP de Turin avec deux mille huit cent quatre-vingt-dix points, à deux cent quatre-vingt-quatorze points du dernier qualifié, et dix points devant Alex de Minaur.\n\nMais ce que beaucoup vont remarquer, c'est l'histoire de ce tournoi. Il l'avait gagné dès sa première participation en deux mille neuf, il n'y était pas revenu depuis deux mille onze, et il y compte désormais treize victoires pour deux défaites.\n\nSauf que l'enjeu dépasse Bâle, puisque Djokovic compte cent deux titres selon Tennis Majors, et qu'un cent troisième titre l'amènerait au niveau de Federer, au deuxième rang de l'ère Open, derrière Jimmy Connors.\n\nLa veille, c'est Stan Wawrinka qui disputait son dernier match sur ce même tournoi, battu au premier tour par Jiri Lehecka. Et Federer avait justement gagné son cent troisième et dernier titre ici même, à Bâle, en deux mille dix-neuf. Djokovic retrouve Jan-Lennard Struff ce jeudi pour une place en quarts de finale, et il lui resterait ensuite trois matchs pour aller chercher ce cent troisième titre.",
+    "mots": 264,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Résumé Djokovic - Humbert",
+      "url": "https://www.youtube.com/results?search_query=Djokovic+Humbert+Basel+2026+highlights"
+     },
+     {
+      "moment": "preuve",
+      "description": "Interview de Djokovic",
+      "url": "https://www.youtube.com/results?search_query=Djokovic+Basel+2026+interview"
+     }
+    ],
+    "forces": "Enjeu de record clair, échéance immédiate.",
+    "risques": "Nombre de titres (102) à reconfirmer ; résultat de jeudi peut changer le script.",
+    "chat": []
+   }
+  ],
+  "choisi": "05738f"
+ },
+ "zverev_sinner_numero1": {
+  "scripts": [
+   {
+    "id": "e16efb",
+    "titre": "Zverev n°1 mondial de fin d'année, Sinner absent",
+    "mecanisme": "Hook paradoxal, chaîne « Parce que / Résultat », retournement « Sauf que » sur le classement de Sinner, chute datée.",
+    "texte": "Le prochain numéro un mondial de fin d'année a été désigné sans avoir à jouer le moindre match décisif, puisque son principal rival a annoncé début octobre qu'il ne rejouerait plus avant la nouvelle saison.\n\nParce que le six octobre, Jannik Sinner a annoncé qu'il manquerait toute la fin de saison à cause d'une inflammation du genou droit. Il n'avait plus joué depuis Wimbledon en juillet, et il avait déjà déclaré forfait pour l'US Open, avant de renoncer à Shanghai, au Masters de Paris, aux Finales ATP et à la phase finale de la Coupe Davis avec l'Italie.\n\nRésultat, Alexander Zverev a assuré sa place de numéro un mondial en fin d'année, le douze octobre, juste après la défaite de Carlos Alcaraz à Shanghai. À vingt-neuf ans, il devient le plus âgé à terminer une saison au sommet pour la première fois, selon l'ATP.\n\nMais ce que personne ne peut lui enlever, c'est son année sur le papier. Selon l'Associated Press, il a gagné Roland-Garros et l'US Open, il a atteint la finale de Wimbledon et les demi-finales de l'Open d'Australie.\n\nSauf que Sinner reste premier au classement pour quelques semaines encore, puisque ses points du Masters de Paris, de Vienne et des Finales ATP vont tomber sans aucun match pour les remplacer.\n\nCette semaine à Vienne, Zverev, tête de série numéro un, ouvre contre le jeune Espagnol Martín Landaluce, invité du tournoi, et il peut devenir numéro un mondial pour la première fois s'il atteint les quarts de finale. Il ne peut pas être numéro un avant le deux novembre au plus tôt, et le classement final de la saison sera publié le vingt-trois novembre.",
+    "mots": 276,
+    "clips": [
+     {
+      "moment": "hook",
+      "description": "Zverev n°1 de fin d'année",
+      "url": "https://www.youtube.com/results?search_query=Zverev+year-end+number+one+2026"
+     },
+     {
+      "moment": "preuve",
+      "description": "Annonce de Sinner",
+      "url": "https://www.youtube.com/results?search_query=Sinner+annonce+forfait+fin+de+saison+genou"
+     }
+    ],
+    "forces": "Sujet fort et daté, faits AP.",
+    "risques": "Données divergentes entre sources (Wimbledon, titres 2026) : relire avant la VO.",
+    "chat": []
+   }
+  ],
+  "choisi": "e16efb"
+ },
+ "clasico_mourinho": {
+  "scripts": [
+   {
+    "id": "17c274",
+    "titre": "Mourinho glisse à genoux au Camp Nou",
+    "mecanisme": "Hook scène visuelle + parallèle 2010, « Parce que / Sauf que ».",
+    "texte": "Dimanche soir au Camp Nou, José Mourinho a glissé à genoux le long de la ligne de touche, exactement comme en deux mille dix avec l'Inter dans ce même stade, après le but de Kylian Mbappé à la quatre-vingt-septième minute.\n\nParce que Mbappé avait ouvert le score à la quarante et unième minute sur un centre dévié par Gerard Martín dans son propre but, avant que Raphinha n'égalise, et que Barcelone avait gagné ses neuf premiers matchs de championnat. Résultat, deux à un pour le Real, qui revient à trois points du leader.\n\nSauf que Mourinho a dit que la VAR avait oublié un carton rouge pour Cancelo, et que le Real joue pour gagner la Liga, pas pour gagner au Camp Nou.",
+    "mots": 123,
+    "clips": [
+     {
+      "moment": "hook",
+      "description": "Glissade de Mourinho",
+      "url": "https://www.youtube.com/results?search_query=Mourinho+knee+slide+Camp+Nou+Clasico"
+     },
+     {
+      "moment": "action",
+      "description": "But de Mbappé",
+      "url": "https://www.youtube.com/results?search_query=Mbappé+but+87+Barcelone+Real+Madrid"
+     }
+    ],
+    "forces": "Image forte, court, un seul fil.",
+    "risques": "Rouge de Cancelo = opinion de Mourinho, ne pas l'affirmer.",
+    "chat": []
+   }
+  ],
+  "choisi": "17c274"
+ },
+ "dembele_septieme": {
+  "scripts": [
+   {
+    "id": "283c21",
+    "titre": "Dembélé septième, le PSG meilleur club",
+    "mecanisme": "Hook de contraste individuel / collectif.",
+    "texte": "Un an après avoir gagné le Ballon d'Or, Ousmane Dembélé est reparti de Londres septième du classement, alors que son club, lui, a été élu meilleur club de l'année.\n\nParce que lundi soir, le PSG a placé trois joueurs dans les dix premiers : Khvitcha Kvaratskhelia sixième, Dembélé septième et Fabián Ruiz dixième, derrière Harry Kane, Mbappé, Yamal, Rodri et Messi, et devant Haaland et Olise, huitième et neuvième.\n\nRésultat, le trophée est allé à l'Anglais, avec soixante-treize buts en une saison, mais le PSG a quand même remporté le prix du meilleur club masculin, avec neuf points au classement.\n\nDembélé était pourtant le tenant du titre, et le PSG, qui joue son prochain match vendredi au Havre en Ligue 1, repart de Londres avec trois joueurs dans le top dix.",
+    "mots": 131,
+    "clips": [
+     {
+      "moment": "preuve",
+      "description": "Réaction de Dembélé",
+      "url": "https://www.youtube.com/results?search_query=Dembélé+Ballon+d'Or+2026+septième+réaction"
+     },
+     {
+      "moment": "payoff",
+      "description": "PSG club de l'année",
+      "url": "https://www.youtube.com/results?search_query=PSG+meilleur+club+de+l'année+Ballon+d'Or+2026"
+     }
+    ],
+    "forces": "Court et sourcé.",
+    "risques": "Recoupe le sujet Kane ; garder si Kane n'est pas produit.",
+    "chat": []
+   }
+  ],
+  "choisi": "283c21"
+ },
+ "paris_masters_sinner": {
+  "scripts": [
+   {
+    "id": "be7666",
+    "titre": "Le Masters de Paris sans Sinner, à Nanterre",
+    "mecanisme": "Hook absence, « Parce que ».",
+    "texte": "Le tournoi de Paris commence dans quelques jours sans son tenant du titre, et il se jouera cette année à la Paris La Défense Arena, à Nanterre.\n\nParce que Jannik Sinner, vainqueur l'an dernier en finale contre Félix Auger-Aliassime, a annoncé le six octobre qu'il ne rejouerait plus cette saison à cause d'une inflammation au genou droit, ce qui l'écarte aussi des Finales ATP et de la phase finale de la Coupe Davis.\n\nLes favoris sont Alexander Zverev, Carlos Alcaraz, Ben Shelton et Daniil Medvedev, et Zverev est déjà assuré de finir l'année numéro un mondial.\n\nLe tournoi se joue début novembre, et Sinner pourrait revenir pour l'Open d'Australie, qui commence le dix-sept janvier.",
+    "mots": 114,
+    "clips": [
+     {
+      "moment": "hook",
+      "description": "Présentation du tournoi",
+      "url": "https://www.youtube.com/results?search_query=Rolex+Paris+Masters+2026+La+Défense+Arena"
+     }
+    ],
+    "forces": "Actualité française.",
+    "risques": "Dates et lieu à reconfirmer avant montage ; vainqueur 2025 non recoupé dans cette veille.",
+    "chat": []
+   }
+  ],
+  "choisi": "be7666"
+ },
+ "federer_wawrinka": {
+  "scripts": [
+   {
+    "id": "4de0e0",
+    "titre": "Le message de Federer à Wawrinka",
+    "mecanisme": "Hook émotionnel, citation courte.",
+    "texte": "Après la dernière défaite de Stan Wawrinka à Bâle, c'est un message de Roger Federer qui a le plus marqué tous ceux qui suivaient sa carrière.\n\nParce que Federer lui a écrit qu'il pensait à lui, qu'il lui manquait et qu'il l'aimait, trois phrases courtes pour un ami avec qui il avait gagné l'or olympique en double et la Coupe Davis.\n\nWawrinka venait de perdre sept-cinq, sept-six contre Jiri Lehecka, et il a répondu qu'il n'avait aucun regret et que cette fin était plus belle que tout ce qu'il avait pu rêver.\n\nFederer avait gagné son dernier titre à Bâle en deux mille dix-neuf, et Wawrinka y a joué son dernier match sept ans plus tard.",
+    "mots": 116,
+    "clips": [
+     {
+      "moment": "preuve",
+      "description": "Message de Federer",
+      "url": "https://www.youtube.com/results?search_query=Federer+message+Wawrinka+retirement"
+     }
+    ],
+    "forces": "Très partageable.",
+    "risques": "Source unique : ne pas produire sans recoupement ; recoupe le long Wawrinka.",
+    "chat": []
+   }
+  ],
+  "choisi": "4de0e0"
+ },
+ "ballon_fuite": {
+  "scripts": [
+   {
+    "id": "6df26c",
+    "titre": "La fuite du Ballon d'Or",
+    "mecanisme": "Hook mystère.",
+    "texte": "Quelques heures avant la cérémonie du Ballon d'Or lundi, le site officiel a publié trois articles différents, chacun au nom d'un vainqueur possible, et les trois ont été supprimés presque aussitôt.\n\nParce qu'il y avait un article pour Harry Kane, un pour Lamine Yamal et un pour Kylian Mbappé, avec à chaque fois une fiche déjà rédigée, et des supporters anglais ont commencé à célébrer en voyant celui de Kane.\n\nUn porte-parole a expliqué que des profils de nominés préparés par le site avaient été publiés par erreur, sans dire lequel était le bon.\n\nLe soir même, à Londres, c'est Kane qui a gagné devant Mbappé et Yamal, et il est le premier Anglais récompensé depuis Michael Owen en deux mille un.",
+    "mots": 122,
+    "clips": [
+     {
+      "moment": "hook",
+      "description": "La fuite",
+      "url": "https://www.youtube.com/results?search_query=Ballon+d'Or+2026+fuite+Kane+article+retiré"
+     }
+    ],
+    "forces": "Court, un fil.",
+    "risques": "Source unique ; recoupe le long Kane.",
+    "chat": []
+   }
+  ],
+  "choisi": "6df26c"
+ }
+}
