@@ -1,0 +1,24 @@
+{
+ "id": "2026-10-28_perso",
+ "titre": "Mes sujets — 28/10/2026",
+ "date": "2026-10-28",
+ "moment": "perso",
+ "tldr": "Tes sujets : recherches et scripts envoyés depuis le studio.",
+ "sujets": [
+  {
+   "id": "mais_pourquoi_au_tennis_personne_n_a_le",
+   "titre": "Mais pourquoi au tennis, personne n'a le droit de parler pendant les matchs alor",
+   "note": null,
+   "verdict": "go",
+   "perso": true,
+   "script_perso": true,
+   "resume": "Mais pourquoi au tennis, personne n'a le droit de parler pendant les matchs alors que dans les autres sports, c'est totalement autorisé ? Parce que tu as sûrement remarqué que pendant un match de tennis, dès qu'il y a du…",
+   "contexte": "",
+   "faits": [],
+   "videos": [],
+   "sources": [],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Script fourni par Matys : faits à vérifier pendant la production."
+  }
+ ]
+}

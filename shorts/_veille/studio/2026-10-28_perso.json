@@ -1,0 +1,24 @@
+{
+ "mais_pourquoi_au_tennis_personne_n_a_le": {
+  "valide": true,
+  "scripts": [
+   {
+    "id": "5db615",
+    "titre": "Ton script",
+    "mecanisme": "Script écrit par Matys",
+    "texte": "Mais pourquoi au tennis, personne n'a le droit de parler pendant les matchs alors que dans les autres sports, c'est totalement autorisé ? Parce que tu as sûrement remarqué que pendant un match de tennis, dès qu'il y a du bruit ou que quelqu'un se lève, l'arbitre prend parfois le micro pour demander le silence et que tout le monde se rassoit. Et ce n'est pas juste une vieille habitude. Vous allez comprendre pourquoi.\n\nIl y a plusieurs raisons, mais déjà, le silence est surtout demandé à des moments précis, notamment juste avant le service. Et ce n'est pas un hasard : certains joueurs servent à plus de 180 km/h. Pour renvoyer une balle aussi rapide, leur adversaire doit réagir presque immédiatement, en regardant le geste du serveur, mais aussi en entendant le bruit de la balle au contact de la raquette.\n\nC'est aussi pour ça que les cris des joueurs font parfois débat : ils peuvent couvrir ce bruit et gêner celui qui attend la balle, même si tous ne crient pas pour déconcentrer leur adversaire. Mais ce n'est pas la seule raison. Dans certains stades, les tribunes sont très proches du court et un bruit soudain peut être particulièrement gênant pendant un échange. Voilà pourquoi le public peut applaudir très fort entre deux points, puis se taire dès que le joueur se prépare à servir.",
+    "mots": 225,
+    "chat": []
+   }
+  ],
+  "choisi": "5db615",
+  "production": {
+   "job": "20261028-204032-ced8",
+   "projet": "mais_pourquoi_au_tennis_personne_n_a_le",
+   "jobs": [
+    "20261028-204032-ced8"
+   ],
+   "chat": []
+  }
+ }
+}
