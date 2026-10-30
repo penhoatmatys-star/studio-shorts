@@ -1,0 +1,716 @@
+{
+ "titre": "Veille sport, vendredi 30 octobre 2026",
+ "date": "2026-10-30",
+ "moment": "jour",
+ "tldr": "Neuf sujets GO. Longs : Struff bat Djokovic à Bâle et la place pour Turin s'éloigne ; Kym (222e) bat Shelton ; Lehecka, le dernier joueur à avoir battu Wawrinka ; Mbappé, 100 buts avec le Real puis 2e du Ballon d'Or. Courts : Alcaraz à un jeu de la défaite à Vienne ; la dernière place pour Turin à 319 points ; OM 4-3 Le Havre après avoir mené 4-0 ; Fils - Fritz à Bâle ; PSG - Lyon 2-0. Beaucoup de sujets sont des suites de la veille d'hier (Djokovic, Wawrinka, Clasico) : les angles sont neufs, mais à surveiller pour les redites. Les recherches web étaient limitées : plusieurs faits restent partiels.",
+ "sujets": [
+  {
+   "id": "struff_djokovic",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Struff bat Djokovic à Bâle, la place pour Turin s'éloigne",
+   "note": 8.5,
+   "verdict": "go",
+   "suite": true,
+   "resume": "Jan-Lennard Struff bat Novak Djokovic 6-7(4), 7-5, 7-6(5) au troisième tour de Bâle, pour sa première victoire après huit défaites. Le Serbe est 11e de la course à Turin, à 319 points de Jodar.",
+   "faits": [
+    "Jeudi 29 octobre 2026, Swiss Indoors de Bâle : Struff bat Djokovic 6-7(4), 7-5, 7-6(5) en 2h36.",
+    "Djokovic menait 8-0 dans leurs confrontations ; Struff, 36 ans, a servi 27 aces et sauvé les 6 balles de break qu'il a affrontées.",
+    "Djokovic n'a pas réussi à breaker en 18 jeux de retour (21 aces de son côté) ; il a été breaké une fois, sur balle de set dans la 2e manche.",
+    "Course à Turin (ATP, 29 octobre) : Djokovic 11e avec 2 890 points, à 319 de Rafael Jodar, 9e (3 209), qui tient la dernière place qualificative depuis le forfait de Sinner.",
+    "Un titre à Bâle l'aurait placé 131 points devant Jodar (ATP).",
+    "Il lui reste le Masters 1000 de Paris, joué pour la première fois à Nanterre début novembre ; les Finales ATP ont lieu du 15 au 22 novembre à Turin."
+   ],
+   "pourquoi": "Suite directe de la victoire sur Humbert d'hier : le retournement est net (8-0 puis défaite) et l'enjeu Turin est chiffré.",
+   "angle": "Série brisée (8-0) puis conséquence chiffrée dans la course à Turin.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Djokovic+Struff+Basel+2026+highlights",
+     "titre": "Résumé Struff - Djokovic, Bâle",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action / hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Struff+beats+Djokovic+Basel+interview",
+     "titre": "Interview d'après-match de Struff",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve (citation)",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du match (aces de Struff, balle de match)",
+    "Citation de Djokovic après le match (non retrouvée)"
+   ],
+   "photos": [
+    "Jan-Lennard Struff",
+    "Novak Djokovic",
+    "Rafael Jodar",
+    "Paris La Défense Arena",
+    "Logo Finales ATP Turin"
+   ],
+   "citations": [
+    {
+     "auteur": "Jan-Lennard Struff",
+     "texte": "Je savais que je devais jouer mon meilleur tennis pour avoir une chance. (« I knew I had to play my best tennis to have a chance. »)",
+     "source": "The Hans India, 29-30 octobre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "The Hans India, Struff stuns Djokovic, Kym upsets Shelton",
+     "url": "https://www.thehansindia.com/sports/struff-stuns-djokovic-kym-upsets-shelton-in-basel-1137391"
+    },
+    {
+     "titre": "EssentiallySports, Djokovic's Basel loss",
+     "url": "https://essentiallysports.com/tennis-news-novak-djokovics-basel-loss-raises-atp-finals-doubts-while-ben-shelton-suffers-shock-defeat-to-world-no-two-hundred-twenty-two"
+    },
+    {
+     "titre": "ATP Tour, Live Race to Turin 29 octobre",
+     "url": "https://www.atptour.com/en/news/djokovic-pif-atp-live-race-to-turin-29-october-2026"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et chiffres recoupés sur 2 sources ; l'ordre des sets est donné du point de vue de Struff.",
+   "echeance": "Rolex Paris Masters (début novembre) puis Finales ATP du 15 au 22 novembre",
+   "hooks": [
+    "Djokovic avait battu ce joueur huit fois en huit confrontations, et jeudi à Bâle il a perdu contre lui pour la première fois.",
+    "Trois cent dix-neuf points séparent Djokovic de la dernière place pour Turin, et il vient de perdre contre un joueur qu'il n'avait jamais perdu.",
+    "Le Serbe avait gagné le premier set, et c'est là que le match a basculé."
+   ],
+   "structure": [
+    "Hook : 8-0 puis première défaite",
+    "Décor : retour à Bâle après 2011, objectif Turin",
+    "Déroulé : premier set gagné, 27 aces de Struff",
+    "Retournement : 6 balles de break sauvées, 18 jeux de retour sans break",
+    "Payoff : 11e de la course, 319 points de Jodar",
+    "Chute : le Masters de Paris comme dernière chance"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 9,
+    "images": 8
+   }
+  },
+  {
+   "id": "kym_shelton",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Kym, 222e mondial, bat Shelton à Bâle",
+   "note": 8,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Le Suisse Jérôme Kym, invité et 222e mondial, bat le n°1 du tableau Ben Shelton (4e mondial) 6-3, 6-7(4), 7-6(1). Il affronte ensuite Jiri Lehecka, le dernier joueur à avoir battu Wawrinka.",
+   "faits": [
+    "Jeudi 29 octobre 2026, Bâle, 2e tour : Kym (wild card, 222e) bat Shelton (n°1 du tableau, 4e mondial) 6-3, 6-7(4), 7-6(1).",
+    "Kym a breaké deux fois dans le premier set et deux fois dans le troisième, dont un break pour mener 5-2 ; Shelton est revenu à 5-5 avant le jeu décisif (7-1).",
+    "Shelton avait perdu quatre de ses six derniers matchs ; à Shanghai il avait déjà été battu par un moins bien classé, Arthur Gea.",
+    "Kym est le premier Suisse à battre un top 10 depuis Wawrinka contre Rublev (alors n°7) à Stockholm en 2024 ; c'est son 2e quart de finale sur le circuit.",
+    "Prochain adversaire : Jiri Lehecka, vainqueur d'Altmaier 7-5, 6-4 ; Lehecka avait battu Wawrinka pour son dernier match mardi.",
+    "Shelton est déjà qualifié pour les Finales ATP (4e de la course)."
+   ],
+   "pourquoi": "Surprise totale, au tournoi des adieux de Wawrinka, avec un lien narratif direct vers Lehecka.",
+   "angle": "Un Suisse inconnu sort le favori, deux jours après la retraite de Wawrinka, et retrouve celui qui l'a battu.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Kym+Shelton+Basel+2026+highlights",
+     "titre": "Résumé Kym - Shelton",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action / hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Jerome+Kym+Swiss+Indoors+shorts",
+     "titre": "Réaction de Kym et du public",
+     "format": "9:16",
+     "parle": false,
+     "usage": "émotion",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du match en 9:16",
+    "Réaction de Shelton (non retrouvée)"
+   ],
+   "photos": [
+    "Jérôme Kym",
+    "Ben Shelton",
+    "Stan Wawrinka",
+    "Jiri Lehecka",
+    "St. Jakobshalle Bâle"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "The Hans India, Struff stuns Djokovic, Kym upsets Shelton",
+     "url": "https://www.thehansindia.com/sports/struff-stuns-djokovic-kym-upsets-shelton-in-basel-1137391"
+    },
+    {
+     "titre": "EssentiallySports, Shelton falls to world No. 222",
+     "url": "https://essentiallysports.com/tennis-news-novak-djokovics-basel-loss-raises-atp-finals-doubts-while-ben-shelton-suffers-shock-defeat-to-world-no-two-hundred-twenty-two"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score recoupé sur 2 sources ; le détail du 3e set vient d'EssentiallySports seul.",
+   "echeance": "Quart de finale Kym - Lehecka à Bâle",
+   "hooks": [
+    "Deux jours après le dernier match de Stan Wawrinka, un autre Suisse classé 222e a battu le numéro quatre mondial.",
+    "Le favori de Bâle a perdu contre un invité que personne ne connaissait.",
+    "Aucun Suisse n'avait battu un top 10 depuis Wawrinka."
+   ],
+   "structure": [
+    "Hook : le 222e bat le 4e",
+    "Décor : l'invité contre le n°1 du tableau",
+    "Déroulé : set 1 Kym, set 2 Shelton",
+    "Retournement : 5-2 puis 5-5 puis jeu décisif 7-1",
+    "Payoff : premier Suisse à battre un top 10 depuis Wawrinka",
+    "Chute : le prochain adversaire est Lehecka"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 8,
+    "images": 7
+   }
+  },
+  {
+   "id": "wawrinka_lehecka",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Lehecka, le dernier joueur à battre Wawrinka",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": true,
+   "resume": "Suite des adieux de Wawrinka : le Tchèque Jiri Lehecka, vainqueur 7-5, 7-6(2) mardi à Bâle, explique l'effet que ça fait d'être le dernier à l'avoir battu, et Wawrinka remercie le tournoi pour ses billets.",
+   "faits": [
+    "Mardi 27 octobre 2026, Bâle, 1er tour : Lehecka (21e, tête de série n°8) bat Wawrinka (151e, 41 ans) 7-5, 7-6(2).",
+    "Lehecka a sauvé deux balles de break dans le premier set ; Wawrinka avait mené 5-4 dans le deuxième.",
+    "Cérémonie d'adieux la veille ; le public s'est levé après la balle de match.",
+    "Palmarès de Wawrinka : 16 titres ATP, dont 3 titres du Grand Chelem.",
+    "Lehecka : « Cela fait quand même un peu bizarre d'être le dernier joueur à le battre, mais en même temps, c'est un honneur. » (We Love Tennis).",
+    "Wawrinka : « Je suis triste, mais j'ai le sourire. Car j'ai vécu des moments exceptionnels. » (Eurosport) ; il remercie aussi le tournoi pour les billets offerts à ses potes.",
+    "Une exhibition d'adieux serait prévue en décembre à Genève avec Federer, Murray et Monfils (sources divergentes sur la date)."
+   ],
+   "pourquoi": "Les adieux ont déjà été traités hier : ce sujet n'a de valeur que pour l'angle Lehecka et les deux citations nouvelles.",
+   "angle": "Le dernier point de la carrière, vu par celui qui l'a gagné.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Wawrinka+Lehecka+Basel+last+match+2026",
+     "titre": "Dernier match de Wawrinka",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action / payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Wawrinka+discours+adieux+B%C3%A2le+2026",
+     "titre": "Discours de Wawrinka après le match",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve (citation)",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Lehecka+interview+Wawrinka+honor+last+player+to+beat",
+     "titre": "Interview de Lehecka",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve (citation)",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Image de la balle de match et de l'ovation",
+    "Version vidéo de la citation de Lehecka"
+   ],
+   "photos": [
+    "Stan Wawrinka",
+    "Jiri Lehecka",
+    "Trophées de Wawrinka",
+    "Federer, Murray, Monfils"
+   ],
+   "citations": [
+    {
+     "auteur": "Jiri Lehecka",
+     "texte": "Cela fait quand même un peu bizarre d'être le dernier joueur à le battre, mais en même temps, c'est un honneur.",
+     "source": "We Love Tennis, octobre 2026"
+    },
+    {
+     "auteur": "Stan Wawrinka",
+     "texte": "Je suis triste, mais j'ai le sourire. Car j'ai vécu des moments exceptionnels.",
+     "source": "Eurosport, octobre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "We Love Tennis, Lehecka après avoir envoyé Wawrinka à la retraite",
+     "url": "https://welovetennis.fr/atp/atp-bale/jiri-lehecka-apres-avoir-envoye-stan-wawrinka-a-la-retraite-cela-fait-quand-meme-un-peu-bizarre-detre-le-dernier-joueur-a-le-battre-mais-en-meme-temps-cest-un-honneur"
+    },
+    {
+     "titre": "Eurosport, Wawrinka après son dernier match",
+     "url": "https://www.eurosport.fr/tennis/atp-bale/2026/atp-bale-i-stan-wawrinka-apres-son-dernier-match-je-suis-triste-mais-jai-le-sourire_sto23349889/story.shtml"
+    },
+    {
+     "titre": "La Télé, la carrière de Wawrinka a pris fin à Bâle",
+     "url": "https://latele.ch/articles/la-carriere-de-stan-wawrinka-a-pris-fin-a-bale"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score recoupé ; les citations viennent chacune d'une source, à vérifier à l'écoute des vidéos.",
+   "echeance": "Exhibition d'adieux à Genève (décembre, à confirmer)",
+   "hooks": [
+    "Le dernier point du dernier match de Stan Wawrinka a été gagné par un Tchèque qui ne l'avait jamais affronté.",
+    "Le dernier joueur à avoir battu Wawrinka a dit quelque chose que personne n'attendait.",
+    "Wawrinka a remercié le tournoi pour une raison inattendue."
+   ],
+   "structure": [
+    "Hook : le dernier à l'avoir battu",
+    "Décor : cérémonie d'adieux, 41 ans, 3 Grands Chelems",
+    "Déroulé : le match du 27 octobre",
+    "Retournement : la citation de Lehecka",
+    "Payoff : le discours de Wawrinka et les billets",
+    "Chute : l'exhibition de Genève, mais Lehecka a eu le dernier mot en match officiel"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 8
+   }
+  },
+  {
+   "id": "mbappe_barca_ballon",
+   "format": "long",
+   "sport": "football",
+   "titre": "Mbappé, 100 buts avec le Real la veille du Ballon d'Or",
+   "note": 8,
+   "verdict": "go",
+   "suite": true,
+   "resume": "Mbappé atteint les 100 buts avec le Real Madrid en marquant deux fois au Camp Nou le 25 octobre, puis termine 2e du Ballon d'Or derrière Kane le lendemain.",
+   "faits": [
+    "Dimanche 25 octobre 2026, Barça 1-2 Real (Liga) : Mbappé 41e (après une relance de Gerard Martín), Raphinha 61e, Mbappé 87e sur un centre en retrait de Camavinga.",
+    "Barcelone avait gagné ses 9 premiers matchs de Liga ; le Real passe à 24 points en 10 matchs, à 3 points du Barça et à 1 point d'Atlético.",
+    "Mbappé atteint 100 buts en 116 matchs avec le Real et compte 8 buts en 7 Clasicos (Livescore).",
+    "Mourinho (entraîneur du Real) : « Nous avons gagné avec calme et avec tout le mérite. » (« We won calmly and with full merit. »)",
+    "Le lendemain 26 octobre à Londres, Kane remporte le Ballon d'Or et Mbappé finit 2e, devant Yamal."
+   ],
+   "pourquoi": "Contraste simple entre le dimanche (victoire au Camp Nou) et le lundi (2e du Ballon d'Or). Sujet déjà traité sous l'angle Mourinho : ici l'angle est Mbappé.",
+   "angle": "Même saison, deux verdicts à 24 heures d'écart.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Mbapp%C3%A9+Barcelona+Real+Madrid+1-2+goals+Clasico+25+octobre+2026",
+     "titre": "Les deux buts de Mbappé",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action / hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Mourinho+press+conference+Clasico+Camp+Nou+2026",
+     "titre": "Conférence de presse de Mourinho",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve (citation)",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Ballon+d%27Or+2026+Mbapp%C3%A9+deuxi%C3%A8me+Kane+Palladium",
+     "titre": "Annonce du classement",
+     "format": "?",
+     "parle": false,
+     "usage": "payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Image du centre de Camavinga et du but",
+    "Réaction de Mbappé au classement (non retrouvée)"
+   ],
+   "photos": [
+    "Kylian Mbappé",
+    "Eduardo Camavinga",
+    "José Mourinho",
+    "Harry Kane",
+    "Camp Nou"
+   ],
+   "citations": [
+    {
+     "auteur": "José Mourinho",
+     "texte": "Nous avons gagné avec calme et avec tout le mérite.",
+     "source": "Livescore, 25-26 octobre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Livescore, Mourinho hails extraordinary Real Madrid",
+     "url": "https://www.livescore.com/en/news/football/laliga/mourinho-hails-extraordinary-real-madrid-after-mbapp-double-sinks-barcelona-in-el-clsico-football-muse/"
+    },
+    {
+     "titre": "France 24, le Real remporte le Clasico",
+     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261026-le-real-madrid-remporte-clasico-face-fc-barcelone-gr%C3%A2ce-kylian-mbapp%C3%A9"
+    },
+    {
+     "titre": "Sky Sports, Barcelona 1-2 Real Madrid",
+     "url": "https://www.skysports.com/football/news/13603624/barcelona-1-2-real-madrid-kylian-mbappe-scores-late-winner-in-el-clasico-to-beat-laliga-leaders"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et buteurs recoupés ; minute du 2e but 87e (Sky/Livescore) contre 88e (site du Real).",
+   "echeance": "Prochain Clasico à confirmer",
+   "hooks": [
+    "Le dimanche, Mbappé a atteint les cent buts avec le Real dans le stade du Barça, et le lendemain le jury du Ballon d'Or l'a classé deuxième.",
+    "Mbappé a marqué deux fois au Camp Nou et il a quand même perdu le trophée individuel.",
+    "Cent buts en cent seize matchs, et un Ballon d'Or qui lui échappe."
+   ],
+   "structure": [
+    "Hook : 100 buts puis 2e du Ballon d'Or",
+    "Décor : Barça invaincu en Liga, Real à 6 points",
+    "Déroulé : but à la 41e, égalisation de Raphinha",
+    "Retournement : but à la 87e sur centre de Camavinga",
+    "Payoff : classement, 100 buts en 116 matchs",
+    "Chute : le lendemain à Londres, Kane devant lui"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 8,
+    "images": 9
+   }
+  },
+  {
+   "id": "alcaraz_khachanov_vienne",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Alcaraz à un jeu de la défaite à Vienne",
+   "note": 7,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Mené 5-6 dans le deuxième set contre Khachanov, Alcaraz s'en sort 6-4, 7-6(5) et dit ne pas savoir comment il a fait. Il enchaîne un 22e succès de suite en ATP 500.",
+   "faits": [
+    "Mardi 27 octobre 2026, Erste Bank Open (Vienne), huitième de finale : Alcaraz bat Khachanov 6-4, 7-6(5).",
+    "Mené 5-6 dans le 2e set, il breake à blanc puis gagne le jeu décisif 7-5.",
+    "22 victoires de suite en ATP 500 ; il mène 7-0 contre Khachanov ; seconde participation à Vienne après la demi-finale de 2021.",
+    "Alcaraz est n°3 mondial et 2e tête de série."
+   ],
+   "pourquoi": "Citation franche, scénario serré, tennis récent.",
+   "angle": "Un jeu de la défaite et l'aveu d'Alcaraz.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+Khachanov+Vienna+2026+highlights",
+     "titre": "Résumé du match",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+Khachanov+Vienna+interview+%22I+don%27t+know+how+I+did+it%22",
+     "titre": "Interview d'après-match",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve (citation)",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du 2e set"
+   ],
+   "photos": [
+    "Carlos Alcaraz",
+    "Karen Khachanov",
+    "Erste Bank Open Vienne"
+   ],
+   "citations": [
+    {
+     "auteur": "Carlos Alcaraz",
+     "texte": "Je ne sais pas, honnêtement, comment j'ai fait. (« I don't know, to be honest, how I did it. »)",
+     "source": "Tennis Majors, 27 octobre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors, Alcaraz escapes Khachanov",
+     "url": "https://www.tennismajors.com/atp/i-dont-know-how-i-did-it-alcaraz-escapes-khachanov-to-reach-vienna-last-16-864198.html"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Une seule source retrouvée pour le détail du match.",
+   "echeance": "Suite du tournoi de Vienne, finale le 1er novembre",
+   "hooks": [
+    "Carlos Alcaraz était à un jeu de perdre son huitième de finale à Vienne.",
+    "Alcaraz ne sait pas comment il a gagné ce match."
+   ],
+   "structure": [
+    "Hook : à un jeu de la défaite",
+    "Déroulé : 5-6 puis break à blanc",
+    "Chute : 22 victoires de suite en ATP 500"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 7,
+    "images": 8
+   }
+  },
+  {
+   "id": "turin_derniere_place",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Turin : la dernière place tient à 319 points",
+   "note": 7,
+   "verdict": "go",
+   "suite": true,
+   "resume": "Jodar (9e) occupe la dernière place qualificative pour Turin depuis le forfait de Sinner, mais il a perdu à Bâle, tout comme Djokovic (11e), à 319 points.",
+   "faits": [
+    "Course ATP au 29 octobre : Zverev, Alcaraz et Shelton sont qualifiés ; Sinner (2e) est forfait pour le reste de 2026.",
+    "Medvedev 5e (3 710), Cobolli 6e (3 690), Fils 7e (3 475), Tiafoe 8e (3 380), Jodar 9e (3 209), de Minaur 10e (2 980), Djokovic 11e (2 890), Paul 12e, Fritz 13e.",
+    "Jodar a perdu contre Valentin Vacherot au jeu décisif de la dernière manche à Bâle jeudi ; Djokovic a perdu contre Struff.",
+    "Finales ATP du 15 au 22 novembre à Turin ; le Masters 1000 de Paris est le dernier Masters 1000 de la saison."
+   ],
+   "pourquoi": "Enjeu chiffré et échéance proche.",
+   "angle": "La neuvième place qui vaut une qualification.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=ATP+Finals+Turin+2026+race+qualification",
+     "titre": "Illustrations Finales ATP",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Image de Jodar à Bâle"
+   ],
+   "photos": [
+    "Rafael Jodar",
+    "Novak Djokovic",
+    "Alex de Minaur",
+    "Jannik Sinner"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "ATP Tour, Live Race to Turin 29 octobre",
+     "url": "https://www.atptour.com/en/news/djokovic-pif-atp-live-race-to-turin-29-october-2026"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Classement d'une seule source (ATP) ; Tennis Majors donne un total légèrement différent pour Jodar.",
+   "echeance": "Rolex Paris Masters, début novembre",
+   "hooks": [
+    "Depuis le forfait de Sinner, la dernière place pour Turin tient à 319 points.",
+    "Celui qui détient la dernière place pour Turin et celui qui la vise ont perdu le même jour."
+   ],
+   "structure": [
+    "Hook : 319 points",
+    "Retournement : les deux ont perdu à Bâle",
+    "Chute : Paris avant les Finales du 15 novembre"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 7,
+    "images": 6
+   }
+  },
+  {
+   "id": "om_havre",
+   "format": "court",
+   "sport": "football",
+   "titre": "L'OM mène 4-0, finit 4-3 contre Le Havre",
+   "note": 7,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Marseille menait 4-0 contre la lanterne rouge Le Havre et s'impose finalement 4-3 à la huitième journée de Ligue 1. Le Havre reçoit le PSG vendredi.",
+   "faits": [
+    "8e journée de Ligue 1 (week-end du 24-25 octobre) : Marseille 4-3 Le Havre, Marseille menait 4-0.",
+    "Le Havre est dernier avec 2 points (Lensois.com, au 26 octobre).",
+    "PSG se déplace au Havre vendredi 30 octobre (Ligue 1), d'après le rapport d'hier."
+   ],
+   "pourquoi": "Score fou et lien direct avec le match de PSG ce soir.",
+   "angle": "4-0 puis 4-3, et le Havre reçoit le PSG.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Marseille+Le+Havre+4-3+r%C3%A9sum%C3%A9+Ligue+1",
+     "titre": "Résumé du match",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Buteurs (non retrouvés)",
+    "Images du 4-0"
+   ],
+   "photos": [
+    "Vélodrome",
+    "Le Havre AC"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Lensois.com, le point avant le dernier match de la 8e journée",
+     "url": "https://www.lensois.com/l1-j8-le-point-avant-la-derniere-affiche-de-la-journee-prevue-ce-lundi-soir/"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Score confirmé par deux sources ; buteurs et lieu du match non retrouvés.",
+   "echeance": "PSG au Havre, vendredi 30 octobre",
+   "hooks": [
+    "L'OM menait 4-0 contre la lanterne rouge, et le match a fini 4-3."
+   ],
+   "structure": [
+    "Hook : 4-0 puis 4-3",
+    "Retournement : trois buts havrais",
+    "Chute : le Havre reçoit le PSG vendredi"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 6,
+    "images": 6
+   }
+  },
+  {
+   "id": "fils_fritz_bale",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Fils - Fritz à Bâle, un quart pour Turin",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Arthur Fils, 7e de la course à Turin, affronte Taylor Fritz (13e) en quart de finale à Bâle, vendredi 30 octobre.",
+   "faits": [
+    "Fils (2e tête de série) a battu Alex Michelsen au 2e tour ; Fritz a battu Shapovalov 6-4, 6-3.",
+    "Fils est 7e de la course à Turin avec 3 475 points, Tiafoe 8e avec 3 380 ; Fritz 13e avec 2 735.",
+    "Quart de finale Fils - Fritz le vendredi 30 octobre."
+   ],
+   "pourquoi": "Un Français en course pour Turin, résultat connu dans la journée.",
+   "angle": "Un quart de finale qui compte pour la course.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Fils+Fritz+Basel+2026",
+     "titre": "Fils à Bâle",
+     "format": "?",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Score exact du match de Fils"
+   ],
+   "photos": [
+    "Arthur Fils",
+    "Taylor Fritz"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "ATP Tour, Live Race to Turin 29 octobre",
+     "url": "https://www.atptour.com/en/news/djokovic-pif-atp-live-race-to-turin-29-october-2026"
+    },
+    {
+     "titre": "CBC, Fritz bat Shapovalov",
+     "url": "https://www.cbc.ca/sports/tennis/shapovalov-fritz-round-of-16-recap-swiss-indoors-tournament-9.7401879"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Score de Fils - Michelsen non recoupé.",
+   "echeance": "Vendredi 30 octobre à Bâle",
+   "hooks": [
+    "Arthur Fils est septième de la course pour Turin et joue un quart décisif vendredi."
+   ],
+   "structure": [
+    "Hook : 7e de la course",
+    "Retournement : Fritz doit gagner",
+    "Chute : Turin le 15 novembre"
+   ],
+   "scores": {
+    "viral": 5,
+    "faits": 6,
+    "images": 6
+   }
+  },
+  {
+   "id": "psg_lyon_tete",
+   "format": "court",
+   "sport": "football",
+   "titre": "PSG - Lyon 2-0, Paris prend la tête",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Le PSG bat Lyon 2-0 au Parc des Princes (Mayulu 72e, Godts 84e) et prend la tête de la Ligue 1 à l'issue de la 8e journée.",
+   "faits": [
+    "Lundi 26 octobre 2026, 8e journée : PSG 2-0 OL, buts de Senny Mayulu (72e) et Mika Godts (84e).",
+    "Le PSG prend les commandes devant Rennes, qui avait 16 points (Lensois.com).",
+    "Luis Enrique a parlé de motivation supplémentaire contre l'OL et donné des nouvelles de Kvaratskhelia, blessé (psg.fr)."
+   ],
+   "pourquoi": "Prise de tête du champion d'Europe avant le déplacement au Havre vendredi.",
+   "angle": "Deux buts tardifs et la tête du classement.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=PSG+Lyon+2-0+r%C3%A9sum%C3%A9+Mayulu+Godts",
+     "titre": "Résumé du match",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images des deux buts"
+   ],
+   "photos": [
+    "Senny Mayulu",
+    "Mika Godts",
+    "Luis Enrique"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Lensois.com, le PSG prend les commandes",
+     "url": "https://www.lensois.com/l1-j8-le-paris-sg-prend-les-commandes-en-simposant-contre-lyon-le-rc-lens-7e/"
+    },
+    {
+     "titre": "psg.fr, conférence de Luis Enrique",
+     "url": "https://www.psg.fr/en/content/luis-enrique-facing-ol-is-an-extra-motivation-paris-saint-germain-olympique-lyonnais-conference-de-presse-ligue-1-20262027"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Une page du PSG évoque une autre journée ; la 8e journée est donnée par Lensois.com.",
+   "echeance": "PSG au Havre, vendredi 30 octobre",
+   "hooks": [
+    "Le PSG a pris la tête de la Ligue 1 lundi soir, mais il a fallu attendre la 72e minute."
+   ],
+   "structure": [
+    "Hook : tête de la Ligue 1",
+    "Déroulé : 72e Mayulu, 84e Godts",
+    "Chute : Luis Enrique et Kvaratskhelia"
+   ],
+   "scores": {
+    "viral": 5,
+    "faits": 6,
+    "images": 7
+   }
+  }
+ ],
+ "ecartes": [
+  {
+   "titre": "Luis Enrique quitte une conférence de presse (question sur les deux défaites contre le Paris FC)",
+   "raison": "Date retrouvée : mai 2026, trop ancien."
+  },
+  {
+   "titre": "Zidane sélectionneur des Bleus : déclarations",
+   "raison": "Aucune déclaration d'octobre 2026 retrouvée, dates des sources contradictoires."
+  },
+  {
+   "titre": "Sinner forfait pour Paris et fin de saison",
+   "raison": "Déjà traité hier ; repris seulement dans le sujet de la course à Turin."
+  },
+  {
+   "titre": "Zverev n°1 de fin d'année",
+   "raison": "Déjà traité hier, rien de nouveau."
+  }
+ ]
+}

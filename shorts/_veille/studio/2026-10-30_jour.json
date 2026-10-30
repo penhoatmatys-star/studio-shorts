@@ -1,0 +1,240 @@
+{
+ "struff_djokovic": {
+  "scripts": [
+   {
+    "id": "5b356f",
+    "titre": "Première défaite après 8-0, conséquence Turin",
+    "mecanisme": "hook : série brisée + enjeu chiffré → décor → premier set gagné → retournement Struff → clip → conséquences → Paris",
+    "texte": "Novak Djokovic avait battu ce joueur huit fois en huit confrontations, et jeudi à Bâle il a perdu contre lui pour la première fois, ce qui complique beaucoup sa qualification pour les Finales ATP.\n\nParce que le Serbe revenait dans ce tournoi pour la première fois depuis 2011, avec une invitation et un seul objectif. Il voulait gagner des points dans la course à Turin, après avoir battu Ugo Humbert la veille en trois sets.\n\nEn face, il y avait Jan-Lennard Struff, un Allemand de 36 ans qui n'avait jamais gagné contre lui. Djokovic remporte d'abord le premier set au jeu décisif, si bien que tout se passe comme d'habitude.\n\nSauf que Struff va sortir vingt-sept aces et sauver les six balles de break qu'il a eues contre lui. Djokovic, malgré ses vingt et un aces, n'arrivera jamais à le breaker en dix-huit jeux de retour.\n\n[CLIP Struff] Je savais que je devais jouer mon meilleur tennis pour avoir une chance.\n\nIl gagne le deuxième set sept à cinq avec un seul break, obtenu sur balle de set. Puis il prend le troisième au jeu décisif, après deux heures et trente-six minutes de match, pour une première victoire contre Djokovic après huit défaites.\n\nEt pour cause, Djokovic est onzième de la course avec deux mille huit cent quatre-vingt-dix points. Il se retrouve à trois cent dix-neuf points de Rafael Jodar, neuvième et dernier qualifié provisoire depuis le forfait de Sinner.\n\nUn titre à Bâle l'aurait placé cent trente et un points devant Jodar. Maintenant il ne lui reste que le Masters 1000 de Paris, qui se joue pour la première fois à Nanterre début novembre.",
+    "mots": 260,
+    "clips": [
+     {
+      "moment": "0:00",
+      "description": "Hook visuel : Djokovic vs Struff à Bâle",
+      "url": "https://www.youtube.com/results?search_query=Djokovic+Struff+Basel+2026+highlights"
+     },
+     {
+      "moment": "0:35",
+      "description": "Aces de Struff",
+      "url": "https://www.youtube.com/results?search_query=Struff+aces+Djokovic+Basel"
+     },
+     {
+      "moment": "0:20",
+      "description": "[CLIP Struff] interview",
+      "url": "https://www.youtube.com/results?search_query=Struff+interview+after+beating+Djokovic"
+     }
+    ],
+    "forces": "Faits recoupés, enjeu chiffré, phrases longues enchaînées avec « Parce que » et « Sauf que ».",
+    "risques": "Citation de Struff à retrouver en vidéo ; ordre des sets donné du point de vue de Struff.",
+    "chat": []
+   }
+  ],
+  "choisi": "5b356f"
+ },
+ "kym_shelton": {
+  "scripts": [
+   {
+    "id": "3b35fc",
+    "titre": "Le 222e sort le favori",
+    "mecanisme": "hook : écart de classement → décor → duel → retournement 5-2/5-5 → exploit historique suisse → lien Lehecka",
+    "texte": "Deux jours après le dernier match de Stan Wawrinka, le tournoi de Bâle a vu un autre Suisse, classé deux cent vingt-deuxième mondial, battre le numéro quatre mondial, sans que personne ait prévu que le favori sortirait aussi vite.\n\nIl s'appelle Jérôme Kym, il avait reçu une invitation pour jouer à la maison, et en face de lui il y avait Ben Shelton, tête de série numéro un du tournoi et déjà qualifié pour les Finales ATP.\n\nKym prend le premier set six à trois en breakant deux fois l'Américain. Shelton répond en gagnant le deuxième au jeu décisif, et à ce moment-là tout le monde pense que le match va basculer.\n\nSauf que le troisième set va se jouer sur un seul moment. Kym mène cinq à deux après deux breaks, Shelton revient à cinq partout, et c'est finalement le Suisse qui gagne le jeu décisif sept points à un.\n\nEt pour cause, Shelton traverse une période compliquée, parce qu'il avait perdu quatre de ses six derniers matchs. À Shanghai, il avait déjà été battu par un joueur moins bien classé que lui, Arthur Gea.\n\nPour Kym, c'est surtout une date qui compte, parce qu'aucun Suisse n'avait battu un joueur du top dix depuis Stan Wawrinka, qui avait sorti Andreï Roublev, alors numéro sept, à Stockholm en 2024.\n\nEt le plus étrange, c'est que la suite de son tournoi passe par Jiri Lehecka, le Tchèque qui avait battu Wawrinka pour son dernier match de carrière.\n\nLehecka avait battu Daniel Altmaier sept à cinq, six à quatre le même jour, et il attend donc le Suisse en quart de finale, le deuxième de la carrière de Kym sur le circuit.",
+    "mots": 280,
+    "clips": [
+     {
+      "moment": "0:00",
+      "description": "Kym - Shelton, break et jeu décisif",
+      "url": "https://www.youtube.com/results?search_query=Kym+Shelton+Basel+2026"
+     },
+     {
+      "moment": "0:35",
+      "description": "Wawrinka et Lehecka",
+      "url": "https://www.youtube.com/results?search_query=Wawrinka+Lehecka+Basel+2026"
+     }
+    ],
+    "forces": "Faits recoupés, enjeu chiffré, phrases longues enchaînées avec « Parce que » et « Sauf que ».",
+    "risques": "Détail du 3e set d'une seule source ; la date du quart de Lehecka n'est pas précisée.",
+    "chat": []
+   }
+  ],
+  "choisi": "3b35fc"
+ },
+ "wawrinka_lehecka": {
+  "scripts": [
+   {
+    "id": "79ff47",
+    "titre": "Le dernier à l'avoir battu",
+    "mecanisme": "hook : dernier point → décor des adieux → match → clip Lehecka → clip Wawrinka → exhibition",
+    "texte": "Le dernier point du dernier match de Stan Wawrinka a été gagné par Jiri Lehecka, un Tchèque qui ne l'avait jamais affronté, et après le match il a dit quelque chose que personne n'attendait.\n\nParce que Wawrinka, quarante et un ans, avait annoncé que Bâle serait son dernier tournoi, après trois titres du Grand Chelem et seize titres ATP, et le tournoi lui avait préparé une cérémonie d'adieux la veille sur le court central.\n\nLe mardi vingt-sept octobre, il affronte donc Lehecka, qu'il n'avait jamais rencontré,, vingt et unième mondial, alors que lui-même est cent cinquante et unième. Wawrinka mène cinq à quatre dans le deuxième set, mais Lehecka perd à peine du terrain.\n\nIl avait sauvé deux balles de break dans le premier set avant de le gagner sept à cinq, et il remporte le jeu décisif du deuxième sept points à deux.\n\nSauf que ce qui marque, c'est ce que dit le Tchèque après le match.\n\n[CLIP Lehecka] C'est un peu bizarre d'être le dernier joueur à le battre, mais en même temps, c'est un honneur.\n\nLe public se lève après la balle de match, et Wawrinka, lui, va parler longuement devant le public pour remercier tous ceux qui l'ont accompagné pendant plus de vingt ans.\n\n[CLIP Wawrinka] Je suis triste, mais j'ai le sourire, car j'ai vécu des moments exceptionnels.\n\nIl explique qu'il voulait finir sa carrière chez lui, en Suisse, que c'est pour lui la fin idéale, et il remercie même le tournoi de lui avoir donné autant de billets chaque année, ce qui lui a permis d'en faire profiter tous ses potes pendant toutes ces années.\n\nUne exhibition d'adieux serait prévue en décembre à Genève, avec Federer, Murray et Monfils, mais en match officiel, c'est bien Lehecka qui a eu le dernier mot.",
+    "mots": 263,
+    "clips": [
+     {
+      "moment": "0:00",
+      "description": "Balle de match Lehecka - Wawrinka",
+      "url": "https://www.youtube.com/results?search_query=Wawrinka+Lehecka+Basel+last+match"
+     },
+     {
+      "moment": "0:30",
+      "description": "[CLIP Lehecka] interview",
+      "url": "https://www.youtube.com/results?search_query=Lehecka+interview+Wawrinka+honneur"
+     },
+     {
+      "moment": "0:45",
+      "description": "[CLIP Wawrinka] discours",
+      "url": "https://www.youtube.com/results?search_query=Wawrinka+discours+adieux+B%C3%A2le"
+     }
+    ],
+    "forces": "Faits recoupés, enjeu chiffré, phrases longues enchaînées avec « Parce que » et « Sauf que ».",
+    "risques": "Sujet déjà couvert hier : intérêt limité aux deux citations ; exhibition de Genève non confirmée.",
+    "chat": []
+   }
+  ],
+  "choisi": "79ff47"
+ },
+ "mbappe_barca_ballon": {
+  "scripts": [
+   {
+    "id": "2c74a6",
+    "titre": "100 buts puis 2e du Ballon d'Or",
+    "mecanisme": "hook : dimanche/lendemain → Clasico → but à la 87e → clip Mourinho → chiffres → Londres, antithèse",
+    "texte": "Le dimanche, Kylian Mbappé a atteint les cent buts avec le Real Madrid dans le stade du Barça, et le lendemain, le jury du Ballon d'Or l'a classé deuxième, derrière Harry Kane.\n\nParce que ce Clasico du vingt-cinq octobre au Camp Nou, Barcelone l'abordait avec neuf victoires en neuf matchs de Liga, alors que le Real Madrid, entraîné par José Mourinho, courait derrière à six points du leader.\n\nMbappé ouvre le score à la quarante et unième minute sur une relance de Gerard Martín qui lui retombe dessus. Raphinha égalise à la soixante et unième, et le match semble partir vers un nul que personne ne veut.\n\nSauf qu'à la quatre-vingt-septième minute, Camavinga lui offre un centre en retrait après une longue course, et Mbappé n'a plus qu'à pousser le ballon au fond pour donner la victoire deux à un.\n\n[CLIP Mourinho] Nous avons gagné avec calme et avec tout le mérite.\n\nRésultat, le Real vient de prendre les trois points chez un leader qui avait gagné tous ses matchs, et il passe à vingt-quatre points en dix matchs, à trois points de Barcelone, et il revient à un point d'Atlético Madrid, deuxième du classement.\n\nEt ce soir-là, Mbappé atteint cent buts en cent seize matchs avec le Real, avec huit buts en sept Clasicos, soit presque un but par match depuis son arrivée.\n\nMais le lendemain à Londres, au London Palladium, le jury lui préfère Harry Kane et le classe deuxième, devant Lamine Yamal.\n\nAutrement dit, il a marqué contre le Barça le dimanche pour faire gagner son équipe, et il a perdu le trophée individuel le lundi, avec exactement la même saison derrière lui.",
+    "mots": 264,
+    "clips": [
+     {
+      "moment": "0:00",
+      "description": "Mbappé but à la 87e",
+      "url": "https://www.youtube.com/results?search_query=Mbapp%C3%A9+87+minute+Barcelona+Real+Madrid"
+     },
+     {
+      "moment": "0:25",
+      "description": "[CLIP Mourinho] conférence",
+      "url": "https://www.youtube.com/results?search_query=Mourinho+press+conference+Clasico+Camp+Nou+2026"
+     },
+     {
+      "moment": "0:50",
+      "description": "Ballon d'Or 2026, classement",
+      "url": "https://www.youtube.com/results?search_query=Ballon+d%27Or+2026+Kane+Mbapp%C3%A9+Yamal"
+     }
+    ],
+    "forces": "Faits recoupés, enjeu chiffré, phrases longues enchaînées avec « Parce que » et « Sauf que ».",
+    "risques": "Sujet Clasico déjà traité hier (angle Mourinho) ; minute du 2e but 87e ou 88e selon les sources.",
+    "chat": []
+   }
+  ],
+  "choisi": "2c74a6"
+ },
+ "alcaraz_khachanov_vienne": {
+  "scripts": [
+   {
+    "id": "e759e1",
+    "titre": "À un jeu de la défaite",
+    "mecanisme": "hook aveu → 5-6 → clip → série de 22",
+    "texte": "Carlos Alcaraz était à un jeu de perdre son huitième de finale à Vienne, et après le match il a reconnu qu'il ne savait même pas comment il avait réussi à s'en sortir.\n\nLe mardi vingt-sept octobre, face à Karen Khachanov, l'Espagnol est mené cinq à six dans le deuxième set. Mais il va breaker à blanc puis gagner le jeu décisif sept points à cinq, pour s'imposer six à quatre, sept à six.\n\n[CLIP Alcaraz] Je ne sais pas, honnêtement, comment j'ai fait.\n\nCette victoire lui offre un vingt-deuxième succès d'affilée dans les tournois ATP 500, et il mène désormais sept à zéro contre Khachanov. Il n'avait joué qu'une seule fois à Vienne, en 2021, où il avait atteint les demi-finales.",
+    "mots": 112,
+    "clips": [
+     {
+      "moment": "0:00",
+      "description": "Alcaraz à 5-6 dans le 2e set",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+Khachanov+Vienna+2026"
+     },
+     {
+      "moment": "0:12",
+      "description": "[CLIP Alcaraz] interview",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+interview+Vienna+Khachanov"
+     }
+    ],
+    "forces": "Un seul fil, 110-130 mots, fait central en hook.",
+    "risques": "Une seule source pour le match.",
+    "chat": []
+   }
+  ],
+  "choisi": "e759e1"
+ },
+ "turin_derniere_place": {
+  "scripts": [
+   {
+    "id": "69c07e",
+    "titre": "319 points",
+    "mecanisme": "hook chiffre → Jodar → Vacherot/Djokovic → Paris",
+    "texte": "Depuis le forfait de Jannik Sinner, la dernière place pour les Finales ATP de Turin se joue à trois cent dix-neuf points, et jeudi à Bâle, celui qui la détient et celui qui la vise ont perdu le même jour.\n\nParce que Rafael Jodar est neuvième de la course avec trois mille deux cent neuf points, ce qui lui donne la dernière place qualificative, puisque Sinner ne rejouera plus cette année.\n\nSauf que Jodar s'est incliné face à Valentin Vacherot dans un jeu décisif de la dernière manche, et Novak Djokovic, onzième avec deux mille huit cent quatre-vingt-dix points, a perdu contre Struff.\n\nEntre eux, il y a Alex de Minaur, dixième, et le Masters 1000 de Paris, début novembre, sera la dernière occasion avant les Finales du quinze novembre.",
+    "mots": 130,
+    "clips": [
+     {
+      "moment": "0:00",
+      "description": "Jodar à Bâle",
+      "url": "https://www.youtube.com/results?search_query=Jodar+Vacherot+Basel+2026"
+     }
+    ],
+    "forces": "Un seul fil, 110-130 mots, fait central en hook.",
+    "risques": "Chiffres de la course susceptibles de bouger après les matchs de vendredi.",
+    "chat": []
+   }
+  ],
+  "choisi": "69c07e"
+ },
+ "om_havre": {
+  "scripts": [
+   {
+    "id": "9496e3",
+    "titre": "4-0 puis 4-3",
+    "mecanisme": "hook score → remontée havraise → résultat → PSG vendredi",
+    "texte": "L'Olympique de Marseille menait quatre à zéro contre Le Havre, la lanterne rouge de Ligue 1 avec seulement deux points, et pourtant le match s'est terminé sur un score de quatre à trois pour les Marseillais.\n\nParce que les Havrais ont réussi à marquer trois buts avant la fin de la rencontre. Marseille a donc dû tenir jusqu'au coup de sifflet final pour conserver sa victoire de la huitième journée.\n\nRésultat, l'OM prend les trois points, ce qui compte beaucoup dans un début de championnat où les écarts restent très serrés.\n\nEt le plus étrange, c'est que ce même Havre reçoit le PSG ce vendredi trente octobre, avec trois buts marqués contre Marseille dans les jambes.",
+    "mots": 116,
+    "clips": [
+     {
+      "moment": "0:00",
+      "description": "OM 4-0 Le Havre",
+      "url": "https://www.youtube.com/results?search_query=Marseille+Le+Havre+4-3"
+     }
+    ],
+    "forces": "Un seul fil, 110-130 mots, fait central en hook.",
+    "risques": "Buteurs non retrouvés ; la lanterne rouge à 2 points date du 26 octobre.",
+    "chat": []
+   }
+  ],
+  "choisi": "9496e3"
+ },
+ "fils_fritz_bale": {
+  "scripts": [
+   {
+    "id": "99865e",
+    "titre": "Quart pour Turin",
+    "mecanisme": "hook course → Fils → Fritz → conséquence",
+    "texte": "Arthur Fils est septième de la course pour les Finales ATP, et vendredi à Bâle il joue un quart de finale contre un Américain qui doit absolument gagner pour garder une chance.\n\nParce que Fils, deuxième tête de série du tournoi, vient de battre Alex Michelsen, avec trois mille quatre cent soixante-quinze points dans la course, juste devant Frances Tiafoe qui en a trois mille trois cent quatre-vingts.\n\nSauf que Taylor Fritz, treizième avec deux mille sept cent trente-cinq points, vient de battre Denis Shapovalov six à quatre, six à trois.\n\nPour le Français, une victoire rapprocherait donc la qualification, alors que les Finales commencent le quinze novembre à Turin.",
+    "mots": 110,
+    "clips": [
+     {
+      "moment": "0:00",
+      "description": "Fils à Bâle",
+      "url": "https://www.youtube.com/results?search_query=Arthur+Fils+Basel+2026"
+     }
+    ],
+    "forces": "Un seul fil, 110-130 mots, fait central en hook.",
+    "risques": "Le quart se joue vendredi 30 octobre : le script peut être périmé dans la journée.",
+    "chat": []
+   }
+  ],
+  "choisi": "99865e"
+ },
+ "psg_lyon_tete": {
+  "scripts": [
+   {
+    "id": "684a92",
+    "titre": "Deux buts tardifs",
+    "mecanisme": "hook tête → buts → Luis Enrique → classement",
+    "texte": "Le PSG a pris la tête de la Ligue 1 lundi soir en battant Lyon deux à zéro au Parc des Princes, mais il a fallu attendre la soixante-douzième minute pour voir le premier but.\n\nParce que c'est Senny Mayulu qui ouvre le score à ce moment-là, avant que Mika Godts ne double la mise à la quatre-vingt-quatrième minute.\n\nLuis Enrique avait expliqué avant le match que jouer contre Lyon était une motivation supplémentaire, et il avait aussi donné des nouvelles de Khvicha Kvaratskhelia, blessé.\n\nCe match du lundi soir clôturait la huitième journée, et il permet à Paris de dépasser Rennes, qui avait seize points, ainsi que Lille, Monaco et Lyon.",
+    "mots": 112,
+    "clips": [
+     {
+      "moment": "0:00",
+      "description": "Buts de Mayulu et Godts",
+      "url": "https://www.youtube.com/results?search_query=PSG+Lyon+Mayulu+Godts"
+     }
+    ],
+    "forces": "Un seul fil, 110-130 mots, fait central en hook.",
+    "risques": "Le match du lundi 26 octobre a quatre jours ; une page du PSG évoque une autre journée.",
+    "chat": []
+   }
+  ],
+  "choisi": "684a92"
+ }
+}
