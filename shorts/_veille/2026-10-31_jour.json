@@ -1,0 +1,613 @@
+{
+ "titre": "Veille sport, samedi 31 octobre 2026",
+ "date": "2026-10-31",
+ "moment": "jour",
+ "tldr": "Neuf sujets GO. Longs : Struff (après Djokovic, Borges et la demi-finale de Bâle), Vacherot bat Rune un an après Shanghai, Fils abandonne à Bâle avant Paris, Dembélé / Yamal et le podium du Ballon d'Or. Courts : Kane et ses 61 buts, PSG club de l'année sans joueur dans le top 5, Sinner absent de Paris, le double Haase/Frantzen, l'Espagne au Ballon d'Or. La recherche web a été limitée (pas de résultats de la demi-finale de Bâle ni du week-end de Ligue 1) : plusieurs faits restent partiels.",
+ "sujets": [
+  {
+   "id": "struff_borges",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Struff : après Djokovic (8-0 brisé), Borges et une demi-finale à Bâle",
+   "note": 8,
+   "verdict": "go",
+   "suite": true,
+   "resume": "Jan-Lennard Struff, 36 ans, a battu Djokovic jeudi (6-7, 7-5, 7-6) après huit défaites, puis Borges 6-2, 6-3 vendredi pour atteindre les demi-finales de Bâle. Djokovic est 11e de la course à Turin, à 319 points de Jodar.",
+   "faits": [
+    "Jeudi 29 octobre 2026, Swiss Indoors : Struff bat Djokovic 6-7(4), 7-5, 7-6(5) en 2h36, après huit défaites en huit confrontations.",
+    "Struff a envoyé 27 aces et sauvé les 6 balles de break qu'il a affrontées (veille du 30 octobre, source ATP).",
+    "Vendredi 30 octobre, quart de finale : Struff bat Nuno Borges 6-2, 6-3 (ATP Tour).",
+    "Course à Turin (29 octobre) : Djokovic 11e, à 319 points de Rafael Jodar, 9e, qui tient la dernière place qualificative depuis le forfait de Sinner.",
+    "Finales ATP à Turin du 15 au 22 novembre ; Masters 1000 de Paris à Nanterre juste avant."
+   ],
+   "pourquoi": "Suite de la veille d'hier : angle neuf (la série 8-0 brisée puis le tournoi continue) avec un enjeu Turin chiffré.",
+   "angle": "Série brisée puis conséquence chiffrée.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Struff+Djokovic+Basel+2026+highlights",
+     "titre": "Résumé Struff - Djokovic",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Struff+Borges+Basel+2026",
+     "titre": "Struff - Borges, quart de finale",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du match (aces, balle de match)",
+    "Interview de Struff"
+   ],
+   "photos": [
+    "Photo Struff trophée / action",
+    "Photo Djokovic déçu",
+    "Classement course à Turin"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "ATP Tour : Basel 2026 results (quarts, 30 octobre)",
+     "url": "https://www.atptour.com/en/news/basel-2026-results"
+    },
+    {
+     "titre": "Veille du 2026-10-30 (Struff - Djokovic)",
+     "url": "shorts/_veille/2026-10-30_jour.md"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Quart de finale confirmé par l'ATP ; le score contre Djokovic et les chiffres de course viennent de la veille du 30 octobre (sources ATP).",
+   "echeance": "Demi-finale de Bâle (31 octobre) ; Paris Masters à Nanterre ; Finales ATP le 15 novembre.",
+   "hooks": [
+    "Ce joueur allemand de 36 ans avait perdu ses huit premiers matchs contre Novak Djokovic…",
+    "Huit défaites en huit matchs, puis Bâle.",
+    "Djokovic n'a jamais réussi à le breaker."
+   ],
+   "structure": [
+    "Hook série 8-0",
+    "Match contre Djokovic (tie-breaks, aces)",
+    "Conséquence course à Turin",
+    "Borges et demi-finale",
+    "Djokovic vers Paris"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 8.5,
+    "images": 8
+   }
+  },
+  {
+   "id": "vacherot_rune",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Vacherot bat Rune à Bâle, un an après le miracle de Shanghai",
+   "note": 8.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Valentin Vacherot, vainqueur à Shanghai en 2025 après les qualifications, bat Holger Rune 6-3, 3-6, 6-3 en quart de finale à Bâle. Un an plus tôt, c'est déjà Rune qu'il avait battu à Shanghai pour lancer son tournoi.",
+   "faits": [
+    "Vendredi 30 octobre 2026, quart de finale de Bâle : Vacherot bat Rune 6-3, 3-6, 6-3 (ATP Tour).",
+    "Octobre 2025, Shanghai : Vacherot (204e, issu des qualifications) bat Rune 2-6, 7-6, 6-4 après trois heures, Rune souffrant de crampes.",
+    "Il bat ensuite Djokovic en demi-finale puis son cousin Arthur Rinderknech en finale du Masters 1000 de Shanghai.",
+    "À Bâle en 2025, il avait perdu au premier tour contre Fritz 4-6, 7-6, 7-5.",
+    "Le Masters 1000 de Paris se joue à Nanterre juste après."
+   ],
+   "pourquoi": "Anniversaire parfait : même adversaire, un an après, et rappel d'une histoire que le public français adore (Monégasque, cousin de Rinderknech).",
+   "angle": "Miroir d'un an : même adversaire, autre statut.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Vacherot+Rune+Basel+2026",
+     "titre": "Vacherot - Rune, Bâle",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Vacherot+Shanghai+2025+champion+shorts",
+     "titre": "Sacre à Shanghai",
+     "format": "9:16",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du quart contre Rune",
+    "Images Shanghai 2025"
+   ],
+   "photos": [
+    "Photo Vacherot Shanghai trophée",
+    "Photo Rune",
+    "Photo Rinderknech"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "ATP Tour : Basel 2026 results (quarts, 30 octobre)",
+     "url": "https://www.atptour.com/en/news/basel-2026-results"
+    },
+    {
+     "titre": "Flashscore : Vacherot stuns Rune, Shanghai 2025",
+     "url": "https://www.flashscore.com/news/tennis-shanghai-atp-singles-qualifier-vacherot-stuns-rune-to-reach-shanghai-masters-semi-finals/IiejnuzB/"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Quart 2026 : ATP Tour. Shanghai 2025 : Flashscore, Monaco Tribune. Demi/finale Shanghai : TennisMajors.",
+   "echeance": "Demi-finale à Bâle (31 octobre) ; Masters 1000 de Paris à Nanterre.",
+   "hooks": [
+    "Il y a tout juste un an, ce joueur classé 204e sortait des qualifications à Shanghai…",
+    "Même adversaire, un an après.",
+    "Vacherot contre Rune, deuxième acte."
+   ],
+   "structure": [
+    "Hook anniversaire",
+    "Match de Bâle",
+    "Souvenir Shanghai (Rune, crampes)",
+    "Demi puis finale contre Rinderknech",
+    "Défaite Fritz à Bâle 2025",
+    "Retour à Bâle, Paris à venir"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 8.5,
+    "images": 8
+   }
+  },
+  {
+   "id": "fils_abandon",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Fils abandonne à Bâle, quelques jours avant Paris",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Arthur Fils, 2e tête de série, a abandonné contre Fritz (2-6, 0-2) en quart de finale à Bâle, quelques jours avant le Masters 1000 de Paris. La cause n'est pas connue.",
+   "faits": [
+    "Vendredi 30 octobre 2026 : Fritz [6] bat Fils [2] 6-2, 2-0, abandon du Français (ATP Tour).",
+    "Fils avait été éloigné des courts après une blessure au dos au 2e tour de Roland-Garros 2025 et avait déclaré forfait à Bâle l'an dernier.",
+    "Le Masters 1000 de Paris se joue à Nanterre du 31 octobre au 8 novembre ; Fils, Humbert et Rinderknech sont directement dans le tableau principal (site officiel).",
+    "Cause de l'abandon : non confirmée au moment de la veille."
+   ],
+   "pourquoi": "Sujet très français, incertitude et échéance proche.",
+   "angle": "Abandon puis enjeu Paris.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Fils+Fritz+Basel+2026+retire",
+     "titre": "Abandon de Fils",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Arthur+Fils+Paris+Masters+shorts",
+     "titre": "Fils en action",
+     "format": "9:16",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Cause officielle de l'abandon",
+    "Images du match"
+   ],
+   "photos": [
+    "Photo Fils",
+    "Photo Fritz",
+    "Plenitude Arena Nanterre"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "ATP Tour : Basel 2026 results (quarts, 30 octobre)",
+     "url": "https://www.atptour.com/en/news/basel-2026-results"
+    },
+    {
+     "titre": "Puntodebreak : Fils et sa saison",
+     "url": "https://www.puntodebreak.com/en/2025/10/23/son-puts-an-end-to-what-remains-of-the-season"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Résultat confirmé par l'ATP ; cause de l'abandon inconnue ; historique de blessure 2025 d'après la presse.",
+   "echeance": "Masters 1000 de Paris, du 31 octobre au 8 novembre.",
+   "hooks": [
+    "Ce joueur français a quitté le court de Bâle après un set et deux jeux…",
+    "Fils abandonne à quelques jours de Paris.",
+    "Rien n'a été expliqué."
+   ],
+   "structure": [
+    "Hook abandon",
+    "Contexte Fritz",
+    "Passé de blessure",
+    "Paris à Nanterre",
+    "Question ouverte"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 6.5,
+    "images": 7
+   }
+  },
+  {
+   "id": "yamal_dembele_podium",
+   "format": "long",
+   "sport": "football",
+   "titre": "Ballon d'Or : Dembélé écarte Yamal de son top 3, Yamal finit troisième",
+   "note": 8,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Dembélé avait cité Kvaratskhelia, Kane et Mbappé comme favoris, sans Yamal, qui avait répondu avec ironie. Le 26 octobre à Londres, Kane gagne devant Mbappé et Yamal.",
+   "faits": [
+    "Le 26 octobre 2026, 70e cérémonie à Londres : Kane gagne, devant Mbappé 2e, Yamal 3e, Rodri 4e, Messi 5e.",
+    "Avant la cérémonie, Dembélé a cité Kvaratskhelia, Kane et Mbappé, en disant qu'il ne pouvait pas voter pour lui-même ; Yamal a répondu avec ironie (propos rapportés par la presse).",
+    "Dembélé a ensuite félicité Kane publiquement.",
+    "Le PSG est élu club de l'année pour la 2e fois de suite.",
+    "Kane : 61 buts avec le Bayern, 73 avec l'Angleterre."
+   ],
+   "pourquoi": "Duel de personnages simple (modèle Dembélé) et résultat tranché.",
+   "angle": "Pronostic contredit par le podium.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Yamal+Dembélé+Ballon+d'Or+réponse",
+     "titre": "Réponse de Yamal",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Ballon+d'Or+2026+cérémonie+Kane+shorts",
+     "titre": "Kane sacré",
+     "format": "9:16",
+     "parle": false,
+     "usage": "payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Citation exacte de Yamal (vidéo)",
+    "Interview Dembélé avant la cérémonie"
+   ],
+   "photos": [
+    "Photo Yamal",
+    "Photo Dembélé",
+    "Photo Kane trophée"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Paris Match Belgique : Ballon d'Or 2026, Kane remporte le trophée",
+     "url": "https://www.parismatch.be/actualites/sport/2026/10/26/ballon-dor-2026-harry-kane-remporte-le-trophee-alexia-putellas-sacree-chez-les-femmes-4KBL54XHPNDNVOZDAHEZTYLGYY/"
+    },
+    {
+     "titre": "Foot Africa : Dembélé écarte Yamal",
+     "url": "https://foot-africa.com/actualites/dembele-ecarte-yamal-de-ses-favoris-pour-le-ballon-dor-le-crack-catalan-repond-1345175/"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Podium : Paris Match Belgique. Propos de Dembélé/Yamal : Foot Africa (citation exacte non retrouvée).",
+   "echeance": "Prochaine cérémonie en 2027.",
+   "hooks": [
+    "Avant la cérémonie, Dembélé avait cité son top trois, Yamal n'en faisait pas partie…",
+    "Dembélé n'a pas choisi Yamal, Yamal a fini troisième.",
+    "Yamal avait répondu avec ironie."
+   ],
+   "structure": [
+    "Hook pronostic",
+    "Top 3 de Dembélé",
+    "Réponse ironique de Yamal",
+    "Podium",
+    "Kane en chiffres",
+    "Dembélé félicite Kane"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 7,
+    "images": 8.5
+   }
+  },
+  {
+   "id": "kane_61_buts",
+   "format": "court",
+   "sport": "football",
+   "titre": "Kane : 61 buts, seul Messi a fait mieux sur une saison",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": true,
+   "resume": "Kane gagne le Ballon d'Or avec 61 buts pour le Bayern et 73 avec l'Angleterre, seul Messi (82 en 2010-11) a fait mieux sur une saison.",
+   "faits": [
+    "26 octobre 2026, Londres : Harry Kane (33 ans) gagne le Ballon d'Or.",
+    "61 buts pour le Bayern, 73 avec l'Angleterre ; seul Messi a fait mieux (82 en 2010-11).",
+    "Premier Anglais récompensé depuis Michael Owen en 2001."
+   ],
+   "pourquoi": "Chiffre fort et simple.",
+   "angle": "Chiffre sec.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Harry+Kane+Ballon+d'Or+2026",
+     "titre": "Kane sacré",
+     "format": "9:16",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du sacre"
+   ],
+   "photos": [
+    "Photo Kane trophée"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Paris Match Belgique : Ballon d'Or 2026, Kane remporte le trophée",
+     "url": "https://www.parismatch.be/actualites/sport/2026/10/26/ballon-dor-2026-harry-kane-remporte-le-trophee-alexia-putellas-sacree-chez-les-femmes-4KBL54XHPNDNVOZDAHEZTYLGYY/"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Paris Match Belgique.",
+   "echeance": "—",
+   "hooks": [
+    "Ce joueur de 33 ans a gagné le Ballon d'Or avec un total que seul Messi a dépassé…"
+   ],
+   "structure": [
+    "Hook chiffre",
+    "Détail 61/73",
+    "Messi 82",
+    "Owen 2001"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8.5,
+    "images": 8
+   }
+  },
+  {
+   "id": "psg_sans_joueur",
+   "format": "court",
+   "sport": "football",
+   "titre": "Le PSG meilleur club, mais aucun joueur dans le top 5",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Le PSG est élu club de l'année pour la 2e fois de suite, mais Kane, Mbappé, Yamal, Rodri et Messi occupent le top 5 du Ballon d'Or.",
+   "faits": [
+    "26 octobre 2026 : PSG élu club de l'année, 2e année de suite après la Ligue des champions.",
+    "Top 5 : Kane, Mbappé, Yamal, Rodri, Messi ; Dembélé absent."
+   ],
+   "pourquoi": "Paradoxe collectif / individuel, très partageable.",
+   "angle": "Contraste.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=PSG+club+de+l'année+Ballon+d'Or+2026",
+     "titre": "PSG sacré",
+     "format": "?",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images PSG"
+   ],
+   "photos": [
+    "Photo PSG trophée"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Paris Match Belgique : Ballon d'Or 2026, Kane remporte le trophée",
+     "url": "https://www.parismatch.be/actualites/sport/2026/10/26/ballon-dor-2026-harry-kane-remporte-le-trophee-alexia-putellas-sacree-chez-les-femmes-4KBL54XHPNDNVOZDAHEZTYLGYY/"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Paris Match Belgique.",
+   "echeance": "—",
+   "hooks": [
+    "Le PSG vient d'être élu meilleur club de l'année, mais aucun joueur du club n'est dans le top cinq…"
+   ],
+   "structure": [
+    "Hook paradoxe",
+    "Top 5",
+    "Ligue des champions",
+    "Chute"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 8,
+    "images": 7.5
+   }
+  },
+  {
+   "id": "sinner_paris",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Sinner absent du Masters de Paris qu'il avait gagné",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": true,
+   "resume": "Sinner, vainqueur à Paris en 2025, ne défend pas son titre à Nanterre : saison terminée sur blessure au genou.",
+   "faits": [
+    "Sinner a annoncé début octobre qu'il ne rejouerait pas en 2026 (inflammation au genou).",
+    "Il manque Paris et les Finales ATP.",
+    "Jodar tient la dernière place pour Turin."
+   ],
+   "pourquoi": "Contexte du Masters de Paris qui commence.",
+   "angle": "Titre vacant.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Sinner+Paris+Masters+2025+champion",
+     "titre": "Sinner champion",
+     "format": "9:16",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de Sinner à Paris 2025"
+   ],
+   "photos": [
+    "Photo Sinner trophée Paris 2025"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "KSAT : Sinner manquera le reste de l'année",
+     "url": "https://www.ksat.com/sports/2026/10/06/jannik-sinner-to-miss-the-rest-of-the-year-due-to-knee-inflammation/"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Annonce début octobre via presse ; détails médicaux non vérifiés.",
+   "echeance": "Masters de Paris, du 31 octobre au 8 novembre.",
+   "hooks": [
+    "Jannik Sinner avait gagné le Masters 1000 de Paris l'an dernier…"
+   ],
+   "structure": [
+    "Hook tenant du titre",
+    "Annonce du genou",
+    "Course à Turin",
+    "Fin"
+   ],
+   "scores": {
+    "viral": 6.5,
+    "faits": 7,
+    "images": 7
+   }
+  },
+  {
+   "id": "haase_frantzen",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Haase (39 ans) et Frantzen sortent les têtes de série 2 en double à Bâle",
+   "note": 5.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Haase/Frantzen battent Cash/Glasspool 3-6, 7-6(6), 10-8 en quart de finale du double à Bâle.",
+   "faits": [
+    "Vendredi 30 octobre 2026 : Frantzen/Haase battent les têtes de série n°2 Cash/Glasspool 3-6, 7-6(6), 10-8 (ATP Tour)."
+   ],
+   "pourquoi": "Petite histoire, match tie-break serré.",
+   "angle": "Surprise en double.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Haase+Frantzen+Cash+Glasspool+Basel",
+     "titre": "Résumé du double",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du double"
+   ],
+   "photos": [
+    "Photo Haase"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "ATP Tour : Basel 2026 results (quarts, 30 octobre)",
+     "url": "https://www.atptour.com/en/news/basel-2026-results"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Score ATP ; âge de Haase (39 ans, né en 1987) hors source.",
+   "echeance": "—",
+   "hooks": [
+    "Ce joueur néerlandais de 39 ans vient de sortir les têtes de série numéro deux…"
+   ],
+   "structure": [
+    "Hook",
+    "Score",
+    "Retournement tie-break",
+    "Chute"
+   ],
+   "scores": {
+    "viral": 5,
+    "faits": 7,
+    "images": 4.5
+   }
+  },
+  {
+   "id": "espagne_ballon_dor",
+   "format": "court",
+   "sport": "football",
+   "titre": "Quatre Espagnols distingués au Ballon d'Or",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": false,
+   "resume": "Putellas (3e Ballon d'Or), De la Fuente (entraîneur), Unai Simón (gardien) et Yamal 3e chez les hommes.",
+   "faits": [
+    "26 octobre 2026, Londres : Alexia Putellas gagne son 3e Ballon d'Or (2021, 2022, 2026).",
+    "Luis de la Fuente meilleur entraîneur, Unai Simón meilleur gardien.",
+    "Yamal 3e du classement masculin ; l'Espagne est championne du monde en titre."
+   ],
+   "pourquoi": "Angle neutre, comptage simple.",
+   "angle": "Domination espagnole.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Putellas+Ballon+d'Or+2026",
+     "titre": "Putellas sacrée",
+     "format": "9:16",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de la cérémonie"
+   ],
+   "photos": [
+    "Photo Putellas",
+    "Photo de la Fuente"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Paris Match Belgique : Ballon d'Or 2026, Kane remporte le trophée",
+     "url": "https://www.parismatch.be/actualites/sport/2026/10/26/ballon-dor-2026-harry-kane-remporte-le-trophee-alexia-putellas-sacree-chez-les-femmes-4KBL54XHPNDNVOZDAHEZTYLGYY/"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Paris Match Belgique.",
+   "echeance": "—",
+   "hooks": [
+    "Quatre Espagnols sont repartis de Londres avec une distinction…"
+   ],
+   "structure": [
+    "Hook décompte",
+    "Détail des trois prix",
+    "Yamal 3e"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 8.5,
+    "images": 7
+   }
+  }
+ ],
+ "ecartes": [
+  {
+   "titre": "Résultats de Ligue 1 du week-end",
+   "raison": "Aucun résultat de la 9e journée retrouvé à l'heure de la veille."
+  },
+  {
+   "titre": "Demi-finales de Bâle",
+   "raison": "Pas encore jouées ou non retrouvées."
+  },
+  {
+   "titre": "Tirage du Masters de Paris",
+   "raison": "Tirage non retrouvé en ligne."
+  }
+ ]
+}

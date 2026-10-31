@@ -1,0 +1,146 @@
+{
+ "struff_borges": {
+  "scripts": [
+   {
+    "id": "e49481",
+    "titre": "Le 8-0 brisé",
+    "mecanisme": "Hook série (#4/#5) + chaîne de faits, retournement « Sauf que » sur le service.",
+    "texte": "Ce joueur allemand de 36 ans avait perdu ses huit premiers matchs contre Novak Djokovic, et personne ne se doutait que c'est à Bâle qu'il allait enfin renverser la série.\n\nIl s'appelle Jan-Lennard Struff, et jeudi, au troisième tour des Swiss Indoors, il va entrer sur le court face à un Serbe qui menait huit à zéro dans leurs confrontations, alors que Djokovic essayait de rester dans la course pour Turin.\n\nLe premier set va se jouer au jeu décisif, que Djokovic gagne sept points à quatre. Sauf que Struff va servir de mieux en mieux, jusqu'à envoyer vingt-sept aces dans le match, et il va aussi sauver les six balles de break qu'il affronte, si bien que Djokovic n'a jamais réussi à le breaker.\n\nDans la deuxième manche, Struff prend le service du Serbe une seule fois, sur balle de set, et il gagne sept jeux à cinq, puis le troisième set se joue lui aussi au jeu décisif, que l'Allemand remporte sept points à cinq, après deux heures et trente-six minutes.\n\nRésultat, Djokovic repart de Suisse onzième de la course à Turin à trois cent dix-neuf points de Rafael Jodar, qui occupe la dernière place qualificative depuis le forfait de Jannik Sinner.\n\nEt le plus étrange, c'est que Struff n'a pas pris le temps de souffler, vu que vendredi il a battu le Portugais Nuno Borges six-deux, six-trois pour se qualifier pour les demi-finales.\n\nDjokovic, lui, va devoir aller chercher ses points au Masters 1000 de Paris, à Nanterre, avant les Finales ATP qui commencent le quinze novembre à Turin.",
+    "mots": 262,
+    "clips": [],
+    "forces": "Faits chiffrés et vérifiables, enjeu Turin.",
+    "risques": "Redite partielle de la veille d'hier ; pas de clip parlé vérifié.",
+    "chat": []
+   }
+  ],
+  "choisi": "e49481"
+ },
+ "vacherot_rune": {
+  "scripts": [
+   {
+    "id": "8e0152",
+    "titre": "Un an après Shanghai",
+    "mecanisme": "Hook anniversaire (miroir), cause avant événement.",
+    "texte": "Il y a tout juste un an, ce joueur classé deux cent quatrième mondial sortait des qualifications à Shanghai, mais personne ne se doutait que l'adversaire qu'il vient de battre à Bâle allait lancer l'aventure de sa carrière.\n\nIl s'appelle Valentin Vacherot, il est Monégasque, et vendredi, en quart de finale des Swiss Indoors, il a battu le Danois Holger Rune six-trois, trois-six, six-trois, en reprenant le dessus dans le dernier set après avoir perdu la deuxième manche. Il rejoint ainsi les demi-finales du tournoi, à Bâle.\n\nSauf que ce score en rappelle un autre, parce qu'en octobre dernier, à Shanghai, c'est déjà contre Rune que Vacherot avait fait basculer son tournoi, en quart de finale d'un Masters 1000, avec une victoire deux-six, sept-six, six-quatre, après trois heures de jeu, alors que le Danois souffrait de crampes dans le troisième set. Cette victoire a ouvert la porte du top cent à Vacherot, qui y entrait pour la première fois.\n\nÀ ce moment-là personne n'imaginait que la suite serait encore plus folle. En demi-finale il va battre Novak Djokovic, puis en finale il va retrouver son propre cousin, Arthur Rinderknech, qu'il bat lui aussi pour remporter le titre.\n\nMais bizarrement, à Bâle l'an dernier il avait perdu dès le premier tour contre Taylor Fritz, quatre-six, sept-six, sept-cinq. C'était un match où il était passé tout près de l'exploit.\n\nRésultat, un an plus tard, Vacherot est de retour au même endroit avec un titre de Masters 1000 dans sa vitrine, et il arrive à quelques jours du Masters 1000 de Paris, à Nanterre, avec une place en demi-finale.",
+    "mots": 266,
+    "clips": [],
+    "forces": "Histoire connue, images abondantes, chiffres clairs.",
+    "risques": "Résultat de la demi-finale de Bâle pas encore connu : à actualiser avant montage.",
+    "chat": []
+   }
+  ],
+  "choisi": "8e0152"
+ },
+ "fils_abandon": {
+  "scripts": [
+   {
+    "id": "a8e926",
+    "titre": "Fils, le dos et Paris",
+    "mecanisme": "Hook incertitude + cause avant événement, fin sur une échéance.",
+    "texte": "Ce joueur français, deuxième tête de série du tournoi, a quitté le court de Bâle vendredi après seulement un set et deux jeux, quelques jours avant le Masters 1000 de Paris, sans explication officielle connue.\n\nIl s'appelle Arthur Fils. En quart de finale des Swiss Indoors il affrontait l'Américain Taylor Fritz, sixième tête de série, qui menait six-deux, deux-zéro au moment où le Français a décidé d'abandonner.\n\nPour Fils, Bâle n'était pas un tournoi comme un autre. L'an dernier il avait dû renoncer à l'épreuve à cause d'une blessure au dos, apparue au deuxième tour de Roland-Garros en deux mille vingt-cinq, qui l'avait éloigné des courts pendant des mois.\n\nEt pour cause, son retour était attendu côté français, puisqu'il fait partie des joueurs capables d'aller chercher un gros résultat à domicile, sur dur et en salle, exactement comme à Bâle.\n\nSauf que rien ne permet de dire si le dos est de nouveau en cause, donc il faut rester prudent. Le plus étrange, c'est qu'on ne sait pas encore s'il sera au départ à Nanterre, ni si ce retour tant attendu va vraiment pouvoir se produire.\n\nCe qui est sûr, c'est que le Masters 1000 de Paris se joue cette année à Nanterre, dans la Plenitude Arena, du trente et un octobre au huit novembre. Selon le site officiel, Fils, Ugo Humbert et Arthur Rinderknech sont directement dans le tableau principal.\n\nAutrement dit, le tournoi le plus important de la saison pour le public français commence dans quelques jours, et la seule question qui reste pour Arthur Fils, c'est de savoir dans quel état il va arriver sur le court.",
+    "mots": 270,
+    "clips": [],
+    "forces": "Sujet 100 % français, échéance imminente.",
+    "risques": "Cause inconnue : à compléter avant production ; ne rien affirmer sur le dos.",
+    "chat": []
+   }
+  ],
+  "choisi": "a8e926"
+ },
+ "yamal_dembele_podium": {
+  "scripts": [
+   {
+    "id": "576de9",
+    "titre": "Le top 3 de Dembélé",
+    "mecanisme": "Hook pronostic contredit, duel Dembélé / Yamal.",
+    "texte": "Avant la cérémonie du Ballon d'Or, Ousmane Dembélé avait cité son top trois, Lamine Yamal n'en faisait pas partie, et personne ne se doutait que c'est justement lui qui allait finir sur le podium, devant Rodri et Lionel Messi.\n\nParce que Dembélé, tenant du titre, avait expliqué qu'il ne pouvait pas voter pour lui-même. Il avait donc choisi Khvicha Kvaratskhelia, Harry Kane et Kylian Mbappé, en laissant de côté le jeune Espagnol du Barça.\n\nSauf que Yamal ne l'a pas laissé passer. D'après les médias, il a répondu avec ironie en demandant si Dembélé ne l'avait pas mis dans son classement parce qu'il est un ami de Kylian Mbappé. Il avait donc très bien remarqué l'absence de son nom.\n\nLe lundi vingt-six octobre, à Londres, pour la soixante-dixième cérémonie, la décision est tombée. C'est Harry Kane qui a gagné devant Mbappé, deuxième, puis Yamal, troisième, avec Rodri quatrième et Messi cinquième. Kane a trente-trois ans. Il a marqué soixante et un buts avec le Bayern Munich cette saison, soixante-treize en comptant l'Angleterre, et il devient le premier Anglais à gagner le trophée depuis Michael Owen en deux mille un.\n\nMais ce que personne ne savait, c'est que Dembélé n'est même pas dans le top cinq, alors qu'il avait gagné le trophée l'année précédente. Son club, le Paris Saint-Germain, a pourtant été élu meilleur club de l'année pour la deuxième fois de suite.\n\nDembélé, lui, a félicité Kane publiquement en disant que sa victoire était incroyable, tandis que Yamal repart avec une troisième place, devant un Rodri et un Messi qu'il a dépassés au classement.",
+    "mots": 264,
+    "clips": [],
+    "forces": "Conflit simple, résultat factuel.",
+    "risques": "Citation de Yamal non retrouvée mot pour mot : paraphrase au conditionnel ; ne pas inventer de clip.",
+    "chat": []
+   }
+  ],
+  "choisi": "576de9"
+ },
+ "kane_61_buts": {
+  "scripts": [
+   {
+    "id": "6ff775",
+    "titre": "Kane et Messi",
+    "mecanisme": "Chiffre sec en ouverture.",
+    "texte": "Ce joueur de trente-trois ans a gagné le Ballon d'Or le lundi vingt-six octobre à Londres avec un total de buts que seul Lionel Messi a déjà dépassé sur une saison.\n\nIl s'appelle Harry Kane, il a marqué soixante et un buts avec le Bayern Munich, et en ajoutant ceux de l'Angleterre, le total monte à soixante-treize.\n\nMessi, lui, en avait inscrit quatre-vingt-deux en deux mille dix, deux mille onze avec Barcelone, et c'est le seul à avoir fait mieux sur une saison.\n\nKane devient donc le premier Anglais à remporter le trophée depuis Michael Owen en deux mille un, soit vingt-cinq ans plus tard, devant Kylian Mbappé et Lamine Yamal, qui complètent le podium.",
+    "mots": 115,
+    "clips": [],
+    "forces": "Très court, factuel.",
+    "risques": "Redite possible avec la veille du 29 octobre.",
+    "chat": []
+   }
+  ],
+  "choisi": "6ff775"
+ },
+ "psg_sans_joueur": {
+  "scripts": [
+   {
+    "id": "55434b",
+    "titre": "Collectif sans individuel",
+    "mecanisme": "Hook paradoxe.",
+    "texte": "Le Paris Saint-Germain vient d'être élu meilleur club de l'année pour la deuxième fois de suite, mais aucun joueur du club ne figure dans le top cinq du Ballon d'Or, et personne ne s'y attendait.\n\nParce que le lundi vingt-six octobre, à Londres, le classement s'est arrêté sur Harry Kane, Kylian Mbappé, Lamine Yamal, Rodri et Lionel Messi, sans qu'on y retrouve Ousmane Dembélé, vainqueur l'année précédente.\n\nSauf que le club parisien, lui, a gagné la Ligue des champions pour la deuxième saison d'affilée, ce qui lui a valu le trophée de meilleur club de l'année, qu'il avait déjà gagné en deux mille vingt-cinq.\n\nAutrement dit, le collectif le plus récompensé du football européen repart de la cérémonie sans une seule place dans les cinq premiers à titre individuel.",
+    "mots": 129,
+    "clips": [],
+    "forces": "Très court.",
+    "risques": "Sans clip.",
+    "chat": []
+   }
+  ],
+  "choisi": "55434b"
+ },
+ "sinner_paris": {
+  "scripts": [
+   {
+    "id": "234e1e",
+    "titre": "Le titre vacant",
+    "mecanisme": "Hook sur l'absence.",
+    "texte": "Jannik Sinner avait gagné le Masters 1000 de Paris l'an dernier, et personne ne se doutait qu'il ne reviendrait pas pour défendre son titre à Nanterre, où le tournoi commence ce week-end.\n\nParce que début octobre, l'Italien a annoncé qu'il ne rejouerait plus cette saison à cause d'une inflammation au genou droit, ce qui veut dire qu'il manquera aussi bien Paris que les Finales ATP de Turin, qui se jouent du quinze au vingt-deux novembre.\n\nRésultat, la dernière place pour Turin est tenue par Rafael Jodar, neuvième de la course, à trois cent dix-neuf points devant Novak Djokovic.\n\nLe quarantième Masters 1000 de Paris se joue donc sans son tenant du titre, du trente et un octobre au huit novembre, avec un tableau principal qui s'ouvre le deux.",
+    "mots": 128,
+    "clips": [],
+    "forces": "Contexte pour le tournoi qui démarre.",
+    "risques": "Redite de la veille du 29 octobre.",
+    "chat": []
+   }
+  ],
+  "choisi": "234e1e"
+ },
+ "haase_frantzen": {
+  "scripts": [
+   {
+    "id": "e5ec55",
+    "titre": "Haase en double",
+    "mecanisme": "Hook surprise.",
+    "texte": "Ce joueur néerlandais de trente-neuf ans vient de sortir les deuxièmes têtes de série du double à Bâle, et personne ne se doutait que ça se jouerait à un match tie-break à dix points à huit.\n\nIl s'appelle Robin Haase, il joue avec l'Allemand Constantin Frantzen, et vendredi, en quart de finale des Swiss Indoors, ils ont battu les Britanniques Julian Cash et Lloyd Glasspool, trois-six, sept-six, dix points à huit au match tie-break.\n\nParce que Cash et Glasspool avaient gagné le premier set, avant que leurs adversaires ne reviennent au jeu décisif de la deuxième manche, remporté huit points à six.\n\nSauf que dans le match tie-break qui décide de tout, c'est la paire Haase et Frantzen qui l'emporte.",
+    "mots": 120,
+    "clips": [],
+    "forces": "Très court.",
+    "risques": "Peu d'images attendues.",
+    "chat": []
+   }
+  ],
+  "choisi": "e5ec55"
+ },
+ "espagne_ballon_dor": {
+  "scripts": [
+   {
+    "id": "b97bc2",
+    "titre": "Quatre Espagnols",
+    "mecanisme": "Décompte.",
+    "texte": "Quatre Espagnols sont repartis de la cérémonie du Ballon d'Or avec une distinction, et personne ne se doutait qu'une troisième place au classement masculin viendrait compléter la soirée.\n\nParce que le lundi vingt-six octobre, à Londres, Alexia Putellas a gagné son troisième Ballon d'Or chez les femmes après deux mille vingt et un et deux mille vingt-deux. Luis de la Fuente a été élu meilleur entraîneur, et Unai Simón meilleur gardien.\n\nSauf que chez les hommes, Lamine Yamal a lui aussi terminé sur le podium, troisième derrière Harry Kane et Kylian Mbappé. Tous ces noms viennent d'une Espagne qui est championne du monde en titre, avec une sélection dont l'entraîneur et le gardien viennent d'être récompensés à Londres.",
+    "mots": 118,
+    "clips": [],
+    "forces": "Court.",
+    "risques": "Angle moins viral.",
+    "chat": []
+   }
+  ],
+  "choisi": "b97bc2"
+ }
+}
