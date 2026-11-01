@@ -1,0 +1,678 @@
+{
+ "titre": "Veille sport, dimanche 1er novembre 2026",
+ "date": "2026-11-01",
+ "moment": "jour",
+ "tldr": "Neuf sujets GO. Longs : Vacherot en finale à Bâle puis Djokovic au 1er tour de Paris, Struff à un point de la finale (Lehecka), Jodar dans le top 10 et la dernière place pour Turin, Hakimi (3 buts, 2 passes) au Havre. Courts : Giroud (Lille 1-0 Lens), Wahi (Nice 5-2 Rennes), double de Bâle (Bernet/Stricker contre Arribage/Olivetti), Bonzi et les Français à Paris, Fritz (4 finales sans titre). La finale de Bâle (dimanche) et la 10e journée de Ligue 1 n'étaient pas jouées ; recherche web limitée sur OM, Real, Barça.",
+ "sujets": [
+  {
+   "id": "vacherot_djokovic",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Vacherot en finale à Bâle, puis Djokovic dès le premier tour à Paris",
+   "note": 8.5,
+   "verdict": "go",
+   "suite": true,
+   "resume": "Valentin Vacherot a battu Fritz 7-6(5), 6-3 en demi-finale de Bâle et joue Lehecka en finale dimanche. Le tirage de Paris lui donne Djokovic, qu'il avait sorti à Shanghai en 2025, au premier tour.",
+   "faits": [
+    "Samedi 31 octobre 2026, Swiss Indoors : Vacherot bat Taylor Fritz (6e) 7-6(5), 6-3 en 1h27, premier Monégasque en finale du tournoi (ATP Tour).",
+    "Il était mené 1-4 dans le jeu décisif et a gagné 6 des 7 points suivants ; parcours : Navone, Jodar (3e) 7-6 2-6 7-6, Rune 6-3 3-6 6-3, Fritz.",
+    "Finale dimanche 1er novembre contre Jiri Lehecka (8e), qui l'avait battu à Tokyo ce mois-ci ; c'est sa première finale de la saison.",
+    "Shanghai 2025 : Vacherot, 204e mondial, bat Djokovic 6-3, 6-4 en demi-finale puis son cousin Arthur Rinderknech 4-6, 6-3, 6-3 en finale (champion de Masters 1000 le moins bien classé).",
+    "Masters 1000 de Paris (31 octobre au 8 novembre) : Djokovic, 10e tête de série, affronte Vacherot au premier tour (Tennis Majors)."
+   ],
+   "pourquoi": "Suite de la veille d'hier : la finale du jour et un choc daté Vacherot - Djokovic à Paris, avec le souvenir de Shanghai.",
+   "angle": "Le tombeur de Djokovic à Shanghai le retrouve dès le premier tour à Paris.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Vacherot+Fritz+Basel+2026+highlights",
+     "titre": "Résumé Vacherot - Fritz",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Vacherot+Djokovic+Shanghai+2025+semi+final+highlights",
+     "titre": "Shanghai 2025 : Vacherot bat Djokovic",
+     "format": "16:9",
+     "parle": false,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Vacherot+Fritz+Basel+interview+2026",
+     "titre": "Interview Vacherot à Bâle",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de la finale Vacherot - Lehecka (résultat à ajouter si joué)",
+    "Interview Vacherot où il parle de Fritz"
+   ],
+   "photos": [
+    "Photo Vacherot Bâle",
+    "Photo Djokovic Paris",
+    "Photo Vacherot trophée Shanghai 2025"
+   ],
+   "citations": [
+    {
+     "auteur": "Valentin Vacherot",
+     "texte": "You just have to pray on the returns because Taylor is one of the best servers on Tour.",
+     "source": "ATP Tour, 31 octobre 2026 (à retrouver en vidéo)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "ATP Tour : Vacherot upsets Fritz, Lehecka saves match point",
+     "url": "https://www.atptour.com/en/news/vacherot-fritz-basel-2026-saturday"
+    },
+    {
+     "titre": "Tennis Majors : Vacherot back in a final a year after Shanghai",
+     "url": "https://www.tennismajors.com/atp/vacherot-back-in-a-final-a-year-after-shanghai-as-fritzs-turin-hopes-fade-864638.html"
+    },
+    {
+     "titre": "Tennis Majors : Rolex Paris Masters 2026 draw, seeds",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-2026-draw-seeds-schedule-how-to-watch-864623.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et parcours confirmés par ATP et Tennis Majors ; le tirage Vacherot - Djokovic confirmé par Tennis Majors. Finale de dimanche non jouée à l'heure de la veille.",
+   "echeance": "Finale de Bâle dimanche 1er novembre ; Paris : premier tour Vacherot - Djokovic.",
+   "hooks": [
+    "Ce joueur de Monaco avait battu Novak Djokovic en demi-finale d'un Masters 1000 alors qu'il était 204e mondial…",
+    "Valentin Vacherot retrouve Djokovic dès le premier tour à Paris.",
+    "Cette phrase de Vacherot sur Fritz est la raison de sa finale à Bâle."
+   ],
+   "structure": [
+    "Hook Shanghai puis Djokovic",
+    "Demi-finale contre Fritz",
+    "Clip Vacherot",
+    "Parcours et jeu décisif",
+    "Retour sur Shanghai",
+    "Finale Lehecka et tirage de Paris"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 9,
+    "images": 8
+   }
+  },
+  {
+   "id": "struff_lehecka",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Struff à un point de la finale à Bâle, la balle de match qui disparaît",
+   "note": 8,
+   "verdict": "go",
+   "suite": true,
+   "resume": "Struff, vainqueur de Djokovic jeudi, a eu une balle de match en demi-finale contre Lehecka (3-6, 7-5, 6-4). Lehecka l'a sauvée et joue la finale.",
+   "faits": [
+    "Samedi 31 octobre 2026 : Lehecka (8e) bat Struff 3-6, 7-5, 6-4 en 2h01 (ATP Tour).",
+    "Struff a eu une balle de match à 5-4, 40/AD dans le deuxième set ; un retour qui a failli toucher Lehecka l'a effacée.",
+    "Lehecka : 22 aces contre 11 ; break dès le premier jeu du troisième set.",
+    "Lehecka dispute sa 3e finale de la saison (Miami, Tokyo) et sa première à Bâle.",
+    "Struff avait battu Djokovic jeudi, puis Borges 6-2, 6-3 en quarts."
+   ],
+   "pourquoi": "Suite : fin de l'histoire Struff avec un moment de match étrange et une citation de Lehecka.",
+   "angle": "La balle de match qui s'évapore.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Lehecka+Struff+Basel+2026+match+point",
+     "titre": "Balle de match Struff - Lehecka",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Lehecka+Struff+Basel+2026+interview",
+     "titre": "Interview Lehecka",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Extrait du point de balle de match",
+    "Interview Lehecka"
+   ],
+   "photos": [
+    "Photo Struff Bâle",
+    "Photo Lehecka"
+   ],
+   "citations": [
+    {
+     "auteur": "Jiri Lehecka",
+     "texte": "I don't know what happened there to be honest.",
+     "source": "ATP Tour, 31 octobre 2026 (à retrouver en vidéo)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "ATP Tour : Vacherot upsets Fritz, Lehecka saves match point",
+     "url": "https://www.atptour.com/en/news/vacherot-fritz-basel-2026-saturday"
+    },
+    {
+     "titre": "ATP Tour : Basel 2026 results (31 octobre)",
+     "url": "https://www.atptour.com/en/news/basel-2026-results"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score, balle de match et citation tirés de l'ATP ; le détail « à 5-4 » (ATP écrit 4-5, 40/AD) est mis en cohérence avec le service de Lehecka, à vérifier sur la vidéo.",
+   "echeance": "Finale de Bâle dimanche 1er novembre.",
+   "hooks": [
+    "Ce joueur allemand de 36 ans avait battu Djokovic jeudi, et samedi il s'est retrouvé à un point d'une finale…",
+    "Une balle de match qui disparaît à Bâle."
+   ],
+   "structure": [
+    "Hook Struff",
+    "Demi-finale",
+    "Balle de match",
+    "Clip Lehecka",
+    "Retournement du set",
+    "Finale"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 8,
+    "images": 7
+   }
+  },
+  {
+   "id": "jodar_top10",
+   "format": "long",
+   "sport": "tennis",
+   "titre": "Jodar entre dans le top 10 après une défaite, la dernière place pour Turin",
+   "note": 7.5,
+   "verdict": "go",
+   "resume": "Rafael Jodar perd au 2e tour à Bâle mais entrera lundi dans le top 10 pour la première fois. Sans Sinner, la 9e place de la course à Turin (3 209 points) est la dernière qualificative.",
+   "faits": [
+    "Jodar, 3e tête de série à Bâle, perd contre Vacherot 7-6, 2-6, 7-6 au 2e tour (Tennis Majors).",
+    "Il est assuré d'entrer dans le top 10 lundi pour la première fois (ATP) ; ses débuts sur le circuit principal remontent à l'Open d'Australie cette année.",
+    "Course à Turin : Jodar 9e avec 3 209 points ; avec Sinner forfait pour la fin de saison, la 9e place est la dernière qualificative.",
+    "Fritz, 12e avec 2 895 points : une finale à Bâle lui aurait donné 3 025, un titre 3 195.",
+    "Djokovic était 11e, à 319 points de Jodar, avant Bâle (veille du 30 octobre) ; Jodar ouvre Paris contre Tabilo, 9e tête de série."
+   ],
+   "pourquoi": "Enjeu chiffré sur les dernières places de Turin, avec un jeune joueur qui monte.",
+   "angle": "Perdre et entrer dans le top 10.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Jodar+Vacherot+Basel+2026+highlights",
+     "titre": "Jodar - Vacherot, tie-breaks",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Rafael+Jodar+2026+highlights",
+     "titre": "Jodar en action",
+     "format": "16:9",
+     "parle": false,
+     "usage": "émotion",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de Jodar à l'Open d'Australie",
+    "Classement de la course à Turin"
+   ],
+   "photos": [
+    "Photo Jodar",
+    "Tableau course à Turin",
+    "Photo Fritz"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Vacherot back in a final a year after Shanghai",
+     "url": "https://www.tennismajors.com/atp/vacherot-back-in-a-final-a-year-after-shanghai-as-fritzs-turin-hopes-fade-864638.html"
+    },
+    {
+     "titre": "Tennis Majors : Rolex Paris Masters 2026 draw, seeds",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-2026-draw-seeds-schedule-how-to-watch-864623.html"
+    },
+    {
+     "titre": "ATP Tour : Vacherot upsets Fritz, Lehecka saves match point",
+     "url": "https://www.atptour.com/en/news/vacherot-fritz-basel-2026-saturday"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Chiffres de course (3 209 / 2 895) de Tennis Majors ; l'écart de 319 points de Djokovic vient de la veille du 30 octobre.",
+   "echeance": "Paris (31 octobre au 8 novembre) puis Finales ATP à Turin du 15 au 22 novembre.",
+   "hooks": [
+    "Ce joueur espagnol avait fait ses débuts à l'Open d'Australie cette année, et lundi il entre dans le top 10…",
+    "Perdre au 2e tour et entrer dans le top 10."
+   ],
+   "structure": [
+    "Hook",
+    "Défaite contre Vacherot",
+    "Top 10",
+    "Course à Turin et Sinner",
+    "Fritz et Djokovic",
+    "Paris contre Tabilo"
+   ],
+   "scores": {
+    "viral": 6.5,
+    "faits": 8,
+    "images": 6
+   }
+  },
+  {
+   "id": "hakimi_havre",
+   "format": "long",
+   "sport": "foot",
+   "titre": "Hakimi, 3 buts et 2 passes au Havre, la phrase d'Enrique sur les remplaçants",
+   "note": 8,
+   "verdict": "go",
+   "resume": "Le PSG gagne 5-1 au Havre, 9e victoire de suite toutes compétitions, grâce à un triplé et deux passes de Hakimi. Luis Enrique dit être content pour les joueurs peu utilisés.",
+   "faits": [
+    "Vendredi 30 octobre 2026, 9e journée : Le Havre 1-5 PSG. Maja (18e), Godts (26e), Hakimi (28e, 55e, 69e), Mayulu (62e) (Sofascore, Al Jazeera).",
+    "Hakimi : 3 buts et 2 passes décisives.",
+    "9e victoire de suite toutes compétitions (dont 4-2 à Manchester City et 4-2 contre Barcelone en Ligue des champions), 6e en championnat ; PSG 20 points, Lille 2e à 18, Rennes 3e à 16.",
+    "Le Havre dernier avec 2 points, 5e défaite de suite.",
+    "Luis Enrique : « I am happy because some players had very little playing time. » ; prochain match : Villarreal en Ligue des champions."
+   ],
+   "pourquoi": "Foot FR, chiffre fort, et la phrase d'Enrique donne un clip parlé.",
+   "angle": "Un triplé, mais une phrase sur les autres.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Le+Havre+PSG+1-5+Hakimi+résumé",
+     "titre": "Résumé Le Havre - PSG",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Luis+Enrique+conférence+de+presse+Le+Havre+PSG",
+     "titre": "Conférence de Luis Enrique",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Hakimi+triplé+Le+Havre",
+     "titre": "Buts de Hakimi",
+     "format": "9:16",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Conférence d'après-match en français ou traduite"
+   ],
+   "photos": [
+    "Photo Hakimi",
+    "Photo Luis Enrique",
+    "Classement Ligue 1"
+   ],
+   "citations": [
+    {
+     "auteur": "Luis Enrique",
+     "texte": "I am happy because some players had very little playing time.",
+     "source": "Al Jazeera, 31 octobre 2026 (à retrouver en vidéo)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Al Jazeera : Hakimi hat-trick, PSG 5-1 Le Havre",
+     "url": "https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football"
+    },
+    {
+     "titre": "Sofascore : Le Havre 1-5 PSG",
+     "url": "https://www.sofascore.com/news/le-havre-1-5-psg-hakimi-hits-hat-trick-in-ligue-1"
+    },
+    {
+     "titre": "Sports Infos : classement J9 Ligue 1",
+     "url": "https://www.ski-nordique.net/ligue-1-20262027-classement-j9-le-psg-simpose-5-1-au-havre-lille-2e-remporte-le-derby.6751885-72348.html"
+    },
+    {
+     "titre": "PSG.fr : calendrier",
+     "url": "https://www.psg.fr/football-masculin/calendrier/season/2026-27?period=Oct"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Buteurs et minutes recoupés (Sofascore, Al Jazeera) ; la citation d'Enrique est une traduction anglaise, à confirmer en vidéo.",
+   "echeance": "PSG - Villarreal (Ligue des champions).",
+   "hooks": [
+    "Ce latéral droit a marqué trois buts et donné deux passes en un match, et pourtant la phrase de Luis Enrique parlait des autres…",
+    "Cette phrase de Luis Enrique après Le Havre dit tout du PSG."
+   ],
+   "structure": [
+    "Hook Hakimi",
+    "Contexte Le Havre",
+    "Buts",
+    "Clip Enrique",
+    "Série de victoires",
+    "Classement"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 9,
+    "images": 8
+   }
+  },
+  {
+   "id": "giroud_lille",
+   "format": "court",
+   "sport": "foot",
+   "titre": "Giroud à la 86e minute, Lille deuxième après le derby contre Lens",
+   "note": 7,
+   "verdict": "go",
+   "resume": "Olivier Giroud marque à la 86e minute le seul but de Lille - Lens et envoie Lille deuxième de Ligue 1.",
+   "faits": [
+    "Derby Lille 1-0 Lens, but d'Olivier Giroud (86e) (Al Jazeera).",
+    "Lille passe à 18 points, 2e derrière le PSG (20) ; Lens 8e avec 13 points (Footmercato).",
+    "Rennes, battu 5-2 à Nice, est 3e avec 16 points."
+   ],
+   "pourquoi": "Un buteur à 40 ans, un derby, un classement.",
+   "angle": "Le but qui change le classement.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Lille+Lens+Giroud+but+86+minute",
+     "titre": "But de Giroud",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du but"
+   ],
+   "photos": [
+    "Photo Giroud",
+    "Classement Ligue 1"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Al Jazeera : Hakimi hat-trick, PSG 5-1 Le Havre",
+     "url": "https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football"
+    },
+    {
+     "titre": "Sports Infos : classement J9 Ligue 1",
+     "url": "https://www.ski-nordique.net/ligue-1-20262027-classement-j9-le-psg-simpose-5-1-au-havre-lille-2e-remporte-le-derby.6751885-72348.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "But et minute confirmés par Al Jazeera ; classement par deux sources.",
+   "echeance": "10e journée de Ligue 1.",
+   "hooks": [
+    "Ce joueur de quarante ans a attendu la 86e minute du derby du Nord…"
+   ],
+   "structure": [
+    "Hook",
+    "Match",
+    "Classement"
+   ],
+   "scores": {
+    "viral": 6.5,
+    "faits": 8.5,
+    "images": 7
+   }
+  },
+  {
+   "id": "wahi_nice",
+   "format": "court",
+   "sport": "foot",
+   "titre": "Wahi, triplé à Nice, Rennes 5-2 et glisse à la troisième place",
+   "note": 6.5,
+   "verdict": "go",
+   "resume": "Elye Wahi marque trois buts dans la victoire de Nice 5-2 contre Rennes, qui glisse au 3e rang.",
+   "faits": [
+    "Nice 5-2 Rennes, triplé d'Elye Wahi (Al Jazeera).",
+    "Rennes 3e avec 16 points ; Nice remonte à la 7e place (Sports Infos)."
+   ],
+   "pourquoi": "Score fort, chiffre simple.",
+   "angle": "Un triplé qui change le classement.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Nice+Rennes+5-2+Wahi+triplé",
+     "titre": "Buts de Nice - Rennes",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images des trois buts"
+   ],
+   "photos": [
+    "Photo Wahi",
+    "Classement Ligue 1"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Al Jazeera : Hakimi hat-trick, PSG 5-1 Le Havre",
+     "url": "https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football"
+    },
+    {
+     "titre": "Sports Infos : classement J9 Ligue 1",
+     "url": "https://www.ski-nordique.net/ligue-1-20262027-classement-j9-le-psg-simpose-5-1-au-havre-lille-2e-remporte-le-derby.6751885-72348.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et triplé confirmés par Al Jazeera ; classement par Sports Infos.",
+   "echeance": "10e journée de Ligue 1.",
+   "hooks": [
+    "Cet attaquant de Nice a marqué trois buts à lui seul contre Rennes…"
+   ],
+   "structure": [
+    "Hook",
+    "Match",
+    "Classement"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 8.5,
+    "images": 6.5
+   }
+  },
+  {
+   "id": "bernet_stricker",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Bernet et Stricker, invités suisses, en finale du double à Bâle contre deux Français",
+   "note": 6.5,
+   "verdict": "go",
+   "resume": "Henry Bernet et Dominic Stricker, wild cards suisses, battent les têtes de série 1 Krawietz/Pütz et jouent un duo français en finale.",
+   "faits": [
+    "Demi-finale du 31 octobre : Bernet/Stricker (WC) battent Krawietz/Pütz (1) 6-4, 6-4.",
+    "Arribage/Olivetti (3) battent Frantzen/Haase 7-6(4), 7-6(5).",
+    "Finale : deux Suisses invités contre un duo français (ATP Tour)."
+   ],
+   "pourquoi": "Public suisse et duo français.",
+   "angle": "Deux invités contre un duo tricolore.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Bernet+Stricker+Basel+doubles+2026",
+     "titre": "Double Bernet - Stricker",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Arribage+Olivetti+Basel+2026",
+     "titre": "Arribage - Olivetti",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de la finale du double"
+   ],
+   "photos": [
+    "Photo Bernet/Stricker",
+    "Photo Arribage/Olivetti"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "ATP Tour : Basel 2026 results (31 octobre)",
+     "url": "https://www.atptour.com/en/news/basel-2026-results"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Scores de demi-finales confirmés par l'ATP ; jour de la finale (dimanche) non confirmé.",
+   "echeance": "Finale du double, dimanche 1er novembre (à confirmer).",
+   "hooks": [
+    "Ces deux joueurs suisses avaient reçu une invitation pour jouer le double chez eux…"
+   ],
+   "structure": [
+    "Hook",
+    "Demi-finale",
+    "Finale"
+   ],
+   "scores": {
+    "viral": 5.5,
+    "faits": 8,
+    "images": 5
+   }
+  },
+  {
+   "id": "bonzi_qualifs",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Bonzi sort la tête de série 2 des qualifs de Paris, neuf Français au tableau",
+   "note": 6,
+   "verdict": "go",
+   "resume": "Benjamin Bonzi bat Griekspoor en qualifications du Masters de Paris ; Halys remplace Mensik, forfait. Au moins neuf Français sont au tableau.",
+   "faits": [
+    "Bonzi bat Tallon Griekspoor (2e tête de série des qualifs) (Tennis Majors).",
+    "Mensik forfait, remplacé par Quentin Halys.",
+    "Français au tableau : Fils, Van Assche, Rinderknech, Humbert, Halys + wild cards Gea, Jacquet, Droguet, Kouame.",
+    "Paris du 31 octobre au 8 novembre."
+   ],
+   "pourquoi": "Angle français pour la semaine de Paris.",
+   "angle": "Le contingent français.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Bonzi+Griekspoor+Paris+Masters+2026+qualifying",
+     "titre": "Bonzi - Griekspoor",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de Bonzi en qualifs"
+   ],
+   "photos": [
+    "Photo Bonzi",
+    "Photo Halys"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Rolex Paris Masters 2026 draw, seeds",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-2026-draw-seeds-schedule-how-to-watch-864623.html"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Un seul article ; qualification finale de Bonzi non confirmée.",
+   "echeance": "Premier tour de Paris à partir du 2 novembre.",
+   "hooks": [
+    "Ce joueur français a éliminé la deuxième tête de série des qualifications…"
+   ],
+   "structure": [
+    "Hook",
+    "Forfait Mensik",
+    "Contingent français"
+   ],
+   "scores": {
+    "viral": 5,
+    "faits": 7,
+    "images": 5
+   }
+  },
+  {
+   "id": "fritz_finales",
+   "format": "court",
+   "sport": "tennis",
+   "titre": "Fritz : quatre finales, aucun titre cette saison, et Vacherot à Bâle",
+   "note": 6.5,
+   "verdict": "go",
+   "resume": "Taylor Fritz perd en demi-finale à Bâle contre Vacherot ; il n'a gagné aucune des quatre finales jouées cette saison et reste 12e de la course à Turin.",
+   "faits": [
+    "Vacherot bat Fritz 7-6(5), 6-3 samedi à Bâle.",
+    "Quatre finales cette saison sans titre ; dernière à Lyon, perdue contre Musetti 6-3, 6-4 (Tennis Majors).",
+    "Fritz 12e de la course avec 2 895 points ; la dernière place qualificative est à 3 209.",
+    "Il avait atteint la demi-finale par l'abandon de Fils à 2-0."
+   ],
+   "pourquoi": "Série négative chiffrée et enjeu Turin.",
+   "angle": "Quatre finales, zéro titre.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Fritz+Vacherot+Basel+2026+highlights",
+     "titre": "Fritz - Vacherot",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de la finale de Lyon"
+   ],
+   "photos": [
+    "Photo Fritz",
+    "Course à Turin"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Vacherot back in a final a year after Shanghai",
+     "url": "https://www.tennismajors.com/atp/vacherot-back-in-a-final-a-year-after-shanghai-as-fritzs-turin-hopes-fade-864638.html"
+    },
+    {
+     "titre": "ATP Tour : Vacherot upsets Fritz, Lehecka saves match point",
+     "url": "https://www.atptour.com/en/news/vacherot-fritz-basel-2026-saturday"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Chiffres confirmés par Tennis Majors et ATP.",
+   "echeance": "Paris, dernier Masters 1000 avant Turin.",
+   "hooks": [
+    "Ce joueur américain a déjà joué quatre finales cette saison sans en gagner une seule…"
+   ],
+   "structure": [
+    "Hook",
+    "Demi-finale",
+    "Course à Turin"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 8.5,
+    "images": 6.5
+   }
+  }
+ ],
+ "ecartes": [
+  {
+   "titre": "Finale Vacherot - Lehecka",
+   "raison": "Pas encore jouée à l'heure de la veille, traitée dans le sujet Vacherot."
+  },
+  {
+   "titre": "Matchs de l'OM, du Real et du Barça",
+   "raison": "Aucun résultat fiable retrouvé pour le week-end."
+  },
+  {
+   "titre": "Sinner forfait à Paris (genou droit)",
+   "raison": "Déjà traité hier ; repris dans Jodar."
+  }
+ ]
+}

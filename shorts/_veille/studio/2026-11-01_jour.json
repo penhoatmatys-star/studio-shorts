@@ -1,0 +1,235 @@
+{
+ "vacherot_djokovic": {
+  "scripts": [
+   {
+    "id": "b7640a",
+    "titre": "Le tombeur de Djokovic à Shanghai le retrouve dès le premier tour à Paris.",
+    "mecanisme": "Hook Shanghai puis Djokovic > Demi-finale contre Fritz > Clip Vacherot (hook : Ce joueur de Monaco avait battu Novak Djokovic en demi-finale d'un Mas…)",
+    "texte": "Ce joueur de Monaco avait battu Novak Djokovic en demi-finale d'un Masters 1000 alors qu'il était deux cent quatrième mondial, et un an plus tard il vient d'atteindre une finale à Bâle juste avant de le retrouver à Paris.\n\nIl s'appelle Valentin Vacherot, et samedi il a battu l'Américain Taylor Fritz, sixième tête de série, sept points à cinq au jeu décisif du premier set puis six jeux à trois dans le second, en une heure et vingt-sept minutes.\n\nParce que Fritz fait partie des meilleurs serveurs du circuit, et Vacherot l'a dit lui-même après le match.\n\n[CLIP Vacherot] Il faut juste prier sur les retours, parce que Taylor est l'un des meilleurs serveurs du circuit.\n\nSauf qu'il était mené quatre points à un dans ce jeu décisif, et il a gagné six des sept points suivants, ce qui fait de lui le premier Monégasque de l'histoire du tournoi à jouer la finale. Avant ça, il avait sorti Navone, puis Jodar au bout de trois sets, puis Rune en quarts.\n\nEt le plus étrange, c'est que c'est sa première finale de la saison. La précédente, c'était Shanghai en octobre dernier, où il avait battu son cousin Arthur Rinderknech pour devenir le champion de Masters 1000 le moins bien classé depuis mille neuf cent quatre-vingt-dix.\n\nDimanche il retrouve le Tchèque Jiri Lehecka, qui l'a déjà battu à Tokyo ce mois-ci. Mais le vrai rendez-vous arrive juste après, parce que le tirage du Masters 1000 de Paris l'a placé contre Djokovic dès le premier tour.\n\nDjokovic arrive dixième tête de série, et il lui faut une belle semaine à Paris pour garder une chance d'aller à Turin.",
+    "mots": 273,
+    "clips": [
+     {
+      "moment": "Résumé Vacherot - Fritz",
+      "description": "action",
+      "url": "https://www.youtube.com/results?search_query=Vacherot+Fritz+Basel+2026+highlights"
+     },
+     {
+      "moment": "Shanghai 2025 : Vacherot bat Djokovic",
+      "description": "preuve",
+      "url": "https://www.youtube.com/results?search_query=Vacherot+Djokovic+Shanghai+2025+semi+final+highlights"
+     },
+     {
+      "moment": "Interview Vacherot à Bâle",
+      "description": "preuve",
+      "url": "https://www.youtube.com/results?search_query=Vacherot+Fritz+Basel+interview+2026"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, voix Max Parra (phrases longues, sans « tu »).",
+    "risques": "Score et parcours confirmés par ATP et Tennis Majors ; le tirage Vacherot - Djokovic confirmé par Tennis Majors. Finale de dimanche non jouée à l'heure de la veille.",
+    "chat": []
+   }
+  ],
+  "choisi": "b7640a"
+ },
+ "struff_lehecka": {
+  "scripts": [
+   {
+    "id": "bd9f23",
+    "titre": "La balle de match qui s'évapore.",
+    "mecanisme": "Hook Struff > Demi-finale > Balle de match (hook : Ce joueur allemand de 36 ans avait battu Djokovic jeudi, et samedi il …)",
+    "texte": "Ce joueur allemand de trente-six ans avait battu Novak Djokovic jeudi après huit défaites de suite, et samedi il s'est retrouvé à un point d'une finale à Bâle, avant qu'un retour qui a presque touché son adversaire change la fin du match.\n\nIl s'appelle Jan-Lennard Struff, et il jouait la demi-finale contre le Tchèque Jiri Lehecka, huitième tête de série, qu'il a battu au premier set six jeux à trois, après Nuno Borges en quarts.\n\nDans le deuxième set il mène cinq jeux à quatre, et au retour de service il a une balle de match, ce qui le met à un seul point de la finale.\n\nParce que Lehecka est dos au mur, et c'est là qu'il se passe quelque chose de bizarre sur l'échange, puisque Struff envoie un retour qui frôle presque le Tchèque, qui s'écarte, et la balle de match disparaît.\n\nAprès le match, Lehecka a reconnu qu'il ne savait pas vraiment ce qui s'était passé à ce moment-là.\n\n[CLIP Lehecka] Je ne sais pas ce qui s'est passé là, honnêtement.\n\nIl a ajouté qu'il devait revoir le replay, et qu'après ce petit moment de crise il avait joué de très bons jeux. Résultat, il gagne le deuxième set sept jeux à cinq, puis il prend le service de Struff dès le premier jeu du troisième set, et ce break suffit pour gagner six jeux à quatre en deux heures et une minute.\n\nEt le pire pour Struff, c'est que Lehecka a mis vingt-deux aces contre onze pour lui.\n\nLehecka dispute ainsi sa troisième finale de la saison, après Miami et Tokyo, et sa première à Bâle, face à Valentin Vacherot.",
+    "mots": 272,
+    "clips": [
+     {
+      "moment": "Balle de match Struff - Lehecka",
+      "description": "hook",
+      "url": "https://www.youtube.com/results?search_query=Lehecka+Struff+Basel+2026+match+point"
+     },
+     {
+      "moment": "Interview Lehecka",
+      "description": "preuve",
+      "url": "https://www.youtube.com/results?search_query=Lehecka+Struff+Basel+2026+interview"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, voix Max Parra (phrases longues, sans « tu »).",
+    "risques": "Score, balle de match et citation tirés de l'ATP ; le détail « à 5-4 » (ATP écrit 4-5, 40/AD) est mis en cohérence avec le service de Lehecka, à vérifier sur la vidéo.",
+    "chat": []
+   }
+  ],
+  "choisi": "bd9f23"
+ },
+ "jodar_top10": {
+  "scripts": [
+   {
+    "id": "e9d05f",
+    "titre": "Perdre et entrer dans le top 10.",
+    "mecanisme": "Hook > Défaite contre Vacherot > Top 10 (hook : Ce joueur espagnol avait fait ses débuts à l'Open d'Australie cette an…)",
+    "texte": "Ce joueur espagnol avait fait ses débuts sur le circuit principal à l'Open d'Australie cette année, et lundi il va entrer pour la première fois dans le top dix mondial, alors qu'il vient de perdre dès le deuxième tour à Bâle.\n\nIl s'appelle Rafael Jodar, troisième tête de série à Bâle, il a perdu contre Valentin Vacherot, sept-six, deux-six, sept-six.\n\nSauf que sa semaine a quand même changé sa saison, parce que, d'après l'ATP, il est assuré d'entrer dans le top dix au moment de la publication du nouveau classement lundi.\n\nAutrement dit, un joueur sans tableau principal avant janvier se retrouve parmi les dix meilleurs avant la fin de l'année.\n\nParce qu'avec le forfait de Jannik Sinner pour la fin de la saison, la neuvième place de la course à Turin est devenue la dernière place qualificative, et c'est Jodar qui l'occupe, avec trois mille deux cent neuf points.\n\nDerrière lui, Taylor Fritz est douzième avec deux mille huit cent quatre-vingt-quinze points. Même avec la finale à Bâle il aurait fini à trois mille vingt-cinq, donc sa défaite en demi-finale laisse la place à l'Espagnol.\n\nEt le plus étrange, c'est que Novak Djokovic, dixième tête de série à Paris, était onzième de cette course il y a trois jours, à trois cent dix-neuf points de Jodar, avant de perdre contre Struff.\n\nJodar, neuvième tête de série à Paris, commence contre le Chilien Alejandro Tabilo, dans la même moitié de tableau que Carlos Alcaraz.\n\nParis est le dernier Masters 1000 avant les Finales ATP de Turin, du quinze au vingt-deux novembre, et les dernières places se décident cette semaine.",
+    "mots": 269,
+    "clips": [
+     {
+      "moment": "Jodar - Vacherot, tie-breaks",
+      "description": "action",
+      "url": "https://www.youtube.com/results?search_query=Jodar+Vacherot+Basel+2026+highlights"
+     },
+     {
+      "moment": "Jodar en action",
+      "description": "émotion",
+      "url": "https://www.youtube.com/results?search_query=Rafael+Jodar+2026+highlights"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, voix Max Parra (phrases longues, sans « tu »).",
+    "risques": "Chiffres de course (3 209 / 2 895) de Tennis Majors ; l'écart de 319 points de Djokovic vient de la veille du 30 octobre.",
+    "chat": []
+   }
+  ],
+  "choisi": "e9d05f"
+ },
+ "hakimi_havre": {
+  "scripts": [
+   {
+    "id": "344915",
+    "titre": "Un triplé, mais une phrase sur les autres.",
+    "mecanisme": "Hook Hakimi > Contexte Le Havre > Buts (hook : Ce latéral droit a marqué trois buts et donné deux passes en un match,…)",
+    "texte": "Ce latéral droit a marqué trois buts et donné deux passes décisives en un seul match vendredi, et pourtant la phrase de Luis Enrique après la rencontre ne parlait pas de lui mais des joueurs qui avaient très peu joué.\n\nIl s'appelle Achraf Hakimi, et le PSG jouait au Havre pour la neuvième journée de Ligue 1, contre le dernier du classement, qui n'avait que deux points.\n\nLe Havre ouvre le score à la dix-huitième minute par Josh Maja, Mika Godts égalise pour Paris à la vingt-sixième, et Hakimi marque à la vingt-huitième, puis à la cinquante-cinquième, puis à la soixante-neuvième.\n\nEntre les deux, Senny Mayulu fait quatre à un à la soixante-deuxième minute, ce qui donne cinq à un à la fin, et Le Havre enchaîne une cinquième défaite de suite.\n\nAprès le match, Luis Enrique a expliqué pourquoi il était content, et ce n'était pas à cause du score.\n\n[CLIP Luis Enrique] Je suis content parce que certains joueurs avaient très peu de temps de jeu.\n\nIl a ajouté que pour gagner des trophées il faut compter sur tout l'effectif. Résultat, c'est la neuvième victoire de suite du PSG toutes compétitions confondues, dont quatre à deux à Manchester City puis quatre à deux contre Barcelone en Ligue des champions, et la sixième en championnat.\n\nParis compte vingt points après neuf journées, soit deux de plus que Lille, qui a pris la deuxième place en battant Lens un à zéro sur un but d'Olivier Giroud à la quatre-vingt-sixième minute.\n\nRennes, troisième avec seize points, a perdu cinq à deux à Nice, et le PSG, champion d'Europe en titre, enchaîne maintenant avec Villarreal en Ligue des champions.",
+    "mots": 274,
+    "clips": [
+     {
+      "moment": "Résumé Le Havre - PSG",
+      "description": "action",
+      "url": "https://www.youtube.com/results?search_query=Le+Havre+PSG+1-5+Hakimi+résumé"
+     },
+     {
+      "moment": "Conférence de Luis Enrique",
+      "description": "preuve",
+      "url": "https://www.youtube.com/results?search_query=Luis+Enrique+conférence+de+presse+Le+Havre+PSG"
+     },
+     {
+      "moment": "Buts de Hakimi",
+      "description": "hook",
+      "url": "https://www.youtube.com/results?search_query=Hakimi+triplé+Le+Havre"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, voix Max Parra (phrases longues, sans « tu »).",
+    "risques": "Buteurs et minutes recoupés (Sofascore, Al Jazeera) ; la citation d'Enrique est une traduction anglaise, à confirmer en vidéo.",
+    "chat": []
+   }
+  ],
+  "choisi": "344915"
+ },
+ "giroud_lille": {
+  "scripts": [
+   {
+    "id": "76304b",
+    "titre": "Le but qui change le classement.",
+    "mecanisme": "Hook > Match > Classement (hook : Ce joueur de quarante ans a attendu la 86e minute du derby du Nord……)",
+    "texte": "Ce joueur de quarante ans a attendu la quatre-vingt-sixième minute du derby du Nord pour marquer le seul but du match, et c'est lui qui a envoyé Lille à la deuxième place de la Ligue 1.\n\nIl s'appelle Olivier Giroud, et Lille affrontait Lens pour la neuvième journée dans un match qui n'avait toujours pas de but, jusqu'à ce que l'ancien attaquant des Bleus fasse la différence, ce qui donne un à zéro à la fin.\n\nRésultat, Lille passe à dix-huit points, deuxième derrière le PSG qui en a vingt, alors que Lens, huitième avec treize points, perd ce derby.\n\nEt le plus étrange, c'est que Rennes, battu cinq à deux à Nice le même soir, se retrouve troisième avec seize points.",
+    "mots": 122,
+    "clips": [
+     {
+      "moment": "But de Giroud",
+      "description": "hook",
+      "url": "https://www.youtube.com/results?search_query=Lille+Lens+Giroud+but+86+minute"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, voix Max Parra (phrases longues, sans « tu »).",
+    "risques": "But et minute confirmés par Al Jazeera ; classement par deux sources.",
+    "chat": []
+   }
+  ],
+  "choisi": "76304b"
+ },
+ "wahi_nice": {
+  "scripts": [
+   {
+    "id": "7e08b7",
+    "titre": "Un triplé qui change le classement.",
+    "mecanisme": "Hook > Match > Classement (hook : Cet attaquant de Nice a marqué trois buts à lui seul contre Rennes……)",
+    "texte": "Cet attaquant de Nice a marqué trois buts à lui seul contre Rennes, et le score de cinq à deux a suffi pour faire glisser Rennes à la troisième place de la Ligue 1.\n\nIl s'appelle Elye Wahi, et Nice recevait Rennes pour la neuvième journée, un match où les Aiglons ont marqué cinq fois, dont trois par Wahi à lui tout seul.\n\nParce que Rennes termine ce soir-là avec seize points, troisième du classement, alors que Nice remonte à la septième place.\n\nAutrement dit, ce triplé a aussi donné de la place à Lille, qui a pris la deuxième place le même soir en battant Lens un à zéro.",
+    "mots": 110,
+    "clips": [
+     {
+      "moment": "Buts de Nice - Rennes",
+      "description": "action",
+      "url": "https://www.youtube.com/results?search_query=Nice+Rennes+5-2+Wahi+triplé"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, voix Max Parra (phrases longues, sans « tu »).",
+    "risques": "Score et triplé confirmés par Al Jazeera ; classement par Sports Infos.",
+    "chat": []
+   }
+  ],
+  "choisi": "7e08b7"
+ },
+ "bernet_stricker": {
+  "scripts": [
+   {
+    "id": "5a0f2c",
+    "titre": "Deux invités contre un duo tricolore.",
+    "mecanisme": "Hook > Demi-finale > Finale (hook : Ces deux joueurs suisses avaient reçu une invitation pour jouer le dou…)",
+    "texte": "Ces deux joueurs suisses avaient reçu une invitation pour jouer le double chez eux à Bâle, et samedi ils ont battu les têtes de série numéro un du tournoi pour aller en finale.\n\nIls s'appellent Henry Bernet et Dominic Stricker, et ils ont battu les Allemands Kevin Krawietz et Tim Pütz, six jeux à quatre, six jeux à quatre, en demi-finale des Swiss Indoors.\n\nParce qu'en face, dans l'autre demi-finale, les Français Théo Arribage et Albano Olivetti, troisièmes têtes de série, ont battu Constantin Frantzen et Robin Haase, sept-six, sept-six.\n\nRésultat, la finale du double de Bâle oppose deux Suisses invités à un duo français, et elle se joue dimanche devant le public suisse.",
+    "mots": 114,
+    "clips": [
+     {
+      "moment": "Double Bernet - Stricker",
+      "description": "action",
+      "url": "https://www.youtube.com/results?search_query=Bernet+Stricker+Basel+doubles+2026"
+     },
+     {
+      "moment": "Arribage - Olivetti",
+      "description": "action",
+      "url": "https://www.youtube.com/results?search_query=Arribage+Olivetti+Basel+2026"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, voix Max Parra (phrases longues, sans « tu »).",
+    "risques": "Scores de demi-finales confirmés par l'ATP ; jour de la finale (dimanche) non confirmé.",
+    "chat": []
+   }
+  ],
+  "choisi": "5a0f2c"
+ },
+ "bonzi_qualifs": {
+  "scripts": [
+   {
+    "id": "9e4af9",
+    "titre": "Le contingent français.",
+    "mecanisme": "Hook > Forfait Mensik > Contingent français (hook : Ce joueur français a éliminé la deuxième tête de série des qualificati…)",
+    "texte": "Ce joueur français a éliminé la deuxième tête de série des qualifications du Masters 1000 de Paris, pendant que le tableau principal perdait un des meilleurs joueurs de la semaine.\n\nIl s'appelle Benjamin Bonzi, et il a battu le Néerlandais Tallon Griekspoor, pendant que le Tchèque Jakub Mensik déclarait forfait et laissait sa place à Quentin Halys dans le tableau principal.\n\nParce que le tableau compte déjà Fils, Van Assche, Rinderknech, Humbert et Halys, plus quatre invités français, Gea, Jacquet, Droguet et Kouame.\n\nAutrement dit, au moins neuf Français sont dans le tableau principal du dernier Masters 1000 avant Turin, qui se joue du trente et un octobre au huit novembre.",
+    "mots": 111,
+    "clips": [
+     {
+      "moment": "Bonzi - Griekspoor",
+      "description": "action",
+      "url": "https://www.youtube.com/results?search_query=Bonzi+Griekspoor+Paris+Masters+2026+qualifying"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, voix Max Parra (phrases longues, sans « tu »).",
+    "risques": "Un seul article ; qualification finale de Bonzi non confirmée.",
+    "chat": []
+   }
+  ],
+  "choisi": "9e4af9"
+ },
+ "fritz_finales": {
+  "scripts": [
+   {
+    "id": "2e5b7b",
+    "titre": "Quatre finales, zéro titre.",
+    "mecanisme": "Hook > Demi-finale > Course à Turin (hook : Ce joueur américain a déjà joué quatre finales cette saison sans en ga…)",
+    "texte": "Ce joueur américain a déjà joué quatre finales cette saison sans en gagner une seule, et samedi à Bâle il a encore perdu en demi-finale contre Valentin Vacherot.\n\nIl s'appelle Taylor Fritz, il était sixième tête de série, et il a perdu sept points à cinq au jeu décisif du premier set puis six jeux à trois dans le second.\n\nParce que sa dernière finale, c'était à Lyon, et il l'avait perdue contre Lorenzo Musetti, six-trois, six-quatre.\n\nIl avait pourtant atteint cette demi-finale grâce à l'abandon d'Arthur Fils en quart, à deux jeux à zéro.\n\nRésultat, Fritz reste douzième de la course à Turin avec deux mille huit cent quatre-vingt-quinze points, alors que la dernière place qualificative est à trois mille deux cent neuf.",
+    "mots": 124,
+    "clips": [
+     {
+      "moment": "Fritz - Vacherot",
+      "description": "action",
+      "url": "https://www.youtube.com/results?search_query=Fritz+Vacherot+Basel+2026+highlights"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, voix Max Parra (phrases longues, sans « tu »).",
+    "risques": "Chiffres confirmés par Tennis Majors et ATP.",
+    "chat": []
+   }
+  ],
+  "choisi": "2e5b7b"
+ }
+}
