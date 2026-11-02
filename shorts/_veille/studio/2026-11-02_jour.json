@@ -1,0 +1,158 @@
+{
+ "vacherot_bale_djokovic": {
+  "scripts": [
+   {
+    "id": "2e4c74",
+    "titre": "Le tombeur de Djokovic gagne Bâle et le retrouve à Paris",
+    "mecanisme": "Hook « tombeur de Djokovic » > finale renversée > club Federer - Djokovic > retour Shanghai > tirage Paris, chute sur l'échéance",
+    "texte": "Ce joueur de Monaco avait battu Novak Djokovic il y a un an alors qu'il était deux cent quatrième mondial, et dimanche il vient de gagner un tournoi à Bâle juste avant de le retrouver dès le premier tour à Paris.\n\nIl s'appelle Valentin Vacherot, et en finale il affrontait le Tchèque Jiri Lehecka, huitième tête de série, qui a pris la première manche six jeux à deux. Pendant ce set, il a jeté sa raquette tout près d'un ramasseur de balles, et rien n'annonçait vraiment un retour.\n\nSauf que Vacherot a gagné les deux sets suivants, six jeux à trois et six jeux à trois, après avoir déjà sorti Holger Rune, le jeune Espagnol Rafael Jodar et l'Américain Taylor Fritz en demi-finale.\n\nRésultat, il rejoint Roger Federer et Novak Djokovic comme les seuls joueurs à avoir gagné à la fois Shanghai et Bâle, et il revient à la vingt-septième place mondiale.\n\nParce que Shanghai, c'est justement là que tout avait commencé en octobre dernier, quand il a battu Djokovic six-trois, six-quatre en demi-finale, avant de gagner la finale contre son propre cousin, Arthur Rinderknech, ce qui en faisait le champion de Masters 1000 le moins bien classé depuis la création de ces tournois en mille neuf cent quatre-vingt-dix.\n\nAujourd'hui, le tirage de Paris les remet face à face. Djokovic arrive dixième tête de série, il n'avait plus joué à Paris depuis deux ans, et il compte sept titres dans ce tournoi, plus que n'importe qui.\n\nMais avant d'espérer retrouver Alexander Zverev, le nouveau numéro un mondial, il faut d'abord battre l'homme qui l'a sorti à Shanghai, et ce match tombe cette semaine, lundi ou mardi.",
+    "mots": 276,
+    "clips": [],
+    "forces": "Suite chaude d'un sujet suivi, échéance cette semaine, mécanique 'qui l'a battu revient'.",
+    "risques": "Pas de citation de Vacherot ; la date exacte du match (lundi ou mardi) n'est pas confirmée.",
+    "chat": []
+   }
+  ],
+  "choisi": "2e4c74"
+ },
+ "zverev_numero1": {
+  "scripts": [
+   {
+    "id": "b848aa",
+    "titre": "Numéro un mondial avec 3 victoires sur 12 contre le top 10",
+    "mecanisme": "Hook paradoxe chiffré > Vienne > clip Zverev > record historique > sauf que le bilan contre le top 10 > échéance Paris",
+    "texte": "Ce joueur de vingt-neuf ans devient numéro un mondial ce lundi alors qu'il a perdu neuf de ses douze matchs contre le top dix cette saison, et tout ça à cause d'un adversaire qui ne joue même plus.\n\nIl s'appelle Alexander Zverev, et jeudi à Vienne il a battu Tallon Griekspoor six-quatre, sept-cinq sans concéder une balle de break, ce qui lui garantissait de dépasser Jannik Sinner au classement du lundi.\n\nParce que Sinner n'a plus joué depuis son titre à Wimbledon en juillet, il a arrêté sa saison dès le début du mois d'octobre à cause d'une blessure au genou droit, alors que Zverev avait sept cents points de retard la semaine dernière. Après sa victoire, Zverev l'a dit lui-même.\n\n[CLIP Zverev] Parfois, il faut attendre les bonnes choses de la vie.\n\nIl devient le trentième numéro un de l'histoire de l'ATP, le premier Allemand depuis Boris Becker, et l'un des plus âgés à y arriver pour la première fois. Sauf que sa saison est étrange, vu qu'il a gagné l'US Open en septembre contre Ben Shelton. Mais sur douze matchs contre le top dix, il n'a que trois victoires, contre Fritz à Wimbledon, Shelton à New York et de Minaur à Shanghai.\n\nEt le plus étrange, c'est que samedi, en demi-finale à Vienne, Alex de Minaur l'a encore battu six-quatre, un-six, sept-six. Résultat, il a manqué une finale contre Carlos Alcaraz, que ce dernier a ensuite gagnée dimanche.\n\nIl reste quand même le joueur le plus victorieux de la saison avec soixante-quatre victoires, et à Paris il sera tête de série numéro un, Alcaraz deuxième, donc ils ne pourront se rencontrer qu'en finale.",
+    "mots": 263,
+    "clips": [
+     {
+      "moment": "Après la victoire contre Griekspoor",
+      "description": "Zverev sur sa place de n°1 (phrase du clip)",
+      "url": "https://www.youtube.com/results?search_query=Zverev+world+number+one+interview+Vienna+2026"
+     }
+    ],
+    "forces": "Paradoxe simple, chiffres vérifiables, clip parlé court.",
+    "risques": "Classement officiel non vu ; la citation vient d'un seul article.",
+    "chat": []
+   }
+  ],
+  "choisi": "b848aa"
+ },
+ "alcaraz_vienne": {
+  "scripts": [
+   {
+    "id": "ce6b7d",
+    "titre": "La série qu'on oublie : 26 victoires de suite en ATP 500",
+    "mecanisme": "Hook série chiffrée > finale > clip Alcaraz > domination sur de Minaur > le plus étrange 16-0 > échéance Paris",
+    "texte": "Ce joueur de vingt-trois ans n'a plus perdu un seul match dans un tournoi de cinq cents points depuis avril deux mille vingt-cinq, et dimanche à Vienne il a poussé sa série à vingt-six victoires de suite.\n\nIl s'appelle Carlos Alcaraz, et en finale il affrontait Alex de Minaur, qui était invaincu en dix matchs en salle cette saison avant ce dimanche. Alcaraz l'a battu six-un, six-quatre en une heure et trente-sept minutes, sans perdre un set pendant tout le tournoi, avec quatre-vingt-un pour cent de points gagnés sur sa première balle de service.\n\nAprès le match, il a expliqué pourquoi cet adversaire est si difficile à jouer.\n\n[CLIP Alcaraz] Il est très rapide, donc il faut gagner chaque point.\n\nParce que de Minaur n'a toujours pas gagné une seule fois contre lui, il perd maintenant sept à zéro, et Alcaraz n'a jamais perdu contre un Australien sur le circuit, quinze victoires à zéro. C'est son vingt-huitième titre en carrière, son quatrième cette saison, et son premier à Vienne.\n\nEt le plus étrange, c'est que cette année il est seize victoires à zéro dans les tournois de cinq cents points, avec les titres de Doha et de Tokyo. Sa dernière défaite dans ce format remonte à la finale de Barcelone contre Holger Rune, et il compte déjà onze titres de ce niveau, devant Andy Murray qui en a neuf.\n\nMaintenant, direction Paris, où il est tête de série numéro deux. Il a un bye au premier tour, il jouera ensuite Jiri Lehecka ou Alex Michelsen, et dans son quart de tableau il pourrait croiser Arthur Fils, alors que Zverev, le nouveau numéro un mondial, ne peut le rencontrer qu'en finale.",
+    "mots": 268,
+    "clips": [
+     {
+      "moment": "Après la finale",
+      "description": "Alcaraz sur la vitesse de de Minaur",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+Vienna+trophy+speech+2026"
+     }
+    ],
+    "forces": "Série lisible, chiffres sourcés, images riches.",
+    "risques": "Récit sans conflit ; l'angle repose sur les chiffres.",
+    "chat": []
+   }
+  ],
+  "choisi": "ce6b7d"
+ },
+ "strasbourg_yassine": {
+  "scripts": [
+   {
+    "id": "39e800",
+    "titre": "Relégable, Strasbourg met cinq buts à Auxerre",
+    "mecanisme": "Hook contraste relégable puis 5-1 > chronologie des buts > retournement expulsion > classement > échéance Toulouse",
+    "texte": "Relégable au coup d'envoi après quatre défaites de suite, Strasbourg a mis cinq buts à Auxerre dimanche à la Meinau, et c'est un joueur marocain de l'équipe qui a fini le travail avec deux buts en dix minutes.\n\nParce que le Racing avait perdu ses quatre derniers matchs de championnat, il était seizième avec sept points, et pendant une grande partie du match rien n'était réglé. Dario Essugo a ouvert le score juste avant la mi-temps, à la quarante et unième minute, et Martial Godo a doublé la mise à la cinquante-cinquième, après avoir vu un premier but refusé pour une faute de Conrad Harder.\n\nEnsuite, Harder a marqué sur penalty à la soixante-deuxième minute, et ce penalty, c'est Gessime Yassine qui l'avait obtenu. Sauf qu'Auxerre a réduit l'écart à trois buts à un, à la soixante-huitième minute, et pendant quelques instants le match semblait pouvoir basculer.\n\nEt c'est là que tout s'est écroulé pour eux, vu que Lamfia Dioubaté a été expulsé à la soixante-quatorzième minute, et dès la minute suivante Yassine a marqué du pied gauche sur une passe de Nanasi. Dix minutes plus tard, à la quatre-vingt-cinquième, il a ajouté un deuxième but de la tête sur un centre d'Oso.\n\nRésultat, Strasbourg passe de sept à dix points, quitte la zone de relégation et se retrouve douzième, avec le même total qu'Auxerre. Et pourtant, Yassine avait failli marquer bien plus tôt, vu que le gardien Paul Nardi avait arrêté sa première frappe dès la septième minute.\n\nStrasbourg se déplace maintenant à Toulouse vendredi soir, à vingt heures quarante-cinq, pour confirmer.",
+    "mots": 263,
+    "clips": [],
+    "forces": "Chronologie claire, faits tous sourcés.",
+    "risques": "Sujet moins viral que le tennis ; pas de clip parlé.",
+    "chat": []
+   }
+  ],
+  "choisi": "39e800"
+ },
+ "sinner_forfait_paris": {
+  "scripts": [
+   {
+    "id": "561763",
+    "titre": "Le tenant du titre n'a plus joué depuis Wimbledon",
+    "mecanisme": "Hook tenant du titre absent > forfaits > chute sur la perte de la place de numéro un",
+    "texte": "Le tenant du titre du Masters 1000 de Paris ne jouera pas cette semaine, et il n'a plus disputé un seul match depuis qu'il a gagné Wimbledon en juillet.\n\nIl s'agit de Jannik Sinner, qui a arrêté sa saison début octobre à cause d'une blessure au genou droit, et qui a donc déclaré forfait pour le tournoi qu'il avait gagné l'an dernier. Il n'est pas le seul, parce que Félix Auger-Aliassime, Jakub Mensik, Alexander Bublik et João Fonseca manquent aussi à l'appel.\n\nRésultat, Sinner perd aussi la place de numéro un mondial ce lundi au profit d'Alexander Zverev, alors qu'il comptait encore dix mille quatre cent cinquante points la semaine dernière.",
+    "mots": 111,
+    "clips": [],
+    "forces": "Court, factuel, lien avec Zverev n°1.",
+    "risques": "Complémentaire du sujet Zverev, éviter de les enchaîner.",
+    "chat": []
+   }
+  ],
+  "choisi": "561763"
+ },
+ "fils_paris_incertain": {
+  "scripts": [
+   {
+    "id": "543ebc",
+    "titre": "Huitième mondial et incertain pour Paris",
+    "mecanisme": "Hook contraste classement record et abandon > tableau de Paris > état inconnu",
+    "texte": "Arthur Fils est huitième mondial à vingt-deux ans, au meilleur classement de sa carrière, et pourtant sa présence au Masters 1000 de Paris reste incertaine parce qu'il a abandonné en plein quart de finale à Bâle.\n\nVendredi dernier, il a quitté le court à cause d'une douleur à la jambe, alors qu'il comptait trois mille quatre cent vingt-cinq points. Sauf que Paris, c'est le tournoi à la maison, et il y arrive sixième tête de série avec un bye au premier tour.\n\nIl se trouve dans le même quart de tableau que Carlos Alcaraz et Taylor Fritz, mais pour l'instant rien n'a été annoncé sur son état, et la seule certitude, c'est que le tournoi a commencé lundi.",
+    "mots": 118,
+    "clips": [],
+    "forces": "Intérêt français, court.",
+    "risques": "Sujet à fort risque d'obsolescence : vérifier l'annonce avant de monter.",
+    "chat": []
+   }
+  ],
+  "choisi": "543ebc"
+ },
+ "lyon_lopes_angers": {
+  "scripts": [
+   {
+    "id": "d0fe9b",
+    "titre": "Le gardien qui connaissait la maison",
+    "mecanisme": "Hook retrouvailles avec l'ancien gardien > les deux buts > chute sur la victoire",
+    "texte": "Lyon a retrouvé la victoire dimanche contre Angers, et le gardien adverse, qui avait passé des années dans ce club, a repoussé tout ce qui passait à sa portée jusqu'à la fin du match.\n\nIl s'agit d'Anthony Lopes, ancien gardien de l'OL, qui a multiplié les arrêts, vu que Lyon sortait de deux défaites de suite toutes compétitions confondues. Sauf qu'à la trente-huitième minute, Abner a centré, Corentin Tolisso a remis de la poitrine, et Ernest Nuamah n'a eu qu'à pousser le ballon au fond.\n\nTolisso, le capitaine, a ensuite marqué de la tête sur un corner à la quatre-vingt-sixième minute, avant de se jeter dans les bras de Paulo Fonseca, et Lyon s'est imposé deux à zéro.",
+    "mots": 118,
+    "clips": [],
+    "forces": "Petite histoire humaine.",
+    "risques": "Sujet faible hors fans de Lyon.",
+    "chat": []
+   }
+  ],
+  "choisi": "d0fe9b"
+ },
+ "paris_fc_sinayoko": {
+  "scripts": [
+   {
+    "id": "992f3e",
+    "titre": "Buteur et passeur, Sinayoko fait tomber Monaco",
+    "mecanisme": "Hook un joueur sur les trois buts > déroulé > chute classement et adieu",
+    "texte": "Le Paris FC a battu Monaco trois buts à un dimanche à Jean-Bouin, et c'est le même joueur qui a ouvert le score, doublé la mise et préparé le dernier but de la soirée.\n\nIl s'agit de Lassine Sinayoko, qui a marqué à la trente-huitième minute avant de doubler six minutes plus tard. Folarin Balogun a réduit l'écart pour Monaco, mais à la soixante-quatorzième minute Sinayoko a servi Pablo Pagis, qui a mis le troisième but.\n\nRésultat, le Paris FC passe à la quatrième place de Ligue 1, alors que Monaco ne gagne plus depuis quatre matchs, avec deux nuls et deux défaites. Ce match était aussi l'adieu du président Pierre Ferracci.",
+    "mots": 112,
+    "clips": [],
+    "forces": "Court et clair.",
+    "risques": "Faible portée, sources limitées.",
+    "chat": []
+   }
+  ],
+  "choisi": "992f3e"
+ },
+ "om_toulouse_harit": {
+  "scripts": [
+   {
+    "id": "357cba",
+    "titre": "L'OM enchaîne avant Lens",
+    "mecanisme": "Hook but précoce > buts refusés > série de quatre victoires et échéance Lens",
+    "texte": "Marseille a marqué dès les premières minutes dimanche au Vélodrome contre Toulouse, et pourtant ce sont les Toulousains qui ont ensuite passé la fin du match à attaquer sans jamais compter.\n\nAmine Harit a ouvert le score presque tout de suite, puis Amine Gouiri a doublé la mise à la vingt-cinquième minute. Sauf que Toulouse a vu deux buts refusés pour hors-jeu, et l'OM a gardé sa cage inviolée avec plusieurs arrêts de son gardien Jeffrey De Lange.\n\nLes Marseillais n'avaient donc pas besoin de plus pour tenir le score. Résultat, Marseille enchaîne une quatrième victoire de suite en championnat et remonte à la sixième place, avant de se déplacer à Lens dimanche prochain, à vingt heures quarante-cinq.",
+    "mots": 118,
+    "clips": [],
+    "forces": "Court, échéance proche.",
+    "risques": "Sujet moyen, sources divergentes sur des détails.",
+    "chat": []
+   }
+  ],
+  "choisi": "357cba"
+ }
+}

@@ -1,0 +1,718 @@
+{
+ "titre": "Veille sport, lundi 2 novembre 2026",
+ "date": "2026-11-02",
+ "moment": "jour",
+ "tldr": "Vacherot gagne Bâle et retrouve Djokovic à Paris, Zverev devient numéro un mondial, Alcaraz prolonge sa série en ATP 500 ; côté foot, Strasbourg met cinq buts à Auxerre après quatre défaites. En courts : Sinner forfait pour Paris, Fils incertain, et quatre résultats de Ligue 1.",
+ "sujets": [
+  {
+   "id": "vacherot_bale_djokovic",
+   "titre": "Vacherot gagne Bâle, puis retrouve Djokovic dès le premier tour à Paris",
+   "note": 9.0,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Valentin Vacherot a battu Jiri Lehecka 2-6, 6-3, 6-3 en finale à Bâle dimanche, un an après son titre à Shanghai. Le tirage de Paris lui donne Djokovic, qu'il avait sorti à Shanghai, au premier tour.",
+   "faits": [
+    "Dimanche 1er novembre 2026, finale de l'ATP 500 de Bâle : Vacherot (32e mondial, non tête de série) bat Jiri Lehecka (8e tête de série) 2-6, 6-3, 6-3 (Tennis Majors).",
+    "Mené 4-2 dans le premier set, il a jeté sa raquette près d'un ramasseur de balles, puis a gagné les deux manches suivantes.",
+    "Parcours : Navone, Jodar (3), Rune, Fritz (6) 7-6(5) 6-3, Lehecka (8).",
+    "Il rejoint Federer et Djokovic comme seuls joueurs à avoir gagné Shanghai et Bâle ; il revient 27e mondial lundi.",
+    "Shanghai 2025 : 204e mondial, il bat Djokovic 6-3, 6-4 en demi-finale puis son cousin Rinderknech en finale ; Djokovic avait demandé des soins au dos dans les deux sets.",
+    "Masters 1000 de Paris : Djokovic (10e tête de série, de retour à Paris après deux ans, 7 titres) affronte Vacherot au premier tour ; chemin possible ensuite de Minaur puis Zverev."
+   ],
+   "pourquoi": "Suite directe de la veille d'hier : le titre est tombé, et le choc Vacherot - Djokovic est daté cette semaine.",
+   "angle": "Le tombeur de Djokovic à Shanghai gagne Bâle et retrouve le Serbe à Paris.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Vacherot+Lehecka+Basel+2026+final+highlights",
+     "titre": "Finale Vacherot - Lehecka à Bâle",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Vacherot+Djokovic+Shanghai+2025+semi+final+highlights",
+     "titre": "Shanghai 2025 : Vacherot bat Djokovic",
+     "format": "16:9",
+     "parle": false,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Vacherot+Basel+champion+interview+2026",
+     "titre": "Interview Vacherot après le titre",
+     "format": "?",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de la finale à Bâle (raquette jetée, balle de match)",
+    "Interview de Vacherot après le titre"
+   ],
+   "photos": [
+    "Vacherot trophée Bâle",
+    "Djokovic Paris",
+    "Vacherot Rinderknech trophée Shanghai 2025"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Vacherot rejoint Federer et Djokovic",
+     "url": "https://www.tennismajors.com/atp/swiss-indoors-basel-atp-500/vacherot-joins-federer-and-djokovic-as-a-shanghai-and-basel-champion-864909.html"
+    },
+    {
+     "titre": "Tennis Majors : tirage du Rolex Paris Masters 2026",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-2026-draw-seeds-schedule-how-to-watch-864623.html"
+    },
+    {
+     "titre": "Tennis Majors : Djokovic tire Vacherot",
+     "url": "https://www.tennismajors.com/?p=864465"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score, parcours et tirage dans Tennis Majors ; aucune citation directe de Vacherot trouvée, donc pas de clip parlé.",
+   "echeance": "Paris, premier tour Vacherot - Djokovic, lundi 2 ou mardi 3 novembre.",
+   "hooks": [
+    "Ce joueur de Monaco avait battu Novak Djokovic il y a un an, et il vient de le retrouver à Paris.",
+    "Un an jour pour jour après Shanghai, le tombeur de Djokovic gagne un tournoi."
+   ],
+   "structure": [
+    "Hook : tombeur de Djokovic, titre à Bâle, tirage Paris",
+    "Finale : mené 4-2, la raquette, le renversement",
+    "Parcours et club fermé Federer - Djokovic",
+    "Retour sur Shanghai (sauf que)",
+    "Tirage Paris : Djokovic, sept titres",
+    "Chute : le match tombe cette semaine"
+   ],
+   "scores": {
+    "viral": 9,
+    "faits": 9,
+    "images": 8
+   }
+  },
+  {
+   "id": "zverev_numero1",
+   "titre": "Zverev devient numéro un mondial alors qu'il a perdu 9 de ses 12 matchs contre le top 10",
+   "note": 8.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Alexander Zverev prend la place de numéro un ATP ce lundi 2 novembre, la première de sa carrière, parce que Sinner a arrêté sa saison. Il n'a que trois victoires en douze matchs contre le top 10 cette année.",
+   "faits": [
+    "Jeudi 29 octobre à Vienne : Zverev bat Griekspoor 6-4, 7-5 sans balle de break concédée, ce qui lui garantit la première place au classement du lundi 2 novembre (Tennis Majors).",
+    "Classement du 26 octobre : Sinner 10 450 points, Zverev 9 750 ; Sinner n'a plus joué depuis son titre à Wimbledon et a arrêté sa saison pour une blessure au genou droit (Eurosport).",
+    "Il devient le 30e numéro un de l'histoire de l'ATP et le premier Allemand depuis Boris Becker.",
+    "Bilan contre le top 10 en 2026 : 3 victoires sur 12 (Fritz à Wimbledon, Shelton en finale de l'US Open, de Minaur à Shanghai) (Eurosport).",
+    "Samedi 31 octobre : battu par de Minaur 6-4, 1-6, 7-6(4) en demi-finale à Vienne ; Alcaraz gagne la finale.",
+    "64 victoires cette saison, la plus haute du circuit ; tête de série n°1 à Paris, Alcaraz n°2, rencontre possible seulement en finale."
+   ],
+   "pourquoi": "Événement historique du jour (premier n°1 de Zverev) avec un paradoxe chiffré qui fait réagir.",
+   "angle": "Numéro un mondial mais 25 % de victoires contre le top 10.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Zverev+Griekspoor+Vienna+2026+highlights",
+     "titre": "Zverev - Griekspoor à Vienne",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Zverev+world+number+one+interview+Vienna+2026",
+     "titre": "Zverev : 'sometimes you have to wait for the good things in life'",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Zverev+US+Open+2026+final+Shelton+highlights",
+     "titre": "Finale US Open Zverev - Shelton",
+     "format": "16:9",
+     "parle": false,
+     "usage": "payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Extrait où Zverev prononce sa phrase sur Vienne",
+    "Images du point de balle d'US Open"
+   ],
+   "photos": [
+    "Zverev numéro un",
+    "Sinner Wimbledon trophée",
+    "Boris Becker"
+   ],
+   "citations": [
+    {
+     "auteur": "Alexander Zverev",
+     "texte": "« Sometimes you have to wait for the good things in life. » (« Parfois, il faut attendre les bonnes choses de la vie. »)",
+     "source": "Tennis Majors, Vienne, 29 octobre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Zverev décroche la place de n°1",
+     "url": "https://www.tennismajors.com/?p=864371"
+    },
+    {
+     "titre": "Eurosport : Zverev, un roi gagne-petit",
+     "url": "https://www.eurosport.fr/tennis/atp-vienne/2026/atp-vienne-25-de-victoires-face-au-top-10-mais-n1-mondial-alexander-zverev-un-roi-gagne-petit_sto23351054/story.shtml"
+    },
+    {
+     "titre": "Eurosport : classement ATP du 26 octobre",
+     "url": "https://www.eurosport.fr/tennis/tennis-classement-atp-du-lundi-26-octobre-2026-zverev-sur-les-talons-de-sinner-fils-grimpe-a-la-huitieme-place_sto23349300/story.shtml"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Faits recoupés dans Tennis Majors et Eurosport ; le classement officiel du 2 novembre n'était pas encore publié dans les sources.",
+   "echeance": "Rolex Paris Masters, jusqu'au 8 novembre (finale possible Zverev - Alcaraz).",
+   "hooks": [
+    "Ce joueur devient numéro un mondial alors qu'il a perdu neuf de ses douze matchs contre le top dix.",
+    "Le numéro un mondial qui ne bat presque jamais les meilleurs."
+   ],
+   "structure": [
+    "Hook : n°1 avec 3 victoires sur 12",
+    "Vienne : Griekspoor, classement garanti",
+    "Sinner absent (clip Zverev)",
+    "Histoire : 30e n°1, premier Allemand depuis Becker",
+    "Sauf que : le bilan contre le top 10, de Minaur en demi",
+    "Chute : Paris, finale possible contre Alcaraz"
+   ],
+   "scores": {
+    "viral": 8.5,
+    "faits": 9,
+    "images": 8
+   }
+  },
+  {
+   "id": "alcaraz_vienne",
+   "titre": "Alcaraz gagne Vienne : 26 victoires de suite en ATP 500, dernier échec en avril 2025",
+   "note": 8.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Carlos Alcaraz bat Alex de Minaur 6-1, 6-4 en finale à Vienne et prolonge sa série à 26 victoires dans les ATP 500. Il arrive à Paris en tête de série n°2 avec un bye.",
+   "faits": [
+    "Dimanche 1er novembre 2026, finale de Vienne : Alcaraz bat de Minaur 6-1, 6-4 en 1h37, sans perdre un set du tournoi (ATP Tour).",
+    "28e titre en carrière, 4e de la saison, premier à Vienne ; 16-0 en ATP 500 en 2026 (titres à Doha et Tokyo), 26 victoires consécutives dans ce format.",
+    "Dernière défaite en ATP 500 : finale de Barcelone contre Rune, avril 2025.",
+    "Titres ATP 500 depuis 2009 : Federer 16, Djokovic 15, Nadal 15, Alcaraz 11, Murray 9.",
+    "Il mène de Minaur 7-0 et n'a jamais perdu contre un Australien (15-0) ; 81 % de points gagnés derrière la première balle.",
+    "Paris : bye au premier tour, puis Lehecka ou Michelsen ; dans le quart de Fils et Fritz, Zverev seulement en finale."
+   ],
+   "pourquoi": "Un chiffre de série fort et une échéance proche à Paris, avec images abondantes.",
+   "angle": "La série d'Alcaraz en ATP 500 : plus aucune défaite depuis avril 2025.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+De+Minaur+Vienna+final+2026+highlights",
+     "titre": "Finale Alcaraz - de Minaur",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+Vienna+trophy+speech+2026",
+     "titre": "Alcaraz après le titre à Vienne",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+Rune+Barcelona+final+2025+highlights",
+     "titre": "Finale de Barcelone 2025 contre Rune",
+     "format": "16:9",
+     "parle": false,
+     "usage": "retournement",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Extrait où Alcaraz parle de la vitesse de de Minaur",
+    "Meilleur point de la finale"
+   ],
+   "photos": [
+    "Alcaraz trophée Vienne",
+    "De Minaur",
+    "Holger Rune Barcelone 2025"
+   ],
+   "citations": [
+    {
+     "auteur": "Carlos Alcaraz",
+     "texte": "« He's really fast, so you have to earn every point. » (« Il est très rapide, donc il faut gagner chaque point. »)",
+     "source": "ATP Tour, Vienne, 1er novembre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "ATP Tour : Alcaraz bat de Minaur à Vienne",
+     "url": "https://www.atptour.com/en/news/alcaraz-de-minaur-vienna-2026-final"
+    },
+    {
+     "titre": "Tennis Majors : Alcaraz en finale à Vienne",
+     "url": "https://www.tennismajors.com/atp/vienna-erste-bank-open-atp-500/alcaraz-brushes-aside-de-minaur-to-win-his-first-vienna-title-864877.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et série confirmés par l'ATP et Tennis Majors.",
+   "echeance": "Paris, 2e tour d'Alcaraz contre Lehecka ou Michelsen.",
+   "hooks": [
+    "Ce joueur n'a plus perdu dans un ATP 500 depuis avril 2025.",
+    "Vingt-six victoires de suite : la série qu'on oublie."
+   ],
+   "structure": [
+    "Hook : série de 26 en ATP 500",
+    "Finale : de Minaur, 6-1 6-4",
+    "Clip : la vitesse de l'adversaire",
+    "7-0 et 15-0 contre les Australiens",
+    "Le plus étrange : 16-0 et 11 titres ATP 500",
+    "Chute : Paris, tableau et Zverev en finale seulement"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 9,
+    "images": 9
+   }
+  },
+  {
+   "id": "strasbourg_yassine",
+   "titre": "Strasbourg, relégable après 4 défaites, met 5 buts à Auxerre grâce à un doublé de Yassine",
+   "note": 7.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "football",
+   "format": "long",
+   "resume": "Dimanche à la Meinau, Strasbourg gagne 5-1 contre Auxerre après quatre défaites de suite. Gessime Yassine marque deux buts en dix minutes après l'expulsion d'un Auxerrois.",
+   "faits": [
+    "Dimanche 1er novembre 2026, 9e journée de Ligue 1 : Strasbourg bat Auxerre 5-1 à la Meinau.",
+    "Buts : Essugo (41e), Godo (55e), Harder sur penalty obtenu par Yassine (62e), Archer pour Auxerre (68e), Yassine (75e et 85e).",
+    "Auxerre a eu Dioubaté expulsé à la 74e minute.",
+    "Strasbourg avait perdu ses quatre derniers matchs et était 16e avec 7 points ; il passe à 10 points, 12e (Footmercato).",
+    "Prochain match : à Toulouse, vendredi 6 novembre à 20h45."
+   ],
+   "pourquoi": "Retournement net dans le temps (relégable puis cinq buts), formule simple à raconter.",
+   "angle": "Relégable au coup d'envoi, cinq buts au coup de sifflet.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Strasbourg+Auxerre+5-1+résumé+Yassine",
+     "titre": "Résumé Strasbourg - Auxerre",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Yassine+doublé+Strasbourg+Auxerre+but",
+     "titre": "Les deux buts de Yassine",
+     "format": "?",
+     "parle": false,
+     "usage": "payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du but de la tête de Yassine",
+    "Réaction de l'entraîneur"
+   ],
+   "photos": [
+    "Gessime Yassine",
+    "Stade de la Meinau",
+    "Dario Essugo"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Footmercato : doublé de Yassine, Strasbourg écrase Auxerre",
+     "url": "https://www.footmercato.net/a3886410316377724327-ligue-1-avec-un-double-de-yassine-strasbourg-met-fin-a-sa-serie-noire-et-ecrase-auxerre"
+    },
+    {
+     "titre": "QuatreTroisTrois : Strasbourg - Auxerre (5-1)",
+     "url": "https://quatretroistrois.fr/strasbourg-auxerre-5-1-gessime-yassine-au-sommet/"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et buteurs concordent dans Footmercato, Maxifoot et QuatreTroisTrois ; l'entraîneur de Strasbourg n'est cité que par son nom de famille, donc non nommé.",
+   "echeance": "Toulouse - Strasbourg, vendredi 6 novembre 20h45.",
+   "hooks": [
+    "Relégable au coup d'envoi, Strasbourg a mis cinq buts à Auxerre.",
+    "Deux buts en dix minutes ont lancé la remontée de Strasbourg."
+   ],
+   "structure": [
+    "Hook : relégable puis 5-1",
+    "Contexte : 4 défaites, 16e",
+    "Les trois premiers buts",
+    "Sauf que : Auxerre réduit, l'expulsion, Yassine",
+    "Classement : 12e",
+    "Chute : Toulouse vendredi"
+   ],
+   "scores": {
+    "viral": 6.5,
+    "faits": 8.5,
+    "images": 7
+   }
+  },
+  {
+   "id": "sinner_forfait_paris",
+   "titre": "Sinner déclare forfait pour Paris, le tenant du titre n'a plus joué depuis Wimbledon",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Jannik Sinner, qui a gagné Paris l'an dernier, ne jouera pas cette semaine à cause d'un genou droit. Il perd aussi la place de numéro un au profit de Zverev.",
+   "faits": [
+    "Sinner est forfait du Rolex Paris Masters (31 octobre - 8 novembre) pour une blessure au genou droit ; il n'a pas joué depuis son titre à Wimbledon en juillet et a arrêté sa saison début octobre.",
+    "Quatre autres forfaits : Auger-Aliassime, Mensik, Bublik, Fonseca.",
+    "Zverev prend sa place de n°1 au classement du 2 novembre.",
+    "Classement du 26 octobre : Sinner 10 450 points, Zverev 9 750."
+   ],
+   "pourquoi": "Absence du tenant du titre et changement de numéro un le même jour.",
+   "angle": "Le tenant du titre absent, le trône perdu.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Sinner+Paris+Masters+2025+final+highlights",
+     "titre": "Sinner champion à Paris 2025",
+     "format": "16:9",
+     "parle": false,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Sinner+Wimbledon+2026+trophy",
+     "titre": "Sinner sacré à Wimbledon",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de la finale de Paris 2025"
+   ],
+   "photos": [
+    "Sinner trophée Paris",
+    "Sinner Wimbledon"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Global Tennis News : forfaits à Paris",
+     "url": "https://www.globaltennisnews.com/paris-masters-2026-withdrawals/"
+    },
+    {
+     "titre": "Tennis Temple : Sinner out",
+     "url": "https://en.tennistemple.com/actu/rolex-paris-masters-2026-sinner-out-alcaraz-zverev/DXFd"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Forfait confirmé par plusieurs sources ; aucune déclaration directe de Sinner trouvée.",
+   "echeance": "Rolex Paris Masters, jusqu'au 8 novembre.",
+   "hooks": [
+    "Le tenant du titre ne jouera pas cette semaine.",
+    "Il n'a plus joué depuis Wimbledon."
+   ],
+   "structure": [
+    "Hook : tenant du titre absent",
+    "Qui et pourquoi : genou, quatre autres forfaits",
+    "Chute : perd la place de n°1"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 8.5,
+    "images": 8
+   }
+  },
+  {
+   "id": "fils_paris_incertain",
+   "titre": "Fils, 8e mondial, incertain pour Paris après son abandon à Bâle",
+   "note": 7.0,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Arthur Fils a abandonné en quart de finale à Bâle à cause de la jambe. Il est tête de série 6 à Paris avec un bye, dans le quart d'Alcaraz, sans confirmation de sa présence.",
+   "faits": [
+    "Vendredi 30 octobre 2026, Bâle : Fils abandonne son quart de finale (douleur à la jambe).",
+    "Il est 8e mondial avec 3 425 points, meilleur classement de sa carrière à 22 ans (Eurosport, 26 octobre).",
+    "À Paris : 6e tête de série, bye au premier tour, dans le quart de Carlos Alcaraz et Taylor Fritz ; sa participation est jugée incertaine (Tennis Majors)."
+   ],
+   "pourquoi": "Suite de la veille du 31 octobre, Français au tournoi de Paris.",
+   "angle": "Le Français incertain à Paris.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Arthur+Fils+Basel+retirement+2026",
+     "titre": "Abandon de Fils à Bâle",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Arthur+Fils+Paris+Masters+2026",
+     "titre": "Fils à Paris",
+     "format": "?",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Annonce officielle sur son état"
+   ],
+   "photos": [
+    "Arthur Fils",
+    "Accor Arena Paris"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : tirage de Paris",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-2026-draw-seeds-schedule-how-to-watch-864623.html"
+    },
+    {
+     "titre": "Eurosport : classement ATP du 26 octobre",
+     "url": "https://www.eurosport.fr/tennis/tennis-classement-atp-du-lundi-26-octobre-2026-zverev-sur-les-talons-de-sinner-fils-grimpe-a-la-huitieme-place_sto23349300/story.shtml"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Participation non confirmée officiellement ; à vérifier avant montage.",
+   "echeance": "Premier match de Fils à Paris (bye, 2e tour).",
+   "hooks": [
+    "Huitième mondial et incertain pour son tournoi.",
+    "Il a quitté le court en plein quart de finale."
+   ],
+   "structure": [
+    "Hook : 8e mondial mais incertain",
+    "Abandon à Bâle",
+    "Chute : tableau et Alcaraz"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 7,
+    "images": 7
+   }
+  },
+  {
+   "id": "lyon_lopes_angers",
+   "titre": "Lyon bat Angers 2-0, face à son ancien gardien Anthony Lopes",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "football",
+   "format": "court",
+   "resume": "Lyon retrouve la victoire contre Angers (2-0), buts de Nuamah et Tolisso. Anthony Lopes, ancien gardien de l'OL, était dans les buts adverses.",
+   "faits": [
+    "Dimanche 1er novembre 2026, 9e journée : Lyon bat Angers 2-0.",
+    "Nuamah (38e) après un centre d'Abner et une remise de poitrine de Tolisso ; Tolisso de la tête sur corner (86e).",
+    "Fin d'une série de deux défaites toutes compétitions confondues.",
+    "Anthony Lopes, ancien gardien de Lyon, a multiplié les arrêts pour Angers ; Paulo Fonseca est l'entraîneur lyonnais."
+   ],
+   "pourquoi": "Retrouvailles avec un ancien du club, victoire qui met fin à une mauvaise série.",
+   "angle": "Le gardien qui connaissait la maison.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Lyon+Angers+2-0+résumé+Nuamah+Tolisso",
+     "titre": "Résumé Lyon - Angers",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Anthony+Lopes+arrêts+Lyon+Angers",
+     "titre": "Arrêts d'Anthony Lopes",
+     "format": "?",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du but de Nuamah"
+   ],
+   "photos": [
+    "Anthony Lopes",
+    "Corentin Tolisso",
+    "Ernest Nuamah"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Lyonfoot : OL-Angers 2-0",
+     "url": "https://www.lyonfoot.com/article/14641/ol-angers-lyon-retrouve-enfin-la-victoire-grace-a-nuamah-et-tolisso-2-0"
+    },
+    {
+     "titre": "Footmercato : Lyon - Angers",
+     "url": "https://www.footmercato.net/live/1629482990132320515-lyon-vs-angers"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et buteurs concordent ; minute de Tolisso 85e ou 86e selon les sources.",
+   "echeance": "Brest - Lyon, dimanche 8 novembre 17h15.",
+   "hooks": [
+    "Le gardien adverse connaissait la maison.",
+    "Lyon retrouve la victoire face à un ancien."
+   ],
+   "structure": [
+    "Hook : ancien gardien",
+    "Les buts",
+    "Chute : 2-0, Fonseca"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 8,
+    "images": 6
+   }
+  },
+  {
+   "id": "paris_fc_sinayoko",
+   "titre": "Le Paris FC bat Monaco 3-1 et passe 4e, Sinayoko buteur et passeur",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "football",
+   "format": "court",
+   "resume": "Le Paris FC bat Monaco 3-1 à Jean-Bouin. Lassine Sinayoko marque deux fois et sert Pagis pour le troisième but ; match d'adieu du président Pierre Ferracci.",
+   "faits": [
+    "Dimanche 1er novembre 2026, 9e journée : Paris FC 3-1 Monaco à Jean-Bouin.",
+    "Sinayoko (38e et 44e), Balogun pour Monaco, Pagis (74e) sur une passe de Sinayoko.",
+    "Le Paris FC passe 4e ; Monaco est sans victoire depuis 4 matchs (2 nuls, 2 défaites).",
+    "Dernier match du président Pierre Ferracci."
+   ],
+   "pourquoi": "Un promu de l'an dernier devant un club européen, avec une scène d'adieu.",
+   "angle": "Le joueur qui fait tout, le président qui part.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Paris+FC+Monaco+3-1+Sinayoko+résumé",
+     "titre": "Résumé Paris FC - Monaco",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Hommage à Pierre Ferracci"
+   ],
+   "photos": [
+    "Lassine Sinayoko",
+    "Pierre Ferracci"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Sport News Africa : Paris FC 3-1 Monaco",
+     "url": "https://sportnewsafrica.com/actualites/paris-fc-3-1-monaco-sinayoko-double-et-passe-decisive-fait-passer-le-pfc-devant/"
+    },
+    {
+     "titre": "Pensebet : Sinayoko fait tomber Monaco",
+     "url": "https://pensebet.com/ligue-1-paris-fc-monaco-sinayoko-double-ferracci/"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Score et buteurs concordent dans deux sources ; classement à vérifier.",
+   "echeance": "Auxerre - Paris FC, samedi 7 novembre 17h15.",
+   "hooks": [
+    "Le même joueur a ouvert le score, doublé la mise et préparé le dernier but."
+   ],
+   "structure": [
+    "Hook",
+    "Les buts",
+    "Chute : 4e place et adieu de Ferracci"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 7.5,
+    "images": 6
+   }
+  },
+  {
+   "id": "om_toulouse_harit",
+   "titre": "L'OM bat Toulouse 2-0 et enchaîne une 4e victoire de suite",
+   "note": 6.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "football",
+   "format": "court",
+   "resume": "Marseille bat Toulouse 2-0 au Vélodrome, buts de Harit et Gouiri, et remonte à la 6e place. Toulouse a vu deux buts refusés pour hors-jeu.",
+   "faits": [
+    "Dimanche 1er novembre 2026, 9e journée : OM 2-0 Toulouse au Vélodrome.",
+    "Amine Harit ouvre le score dans les premières minutes, Amine Gouiri double à la 25e.",
+    "Toulouse voit deux buts refusés pour hors-jeu.",
+    "4e victoire consécutive en championnat, 6e place ; prochain match à Lens dimanche 8 novembre, 20h45."
+   ],
+   "pourquoi": "Série en cours de l'OM avant un choc à Lens.",
+   "angle": "Quatre victoires de suite avant Lens.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=OM+Toulouse+2-0+résumé+Harit+Gouiri",
+     "titre": "Résumé OM - Toulouse",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images des buts refusés"
+   ],
+   "photos": [
+    "Amine Harit",
+    "Amine Gouiri"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Footeo : OM-Toulouse 2-0",
+     "url": "https://news.footeo.com/2026/11/01/om-toulouse-2-0-harit-et-gouiri-frappent-vite-toulouse-frustre-par-deux-buts-refuses-16564"
+    },
+    {
+     "titre": "ICI : l'OM s'offre un quatrième succès consécutif",
+     "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/direct-ligue-1-suivez-le-match-om-toulouse-sur-ici-provence-8883030"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Score et buteurs concordent ; minute de Harit (1re ou 2e) et nom de l'entraîneur non cohérents entre sources, donc non cités.",
+   "echeance": "Lens - OM, dimanche 8 novembre 20h45.",
+   "hooks": [
+    "Marseille a marqué dès les premières minutes."
+   ],
+   "structure": [
+    "Hook",
+    "Les buts et les buts refusés",
+    "Chute : 4e victoire et Lens"
+   ],
+   "scores": {
+    "viral": 5.5,
+    "faits": 7,
+    "images": 6
+   }
+  }
+ ],
+ "ecartes": [
+  {
+   "titre": "PSG - Villarreal (Ligue des champions, 3 novembre)",
+   "raison": "Match pas encore joué et sources contradictoires sur le calendrier du PSG."
+  },
+  {
+   "titre": "Vienne : Alcaraz - de Minaur en sujet court",
+   "raison": "Déjà traité en long."
+  },
+  {
+   "titre": "Race pour Turin (de Minaur 9e, un point devant Jodar)",
+   "raison": "Une seule source, non recoupée."
+  },
+  {
+   "titre": "Lille - Lens 1-0 et Havre - PSG 5-1",
+   "raison": "Déjà traités dans la veille du 1er novembre."
+  }
+ ]
+}
