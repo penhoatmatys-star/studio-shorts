@@ -1,0 +1,709 @@
+{
+ "titre": "Veille sport, mardi 3 novembre 2026",
+ "date": "2026-11-03",
+ "moment": "matin",
+ "tldr": "Journée de Bercy : Djokovic - Vacherot ce mardi après quatre mois de problèmes physiques (long), Kouamé 17 ans face à Davidovich Fokina (long), la série noire d'Alcaraz à Paris (long) et le Ballon d'Or de Kane devant Mbappé (long foot). Courts : forfait de Cobolli, Alcaraz refuse le duopole, Musetti - Zverev, Fils n°7 comme Gasquet, abandon de Shapovalov. La recherche foot a été limitée (peu de sources du jour trouvées).",
+ "sujets": [
+  {
+   "id": "djokovic_quatre_mois",
+   "titre": "Djokovic : quatre mois de problèmes physiques, et Vacherot au premier tour à Paris",
+   "note": 9.0,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "La veille de son entrée à Bercy, Djokovic dit être proche de résoudre ce qu'il traverse depuis quatre mois. Il joue Vacherot, champion de Bâle, qui l'avait battu à Shanghai et avait lui-même passé quatre mois sans point.",
+   "faits": [
+    "Lundi 2 novembre 2026, conférence de presse de Djokovic : il relie sa remontée depuis l'US Open à la disparition de ses problèmes physiques et se dit « proche » d'une solution (Tennis Majors).",
+    "Saison 2026 : défaite d'entrée à Rome contre le qualifié Prizmic, défaite à Cincinnati contre Tirante après avoir vomi, élimination au 1er tour de l'US Open contre Navone en plus de 4 h 30 (première défaite au 1er tour d'un Grand Chelem depuis 2006).",
+    "Pékin : 7e titre là-bas, 102e de sa carrière, finale terminée sur l'abandon de De Minaur ; Shanghai : défaite contre Hurkacz ; Bâle : victoire sur Humbert puis défaite contre Struff, première victoire du Allemand en neuf confrontations.",
+    "Il estime que sa préparation n'y est pour rien et critique les experts ; Mouratoglou avait évoqué le stress de ne pas se sentir prêt.",
+    "Paris : 10e tête de série, 11e de la Race to Turin (2 900 pts), il lui faut au minimum les demi-finales ; premier tour contre Vacherot mardi 3 novembre.",
+    "Vacherot : champion de Bâle dimanche, avait battu Djokovic 6-3, 6-4 en demi-finale à Shanghai 2025, quatre mois sans point à cause d'une blessure au pied cette saison ; le vainqueur affronte le qualifié Hijikata."
+   ],
+   "pourquoi": "Suite du duel Vacherot - Djokovic déjà vu hier, avec un angle neuf : la saison de blessures et la citation du jour, à l'échéance du jour.",
+   "angle": "Quatre mois de calvaire physique des deux côtés du filet, à quelques heures du match.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Djokovic+press+conference+Paris+Masters+2026+physical+problems",
+     "titre": "Conférence de presse de Djokovic",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Djokovic+Beijing+2026+title+highlights",
+     "titre": "Titre à Pékin",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Vacherot+Djokovic+Shanghai+2025+semi+final+highlights",
+     "titre": "Shanghai 2025 : Vacherot bat Djokovic",
+     "format": "16:9",
+     "parle": false,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Conférence de presse de Djokovic du 2 novembre (extrait de la citation)",
+    "Images de Djokovic - Vacherot à Bercy"
+   ],
+   "photos": [
+    "Djokovic Bercy 2026",
+    "Vacherot trophée Bâle",
+    "Mouratoglou"
+   ],
+   "citations": [
+    {
+     "auteur": "Novak Djokovic",
+     "texte": "« We're really getting closer to solving what I have been going through in the last four months. »",
+     "source": "conférence de presse, Paris, 2 novembre 2026 (Tennis Majors)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Djokovic relie sa remontée à la fin de ses problèmes physiques",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/djokovic-links-his-upturn-since-the-us-open-to-the-easing-of-his-physical-problems-865164.html"
+    },
+    {
+     "titre": "Tennis Majors : la saison de Vacherot en trois actes",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/more-adrenaline-than-pressure-vacherots-season-in-three-acts-ends-with-a-basel-title-865057.html"
+    },
+    {
+     "titre": "Tennis Majors : Race to Turin",
+     "url": "https://www.tennismajors.com/atp/race-to-turin-daily-jodars-must-win-start-opens-the-paris-decider-with-djokovic-facing-basel-champion-vacherot-864978.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Faits et citation dans Tennis Majors (une seule source principale pour la citation) ; le résultat du match du 3 novembre n'est pas connu au moment de la veille.",
+   "echeance": "Mardi 3 novembre 2026, Court Central, Djokovic - Vacherot",
+   "hooks": [
+    "La veille de son entrée à Bercy, Djokovic dit qu'il se bat depuis quatre mois contre un problème qu'il n'a pas réglé.",
+    "Le seul joueur à l'avoir battu à Shanghai a lui aussi passé quatre mois sans marquer un point."
+   ],
+   "structure": [
+    "Hook + clip Djokovic",
+    "Défaites de la saison",
+    "Pékin puis rechute",
+    "Experts et Mouratoglou",
+    "Enjeu Turin et Vacherot"
+   ],
+   "scores": {
+    "viral": 9,
+    "faits": 9,
+    "images": 8
+   }
+  },
+  {
+   "id": "kouame_bercy_17_ans",
+   "titre": "Kouamé, 17 ans : titre à Brest dimanche, invitation reçue une heure avant le match, Davidovich Fokina à Bercy",
+   "note": 8.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Moïse Kouamé a gagné le Challenger de Brest dimanche puis a reçu l'invitation de Paris libérée par Mensik. Il joue Davidovich Fokina mardi, à Bercy où il était spectateur il y a cinq ans.",
+   "faits": [
+    "Dimanche 1er novembre 2026, Kouamé (17 ans) gagne le Challenger de Brest : Damm 6-4, 6-7(5), 7-6(4), deux balles de match sauvées dans le 3e set, devant 3 400 spectateurs (Tennis Majors).",
+    "Vendredi, Mensik se retire de Paris et Halys entre dans le tableau principal ; Kouamé reçoit la wild-card de Halys environ une heure avant son match à Brest.",
+    "Mardi 3 novembre : premier tour contre Davidovich Fokina (13e tête de série, vainqueur du Masters 1000 de Shanghai) ; le vainqueur affronte Khachanov.",
+    "Roland-Garros 2026 : 318e mondial, wild-card, bat Cilic 7-6(4), 6-2, 6-1 puis Vallejo en 4 h 56, perd contre Tabilo au 3e tour.",
+    "En 2021, à 12 ans, il était dans le public de Bercy quand Gaston a battu Alcaraz.",
+    "Il a dit à Univers Tennis à Lyon que son rêve était le record du Grand Chelem (24, il en faudrait 25)."
+   ],
+   "pourquoi": "Histoire d'un ado français datée du jour même, avec des images et un contexte simples.",
+   "angle": "Un gamin de 12 ans dans les tribunes il y a cinq ans, sur le Central ce mardi.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Kouamé+Brest+challenger+final+2026",
+     "titre": "Finale Challenger de Brest",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Kouamé+Cilic+Roland-Garros+2026+highlights",
+     "titre": "Kouamé bat Cilic à Roland-Garros",
+     "format": "16:9",
+     "parle": false,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Gaston+Alcaraz+Bercy+2021+highlights",
+     "titre": "Gaston bat Alcaraz à Bercy 2021",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de Kouamé à Brest",
+    "Gaston - Alcaraz 2021 (images propres)"
+   ],
+   "photos": [
+    "Moïse Kouamé",
+    "Davidovich Fokina trophée Shanghai",
+    "Hugo Gaston Bercy 2021"
+   ],
+   "citations": [
+    {
+     "auteur": "Moïse Kouamé",
+     "texte": "« Alejandro is full of confidence… Like me. »",
+     "source": "Tennis Majors, 2 novembre 2026 (traduit)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Kouamé prêt à gagner Paris",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/he-is-full-of-confidence-like-me-moise-kouame-ready-to-win-paris-over-again-865192.html"
+    },
+    {
+     "titre": "Tennis Majors : Shapovalov abandonne contre Khachanov",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/shapovalov-retires-against-khachanov-in-paris-despite-leading-4-1-in-the-third-set-865183.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Un seul article détaillé (Tennis Majors) ; score de Brest et RG non recoupés ailleurs.",
+   "echeance": "Mardi 3 novembre 2026, Kouamé - Davidovich Fokina",
+   "hooks": [
+    "Il y a cinq ans, un garçon de douze ans regardait Gaston battre Alcaraz à Bercy, ce mardi il entre sur le même court.",
+    "Une invitation reçue une heure avant son match à Brest."
+   ],
+   "structure": [
+    "Hook",
+    "Titre à Brest et wild-card",
+    "Davidovich Fokina",
+    "Roland-Garros 2026",
+    "Rêve du record"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 8,
+    "images": 7
+   }
+  },
+  {
+   "id": "alcaraz_paris_serie",
+   "titre": "Alcaraz à Paris : cinq victoires, cinq défaites, jamais au-delà des quarts de finale",
+   "note": 8.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Alcaraz arrive à Bercy avec cinq victoires de suite et le titre de Vienne, mais n'a jamais dépassé les quarts à Paris. Il dit lui-même que c'est bizarre et qu'il fera un grand tournoi ici « plus tôt que tard ».",
+   "faits": [
+    "Bilan à Paris : 5 victoires, 5 défaites, jamais au-delà des quarts de finale (Tennis Majors).",
+    "2021 : bat Sinner au 2e tour, perd 4-6, 5-7 contre le qualifié Gaston (103e) ; 2022 : abandon en quarts contre Rune, blessure à l'abdomen ; 2023 : défaite au 2e tour contre Safiullin ; 2024 : défaite 1-6, 6-3, 5-7 contre Humbert au 3e tour ; 2025 : défaite au 2e tour contre Norrie.",
+    "Vienne : victoire 6-1, 6-4 contre de Minaur en finale ; cinq victoires consécutives ; absent quatre mois et demi (poignet, avril-août).",
+    "Paris est sa dernière chance de gagner un Masters 1000 cette saison ; il serait le 3e joueur après Djokovic et Nadal à en gagner cinq années de suite.",
+    "Premier match mercredi contre Michelsen ou Lehecka ; Fils, tête de série n°6, est son adversaire probable en quarts."
+   ],
+   "pourquoi": "Série de cinq échecs (mécanique « série qui s'accélère ») avec échéance mercredi.",
+   "angle": "Chaque année une défaite différente à Bercy, et sa phrase « plus tôt que tard ».",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Gaston+Alcaraz+Bercy+2021+highlights",
+     "titre": "Gaston - Alcaraz 2021",
+     "format": "16:9",
+     "parle": false,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+Rune+Paris+2022+retires+quarter+final",
+     "titre": "Abandon contre Rune 2022",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+de+Minaur+Vienna+2026+final+highlights",
+     "titre": "Finale de Vienne",
+     "format": "16:9",
+     "parle": false,
+     "usage": "payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de chacune des cinq défaites à Paris",
+    "Interview d'Alcaraz à Bercy"
+   ],
+   "photos": [
+    "Alcaraz trophée Vienne",
+    "Bercy Accor Arena",
+    "Gaston Alcaraz 2021"
+   ],
+   "citations": [
+    {
+     "auteur": "Carlos Alcaraz",
+     "texte": "« But I'm pretty sure at some point I will do great in this tournament. »",
+     "source": "Tennis Majors, 2 novembre 2026 (traduit)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Alcaraz cherche encore sa percée à Paris",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/at-some-point-i-will-do-great-in-this-tournament-sooner-than-later-in-form-alcaraz-still-chasing-his-paris-breakthrough-865127.html"
+    },
+    {
+     "titre": "Tennis Majors : Alcaraz bat de Minaur à Vienne",
+     "url": "https://www.tennismajors.com/atp/vienna-erste-bank-open-atp-500/alcaraz-brushes-aside-de-minaur-to-win-his-first-vienna-title-864877.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Un article principal ; les scores de 2025 du texte source étant incohérents, le script ne les cite pas.",
+   "echeance": "Mercredi 4 novembre 2026, premier match d'Alcaraz",
+   "hooks": [
+    "Alcaraz a tout gagné ailleurs, mais à Bercy il n'a jamais dépassé les quarts.",
+    "Cinq années, cinq façons différentes de perdre à Paris."
+   ],
+   "structure": [
+    "Hook",
+    "Bilan 5-5",
+    "Série 2021 à 2025",
+    "Sauf que : forme actuelle et enjeu",
+    "Sa phrase et le tableau"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 8,
+    "images": 8
+   }
+  },
+  {
+   "id": "mbappe_kane_ballon_dor",
+   "titre": "Ballon d'Or : Mbappé en tête des votes cet été, Kane le gagne, la réaction glaciale de Mbappé",
+   "note": 7.0,
+   "verdict": "go",
+   "suite": true,
+   "sport": "foot",
+   "format": "long",
+   "resume": "Kane gagne le Ballon d'Or 2026 devant Mbappé, deuxième, alors que Mbappé aurait été en tête des votes cet été selon France Football. Les images de la salle ont fait parler.",
+   "faits": [
+    "Lundi 26 octobre 2026, 70e cérémonie au London Palladium : 1. Kane, 2. Mbappé, 3. Yamal, 4. Rodri, 5. Messi (AFP via Paris Match).",
+    "Kane, 33 ans : 61 buts avec le Bayern, 73 avec l'Angleterre ; seul Messi (82 en 2010-11) a fait mieux sur une saison ; premier Anglais lauréat depuis Owen en 2001.",
+    "Course serrée (Blue News) ; selon Vincent Garcia (France Football), Mbappé était en tête des votes cet été avant que Kane remonte (relayé par Foot Africa : à vérifier).",
+    "Mbappé : 3e en 2023, 6e en 2024, 7e en 2025 selon la recherche (à vérifier) ; avant la cérémonie, critiqué pour avoir affirmé que c'était lui qui devait gagner.",
+    "Plusieurs médias décrivent une réaction glaciale à l'annonce ; aucune déclaration de Mbappé retrouvée.",
+    "Réactions : Müller, Neuer, Rooney, Beckham, Matthäus (manque une Ligue des champions) ; PSG club de l'année pour la 2e fois, sans joueur dans le top 5."
+   ],
+   "pourquoi": "Gros nom, conflit simple (favori de l'été contre le vainqueur), mais sujet vieux d'une semaine : suite de la veille du 31 octobre.",
+   "angle": "En tête des votes l'été, battu à l'arrivée, et des images qui font réagir.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Ballon+d+Or+2026+Kane+wins+Mbappé+reaction",
+     "titre": "Sacre de Kane et réaction de Mbappé",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Kane+Ballon+d+Or+2026+speech",
+     "titre": "Discours de Kane",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Mbappé+Ballon+d+Or+2026+should+win+interview",
+     "titre": "Mbappé avant la cérémonie",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de la réaction de Mbappé dans la salle",
+    "Vote détaillé (points) si publié"
+   ],
+   "photos": [
+    "Kane Ballon d'Or",
+    "Mbappé Real Madrid",
+    "Vincent Garcia France Football"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Paris Match Belgique (AFP) : Kane remporte le Ballon d'Or",
+     "url": "https://www.parismatch.be/actualites/sport/2026/10/26/ballon-dor-2026-harry-kane-remporte-le-trophee-alexia-putellas-sacree-chez-les-femmes-4KBL54XHPNDNVOZDAHEZTYLGYY/"
+    },
+    {
+     "titre": "Blue News : réactions au Ballon d'Or de Kane",
+     "url": "https://www.bluewin.ch/en/sport/football/reactions-to-harry-kane-s-ballon-d-or-win-li.3650665"
+    },
+    {
+     "titre": "Foot Africa : la réaction de Mbappé après le sacre de Kane",
+     "url": "https://foot-africa.com/actualites/ballon-dor-2026-la-reaction-de-mbappe-apres-le-sacre-de-kane-1400111/"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Classement et chiffres de Kane recoupés (AFP, Blue News) ; votes de l'été, classements passés de Mbappé et réaction glaciale sortent de la recherche et de Foot Africa (page non lisible), à reverifier avant montage.",
+   "echeance": "Pas d'échéance datée (prochain Clasico / Real - Barça à vérifier)",
+   "hooks": [
+    "Pendant tout l'été, Mbappé était en tête des votes selon France Football, et c'est Kane qui monte sur scène.",
+    "Plusieurs médias décrivent une réaction glaciale de Mbappé à l'annonce."
+   ],
+   "structure": [
+    "Hook",
+    "Profil et chiffres de Kane",
+    "Classement de Mbappé et critiques",
+    "Les images de la salle",
+    "Réactions et PSG club de l'année"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 6,
+    "images": 6
+   }
+  },
+  {
+   "id": "cobolli_forfait_turin",
+   "titre": "Cobolli forfait à Paris, 13 jours avant Turin, une semaine après avoir abandonné en larmes",
+   "note": 7.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Cobolli, 6e de la course, déclare forfait lundi soir à Paris sans donner de raison. Il ne manquera Turin que si quatre joueurs le dépassent.",
+   "faits": [
+    "Lundi 2 novembre 2026, juste après la cérémonie des 40 ans du tournoi, le forfait de Cobolli est annoncé ; le tournoi ne donne pas de raison (Tennis Majors).",
+    "Une semaine plus tôt à Vienne, il avait abandonné en larmes contre Berrettini, mené 5-2 au 1er set, en disant que c'était de l'émotion et non de la douleur, et qu'il jouerait à Paris.",
+    "Il est 6e de la course avec 3 690 points et ne manquera Turin que si quatre joueurs le dépassent ; remplaçant : le lucky loser Tirante.",
+    "Les Finales ATP se jouent à Turin, dans son pays."
+   ],
+   "pourquoi": "Un fil, une échéance (Turin dans 13 jours).",
+   "angle": "Forfait sans raison donnée, place à Turin encore en jeu.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Cobolli+Berrettini+Vienna+retires+tears+2026",
+     "titre": "Abandon en larmes à Vienne",
+     "format": "16:9",
+     "parle": false,
+     "usage": "hook",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de l'abandon à Vienne"
+   ],
+   "photos": [
+    "Cobolli",
+    "Turin Inalpi Arena"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Cobolli se retire de Paris",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/cobolli-withdraws-from-the-paris-masters-13-days-before-the-atp-finals-865136.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Une source (Tennis Majors) ; raison du forfait inconnue.",
+   "echeance": "Finales ATP, Turin, du 15 au 22 novembre",
+   "hooks": [
+    "Forfait à 13 jours de Turin, une semaine après des larmes à Vienne."
+   ],
+   "structure": [
+    "Hook",
+    "Vienne en larmes",
+    "Course à Turin"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 7,
+    "images": 6
+   }
+  },
+  {
+   "id": "alcaraz_pas_de_duopole",
+   "titre": "Alcaraz refuse le duopole Sinner pour 2027 et désigne Zverev meilleur joueur de l'année",
+   "note": 7.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Après Vienne, Alcaraz dit qu'il n'aime pas parler d'un 2027 « Jannik et moi et les autres » et qualifie Zverev de meilleur joueur de l'année.",
+   "faits": [
+    "Dimanche 1er novembre 2026, après sa victoire 6-1, 6-4 contre de Minaur à Vienne (Tennis Majors).",
+    "Alcaraz : « I don't like to say it's going to be Jannik and me and the rest of the people. » puis « Let's see who's going to be there. »",
+    "Sur Zverev : « Sascha showed us what he's capable of doing this year » ; « The best player of this year ».",
+    "Alcaraz a manqué quatre mois et demi (poignet) ; Sinner a fini sa saison sur une inflammation au genou et revient au Six Kings Slam à Riyad (27-30 décembre).",
+    "Un seul duel Alcaraz - Sinner en 2026 : finale de Monte-Carlo, Sinner 7-6, 6-3."
+   ],
+   "pourquoi": "Phrase claire, rivalité connue, sans besoin de contexte long.",
+   "angle": "Il refuse l'étiquette du duo.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+Vienna+press+conference+Sinner+duopoly+Zverev+best+player",
+     "titre": "Conférence de presse à Vienne",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Extrait de la conférence de presse"
+   ],
+   "photos": [
+    "Alcaraz Sinner Monte-Carlo 2026",
+    "Zverev numéro un"
+   ],
+   "citations": [
+    {
+     "auteur": "Carlos Alcaraz",
+     "texte": "« I don't like to say it's going to be Jannik and me and the rest of the people. »",
+     "source": "Vienne, 1er novembre 2026 (Tennis Majors)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Alcaraz rejette un duopole Sinner",
+     "url": "https://www.tennismajors.com/atp/vienna-erste-bank-open-atp-500/alcaraz-rejects-a-sinner-duopoly-for-2027-and-calls-zverev-the-best-player-of-this-year-864929.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Une source (Tennis Majors).",
+   "echeance": "Six Kings Slam, Riyad, 27-30 décembre (retour de Sinner)",
+   "hooks": [
+    "Quelques minutes après sa victoire, Alcaraz refuse de dire que 2027 se joue à deux."
+   ],
+   "structure": [
+    "Hook",
+    "Citation",
+    "Contexte blessures",
+    "Zverev"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 6
+   }
+  },
+  {
+   "id": "musetti_zverev_paris",
+   "titre": "Musetti bat Hurkacz après quatre balles de match sauvées, et retrouve Zverev, nouveau n°1",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Musetti gagne 7-6, 7-6 contre Hurkacz au premier tour de Paris et affronte Zverev, qui joue son premier tournoi en numéro un mondial.",
+   "faits": [
+    "Lundi 2 novembre 2026, 7-6(3), 7-6(10) en 1 h 45 ; personne n'a perdu son service (Tennis Majors).",
+    "Musetti a servi pour le match dans le jeu décisif de la 2e manche ; Hurkacz a sauvé quatre balles de match avant de rater une volée dans le couloir.",
+    "4e victoire de suite contre un joueur du top 30 depuis son titre à Lyon ; pas passé le 1er tour à Paris depuis ses quarts de 2022.",
+    "Zverev, n°1 mondial depuis lundi, est tête de série n°1 ; il a gagné Roland-Garros et l'US Open cette année."
+   ],
+   "pourquoi": "Match à suspense avec chiffres, enchaîné sur un choc daté.",
+   "angle": "Quatre balles de match sauvées, puis le n°1 mondial.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Musetti+Hurkacz+Paris+Masters+2026+tie+break+match+points",
+     "titre": "Musetti - Hurkacz, jeu décisif",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du jeu décisif"
+   ],
+   "photos": [
+    "Musetti",
+    "Zverev numéro un"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Musetti bat Hurkacz",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/musetti-needs-four-match-points-in-a-thriller-tie-break-to-beat-hurkacz-and-set-up-zverev-in-paris-865033.html"
+    },
+    {
+     "titre": "Tennis Majors : Zverev, premier point presse en n°1",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/i-can-compete-for-all-four-grand-slams-zverevs-first-press-conference-as-world-no-1-865100.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Tennis Majors ; le titre de l'article parle de balles de match sauvées par Musetti, le corps du texte de quatre balles sauvées par Hurkacz : le script suit le corps du texte.",
+   "echeance": "Musetti - Zverev, Paris, 2e tour (date à confirmer)",
+   "hooks": [
+    "Quatre balles de match sauvées, une volée dans le couloir."
+   ],
+   "structure": [
+    "Hook",
+    "Déroulé du match",
+    "Série de victoires"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 8,
+    "images": 7
+   }
+  },
+  {
+   "id": "fils_numero_sept",
+   "titre": "Fils n°7 mondial, comme Gasquet en 2007, deux jours après un abandon à Bâle",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Arthur Fils atteint son meilleur classement, 7e mondial avec 3 525 points, ce qui égale Gasquet en 2007. Il débute contre Machac à Paris.",
+   "faits": [
+    "Lundi 2 novembre 2026, Fils (22 ans) passe n°7 mondial avec 3 525 points, égalant le meilleur classement de Gasquet (2007) (Tennis Majors).",
+    "Il avait abandonné à Bâle sur un problème musculaire à la jambe gauche.",
+    "Fils : « there are only six guys ahead of me in the rankings » ; Pioline parle d'un résultat « assez exceptionnel », Bartoli critique sa fragilité physique.",
+    "Paris : tête de série n°6, 2e tour contre Machac, première confrontation entre eux ; 7e de la Race to Turin."
+   ],
+   "pourquoi": "Record français lisible, tension physique.",
+   "angle": "Égale Gasquet malgré la fragilité.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Arthur+Fils+Basel+retires+injury+2026",
+     "titre": "Abandon à Bâle",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Arthur+Fils+interview+world+number+7",
+     "titre": "Fils sur son classement",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Interview de Fils"
+   ],
+   "photos": [
+    "Arthur Fils",
+    "Richard Gasquet 2007"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Fils n°7",
+     "url": "https://www.tennismajors.com/atp/fils-on-his-rise-to-world-no-7-only-six-guys-ahead-of-me-thats-not-bad-864864.html"
+    },
+    {
+     "titre": "Tennis Majors : Machac bat Jacquet, premier match contre Fils",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/even-when-the-crowd-was-against-me-i-was-grateful-machac-beats-jacquet-to-set-up-a-first-meeting-with-fils-in-paris-865125.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Tennis Majors.",
+   "echeance": "Fils - Machac, Paris, 2e tour",
+   "hooks": [
+    "Fils égale le meilleur classement de Gasquet."
+   ],
+   "structure": [
+    "Hook",
+    "Citations Fils/Pioline/Bartoli",
+    "Machac"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 8,
+    "images": 6
+   }
+  },
+  {
+   "id": "shapovalov_abandon_4_1",
+   "titre": "Shapovalov mène 4-1 au 3e set contre Khachanov et abandonne, cuisse droite",
+   "note": 5.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Lundi soir à Paris, Shapovalov abandonne à 4-1 dans le troisième set contre Khachanov après un arrêt pour la cuisse droite.",
+   "faits": [
+    "Lundi 2 novembre 2026, 1er tour : Khachanov bat Shapovalov 6-4, 6-7, 1-4 abandon (Tennis Majors).",
+    "À 3-1, 40-30 au 3e set, Shapovalov s'arrête en tenant sa cuisse droite, kiné et temps mort médical ; reprise six minutes plus tard en boitant, il gagne le jeu pour mener 4-1.",
+    "Il abandonne pendant le jeu suivant après des signes venus de son box ; déchirure redoutée, plutôt une crampe selon l'article, non confirmé.",
+    "Khachanov affrontera Davidovich Fokina ou Kouamé."
+   ],
+   "pourquoi": "Retournement visuel simple, mais peu d'enjeu.",
+   "angle": "Il menait, il abandonne.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Shapovalov+Khachanov+Paris+2026+retires+thigh",
+     "titre": "Abandon de Shapovalov",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de l'arrêt et de l'abandon"
+   ],
+   "photos": [
+    "Shapovalov",
+    "Khachanov"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Shapovalov abandonne contre Khachanov",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/shapovalov-retires-against-khachanov-in-paris-despite-leading-4-1-in-the-third-set-865183.html"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Une source ; diagnostic non confirmé.",
+   "echeance": "Khachanov - Davidovich Fokina / Kouamé, 2e tour",
+   "hooks": [
+    "Il menait 4-1 dans le troisième set, et il abandonne au jeu suivant."
+   ],
+   "structure": [
+    "Hook",
+    "Déroulé",
+    "Suite"
+   ],
+   "scores": {
+    "viral": 5,
+    "faits": 6,
+    "images": 6
+   }
+  }
+ ],
+ "ecartes": [
+  {
+   "titre": "Zverev n°1 mondial",
+   "raison": "Déjà traité hier en long."
+  },
+  {
+   "titre": "Villarreal - PSG (3 novembre)",
+   "raison": "Match pas encore joué, calendrier non recoupé."
+  },
+  {
+   "titre": "Clasico Barça - Real du 25 octobre",
+   "raison": "Une seule source, détails non recoupés."
+  },
+  {
+   "titre": "Lorient - Brest",
+   "raison": "Résultat non trouvé."
+  },
+  {
+   "titre": "Course à Turin : Jodar et de Minaur à 24 points",
+   "raison": "Déjà écarté hier, une seule source."
+  }
+ ]
+}

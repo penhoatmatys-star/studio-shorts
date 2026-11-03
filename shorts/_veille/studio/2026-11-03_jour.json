@@ -1,0 +1,245 @@
+{
+ "djokovic_quatre_mois": {
+  "scripts": [
+   {
+    "id": "0f1063",
+    "titre": "Quatre mois de problèmes physiques",
+    "mecanisme": "Hook : citation du jour + clip ; défaites en série, Pékin puis rechute, Sauf que, Vacherot en miroir",
+    "texte": "La veille de son entrée à Bercy, Novak Djokovic a expliqué qu'il se bat depuis quatre mois contre un problème physique qu'il n'a toujours pas réglé.\n\n[CLIP Djokovic] On se rapproche vraiment de la solution à ce que je traverse depuis quatre mois.\n\nParce que cette saison, le Serbe de trente-neuf ans a enchaîné des défaites qu'on ne lui connaissait plus. À Rome, il a perdu dès son premier match contre le qualifié Dino Prizmic. À Cincinnati, il a perdu contre Thiago Tirante après avoir vomi. Et à l'US Open, il a perdu au premier tour contre Mariano Navone en plus de quatre heures et demie, une première depuis 2006 en Grand Chelem.\n\nUn mois plus tard, il est revenu à Pékin après des soins à l'abdomen et il a gagné son septième titre là-bas, le cent deuxième de sa carrière. Sauf que trois jours après, Hubert Hurkacz l'a battu à Shanghai, et à Bâle il a battu Ugo Humbert avant de s'incliner contre Jan-Lennard Struff, qui n'avait jamais gagné contre lui en huit confrontations.\n\nDjokovic assure que sa préparation n'y est pour rien et il a répondu aux experts qui prétendent connaître son état, comme Patrick Mouratoglou, qui parlait de stress.\n\nRésultat, il est aujourd'hui onzième de la course pour les Finales de Turin avec deux mille neuf cents points, donc il lui faut au minimum les demi-finales à Paris, et son premier adversaire s'appelle Valentin Vacherot. Le champion de Bâle l'avait déjà battu 6-3, 6-4 en demi-finale à Shanghai l'an dernier, et lui aussi a passé quatre mois sans point à cause d'une blessure au pied. Le vainqueur de ce match jouera ensuite contre le qualifié Rinky Hijikata.",
+    "mots": 263,
+    "clips": [
+     {
+      "moment": "preuve",
+      "description": "Conférence de presse de Djokovic",
+      "url": "https://www.youtube.com/results?search_query=Djokovic+press+conference+Paris+Masters+2026+physical+problems"
+     },
+     {
+      "moment": "action",
+      "description": "Titre à Pékin",
+      "url": "https://www.youtube.com/results?search_query=Djokovic+Beijing+2026+title+highlights"
+     },
+     {
+      "moment": "preuve",
+      "description": "Shanghai 2025 : Vacherot bat Djokovic",
+      "url": "https://www.youtube.com/results?search_query=Vacherot+Djokovic+Shanghai+2025+semi+final+highlights"
+     }
+    ],
+    "forces": "Faits datés et sourcés (Tennis Majors), phrases longues dans la voix de la base, verif.py OK.",
+    "risques": "Faits et citation dans Tennis Majors (une seule source principale pour la citation) ; le résultat du match du 3 novembre n'est pas connu au moment de la veille.",
+    "chat": []
+   }
+  ],
+  "choisi": "0f1063"
+ },
+ "kouame_bercy_17_ans": {
+  "scripts": [
+   {
+    "id": "9fdd31",
+    "titre": "Le gamin des tribunes de 2021",
+    "mecanisme": "Hook : scène de 2021 vs invitation reçue une heure avant ; cause avant événement",
+    "texte": "Il y a cinq ans, un garçon de douze ans regardait Hugo Gaston battre Carlos Alcaraz depuis les tribunes de Bercy, et ce mardi il entre sur le même court avec une invitation reçue une heure avant son match à Brest.\n\nParce que Moïse Kouamé a dix-sept ans, et dimanche il a gagné son premier titre en Challenger à Brest, en battant Martin Damm 6-4, 6-7, 7-6 après avoir sauvé deux balles de match dans le troisième set. Vendredi, Jakub Mensik s'est retiré, ce qui a fait entrer Quentin Halys dans le tableau principal et libéré son invitation.\n\nKouamé l'a reçue environ une heure avant d'entrer sur le court, et il a dit qu'il serait resté à Brest si on lui avait demandé de choisir. Là il se retrouve face à Alejandro Davidovich Fokina, tête de série numéro treize et vainqueur du Masters 1000 de Shanghai, dont il dit qu'il est plein de confiance, comme lui.\n\nEt ce n'est pas la première fois qu'il surprend, parce qu'à Roland-Garros il était classé trois cent dix-huitième et il a battu Marin Cilic 7-6, 6-2, 6-1. Ensuite il a battu Adolfo Daniel Vallejo en quatre heures cinquante-six, avant de perdre au troisième tour contre Alejandro Tabilo.\n\nLuca Van Assche, qui l'a connu quand il avait huit ans, raconte qu'il glissait déjà à droite et à gauche, ce qui n'était pas normal. Et il y a deux semaines à Lyon, Kouamé a dit à Univers Tennis que son plus grand rêve était le record du Grand Chelem, qui est à vingt-quatre, et qu'il lui en faudrait vingt-cinq. Le vainqueur de ce match affrontera Karen Khachanov.",
+    "mots": 271,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Finale Challenger de Brest",
+      "url": "https://www.youtube.com/results?search_query=Kouamé+Brest+challenger+final+2026"
+     },
+     {
+      "moment": "preuve",
+      "description": "Kouamé bat Cilic à Roland-Garros",
+      "url": "https://www.youtube.com/results?search_query=Kouamé+Cilic+Roland-Garros+2026+highlights"
+     },
+     {
+      "moment": "hook",
+      "description": "Gaston bat Alcaraz à Bercy 2021",
+      "url": "https://www.youtube.com/results?search_query=Gaston+Alcaraz+Bercy+2021+highlights"
+     }
+    ],
+    "forces": "Faits datés et sourcés (Tennis Majors), phrases longues dans la voix de la base, verif.py OK.",
+    "risques": "Un seul article détaillé (Tennis Majors) ; score de Brest et RG non recoupés ailleurs.",
+    "chat": []
+   }
+  ],
+  "choisi": "9fdd31"
+ },
+ "alcaraz_paris_serie": {
+  "scripts": [
+   {
+    "id": "adeed2",
+    "titre": "Cinq défaites, cinq formes",
+    "mecanisme": "Hook : paradoxe ; série 2021-2025 qui s'accélère, Sauf que, sa phrase",
+    "texte": "Carlos Alcaraz arrive à Paris avec cinq victoires de suite et un titre à Vienne, mais dans ce tournoi précis il n'a jamais dépassé les quarts de finale, et il dit lui-même que c'est bizarre.\n\nParce qu'à Bercy son bilan est de cinq victoires pour cinq défaites, et chaque année la défaite a une forme différente. En 2021, il a battu Jannik Sinner au deuxième tour avant de s'incliner 4-6, 5-7 contre le qualifié Hugo Gaston, classé cent troisième. En 2022, il était numéro un mondial et il a abandonné en quarts de finale contre Holger Rune à cause d'une blessure à l'abdomen.\n\nEn 2023, il a perdu dès le deuxième tour contre Safiullin, en 2024 il a perdu 1-6, 6-3, 5-7 contre Ugo Humbert, et l'an dernier, alors qu'il était numéro un, c'est Cameron Norrie qui l'a sorti au deuxième tour.\n\nSauf que cette année, il revient de quatre mois et demi d'absence à cause d'une blessure au poignet, il vient de battre Alex de Minaur 6-1, 6-4 en finale à Vienne, et Paris est sa dernière chance de gagner un Masters 1000 cette saison. S'il gagne, il sera le troisième joueur après Novak Djokovic et Rafael Nadal à remporter des Masters 1000 cinq années de suite.\n\nIl répond qu'il ne sait pas l'expliquer, qu'il y a eu des années où il ne se sentait pas bien mentalement, et qu'il est presque sûr qu'à un moment il fera un grand tournoi ici, plus tôt que tard. Son premier match est prévu mercredi contre Alex Michelsen ou Jiri Lehecka, et Arthur Fils l'attend peut-être en quarts.",
+    "mots": 266,
+    "clips": [
+     {
+      "moment": "preuve",
+      "description": "Gaston - Alcaraz 2021",
+      "url": "https://www.youtube.com/results?search_query=Gaston+Alcaraz+Bercy+2021+highlights"
+     },
+     {
+      "moment": "action",
+      "description": "Abandon contre Rune 2022",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+Rune+Paris+2022+retires+quarter+final"
+     },
+     {
+      "moment": "payoff",
+      "description": "Finale de Vienne",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+de+Minaur+Vienna+2026+final+highlights"
+     }
+    ],
+    "forces": "Faits datés et sourcés (Tennis Majors), phrases longues dans la voix de la base, verif.py OK.",
+    "risques": "Un article principal ; les scores de 2025 du texte source étant incohérents, le script ne les cite pas.",
+    "chat": []
+   }
+  ],
+  "choisi": "adeed2"
+ },
+ "mbappe_kane_ballon_dor": {
+  "scripts": [
+   {
+    "id": "e26957",
+    "titre": "En tête cet été, battu à l'arrivée",
+    "mecanisme": "Hook : jugement renversé ; profil de Kane, Mbappé deuxième, images de la salle, fait final",
+    "texte": "Pendant tout l'été, c'est Kylian Mbappé qui était en tête des votes du Ballon d'Or selon Vincent Garcia, de France Football, et pourtant c'est Harry Kane qui est monté sur la scène du London Palladium le 26 octobre.\n\nParce que Kane a trente-trois ans, il est capitaine de l'Angleterre, et il a marqué soixante et un buts avec le Bayern Munich et soixante-treize en comptant l'Angleterre, un total que seul Lionel Messi a dépassé sur une saison, avec quatre-vingt-deux buts en 2011. Il est le premier Anglais à gagner le trophée depuis Michael Owen en 2001, et il succède à Ousmane Dembélé.\n\nMbappé termine deuxième, devant Lamine Yamal, Rodri et Lionel Messi, et c'est son meilleur classement, après une troisième place en 2023, une sixième en 2024 et une septième l'an dernier. Avant la cérémonie il avait déjà été critiqué pour avoir répété que c'était lui qui devait gagner, au point qu'un journal espagnol avait écrit qu'il avait oublié l'humilité.\n\nEt bizarrement, ce sont les images de la salle qui ont fait le plus parler, parce que plusieurs médias ont décrit une réaction glaciale de Mbappé à l'annonce, resté assis quand Kane est venu le saluer, ce qui n'a pas été confirmé par des propos de sa part.\n\nKane, lui, a dit le lendemain qu'il n'aurait jamais rêvé de ça, plusieurs anciens joueurs l'ont félicité, et Lothar Matthäus a rappelé qu'il lui manque seulement une Ligue des champions. Le Paris Saint-Germain a été élu meilleur club de l'année pour la deuxième fois de suite, sans aucun de ses joueurs dans le top cinq du Ballon d'Or.",
+    "mots": 266,
+    "clips": [
+     {
+      "moment": "hook",
+      "description": "Sacre de Kane et réaction de Mbappé",
+      "url": "https://www.youtube.com/results?search_query=Ballon+d+Or+2026+Kane+wins+Mbappé+reaction"
+     },
+     {
+      "moment": "preuve",
+      "description": "Discours de Kane",
+      "url": "https://www.youtube.com/results?search_query=Kane+Ballon+d+Or+2026+speech"
+     },
+     {
+      "moment": "preuve",
+      "description": "Mbappé avant la cérémonie",
+      "url": "https://www.youtube.com/results?search_query=Mbappé+Ballon+d+Or+2026+should+win+interview"
+     }
+    ],
+    "forces": "Faits datés et sourcés (Tennis Majors), phrases longues dans la voix de la base, verif.py OK.",
+    "risques": "Classement et chiffres de Kane recoupés (AFP, Blue News) ; votes de l'été, classements passés de Mbappé et réaction glaciale sortent de la recherche et de Foot Africa (page non lisible), à reverifier avant montage.",
+    "chat": []
+   }
+  ],
+  "choisi": "e26957"
+ },
+ "cobolli_forfait_turin": {
+  "scripts": [
+   {
+    "id": "0937aa",
+    "titre": "Forfait à treize jours de Turin",
+    "mecanisme": "Hook : fait daté ; larmes de Vienne ; enjeu course",
+    "texte": "Flavio Cobolli a annoncé son forfait pour Paris lundi soir, treize jours avant les Finales ATP de Turin, juste après avoir participé à la cérémonie du quarantième anniversaire du tournoi.\n\nParce que la semaine d'avant à Vienne, il avait abandonné en larmes contre Matteo Berrettini, mené 5-2 dans le premier set, en expliquant que ses larmes venaient de l'émotion et pas de la douleur, et qu'il comptait jouer à Paris. Le tournoi n'a pas donné la raison de son retrait.\n\nIl reste sixième de la course avec trois mille six cent quatre-vingt-dix points, et il ne manquera Turin que si quatre joueurs le dépassent cette semaine, alors que les Finales se jouent dans son pays.",
+    "mots": 115,
+    "clips": [
+     {
+      "moment": "hook",
+      "description": "Abandon en larmes à Vienne",
+      "url": "https://www.youtube.com/results?search_query=Cobolli+Berrettini+Vienna+retires+tears+2026"
+     }
+    ],
+    "forces": "Faits datés et sourcés (Tennis Majors), phrases longues dans la voix de la base, verif.py OK.",
+    "risques": "Une source (Tennis Majors) ; raison du forfait inconnue.",
+    "chat": []
+   }
+  ],
+  "choisi": "0937aa"
+ },
+ "alcaraz_pas_de_duopole": {
+  "scripts": [
+   {
+    "id": "1b5b22",
+    "titre": "Pas de duopole",
+    "mecanisme": "Hook : refus + désignation ; citation ; contexte blessures",
+    "texte": "Quelques minutes après sa victoire à Vienne, Carlos Alcaraz a refusé de dire que 2027 se jouerait entre Jannik Sinner et lui, et il a désigné Alexander Zverev comme le meilleur joueur de cette année.\n\nParce qu'il a répondu qu'il n'aimait pas dire que ce serait Jannik et lui et le reste des gens, alors que cette saison il a manqué quatre mois et demi à cause d'une blessure au poignet et que Sinner a terminé la sienne sur une inflammation au genou. Ils ne se sont affrontés qu'une seule fois en 2026, en finale à Monte-Carlo, gagnée par Sinner 7-6, 6-3.\n\nSur Zverev, devenu numéro un mondial lundi, il a dit que Sascha avait montré de quoi il était capable cette année.",
+    "mots": 123,
+    "clips": [
+     {
+      "moment": "preuve",
+      "description": "Conférence de presse à Vienne",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+Vienna+press+conference+Sinner+duopoly+Zverev+best+player"
+     }
+    ],
+    "forces": "Faits datés et sourcés (Tennis Majors), phrases longues dans la voix de la base, verif.py OK.",
+    "risques": "Une source (Tennis Majors).",
+    "chat": []
+   }
+  ],
+  "choisi": "1b5b22"
+ },
+ "musetti_zverev_paris": {
+  "scripts": [
+   {
+    "id": "bed4b6",
+    "titre": "Quatre balles de match",
+    "mecanisme": "Hook : score + prochain choc ; déroulé ; série",
+    "texte": "Lorenzo Musetti a battu Hubert Hurkacz 7-6, 7-6 lundi à Paris et retrouve maintenant Alexander Zverev, qui joue son premier tournoi en tant que numéro un mondial.\n\nParce que dans ce match d'une heure quarante-cinq, aucun des deux n'a perdu son service, Musetti a servi pour le gain du match dans le jeu décisif de la deuxième manche, et Hurkacz a sauvé quatre balles de match avant de rater une volée dans le couloir. C'est sa quatrième victoire de suite contre un joueur du top trente depuis son titre à Lyon il y a deux semaines, alors qu'il n'avait pas passé le premier tour à Paris depuis 2022.\n\nMusetti dit avoir livré l'une de ses meilleures performances au service.",
+    "mots": 119,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Musetti - Hurkacz, jeu décisif",
+      "url": "https://www.youtube.com/results?search_query=Musetti+Hurkacz+Paris+Masters+2026+tie+break+match+points"
+     }
+    ],
+    "forces": "Faits datés et sourcés (Tennis Majors), phrases longues dans la voix de la base, verif.py OK.",
+    "risques": "Tennis Majors ; le titre de l'article parle de balles de match sauvées par Musetti, le corps du texte de quatre balles sauvées par Hurkacz : le script suit le corps du texte.",
+    "chat": []
+   }
+  ],
+  "choisi": "bed4b6"
+ },
+ "fils_numero_sept": {
+  "scripts": [
+   {
+    "id": "9868df",
+    "titre": "Comme Gasquet en 2007",
+    "mecanisme": "Hook : record égalé ; citations ; Machac",
+    "texte": "Arthur Fils devient numéro sept mondial ce lundi avec trois mille cinq cent vingt-cinq points, ce qui égale le meilleur classement de Richard Gasquet en 2007.\n\nParce que le Français de vingt-deux ans, qui avait abandonné à Bâle sur un problème musculaire à la jambe gauche, a dit qu'être comparé à Richie était très positif et qu'il n'y a plus que six joueurs devant lui. Le directeur du tournoi Cédric Pioline a parlé d'un résultat assez exceptionnel vu qu'il a manqué deux Grands Chelems, alors que Marion Bartoli a critiqué sa fragilité physique.\n\nÀ Paris, il est tête de série numéro six et débute au deuxième tour contre Tomas Machac, qu'il n'a encore jamais affronté.",
+    "mots": 115,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Abandon à Bâle",
+      "url": "https://www.youtube.com/results?search_query=Arthur+Fils+Basel+retires+injury+2026"
+     },
+     {
+      "moment": "preuve",
+      "description": "Fils sur son classement",
+      "url": "https://www.youtube.com/results?search_query=Arthur+Fils+interview+world+number+7"
+     }
+    ],
+    "forces": "Faits datés et sourcés (Tennis Majors), phrases longues dans la voix de la base, verif.py OK.",
+    "risques": "Tennis Majors.",
+    "chat": []
+   }
+  ],
+  "choisi": "9868df"
+ },
+ "shapovalov_abandon_4_1": {
+  "scripts": [
+   {
+    "id": "8db9e2",
+    "titre": "Il menait 4-1",
+    "mecanisme": "Hook : renversement ; déroulé ; suite",
+    "texte": "Denis Shapovalov menait 4-1 dans le troisième set contre Karen Khachanov lundi soir à Paris, et il a abandonné au jeu suivant après s'être arrêté en tenant sa cuisse droite.\n\nParce que Khachanov avait gagné la première manche 6-4 et Shapovalov la deuxième au jeu décisif, puis à 3-1 et 40-30 dans la troisième, il s'est arrêté et a demandé le kiné pour un temps mort médical. Une déchirure était redoutée, mais cela ressemblait plutôt à une crampe, et il a repris six minutes plus tard en boitant avant de gagner le jeu pour mener 4-1.\n\nAprès des signes venus de son box, il a abandonné pendant le jeu suivant, et Khachanov, qualifié, affrontera au deuxième tour Alejandro Davidovich Fokina ou Moïse Kouamé.",
+    "mots": 123,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Abandon de Shapovalov",
+      "url": "https://www.youtube.com/results?search_query=Shapovalov+Khachanov+Paris+2026+retires+thigh"
+     }
+    ],
+    "forces": "Faits datés et sourcés (Tennis Majors), phrases longues dans la voix de la base, verif.py OK.",
+    "risques": "Une source ; diagnostic non confirmé.",
+    "chat": []
+   }
+  ],
+  "choisi": "8db9e2"
+ }
+}
