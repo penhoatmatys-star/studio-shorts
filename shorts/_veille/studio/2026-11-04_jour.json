@@ -1,0 +1,235 @@
+{
+ "djokovic_vacherot_record": {
+  "scripts": [
+   {
+    "id": "f8d935",
+    "titre": "Le record d'âge arraché après un set perdu et 22 aces encaissés.",
+    "mecanisme": "Hook chiffré (set perdu, 22 aces, record) puis clips parlés comme preuves",
+    "texte": "Mardi soir à Paris, Novak Djokovic a perdu le premier set, il s'est fait passer vingt-deux aces, et il a quand même gagné 6-1 au troisième, ce qui lui a fait battre un record que Jimmy Connors détenait depuis 1991.\n\nParce qu'en face, il y avait Valentin Vacherot, celui qui l'avait battu en demi-finale à Shanghai en 2025 et qui venait de gagner le tournoi de Bâle dimanche. Alors quand il prend le premier set 7-6 au jeu décisif, tout le monde voit déjà arriver une cinquième défaite de suite pour Djokovic en Masters 1000.\n\nEt pour cause, il a expliqué ensuite qu'il avait eu du mal à lire ce service pendant un set et demi, et qu'au deuxième set, à 4-4, il avait dû sauver trois balles de break. C'est justement là que le match bascule, vu qu'il gagne le set 7-5 avant de dérouler le troisième 6-1, au bout de deux heures trente-cinq.\n\nRésultat, c'est sa cinquante et unième victoire à Paris, et à 39 ans, il devient le joueur le plus âgé à gagner un match ici, devant Connors, qui avait lui aussi 39 ans en 1991. Après le match, on lui demande si Turin est son objectif principal, et il répond ça.\n\n[CLIP Djokovic] Non. Gagner chaque match.\n\nParce qu'avec 2 940 points dans la course à Turin, il lui faut au minimum les demi-finales pour rester en vie, et seul le titre lui garantirait sa place aux Finales. Mercredi, il joue le qualifié australien Rinky Hijikata, un joueur qui reste bas et qui slice, et il dit à son sujet ceci.\n\n[CLIP Djokovic] Je m'attends à gagner. Je le fais toujours.",
+    "mots": 260,
+    "clips": [
+     {
+      "moment": "CLIP Djokovic",
+      "description": "clip parlé : Non. Gagner chaque match.",
+      "url": "https://www.youtube.com/results?search_query=Djokovic+press+conference+Paris+Masters+Vacherot+win"
+     },
+     {
+      "moment": "CLIP Djokovic",
+      "description": "clip parlé : Je m'attends à gagner. Je le fais toujours.",
+      "url": "https://www.youtube.com/results?search_query=Djokovic+press+conference+Paris+Masters+Vacherot+win"
+     }
+    ],
+    "forces": "Faits recoupés du 3 novembre, phrases enchaînées dans la voix de la base.",
+    "risques": "Vérifier les minutes et chiffres avant la VO ; traductions des citations à valider.",
+    "chat": []
+   }
+  ],
+  "choisi": "f8d935"
+ },
+ "course_turin_trois": {
+  "scripts": [
+   {
+    "id": "9bfcb6",
+    "titre": "Trois joueurs, un billet pour Turin, et mardi a déjà fait une victime.",
+    "mecanisme": "Série parallèle de trois cas, le cas le plus dramatique en premier",
+    "texte": "Cette semaine à Paris, trois joueurs se battent pour une place aux Finales de Turin, et mardi, l'un d'eux a vu ses chances fondre en deux heures et dix-neuf minutes, contre un adversaire classé vingt places derrière lui.\n\nParce que Jiri Lehecka était quinzième de la course à Turin, et pour rester dans la bagarre, il lui fallait gagner le tournoi, sachant qu'il sortait d'une finale perdue à Bâle dimanche contre Valentin Vacherot. Sauf que l'Américain Alex Michelsen, trente-cinquième mondial, l'a battu 6-7, 6-2, 6-4 après avoir perdu le premier set, et ses espoirs sont désormais minces.\n\nPendant ce temps, Tommy Paul, treizième de la course avec 2 735 points, a battu Holger Rune 7-5, 6-4 en une heure vingt et une minutes. Rune avait gagné le tournoi en 2022 et jouait avec un classement protégé, puisqu'il est aujourd'hui cent quatre-vingt-quinzième. Pour Paul, il faut au minimum une finale à Paris pour rester dans la course, et seul le titre lui garantirait sa place, ce qui veut dire qu'il lui faut gagner contre l'Espagnol Daniel Merida, puis probablement Frances Tiafoe, lui aussi dans la course.\n\nEt du côté de Novak Djokovic, qui a battu Vacherot la veille, c'est la même équation, avec 2 940 points. S'il atteint les demi-finales, il passe à 3 290 points et reste en lice, mais seul le titre lui assure Turin.\n\nAutrement dit, personne dans ce groupe n'a de marge, et le plus étrange, c'est que Flavio Cobolli, cinquième tête de série, avait déclaré forfait lundi, ce qui a fait entrer le lucky loser Thiago Tirante à sa place.",
+    "mots": 264,
+    "clips": [
+     {
+      "moment": "illustration",
+      "description": "Michelsen bat Lehecka",
+      "url": "https://www.youtube.com/results?search_query=Michelsen+Lehecka+Paris+Masters+2026+highlights"
+     },
+     {
+      "moment": "illustration",
+      "description": "Paul bat Rune",
+      "url": "https://www.youtube.com/results?search_query=Tommy+Paul+Rune+Paris+Masters+2026+highlights"
+     }
+    ],
+    "forces": "Faits recoupés du 3 novembre, phrases enchaînées dans la voix de la base.",
+    "risques": "Vérifier les minutes et chiffres avant la VO ; traductions des citations à valider.",
+    "chat": []
+   }
+  ],
+  "choisi": "9bfcb6"
+ },
+ "berrettini_neuf_masters": {
+  "scripts": [
+   {
+    "id": "9645d1",
+    "titre": "Le dernier Masters 1000 qui manquait, gagné au bout des deux balles de match.",
+    "mecanisme": "Statistique de carrière annoncée dans le hook, payoff dans le jeu décisif",
+    "texte": "Mardi à Paris, Matteo Berrettini est entré sur le court sans aucun match gagné dans ce tournoi, le seul Masters 1000 où il en était là, et il a changé ça en sauvant deux balles de match.\n\nParce qu'en face, il avait Brandon Nakashima, quatorzième tête de série, alors que lui n'est que quarante-troisième mondial. Il prend le premier set 6-4, puis Nakashima remet les compteurs à zéro en gagnant le deuxième 6-3.\n\nEt c'est là que tout se joue dans la manche décisive, qui va jusqu'au jeu décisif. Nakashima obtient une première balle de match, Berrettini la sauve, puis une deuxième arrive, qu'il sauve aussi, avant de finir par gagner ce jeu décisif 10 points à 8, soit 7-6 au troisième set.\n\nAu bout de deux heures et douze minutes, les chiffres de son service racontent l'essentiel de la soirée, parce qu'il a mis dix-sept aces, trente-huit coups gagnants, et il a gagné quatre-vingt-huit pour cent de ses points derrière sa première balle, soit cinquante-six sur soixante-quatre. Il mène désormais 2-1 dans ses face-à-face avec Nakashima.\n\nRésultat, selon l'ATP, il a maintenant gagné au moins un match dans chacun des neuf Masters 1000, et Paris était le dernier qui lui manquait.\n\nMercredi, il retrouve Ugo Humbert, qui a battu Botic van de Zandschulp 7-6, 6-7, 6-3 mardi, et qui a déjà atteint vingt-cinq victoires cette saison. Il fait partie des cinq Français encore en lice avec Fils, Halys, Rinderknech et Van Assche, tous sur le court mercredi, sur une surface que Novak Djokovic avait décrite le même jour comme de la glace.",
+    "mots": 263,
+    "clips": [
+     {
+      "moment": "illustration",
+      "description": "Berrettini - Nakashima",
+      "url": "https://www.youtube.com/results?search_query=Berrettini+Nakashima+Paris+Masters+2026+highlights"
+     },
+     {
+      "moment": "illustration",
+      "description": "Prochain match",
+      "url": "https://www.youtube.com/results?search_query=Berrettini+Humbert+Paris+Masters+2026"
+     }
+    ],
+    "forces": "Faits recoupés du 3 novembre, phrases enchaînées dans la voix de la base.",
+    "risques": "Vérifier les minutes et chiffres avant la VO ; traductions des citations à valider.",
+    "chat": []
+   }
+  ],
+  "choisi": "9645d1"
+ },
+ "psg_villarreal_record": {
+  "scripts": [
+   {
+    "id": "c78d3e",
+    "titre": "Le record des 17 minutes, puis le détail du banc : Boly.",
+    "mecanisme": "Hook record chiffré qui retarde l'info finale, retournement sur le banc",
+    "texte": "En dix-sept minutes mardi soir à Villarreal, le PSG a marqué quatre buts, plus vite qu'aucune équipe dans l'histoire de la Ligue des champions, et pourtant le but dont on va le plus parler est tombé à la soixante-dix-huitième minute.\n\nParce que tout commence à la neuvième minute avec João Neves, puis Désiré Doué marque à la douzième, Senny Mayulu à la treizième et Fabián Ruiz à la dix-septième, ce qui fait 4-0 avant même la fin du premier quart d'heure. Aucune équipe n'avait jamais inscrit quatre buts aussi vite dans un match de Ligue des champions, et ce record tombe dès la quatrième journée de la phase de ligue.\n\nAlors ensuite, Paris ne s'arrête pas du tout, et Fabián Ruiz marque à nouveau à la cinquantième minute pour porter le score à 5-0 sur le terrain de Villarreal. Tout ça arrive quinze jours après la victoire 4-2 contre le Barça, le 20 octobre, et ça confirme que le PSG sait enchaîner les gros scores.\n\nMais ce que personne ne regardait, c'est le banc, parce qu'à la soixante-dix-huitième minute, David Boly, 17 ans, reçoit une passe de João Neves, il frappe, et il inscrit son premier but chez les professionnels, ce qui fait 6-0 pour Paris.\n\nEn Ligue 1, le PSG est premier avec 20 points, un de plus que Lille, qui en compte 18, et le prochain match est fixé samedi 7 novembre à 20 h 45 contre Troyes. On saura alors si un joueur de 17 ans qui vient de marquer en Ligue des champions entre dans le onze.",
+    "mots": 261,
+    "clips": [
+     {
+      "moment": "illustration",
+      "description": "Résumé Villarreal - PSG",
+      "url": "https://www.youtube.com/results?search_query=Villarreal+PSG+6-0+résumé+buts"
+     },
+     {
+      "moment": "illustration",
+      "description": "But de Boly",
+      "url": "https://www.youtube.com/results?search_query=David+Boly+premier+but+PSG"
+     }
+    ],
+    "forces": "Faits recoupés du 3 novembre, phrases enchaînées dans la voix de la base.",
+    "risques": "Vérifier les minutes et chiffres avant la VO ; traductions des citations à valider.",
+    "chat": []
+   }
+  ],
+  "choisi": "c78d3e"
+ },
+ "alcaraz_michelsen_paris": {
+  "scripts": [
+   {
+    "id": "94f100",
+    "titre": "Un match d'entrée contre un joueur déjà lancé.",
+    "mecanisme": "Hook adversaire + stat sèche",
+    "texte": "Carlos Alcaraz va jouer mercredi son premier match à Paris contre le joueur qui vient de sortir Jiri Lehecka, celui qu'il avait battu en finale à Tokyo le mois dernier, et il n'a jamais dépassé les quarts de finale ici.\n\nParce que l'Américain Alex Michelsen, trente-cinquième mondial, a battu Lehecka, quinzième, 6-7, 6-2, 6-4 mardi après deux heures dix-neuf minutes, en revenant d'un set de retard. Lehecka sortait d'une finale perdue à Bâle contre Vacherot, et il avait besoin du titre à Paris pour rester dans la course à Turin.\n\nAlcaraz, lui, avait un bye au premier tour, donc il n'a encore joué aucun match dans ce tournoi, et il va devoir affronter un adversaire déjà lancé.",
+    "mots": 117,
+    "clips": [
+     {
+      "moment": "illustration",
+      "description": "Alcaraz - Michelsen",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+Michelsen+Paris+Masters+2026"
+     },
+     {
+      "moment": "illustration",
+      "description": "Michelsen - Lehecka",
+      "url": "https://www.youtube.com/results?search_query=Michelsen+Lehecka+Paris+Masters+2026"
+     }
+    ],
+    "forces": "Faits recoupés du 3 novembre, phrases enchaînées dans la voix de la base.",
+    "risques": "Vérifier les minutes et chiffres avant la VO ; traductions des citations à valider.",
+    "chat": []
+   }
+  ],
+  "choisi": "94f100"
+ },
+ "rublev_etcheverry_series": {
+  "scripts": [
+   {
+    "id": "a5497d",
+    "titre": "Un duel entre deux joueurs en crise.",
+    "mecanisme": "Duel de deux séries, résultat en dernier",
+    "texte": "Mardi à Paris, Andrey Rublev et Tomas Martin Etcheverry sont arrivés chacun avec une série de défaites, et l'un des deux devait forcément la prolonger, ce qui s'est joué au jeu décisif du troisième set.\n\nParce que Rublev, vingt-deuxième mondial, n'avait plus gagné depuis les quarts de finale à Pékin, contre de Minaur, et Etcheverry, trente et unième, arrivait avec six défaites de suite depuis son huitième de finale à l'US Open.\n\nEtcheverry gagne 6-4, 6-7, 7-6 en deux heures cinquante-deux, et Rublev, qui a pourtant gagné Bastad cette saison, perd un cinquième match de suite. Le seul titre ATP d'Etcheverry reste Rio en février, et il retrouve maintenant de Minaur au deuxième tour.",
+    "mots": 114,
+    "clips": [
+     {
+      "moment": "illustration",
+      "description": "Etcheverry - Rublev",
+      "url": "https://www.youtube.com/results?search_query=Etcheverry+Rublev+Paris+Masters+2026+highlights"
+     }
+    ],
+    "forces": "Faits recoupés du 3 novembre, phrases enchaînées dans la voix de la base.",
+    "risques": "Vérifier les minutes et chiffres avant la VO ; traductions des citations à valider.",
+    "chat": []
+   }
+  ],
+  "choisi": "a5497d"
+ },
+ "yamal_record_champions": {
+  "scripts": [
+   {
+    "id": "b2a004",
+    "titre": "Le record battu à la 7e minute.",
+    "mecanisme": "Record battu dans le hook",
+    "texte": "Mardi soir au Camp Nou, Lamine Yamal a marqué à la septième minute sur une passe ratée d'Aston Villa, et il est devenu l'adolescent qui a marqué le plus de buts dans l'histoire de la Ligue des champions.\n\nParce qu'avec ce but, il en est à quatorze, alors que le record appartenait jusque-là à Kylian Mbappé avec treize. Raphinha a ensuite marqué deux buts en douze minutes, ce qui donne au Barça une victoire 3-0 et la deuxième place du classement à la différence de buts, devant Aston Villa, troisième.\n\nCe succès arrive deux semaines après la défaite 4-2 du Barça contre le PSG, le 20 octobre, lors de la troisième journée.",
+    "mots": 112,
+    "clips": [
+     {
+      "moment": "illustration",
+      "description": "But de Yamal",
+      "url": "https://www.youtube.com/results?search_query=Yamal+goal+Barcelona+Aston+Villa+3-0"
+     },
+     {
+      "moment": "illustration",
+      "description": "Doublé de Raphinha",
+      "url": "https://www.youtube.com/results?search_query=Raphinha+double+Barcelona+Aston+Villa"
+     }
+    ],
+    "forces": "Faits recoupés du 3 novembre, phrases enchaînées dans la voix de la base.",
+    "risques": "Vérifier les minutes et chiffres avant la VO ; traductions des citations à valider.",
+    "chat": []
+   }
+  ],
+  "choisi": "b2a004"
+ },
+ "cunha_united_roma": {
+  "scripts": [
+   {
+    "id": "38e0e7",
+    "titre": "Le penalty tiré deux fois.",
+    "mecanisme": "Remontada racontée par le penalty retiré",
+    "texte": "Mardi soir à Old Trafford, Manchester United perdait 2-0 contre la Roma dès la dix-septième minute, et c'est un penalty tiré deux fois qui a lancé une remontée terminée avec un joueur expulsé.\n\nParce que Bruno Fernandes voit son penalty arrêté par Devis Vasquez, troisième gardien de la Roma, puis l'arbitre le fait retirer à cause d'un empiètement, et il marque à la cinquante-huitième minute. Matheus Cunha égalise ensuite à la quatre-vingt-troisième, puis marque à nouveau trois minutes plus tard.\n\nUnited gagne 3-2, avec dix tirs en seconde période contre zéro pour la Roma, mais Cunha est expulsé dans le temps additionnel pour un second jaune. Cette victoire fait remonter Manchester United à la dix-septième place de la phase de ligue, avec deux victoires et deux défaites en quatre matchs.",
+    "mots": 130,
+    "clips": [
+     {
+      "moment": "illustration",
+      "description": "Résumé United - Roma",
+      "url": "https://www.youtube.com/results?search_query=Manchester+United+Roma+3-2+highlights+Cunha"
+     },
+     {
+      "moment": "illustration",
+      "description": "Le penalty retiré",
+      "url": "https://www.youtube.com/results?search_query=Fernandes+penalty+retaken+Vasquez"
+     }
+    ],
+    "forces": "Faits recoupés du 3 novembre, phrases enchaînées dans la voix de la base.",
+    "risques": "Vérifier les minutes et chiffres avant la VO ; traductions des citations à valider.",
+    "chat": []
+   }
+  ],
+  "choisi": "38e0e7"
+ },
+ "halys_paris_service": {
+  "scripts": [
+   {
+    "id": "b22bd2",
+    "titre": "Zéro jeu de service perdu pour une première.",
+    "mecanisme": "Stat de service en hook",
+    "texte": "Quentin Halys a joué mardi à Paris un match entier sans perdre une seule fois son service, avec dix-sept aces, et c'était pourtant sa première victoire en trois participations au tableau principal.\n\nParce qu'il avait perdu au premier tour en 2022 et en 2024, et contre Arthur Fery, demi-finaliste à Wimbledon, il a tenu ses douze jeux de service, avec quatre-vingt-sept pour cent de points gagnés derrière sa première balle.\n\nIl gagne 7-6, 7-5 en une heure trente-neuf, après un seul break à 5-5. Mercredi, il retrouve Frances Tiafoe, septième tête de série, qui joue lui aussi pour une place à Turin, alors que Halys est quarante-sixième mondial, avec déjà vingt-cinq victoires cette année.",
+    "mots": 114,
+    "clips": [
+     {
+      "moment": "illustration",
+      "description": "Halys - Fery",
+      "url": "https://www.youtube.com/results?search_query=Halys+Fery+Paris+Masters+2026+highlights"
+     }
+    ],
+    "forces": "Faits recoupés du 3 novembre, phrases enchaînées dans la voix de la base.",
+    "risques": "Vérifier les minutes et chiffres avant la VO ; traductions des citations à valider.",
+    "chat": []
+   }
+  ],
+  "choisi": "b22bd2"
+ }
+}

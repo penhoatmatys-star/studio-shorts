@@ -1,0 +1,691 @@
+{
+ "titre": "Veille sport, mercredi 4 novembre 2026",
+ "date": "2026-11-04",
+ "moment": "jour",
+ "tldr": "Djokovic bat Vacherot et devient le plus vieux vainqueur d'un match à Paris ; le PSG signe un record de vitesse à Villarreal (0-6) ; Berrettini sauve deux balles de match ; Yamal passe Mbappé. Course à Turin à suivre mercredi.",
+ "sujets": [
+  {
+   "id": "djokovic_vacherot_record",
+   "titre": "Djokovic perd le premier set, encaisse 22 aces, et devient le plus vieux vainqueur d'un match à Paris",
+   "note": 9.0,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Mardi, Djokovic bat Vacherot 6-7, 7-5, 6-1 en 2 h 35 et dépasse Jimmy Connors comme plus vieux vainqueur d'un match à Paris. Il joue Hijikata mercredi avec 2 940 points dans la course à Turin.",
+   "faits": [
+    "Mardi 3 novembre 2026, 1er tour du Rolex Paris Masters : Djokovic bat Valentin Vacherot 6-7 (5), 7-5, 6-1 en 2 h 35 (Tennis Majors, NBC, ESPN).",
+    "À 39 ans, il devient le plus vieux vainqueur d'un match à Paris, devant Jimmy Connors (39 ans en 1991) ; 51e victoire à Paris ; fin d'une série de quatre défaites en Masters 1000.",
+    "Vacherot lui a passé 22 aces (ESPN) ; Djokovic dit avoir eu du mal à lire son service pendant un set et demi et sauve trois balles de break à 4-4 au 2e set.",
+    "Course à Turin : 2 940 points, il lui faut les demi-finales (3 290 pts) pour rester en lice, seul le titre garantit la place.",
+    "Prochain match : le qualifié australien Rinky Hijikata, mercredi ; tableau possible : de Minaur ou Etcheverry au 3e tour, puis Zverev (n°1) en quarts."
+   ],
+   "pourquoi": "Suite chaude de la veille d'hier avec le résultat du match, un record d'âge, une remontada et une échéance claire.",
+   "angle": "Le record d'âge arraché après un set perdu et 22 aces encaissés.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Djokovic+Vacherot+Paris+Masters+2026+highlights",
+     "titre": "Résumé Djokovic - Vacherot",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Djokovic+press+conference+Paris+Masters+Vacherot+win",
+     "titre": "Conférence de presse après le match",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Extraits du match (tie-break du 1er set, balles de break à 4-4, dernier jeu)",
+    "Interview d'après-match en anglais"
+   ],
+   "photos": [
+    "Djokovic Bercy 2026",
+    "Jimmy Connors 1991",
+    "Vacherot trophée Bâle"
+   ],
+   "citations": [
+    {
+     "auteur": "Novak Djokovic",
+     "texte": "« No. To win every match. »",
+     "source": "conférence de presse, Paris, 3 novembre 2026 (Tennis Majors)"
+    },
+    {
+     "auteur": "Novak Djokovic",
+     "texte": "« Well, I expect myself to win. I always do. »",
+     "source": "à propos de Hijikata, Tennis Majors, 3 novembre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Djokovic survit à Vacherot, plus vieux vainqueur d'un match à Paris",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/djokovic-survives-vacherot-scare-to-become-pariss-oldest-match-winner-and-keep-atp-finals-hope-alive-865353.html"
+    },
+    {
+     "titre": "Tennis Majors : « No », Djokovic relativise Turin",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/no-reassured-after-vacherot-djokovic-plays-down-turin-and-takes-it-match-by-match-865384.html"
+    },
+    {
+     "titre": "ESPN : Djokovic repousse Vacherot",
+     "url": "https://www.espn.com/tennis/story/_/id/50370507/novak-djokovic-fends-valentin-vacherot-paris-masters"
+    },
+    {
+     "titre": "NBC Sports : Djokovic surmonte la frayeur",
+     "url": "https://www.nbcsports.com/tennis/news/djokovic-overcomes-scare-to-beat-vacherot-in-paris-masters-1st-round"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score, record et citations recoupés sur Tennis Majors, ESPN et NBC.",
+   "echeance": "Mercredi 4 novembre 2026, Djokovic - Hijikata, 2e tour",
+   "hooks": [
+    "Mardi soir, Djokovic a perdu le premier set, encaissé 22 aces et battu un record de Connors vieux de 1991.",
+    "Le record d'âge de Connors tenait depuis 1991, Djokovic l'a battu en perdant un set.",
+    "Cette réponse de Djokovic sur Turin explique tout son tournoi."
+   ],
+   "structure": [
+    "Hook : set perdu, 22 aces, record",
+    "Vacherot, Shanghai, Bâle",
+    "Balles de break à 4-4 puis 6-1",
+    "Record d'âge + clip Turin",
+    "Course à Turin, Hijikata + clip"
+   ],
+   "scores": {
+    "viral": 9,
+    "faits": 9,
+    "images": 8
+   }
+  },
+  {
+   "id": "course_turin_trois",
+   "titre": "Course à Turin : Lehecka quasi éliminé, Paul et Djokovic obligés d'aller loin à Paris",
+   "note": 8.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Lehecka, battu par Michelsen, voit Turin s'éloigner. Paul (13e de la Race) et Djokovic (2 940 pts) doivent aller très loin à Paris.",
+   "faits": [
+    "Michelsen (35e) bat Lehecka (15e de la Race) 6-7 (5), 6-2, 6-4 en 2 h 19 ; Lehecka avait perdu la finale de Bâle dimanche contre Vacherot (2-6, 6-3, 6-3) et avait besoin du titre.",
+    "Tommy Paul (12e tête de série, 13e de la Race, 2 735 pts) bat Holger Rune (195e, classement protégé, vainqueur 2022) 7-5, 6-4 en 1 h 21 ; il lui faut au minimum la finale, seul le titre garantit sa place.",
+    "Djokovic : 2 940 pts, demi-finales pour atteindre 3 290 ; seul le titre garantit Turin.",
+    "Cobolli (5e tête de série) a déclaré forfait lundi, remplacé par le lucky loser Tirante ; Paul affronte Merida puis possiblement Tiafoe, lui aussi dans la course."
+   ],
+   "pourquoi": "Enjeu clair et daté (Turin dans moins de deux semaines) avec trois histoires parallèles.",
+   "angle": "Trois joueurs, un billet pour Turin, et mardi a déjà fait une victime.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Michelsen+Lehecka+Paris+Masters+2026+highlights",
+     "titre": "Michelsen bat Lehecka",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Tommy+Paul+Rune+Paris+Masters+2026+highlights",
+     "titre": "Paul bat Rune",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Race+to+Turin+2026+explained",
+     "titre": "Course à Turin",
+     "format": "16:9",
+     "parle": false,
+     "usage": "contexte",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de Michelsen - Lehecka",
+    "Tableau de la Race to Turin (graphique à recréer)"
+   ],
+   "photos": [
+    "Lehecka Bâle finale",
+    "Tommy Paul",
+    "Holger Rune Bercy"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Michelsen sort Lehecka",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/michelsen-knocks-out-basel-finalist-lehecka-to-set-up-alcaraz-clash-in-paris-865386.html"
+    },
+    {
+     "titre": "Tennis Majors : Paul bat Rune",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/paul-beats-2022-champion-rune-to-keep-his-turin-hopes-alive-in-paris-865340.html"
+    },
+    {
+     "titre": "Tennis Majors : Struff bat Gea",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/struff-beats-french-wildcard-gea-to-set-up-tirante-clash-in-paris-865433.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Points et scores sur Tennis Majors ; les en-têtes de tour de ces articles sont incohérents (1er/2e tour) mais pas les scores.",
+   "echeance": "Mercredi 4 novembre 2026, 2e tour à Paris ; Finales de Turin ensuite",
+   "hooks": [
+    "Trois joueurs, une place pour Turin, et mardi l'un d'eux a presque tout perdu.",
+    "Lehecka devait gagner le tournoi, il est sorti dès son entrée en lice."
+   ],
+   "structure": [
+    "Hook : Lehecka et Turin",
+    "Michelsen - Lehecka",
+    "Paul - Rune, ce qu'il lui faut",
+    "Djokovic, même équation",
+    "Cobolli forfait, tableau"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 8
+   }
+  },
+  {
+   "id": "berrettini_neuf_masters",
+   "titre": "Berrettini sauve deux balles de match et gagne enfin à Paris, le dernier Masters 1000 qui lui manquait",
+   "note": 8.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Berrettini bat Nakashima 6-4, 3-6, 7-6 (10-8) après deux balles de match sauvées. Il a désormais gagné au moins un match dans les neuf Masters 1000.",
+   "faits": [
+    "Mardi 3 novembre 2026 : Berrettini (43e) bat Brandon Nakashima (14e tête de série) 6-4, 3-6, 7-6 (8) en 2 h 12.",
+    "Il sauve deux balles de match dans le jeu décisif du 3e set, gagné 10-8 ; 17 aces, 38 coups gagnants, 88 % derrière sa 1re balle (56/64).",
+    "Selon l'ATP, Paris était le seul Masters 1000 où il n'avait encore gagné aucun match.",
+    "Prochain match : Ugo Humbert (vainqueur de Van de Zandschulp 7-6, 6-7, 6-3), mercredi."
+   ],
+   "pourquoi": "Statistique de carrière claire et dénouement en suspense, face à un Français.",
+   "angle": "Le dernier Masters 1000 qui manquait, gagné au bout des deux balles de match.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Berrettini+Nakashima+Paris+Masters+2026+highlights",
+     "titre": "Berrettini - Nakashima",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Berrettini+Humbert+Paris+Masters+2026",
+     "titre": "Prochain match",
+     "format": "16:9",
+     "parle": false,
+     "usage": "contexte",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images du jeu décisif 10-8 et des deux balles de match"
+   ],
+   "photos": [
+    "Matteo Berrettini Bercy",
+    "Nakashima"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Berrettini complète sa collection de Masters 1000",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/berrettini-completes-his-masters-1000-set-by-beating-nakashima-in-paris-865328.html"
+    },
+    {
+     "titre": "Tennis Majors : Halys bat Fery (liste des Français)",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/unbroken-halys-beats-wimbledon-semi-finalist-fery-for-first-paris-masters-win-865247.html"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Une seule source principale (Tennis Majors) pour le détail ; score cohérent avec l'ordre de jeu.",
+   "echeance": "Mercredi 4 novembre 2026, Berrettini - Humbert",
+   "hooks": [
+    "Berrettini est entré sur le court avec zéro match gagné dans ce tournoi, et il a sauvé deux balles de match.",
+    "Le dernier Masters 1000 qui lui manquait, il l'a gagné à 10-8."
+   ],
+   "structure": [
+    "Hook : zéro match gagné, deux balles de match",
+    "Nakashima, premiers sets",
+    "Jeu décisif 10-8",
+    "Stats de service",
+    "Neuf Masters 1000, Humbert"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 7
+   }
+  },
+  {
+   "id": "psg_villarreal_record",
+   "titre": "Villarreal - PSG 0-6 : quatre buts en 17 minutes, record de la Ligue des champions, et le premier but de Boly à 17 ans",
+   "note": 8.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "foot",
+   "format": "long",
+   "resume": "Le PSG gagne 6-0 à Villarreal avec 4-0 après 17 minutes, un record en C1. David Boly, 17 ans, marque son premier but pro.",
+   "faits": [
+    "4e journée de la phase de ligue, mardi 3 novembre 2026 : Villarreal 0-6 PSG.",
+    "Buts : Neves (9e), Doué (12e), Mayulu (13e), Ruiz (17e et 50e), Boly (78e, 17 ans, premier but pro, sur passe de Neves) (LiveFoot, Eurosport).",
+    "Aucune équipe n'avait jamais inscrit quatre buts aussi vite en Ligue des champions (Footeo, Footmercato).",
+    "Ligue 1 : PSG 1er avec 20 pts, Lille 18 ; prochain match contre Troyes le 7 novembre à 20 h 45.",
+    "Précédent match de C1 : victoire 4-2 contre le Barça, 20 octobre."
+   ],
+   "pourquoi": "Résultat fort et chaud, record chiffré et un jeune qui sert de fil narratif.",
+   "angle": "Le record des 17 minutes, puis le détail du banc : Boly.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Villarreal+PSG+6-0+résumé+buts",
+     "titre": "Résumé Villarreal - PSG",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=David+Boly+premier+but+PSG",
+     "titre": "But de Boly",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Neves+Doué+Mayulu+Ruiz+Villarreal+PSG",
+     "titre": "Les quatre buts en 17 minutes",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images des quatre buts",
+    "But de Boly"
+   ],
+   "photos": [
+    "David Boly PSG",
+    "Fabián Ruiz",
+    "Mayulu"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Footeo : le PSG humilie Villarreal et s'offre un record",
+     "url": "https://news.footeo.com/2026/11/03/ligue-des-champions-le-psg-humilie-villarreal-0-6-et-soffre-un-record-16771"
+    },
+    {
+     "titre": "Footeo : les résultats de la soirée",
+     "url": "https://news.footeo.com/2026/11/03/ligue-des-champions-les-resultats-de-la-soiree-le-psg-en-demonstration-16774"
+    },
+    {
+     "titre": "LiveFoot : résumé et buts",
+     "url": "https://www.livefoot.fr/direct/ligue-des-champions-de-l-uefa-europe/match-villarreal-vs-paris-saint-germain-205bca2e"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et record sur Footeo, Footmercato, RTS, CNews ; minutes des buts sur LiveFoot et Eurosport.",
+   "echeance": "Samedi 7 novembre 2026, 20 h 45, PSG - Troyes",
+   "hooks": [
+    "En dix-sept minutes, le PSG a marqué quatre buts, plus vite que n'importe quelle équipe en Ligue des champions.",
+    "Le but dont on parle le plus est tombé à la 78e minute."
+   ],
+   "structure": [
+    "Hook : record + but de la 78e",
+    "Les quatre buts",
+    "5-0 de Ruiz",
+    "Boly, 17 ans",
+    "Classement, Troyes"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 9,
+    "images": 8
+   }
+  },
+  {
+   "id": "alcaraz_michelsen_paris",
+   "titre": "Alcaraz retrouve à Paris le joueur qui vient de sortir Lehecka, et il n'a jamais dépassé les quarts ici",
+   "note": 7.0,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Alcaraz (bye) affronte Michelsen mercredi, vainqueur de Lehecka en 3 sets. Il n'a jamais dépassé les quarts de finale à Paris.",
+   "faits": [
+    "Michelsen (35e) bat Lehecka (15e) 6-7 (5), 6-2, 6-4 en 2 h 19 mardi.",
+    "Alcaraz, 2e tête de série, avait un bye ; il a battu Lehecka en finale à Tokyo le mois dernier.",
+    "Selon Tennis Majors, il n'a jamais dépassé les quarts à Paris."
+   ],
+   "pourquoi": "Suite du sujet Alcaraz - Paris d'hier avec l'adversaire connu.",
+   "angle": "Un match d'entrée contre un joueur déjà lancé.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+Michelsen+Paris+Masters+2026",
+     "titre": "Alcaraz - Michelsen",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Michelsen+Lehecka+Paris+Masters+2026",
+     "titre": "Michelsen - Lehecka",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images d'Alcaraz à l'entraînement à Bercy"
+   ],
+   "photos": [
+    "Alcaraz Bercy",
+    "Alex Michelsen"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Michelsen sort Lehecka",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/michelsen-knocks-out-basel-finalist-lehecka-to-set-up-alcaraz-clash-in-paris-865386.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Une source principale, score cohérent.",
+   "echeance": "Mercredi 4 novembre 2026, Alcaraz - Michelsen",
+   "hooks": [
+    "Alcaraz joue mercredi contre le joueur qui vient de sortir Lehecka."
+   ],
+   "structure": [
+    "Hook",
+    "Michelsen - Lehecka",
+    "Alcaraz et son bye"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 6
+   }
+  },
+  {
+   "id": "rublev_etcheverry_series",
+   "titre": "Rublev - Etcheverry : deux séries de défaites, un seul qui peut les arrêter",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Etcheverry (six défaites de suite) bat Rublev (quatre défaites de suite) 6-4, 6-7, 7-6 en 2 h 52 et envoie Rublev à cinq défaites.",
+   "faits": [
+    "Etcheverry (31e) bat Rublev (22e) 6-4, 6-7 (4), 7-6 (3) en 2 h 52.",
+    "Rublev n'avait plus gagné depuis les quarts à Pékin (battu par de Minaur) ; dernière finale à Hangzhou perdue contre Medvedev 7-5, 6-4.",
+    "Etcheverry arrivait avec six défaites de suite depuis l'US Open ; son seul titre ATP est Rio en février.",
+    "Rublev a gagné Bastad cette saison ; Etcheverry affronte de Minaur (8e)."
+   ],
+   "pourquoi": "Histoire à un seul fil, deux séries qui s'affrontent.",
+   "angle": "Un duel entre deux joueurs en crise.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Etcheverry+Rublev+Paris+Masters+2026+highlights",
+     "titre": "Etcheverry - Rublev",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Jeu décisif du 3e set"
+   ],
+   "photos": [
+    "Rublev Bercy",
+    "Etcheverry Rio"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Etcheverry bat Rublev",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rublevs-losing-run-reaches-five-as-etcheverry-edges-him-in-paris-865272.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Une source principale (Tennis Majors).",
+   "echeance": "Mercredi 4 novembre 2026, Etcheverry - de Minaur",
+   "hooks": [
+    "Deux séries de défaites, un seul joueur pour les arrêter."
+   ],
+   "structure": [
+    "Hook",
+    "Les deux séries",
+    "Résultat et suite"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 8,
+    "images": 6
+   }
+  },
+  {
+   "id": "yamal_record_champions",
+   "titre": "Yamal passe Mbappé : l'adolescent le plus prolifique de l'histoire de la Ligue des champions",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "foot",
+   "format": "court",
+   "resume": "Yamal marque à la 7e minute contre Aston Villa (3-0) et passe à 14 buts en C1, record chez les adolescents devant Mbappé (13).",
+   "faits": [
+    "Barça 3-0 Aston Villa, mardi 3 novembre 2026, 4e journée.",
+    "Yamal marque à la 7e minute après une passe ratée de Villa ; Raphinha ajoute deux buts en 12 minutes.",
+    "14 buts en C1 pour Yamal, record chez les adolescents, devant Mbappé (13) (beIN Sports).",
+    "Le Barça est 2e du classement à la différence de buts devant Villa, 3e ; il avait perdu 4-2 contre le PSG le 20 octobre."
+   ],
+   "pourquoi": "Record clair, comparaison Mbappé, images faciles.",
+   "angle": "Le record battu à la 7e minute.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Yamal+goal+Barcelona+Aston+Villa+3-0",
+     "titre": "But de Yamal",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Raphinha+double+Barcelona+Aston+Villa",
+     "titre": "Doublé de Raphinha",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Le but de la 7e minute"
+   ],
+   "photos": [
+    "Yamal Camp Nou",
+    "Mbappé C1"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "beIN Sports : Yamal fait l'histoire",
+     "url": "https://www.beinsports.com/en-au/football/uefa-champions-league/articles/barcelona-3-0-aston-villa-yamal-makes-champions-league-history-2026-11-03"
+    },
+    {
+     "titre": "ESPN : Barcelona 3-0 Aston Villa",
+     "url": "https://www.espn.com/soccer/story/_/id/50370533/barcelona-aston-villa-live-champions-league-latest-updates-commentary-score-result"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et record recoupés sur beIN Sports, ESPN et Sports Mole.",
+   "echeance": "Prochain match de C1 du Barça",
+   "hooks": [
+    "Yamal a battu un record de Mbappé à la 7e minute."
+   ],
+   "structure": [
+    "Hook",
+    "Le record",
+    "Suite du match"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 8,
+    "images": 9
+   }
+  },
+  {
+   "id": "cunha_united_roma",
+   "titre": "Manchester United revient de 0-2 contre la Roma grâce à un penalty retiré et un doublé de Cunha, expulsé à la fin",
+   "note": 7.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "foot",
+   "format": "court",
+   "resume": "United perd 0-2 dès la 17e, Fernandes marque un penalty retiré, Cunha fait le doublé et est expulsé : 3-2.",
+   "faits": [
+    "Old Trafford, mardi 3 novembre 2026 : Manchester United 3-2 Roma.",
+    "Roma mène 2-0 à la 17e (Soulé, Malen) ; Fernandes marque à la 58e un penalty retiré pour empiètement après l'arrêt de Devis Vasquez, 3e gardien de la Roma, pour sa première.",
+    "Cunha égalise à la 83e et marque à la 86e ; second jaune dans le temps additionnel ; huit cartons.",
+    "10 tirs à 0 en seconde période ; United passe 17e de la phase de ligue."
+   ],
+   "pourquoi": "Remontada avec un fil simple.",
+   "angle": "Le penalty tiré deux fois.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Manchester+United+Roma+3-2+highlights+Cunha",
+     "titre": "Résumé United - Roma",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Fernandes+penalty+retaken+Vasquez",
+     "titre": "Le penalty retiré",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Penalty de Fernandes"
+   ],
+   "photos": [
+    "Matheus Cunha",
+    "Old Trafford"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Sky Sports : Man Utd 3-2 Roma",
+     "url": "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run"
+    },
+    {
+     "titre": "Sofascore : Cunha brace turns it",
+     "url": "https://www.sofascore.com/news/manchester-united-3-2-as-roma-cunha-brace-turns-it"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et buts concordants sur Sky Sports, Sofascore, TNT Sports.",
+   "echeance": "Prochain match de Manchester United",
+   "hooks": [
+    "Un penalty tiré deux fois a lancé la remontée."
+   ],
+   "structure": [
+    "Hook",
+    "Penalty et égalisation",
+    "Expulsion"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 8
+   }
+  },
+  {
+   "id": "halys_paris_service",
+   "titre": "Halys ne perd pas un seul jeu de service pour sa première victoire à Paris, 17 aces",
+   "note": 6.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Halys bat Fery 7-6, 7-5 sans perdre son service, 17 aces, pour sa première victoire à Paris en trois participations.",
+   "faits": [
+    "Halys (46e) bat Arthur Fery (32e) 7-6 (6), 7-5 en 1 h 39 ; 12 jeux de service tenus, 17 aces, 87 % derrière la 1re balle (41/47).",
+    "Seul break à 5-5, sur sa première occasion ; premier succès à Paris après deux défaites au 1er tour (2022, 2024).",
+    "25e victoire de 2026, comme Fils et Humbert.",
+    "Prochain match : Frances Tiafoe (7e tête de série)."
+   ],
+   "pourquoi": "Un Français, des chiffres propres.",
+   "angle": "Zéro jeu de service perdu pour une première.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Halys+Fery+Paris+Masters+2026+highlights",
+     "titre": "Halys - Fery",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images d'aces de Halys"
+   ],
+   "photos": [
+    "Quentin Halys Bercy",
+    "Tiafoe"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Halys bat Fery",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/unbroken-halys-beats-wimbledon-semi-finalist-fery-for-first-paris-masters-win-865247.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Une source principale (Tennis Majors).",
+   "echeance": "Mercredi 4 novembre 2026, Halys - Tiafoe",
+   "hooks": [
+    "Un match entier sans perdre une fois son service."
+   ],
+   "structure": [
+    "Hook",
+    "Fery et les chiffres",
+    "Tiafoe"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 8,
+    "images": 6
+   }
+  }
+ ],
+ "ecartes": [
+  {
+   "titre": "Kouamé battu par Borges",
+   "raison": "Score non trouvé, une seule source."
+  },
+  {
+   "titre": "Lille 0-0 à Bodø",
+   "raison": "Aucun détail de match recoupé."
+  },
+  {
+   "titre": "Struff bat Gea",
+   "raison": "Pas de fil narratif assez fort."
+  },
+  {
+   "titre": "Rune battu par Paul",
+   "raison": "Intégré dans le sujet de la course à Turin."
+  }
+ ]
+}
