@@ -1,0 +1,205 @@
+{
+ "zverev_musetti_numero1": {
+  "scripts": [
+   {
+    "id": "0fcd34",
+    "titre": "Un numéro un battu dès son premier match avec ce statut, ce qui n'était arrivé que quatre fois depuis 1973.",
+    "mecanisme": "Hook statistique (quatre autres cas depuis 1973) puis chaîne de cause à effet, clip parlé de Musetti, chute sur un fait",
+    "texte": "Mercredi à Paris, Alexander Zverev a perdu son premier match en tant que numéro un mondial, une manière de commencer que seuls quatre autres numéros un avaient connue depuis la création du classement en 1973.\n\nParce qu'il avait pris la place de Jannik Sinner lundi, et qu'en tant que tête de série numéro un il avait passé le premier tour sans jouer. En face, il y avait Lorenzo Musetti, vingt-quatrième mondial, qui deux jours plus tôt avait eu besoin de quatre balles de match pour sortir Hubert Hurkacz en deux jeux décisifs.\n\nAlors quand Zverev mène 5-2 dans ce premier set, à deux points seulement de le gagner, tout le monde voit déjà le numéro un lancer son tournoi. Sauf que Musetti va gagner cinq points de suite, il prend la manche 7-6, et dans la deuxième il casse deux fois le service de l'Allemand pour la finir 6-2, au bout d'une heure quarante-deux.\n\nAprès le match, Musetti explique qu'il a lui-même été surpris de son niveau, et que la clé a été de rester accroché à 5-2.\n\n[CLIP Musetti] C'est assez surprenant, le niveau que j'ai réussi à produire devant Sascha.\n\nZverev, lui, répond simplement que Musetti a sorti deux très bons retours dans ce jeu décisif, et que le court était très rapide.\n\nRésultat, Musetti, qui signe sa deuxième victoire contre un numéro un mondial, devient le cinquième joueur à battre un numéro un pour son premier match avec ce statut, après José Luis Clerc, Sandon Stolle, Nicolas Escudé et Félix Auger-Aliassime. Zverev finira quand même l'année en haut du classement, il sera à Turin dès le 15 novembre, et Musetti retrouve ensuite le Français Luca Van Assche.",
+    "mots": 266,
+    "clips": [
+     {
+      "moment": "CLIP Musetti",
+      "description": "clip parlé : C'est assez surprenant, le niveau que j'ai réussi à produire devant Sascha.",
+      "url": "https://www.youtube.com/results?search_query=Musetti+interview+after+beating+Zverev+Paris+2026"
+     }
+    ],
+    "forces": "Faits recoupés sur 3 sources, un seul clip parlé court, phrases enchaînées dans la voix de la base.",
+    "risques": "Traduction de la citation de Musetti à valider ; ne pas citer les statistiques d'erreurs (sources contradictoires) ; l'écart Zverev/Musetti dans les face-à-face n'est pas repris.",
+    "chat": []
+   }
+  ],
+  "choisi": "0fcd34"
+ },
+ "djokovic_hijikata_turin": {
+  "scripts": [
+   {
+    "id": "e8fda7",
+    "titre": "Un jour après son record d'âge, il perd un match qu'il pensait dominer, et sa saison se termine sans les Finales.",
+    "mecanisme": "Hook en deux temps (record puis chute en 24 h), enjeu Turin, retournement « Sauf que », deux clips parlés",
+    "texte": "Mardi, Novak Djokovic devenait à 39 ans le plus âgé vainqueur d'un match à Paris, et le lendemain, après avoir pris le premier set 6-2, il a perdu les deux suivants contre un qualifié, ce qui a mis fin à sa dernière chance d'aller à Turin.\n\nParce que depuis des semaines, après un premier tour de deux heures trente-cinq contre Valentin Vacherot, la situation était simple : avec 2 940 points dans la course, il devait atteindre au moins les demi-finales à Paris pour garder une chance de jouer les Finales ATP, qui commencent le 15 novembre. En face, il y avait l'Australien Rinky Hijikata, classé quatre-vingt-troisième et déjà vainqueur de son premier joueur du top 10 à Indian Wells cette année, qu'il avait battu les deux fois où ils s'étaient affrontés, à chaque fois en deux sets.\n\nEt le plus étrange, c'est que Hijikata avait failli déclarer forfait avant le match à cause d'une douleur au cou, la veille. Sauf qu'il remporte le deuxième set 6-3 sans jamais faire face à une seule balle de break, puis il fait le break décisif dans le troisième quand Djokovic commet deux doubles fautes en servant à 3-5.\n\nAprès coup, Hijikata reconnaît qu'il se faisait dominer dans le premier set.\n\n[CLIP Hijikata] Je me faisais dominer dans le premier set, et je n'étais pas près de son niveau.\n\nDjokovic, lui, parle d'une grosse déception, parce qu'il pensait tenir le match en main depuis le début de la rencontre.\n\n[CLIP Djokovic] J'ai perdu un match que j'avais l'impression de dominer pendant un set et quelques jeux.\n\nRésultat, ce joueur qui a gagné sept fois le tournoi de Paris ne jouera pas les Finales ATP cette année, alors que la veille tout le monde parlait de son record d'âge. Hijikata, lui, affrontera ensuite Tomas Martin Etcheverry, et c'est sa quatrième victoire de la carrière contre un joueur du top 20, toutes obtenues en 2026.",
+    "mots": 285,
+    "clips": [
+     {
+      "moment": "CLIP Hijikata",
+      "description": "clip parlé : Je me faisais dominer dans le premier set, et je n'étais pas près de son niveau.",
+      "url": "https://www.youtube.com/results?search_query=Hijikata+Djokovic+press+conference+Paris+2026"
+     },
+     {
+      "moment": "CLIP Djokovic",
+      "description": "clip parlé : J'ai perdu un match que j'avais l'impression de dominer pendant un set et quelques jeux.",
+      "url": "https://www.youtube.com/results?search_query=Hijikata+Djokovic+press+conference+Paris+2026"
+     }
+    ],
+    "forces": "Suite chaude de la veille, citations exactes des deux joueurs, chiffres recoupés.",
+    "risques": "Traductions à valider ; le tour exact (2e ou 3e) varie selon les sources, ne pas le nommer ; ne pas affirmer que c'est la première absence de Djokovic aux Finales depuis 2005 (non vérifié).",
+    "chat": []
+   }
+  ],
+  "choisi": "e8fda7"
+ },
+ "fils_turin_francais": {
+  "scripts": [
+   {
+    "id": "56185a",
+    "titre": "Un abandon à Bâle, puis une qualification pour Turin une semaine plus tard, devant son public.",
+    "mecanisme": "Hook chiffré (premier Français depuis 2016) puis revanche annoncée, chute sur l'adversaire de l'abandon",
+    "texte": "Mercredi à Paris, Arthur Fils est devenu le premier Français depuis Gaël Monfils en 2016 à se qualifier pour les Finales ATP, une semaine après avoir abandonné à Bâle à cause de son dos.\n\nParce qu'à Bâle, en quart de finale contre Taylor Fritz, il avait dû arrêter son match en étant mené 6-2, 2-0, et il arrivait à Paris avec un vrai doute sur sa condition physique. Il était alors septième de la course à Turin, avec une première participation en ligne de mire dans un tournoi qui ne réunit que huit joueurs.\n\nEt pourtant, la qualification est devenue officielle dans la journée, avant même qu'il entre sur le court devant une salle pleine. En face, il avait le qualifié tchèque Tomas Machac, qui sortait d'une blessure au pied, alors que lui était sixième tête de série.\n\nSauf que Fils gagne le premier set 6-3 sans jamais faire face à une balle de break. Dans le deuxième, c'est Machac qui mène 2-0 dans le jeu décisif, mais Fils revient et gagne ce jeu décisif avec deux services gagnants, pour finir 7-6.\n\nAu final, il a gagné onze jeux de service sur onze et trente-cinq points sur trente-huit derrière sa première balle, puis il a écrit « Ici c'est Paris » sur l'objectif de la caméra, un cri de ralliement du Paris Saint-Germain.\n\nIl dit ensuite que c'est un pur bonheur de rejouer à la maison, et avec cette victoire il porte à vingt-deux son nombre de victoires en Masters 1000 cette saison, un record pour un Français d'après Tennis Majors. Jeudi, en troisième tour, il retrouve Taylor Fritz, le même joueur contre qui il avait abandonné une semaine plus tôt.",
+    "mots": 281,
+    "clips": [
+     {
+      "moment": "Message caméra",
+      "description": "Fils écrit « Ici c'est Paris » sur l'objectif",
+      "url": "https://www.youtube.com/results?search_query=Fils+Ici+c'est+Paris+camera+message"
+     }
+    ],
+    "forces": "Sujet français, tension entre la blessure et la qualification, image du message sur la caméra.",
+    "risques": "Aucun clip parlé exact : chercher une interview avant la VO ; vérifier « 22 victoires, record français » avant publication.",
+    "chat": []
+   }
+  ],
+  "choisi": "56185a"
+ },
+ "lens_come_1_9": {
+  "scripts": [
+   {
+    "id": "633b65",
+    "titre": "Un promu européen qui marque neuf buts à Bollaert en dévoilant à chaque instant un record battu.",
+    "mecanisme": "Hook de record, déroulé des buts en chaîne puis série de records, chute sur un chiffre",
+    "texte": "Mercredi soir au stade Bollaert, Côme a battu Lens 9-1 en Ligue des champions, ce qui égale la plus large victoire de toute l'histoire de la compétition, et c'est la défaite la plus lourde jamais subie par un club français.\n\nParce que Côme, entraîné par Cesc Fàbregas, disputait seulement son quatrième match européen, et que dès la septième minute Tasos Douvikas ouvre le score de la tête sur un centre de Perrone. Il marque encore une fois avant la mi-temps, Nico Paz ajoute un troisième but sur un contre, et deux minutes après la pause Lucas Da Cunha fait 4-0.\n\nEnsuite, tout va très vite : Kempf marque sur un centre de Milla, Douvikas complète son triplé au premier poteau, et Liberali, entré en jeu, fait 7-0 à la soixante-deuxième minute. Lens sauve l'honneur avec une volée de Ruben Aguilar, mais Baturina puis Papaccioli, pour sa première avec Côme, portent le score à 9-1.\n\nEt le pire pour Lens, c'est que Fàbregas avait regretté, après son match précédent contre Manchester United, d'avoir demandé à ses joueurs de ralentir en fin de rencontre, alors que cette fois ils n'ont pas ralenti du tout.\n\nRésultat, Côme a tiré dix-huit fois pour 4,27 buts attendus, c'est le premier club de l'histoire de la Ligue des champions avec onze joueurs différents qui marquent ou font une passe décisive dans le même match, et c'est la plus large victoire à l'extérieur de la compétition.\n\nEn quatre matchs européens, Côme a déjà marqué dix-neuf buts, un record, contre quatorze pour le record précédent de la Ligue des champions, détenu par la Juventus. Douvikas devient le meilleur buteur de la compétition cette saison avec six buts.",
+    "mots": 279,
+    "clips": [
+     {
+      "moment": "Buts",
+      "description": "Les buts de Douvikas et de Paz",
+      "url": "https://www.youtube.com/results?search_query=Douvikas+hat-trick+Lens+Como"
+     }
+    ],
+    "forces": "Chiffres recoupés, histoire simple, forte résonance française.",
+    "risques": "Les minutes de plusieurs buts sont incertaines ; pas de clip parlé retrouvé ; vérifier l'ordre exact de Baturina et Papaccioli.",
+    "chat": []
+   }
+  ],
+  "choisi": "633b65"
+ },
+ "alcaraz_michelsen_berrettini": {
+  "scripts": [
+   {
+    "id": "2746ab",
+    "titre": "Le tournoi où il n'a jamais dépassé les quarts.",
+    "mecanisme": "Hook de série non brisée, déroulé du match et citation en clip, chute sur le prochain adversaire",
+    "texte": "Carlos Alcaraz n'a jamais dépassé les quarts de finale à Paris, et mercredi il avait en face de lui Alex Michelsen, trente-cinquième mondial, qui essayait de devenir le premier joueur plus jeune que lui à le battre.\n\nSauf qu'Alcaraz, qui venait de gagner son quatrième titre de la saison à Vienne en battant Alex de Minaur 6-1, 6-4 en finale, prend le premier set 7-6 au jeu décisif. Dans le deuxième, il sauve une balle de break à 3-3 avant de breaker à la troisième occasion, et il gagne 6-3 avec vingt-six coups gagnants contre douze, au bout d'une heure quarante-deux, et avant le tournoi il avait dit ceci.\n\n[CLIP Alcaraz] Je suis presque sûr qu'à un moment je ferai un grand tournoi ici, et ça arrivera plus tôt que tard.\n\nIl retrouve maintenant Matteo Berrettini, qu'il a battu trois fois en quatre matchs.",
+    "mots": 122,
+    "clips": [
+     {
+      "moment": "CLIP Alcaraz",
+      "description": "clip parlé : Je suis presque sûr qu'à un moment je ferai un grand tournoi ici, et ça arrivera plus tôt que tard.",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+press+conference+Paris+2026+sooner+than+later"
+     }
+    ],
+    "forces": "Citation exacte, format court, enjeu clair.",
+    "risques": "Traduction à valider ; la citation date d'avant le tournoi.",
+    "chat": []
+   }
+  ],
+  "choisi": "2746ab"
+ },
+ "halys_tiafoe_paris": {
+  "scripts": [
+   {
+    "id": "cabaf6",
+    "titre": "Deux victoires en deux jours dans un tournoi où il n'avait jamais gagné.",
+    "mecanisme": "Hook d'antécédent puis déroulé simple, chute sur un chiffre",
+    "texte": "Quentin Halys n'avait jamais gagné un match dans ce tournoi avant mardi, et mercredi il a sorti la septième tête de série, Frances Tiafoe, après avoir sauvé quatre balles de match dans le jeu décisif de la troisième manche.\n\nParce que la veille, contre Fery, il n'avait pas perdu un seul jeu de service, avec dix-sept aces, pour décrocher sa toute première victoire à Paris. Contre Tiafoe, il prend le premier set 6-3 avant de perdre le deuxième 6-1.\n\nSauf qu'au troisième tout se joue au jeu décisif, que Halys finit par gagner onze points à neuf, alors qu'il avait été à quelques points de l'élimination. Il a donc gagné deux matchs en deux jours dans un tournoi où il n'en avait jamais gagné aucun.",
+    "mots": 125,
+    "clips": [
+     {
+      "moment": "Jeu décisif",
+      "description": "Les quatre balles de match sauvées par Halys",
+      "url": "https://www.youtube.com/results?search_query=Halys+Tiafoe+Paris+Masters+2026+highlights"
+     }
+    ],
+    "forces": "Français, suite d'un sujet d'hier, retournement.",
+    "risques": "Source unique pour les balles de match ; pas de clip parlé.",
+    "chat": []
+   }
+  ],
+  "choisi": "cabaf6"
+ },
+ "real_aek_valverde": {
+  "scripts": [
+   {
+    "id": "badcce",
+    "titre": "Un Real mené qui renverse un match au bout du temps additionnel.",
+    "mecanisme": "Hook de score renversé puis chronologie des buts",
+    "texte": "Le Real Madrid était mené 2-1 à quinze minutes de la fin à Athènes mercredi, contre l'AEK, et il a quand même gagné 3-2 sur une frappe enroulée de loin de Federico Valverde dans le temps additionnel.\n\nParce qu'après un but d'Aboubakary Koita en début de match, Jude Bellingham avait égalisé d'une déviation sur un centre de Marc Cucurella. Mais Stavros Pilios remet l'AEK devant à la soixante-quinzième minute, et trois minutes plus tard Kylian Mbappé égalise de près.\n\nRésultat, le Real a pris douze points sur douze depuis le début de cette phase de ligue, et Bellingham, à vingt-trois ans et cent vingt-huit jours, est devenu le plus jeune joueur à disputer soixante matchs de Ligue des champions.",
+    "mots": 119,
+    "clips": [
+     {
+      "moment": "But",
+      "description": "But de Valverde dans le temps additionnel",
+      "url": "https://www.youtube.com/results?search_query=AEK+Real+Madrid+2-3+Valverde+goal"
+     }
+    ],
+    "forces": "Public Real/Mbappé, images faciles à trouver.",
+    "risques": "Pas de citation ; le crosseur du but de Mbappé varie selon les sources, non mentionné.",
+    "chat": []
+   }
+  ],
+  "choisi": "badcce"
+ },
+ "fenerbahce_liverpool": {
+  "scripts": [
+   {
+    "id": "7ecf9f",
+    "titre": "Liverpool a mené deux fois, mais perd sur un but de la tête de Muriqi.",
+    "mecanisme": "Hook de score renversé, chronologie sèche",
+    "texte": "Liverpool a mené deux fois à Istanbul mercredi, et il a quand même perdu 3-2 contre Fenerbahçe en Ligue des champions, avec un but décisif tombé dix minutes seulement après le deuxième avantage des Reds.\n\nParce que Trey Nyoni avait ouvert le score à la vingt-cinquième minute pour son premier but avec Liverpool, avant que Mason Greenwood égalise sur un coup franc dévié par Jérémy Jacquet. Alexander Isak, entré en jeu, remet ensuite les Reds devant à la soixante-neuvième minute, d'une tête.\n\nSauf que quatre minutes plus tard Archie Brown égalise, puis il centre pour Vedat Muriqi, qui marque de la tête à la soixante-dix-neuvième minute, alors que Fenerbahçe avait été mené à deux reprises dans la rencontre.",
+    "mots": 118,
+    "clips": [
+     {
+      "moment": "But",
+      "description": "But de Muriqi de la tête",
+      "url": "https://www.youtube.com/results?search_query=Fenerbahce+Liverpool+3-2+highlights+Muriqi"
+     }
+    ],
+    "forces": "Récit simple, noms connus.",
+    "risques": "Pas de citation ; un record évoqué par l'UEFA (« première victoire depuis 2008 ») non vérifié et non repris.",
+    "chat": []
+   }
+  ],
+  "choisi": "7ecf9f"
+ },
+ "rinderknech_shelton": {
+  "scripts": [
+   {
+    "id": "d6ae31",
+    "titre": "Un Français qui n'a pas concédé une seule balle de break.",
+    "mecanisme": "Hook de performance sèche puis adversaire annoncé",
+    "texte": "Arthur Rinderknech, soixante-huitième mondial, est devenu mercredi le premier joueur qualifié pour les huitièmes de finale à Paris, sans avoir eu à défendre une seule balle de break contre l'Italien Mattia Bellucci, battu 6-4, 6-1 en soixante-six minutes.\n\nParce que c'est la cinquième fois de sa carrière qu'il atteint ce stade dans un Masters 1000, après Montréal et Paris en 2024. Cela veut dire qu'il avait déjà atteint les huitièmes ici il y a deux ans. Sauf que son prochain adversaire est Ben Shelton, troisième tête de série, qui a battu Cameron Norrie 6-3, 6-4 mardi, alors que le Français n'a eu besoin que d'une heure et six minutes pour finir son propre match.",
+    "mots": 114,
+    "clips": [
+     {
+      "moment": "Match",
+      "description": "Rinderknech au service",
+      "url": "https://www.youtube.com/results?search_query=Rinderknech+Bellucci+Paris+Masters+2026+highlights"
+     }
+    ],
+    "forces": "Français, format court.",
+    "risques": "Sujet plus faible que les autres ; pas de citation.",
+    "chat": []
+   }
+  ],
+  "choisi": "d6ae31"
+ }
+}

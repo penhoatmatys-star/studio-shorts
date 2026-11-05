@@ -1,0 +1,745 @@
+{
+ "titre": "Veille sport, jeudi 5 novembre 2026",
+ "date": "2026-11-05",
+ "moment": "matin",
+ "tldr": "Mercredi a été un jour de chocs à Bercy : Zverev, tout juste numéro un, sort dès son premier match contre Musetti, Djokovic perd contre le qualifié Hijikata et rate les Finales ATP, Fils se qualifie pour Turin. En Ligue des champions, Côme écrase Lens 9-1 (record d'écart égalé). Quatre longs (3 tennis, 1 foot) et cinq courts.",
+ "sujets": [
+  {
+   "id": "zverev_musetti_numero1",
+   "titre": "Zverev perd son premier match de numéro un mondial contre Musetti, alors qu'il menait 5-2 au jeu décisif",
+   "note": 9.0,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Mercredi 4 novembre, Musetti (24e) bat Zverev 7-6 (5), 6-2 en 1 h 42, deux jours après avoir eu besoin de quatre balles de match contre Hurkacz. Il n'y a eu que quatre autres cas depuis 1973 d'un numéro un battu pour son premier match avec ce statut.",
+   "faits": [
+    "Mercredi 4 novembre 2026, Rolex Paris Masters : Musetti bat Zverev 7-6 (5), 6-2 en 1 h 42 (Tennis Majors, ESPN, Yahoo/dpa).",
+    "Zverev avait pris la place de numéro un lundi ; c'était son premier match avec ce statut, après un exempt au premier tour.",
+    "Il menait 5-2 dans le jeu décisif du premier set ; Musetti a gagné cinq points de suite (Yahoo/dpa).",
+    "Musetti est le 5e joueur à battre un numéro un pour son premier match avec ce statut depuis 1973, après Clerc, Stolle, Escudé et Auger-Aliassime (Tennis Majors).",
+    "Zverev finit l'année numéro un et joue les Finales ATP à Turin du 15 au 22 novembre ; Musetti retrouve Luca Van Assche.",
+    "Lundi 2 novembre, Musetti avait eu besoin de quatre balles de match pour battre Hurkacz 7-6 (3), 7-6 (10)."
+   ],
+   "pourquoi": "Résultat inattendu, record statistique rare, citations utilisables, suite directe du sujet « Zverev numéro un » du 2 novembre.",
+   "angle": "Un numéro un battu dès son premier match avec ce statut, ce qui n'était arrivé que quatre fois depuis 1973.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Musetti+Zverev+Paris+Masters+2026+highlights",
+     "titre": "Résumé Musetti - Zverev",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Musetti+interview+after+beating+Zverev+Paris+2026",
+     "titre": "Interview de Musetti après le match",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Zverev+press+conference+Paris+Masters+Musetti+loss",
+     "titre": "Conférence de presse de Zverev",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Extraits du jeu décisif à 5-2 puis 5-7",
+    "Interview de Musetti en anglais (« pretty shocking the level »)"
+   ],
+   "photos": [
+    "Musetti Paris 2026",
+    "Zverev numéro un 2026",
+    "Clerc / Escudé numéro un battu"
+   ],
+   "citations": [
+    {
+     "auteur": "Lorenzo Musetti",
+     "texte": "« It's pretty shocking the level I was able to play in front of Sascha. »",
+     "source": "Yahoo Sports, 4 novembre 2026"
+    },
+    {
+     "auteur": "Lorenzo Musetti",
+     "texte": "« The key was to stay there at 5-2. »",
+     "source": "Yahoo Sports, 4 novembre 2026"
+    },
+    {
+     "auteur": "Alexander Zverev",
+     "texte": "« I think he hit two very good returns. »",
+     "source": "Tennis Majors, 4 novembre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Musetti gâche le premier match de Zverev en numéro un",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/breaking-news-musetti-spoils-zverevs-first-match-as-world-no-1-in-paris-865578.html"
+    },
+    {
+     "titre": "Yahoo Sports : Zverev débute en numéro un avec une sortie à Paris",
+     "url": "https://sports.yahoo.com/articles/zverev-debuts-world-number-one-150337916.html"
+    },
+    {
+     "titre": "ESPN : Zverev perd son premier match de numéro un",
+     "url": "https://www.espn.com/tennis/story/_/id/50379005/alexander-zverev-tenure-no-1-begins-paris-loss"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score recoupé sur Tennis Majors, ESPN, Yahoo, Washington Post. Les statistiques d'erreurs directes divergent entre sources : non utilisées.",
+   "echeance": "Musetti - Van Assche à Paris ; Finales ATP à Turin du 15 au 22 novembre.",
+   "hooks": [
+    "Alexander Zverev a perdu son premier match de numéro un mondial d'une façon que seuls quatre autres numéros un avaient connue depuis 1973.",
+    "Cette phrase de Musetti, « le niveau était assez choquant », est la raison pour laquelle Zverev a perdu son premier match de numéro un."
+   ],
+   "structure": [
+    "Hook : premier match de numéro un perdu",
+    "Contexte : Sinner, exempt, Musetti et ses quatre balles de match",
+    "Déroulé : 5-2 au jeu décisif, cinq points de suite, 6-2",
+    "Clip Musetti",
+    "Réponse de Zverev",
+    "Fait final : 5e cas depuis 1973, Turin"
+   ],
+   "scores": {
+    "viral": 9,
+    "faits": 9,
+    "images": 9
+   }
+  },
+  {
+   "id": "djokovic_hijikata_turin",
+   "titre": "Djokovic perd contre le qualifié Hijikata un jour après son record d'âge et rate les Finales ATP",
+   "note": 9.0,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Mercredi, Djokovic (39 ans) mène un set 6-2 puis s'incline 2-6, 6-3, 6-3 contre Rinky Hijikata, 83e mondial, ce qui met fin à ses chances d'aller à Turin. La veille, il était devenu le plus vieux vainqueur d'un match à Paris.",
+   "faits": [
+    "Mercredi 4 novembre 2026 : Hijikata (qualifié, 83e) bat Djokovic 2-6, 6-3, 6-3 (Tennis Majors, Yahoo, tennis.com.au).",
+    "Djokovic avait battu Vacherot en 2 h 35 mardi et devenait le plus âgé vainqueur d'un match à Paris.",
+    "Il devait atteindre les demi-finales pour garder une chance de jouer les Finales ATP (Turin, 15-22 novembre) ; sa défaite y met fin.",
+    "Hijikata perdait ses deux premiers face-à-face contre lui, en deux sets ; il dit avoir failli déclarer forfait à cause du cou.",
+    "Djokovic est servi en double faute deux fois à 3-5 dans le set décisif avant le break (Tennis Majors).",
+    "Hijikata jouera Etcheverry ensuite ; c'est sa 4e victoire contre un top 20, toutes en 2026."
+   ],
+   "pourquoi": "Suite directe du sujet d'hier : retournement en 24 h, enjeu clair (Turin), citations des deux joueurs.",
+   "angle": "Un jour après son record d'âge, il perd un match qu'il pensait dominer, et sa saison se termine sans les Finales.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Hijikata+Djokovic+Paris+Masters+2026+highlights",
+     "titre": "Résumé Hijikata - Djokovic",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Hijikata+Djokovic+press+conference+Paris+2026",
+     "titre": "Réactions d'après-match",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Djokovic+Vacherot+Paris+Masters+oldest+winner",
+     "titre": "Rappel de la victoire de mardi",
+     "format": "16:9",
+     "parle": false,
+     "usage": "contexte",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Balles de break du 3e set",
+    "Réaction de Djokovic en conférence de presse"
+   ],
+   "photos": [
+    "Hijikata Paris 2026",
+    "Djokovic Bercy 2026",
+    "Etcheverry Paris 2026"
+   ],
+   "citations": [
+    {
+     "auteur": "Rinky Hijikata",
+     "texte": "« I was getting outplayed in the first set and I wasn't close to his level. »",
+     "source": "Yahoo Sports, 4 novembre 2026"
+    },
+    {
+     "auteur": "Novak Djokovic",
+     "texte": "« Losing a match that I felt like I was dominating for a set and a few games. »",
+     "source": "Yahoo Sports, 4 novembre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : mercredi de chocs à Paris",
+     "url": "https://www.tennismajors.com/atp/shock-wednesday-in-paris-hijikata-stuns-djokovic-as-zverev-medvedev-de-minaur-and-tiafoe-also-fall-865627.html"
+    },
+    {
+     "titre": "Yahoo Sports : la défaite met fin aux espoirs de Turin",
+     "url": "https://sports.yahoo.com/articles/defeat-ends-djokovics-hopes-making-174900119.html"
+    },
+    {
+     "titre": "Tennis Australia : Hijikata renverse Djokovic",
+     "url": "https://www.tennis.com.au/fan-zone/news/2026/11/05/rinky-hijikata-defeats-djokovic-in-paris"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score recoupé. Une source (Yardbarker) parle de « 3e tour » : les autres de 2e tour, formulation évitée. Le « record 2005 » d'un titre n'est pas vérifié, non repris.",
+   "echeance": "Finales ATP à Turin du 15 au 22 novembre (sans Djokovic).",
+   "hooks": [
+    "Mardi, Novak Djokovic devenait le plus âgé vainqueur d'un match à Paris, et le lendemain il perdait un match qu'il menait d'un set.",
+    "Un qualifié classé 83e a mis fin à la course de Djokovic vers Turin."
+   ],
+   "structure": [
+    "Hook : record d'âge puis défaite",
+    "Enjeu : 2 940 points, demi-finales obligatoires",
+    "Retournement : Hijikata sans balle de break, doubles fautes à 3-5",
+    "Clips Hijikata et Djokovic",
+    "Chute : 7 titres à Paris, pas de Finales"
+   ],
+   "scores": {
+    "viral": 9,
+    "faits": 9,
+    "images": 9
+   }
+  },
+  {
+   "id": "fils_turin_francais",
+   "titre": "Fils se qualifie pour les Finales ATP, une semaine après son abandon à Bâle, et bat Machac à Paris",
+   "note": 8.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "long",
+   "resume": "Mercredi, Arthur Fils bat Tomas Machac 6-3, 7-6 (4) à Paris le jour où sa qualification pour Turin est officielle, premier Français depuis Monfils en 2016. Il retrouve Taylor Fritz, contre qui il avait abandonné à Bâle.",
+   "faits": [
+    "Mercredi 4 novembre 2026 : Fils (6e tête de série) bat Machac 6-3, 7-6 (4), sans balle de break concédée (Tennis Majors).",
+    "Il a tenu ses 11 jeux de service et gagné 35 points sur 38 derrière sa première balle.",
+    "Sa qualification pour les Finales ATP est officielle ce jour-là : premier Français depuis Gaël Monfils en 2016 (Tennis Majors).",
+    "À Bâle, il avait abandonné contre Fritz en étant mené 6-2, 2-0 (dos), une semaine plus tôt.",
+    "Il a écrit « Ici c'est Paris » sur l'objectif de la caméra (cri du PSG) et parle de « pure joie » de rejouer à la maison.",
+    "Il joue jeudi Taylor Fritz (11e tête de série) en troisième tour ; 22 victoires en Masters 1000 cette saison, record français selon Tennis Majors."
+   ],
+   "pourquoi": "Public français, histoire de revanche et de retour de blessure, image forte (message sur la caméra), échéance dès jeudi.",
+   "angle": "Un abandon à Bâle, puis une qualification pour Turin une semaine plus tard, devant son public.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Fils+Machac+Paris+Masters+2026+highlights",
+     "titre": "Résumé Fils - Machac",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Fils+Ici+c'est+Paris+camera+message",
+     "titre": "Message sur la caméra",
+     "format": "16:9",
+     "parle": false,
+     "usage": "payoff",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Fils+Fritz+Basel+retire+2026",
+     "titre": "Abandon à Bâle contre Fritz",
+     "format": "16:9",
+     "parle": false,
+     "usage": "contexte",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Interview de Fils sur sa qualification",
+    "Extraits du jeu décisif du 2e set"
+   ],
+   "photos": [
+    "Arthur Fils Paris 2026",
+    "Monfils Finales ATP 2016",
+    "Taylor Fritz 2026"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : « Ici c'est Paris », Fils bat Machac le jour de sa qualification",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/ici-cest-paris-fils-beats-machac-in-paris-on-the-day-he-qualifies-for-turin-sets-up-fritz-rematch-865703.html"
+    },
+    {
+     "titre": "Tennis Majors : Fils tient tous ses jeux de service",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/unbroken-fils-beats-machac-to-set-up-fritz-rematch-in-paris-865718.html"
+    },
+    {
+     "titre": "Tennis Majors : mercredi de chocs à Paris",
+     "url": "https://www.tennismajors.com/atp/shock-wednesday-in-paris-hijikata-stuns-djokovic-as-zverev-medvedev-de-minaur-and-tiafoe-also-fall-865627.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Qualification et score sur Tennis Majors et Yardbarker. La mention « premier Français depuis Monfils » vient de Tennis Majors seul : à dire avec prudence. Aucune citation exacte de Fils trouvée (« pure joy » paraphrasé).",
+   "echeance": "Fils - Fritz, jeudi 5 novembre ; Finales ATP du 15 au 22 novembre.",
+   "hooks": [
+    "Arthur Fils est devenu le premier Français depuis Monfils en 2016 à se qualifier pour les Finales ATP, une semaine après avoir abandonné à Bâle.",
+    "« Ici c'est Paris » : Fils écrit sur la caméra le jour où il se qualifie pour Turin."
+   ],
+   "structure": [
+    "Hook : qualification, premier Français depuis 2016",
+    "Contexte : abandon à Bâle",
+    "Match : sans balle de break, jeu décisif",
+    "Message sur la caméra",
+    "Chute : Fritz, le même adversaire"
+   ],
+   "scores": {
+    "viral": 8.5,
+    "faits": 8,
+    "images": 8
+   }
+  },
+  {
+   "id": "lens_come_1_9",
+   "titre": "Lens - Côme 1-9 : la plus large victoire de l'histoire de la Ligue des champions, et la pire défaite d'un club français",
+   "note": 9.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "foot",
+   "format": "long",
+   "resume": "Mercredi soir à Bollaert, Côme de Cesc Fàbregas écrase Lens 9-1, un triplé de Douvikas, onze joueurs différents impliqués dans les buts. Égalité du record d'écart de la compétition.",
+   "faits": [
+    "Mercredi 4 novembre 2026, 4e journée : Lens 1-9 Côme (UEFA, Foot Mercato, FotMob).",
+    "Douvikas : triplé et une passe décisive, 6 buts cette saison ; Paz, Da Cunha, Kempf, Liberali, Baturina et Papaccioli (première avec Côme) marquent aussi ; Aguilar sauve l'honneur d'une volée.",
+    "Égalité de la plus large victoire de la Ligue des champions (8 buts d'écart, comme Liverpool-Besiktas 8-0 en 2007 et Real-Malmö 8-0 en 2015) ; plus large victoire à l'extérieur de l'histoire.",
+    "Première équipe avec 11 joueurs différents buteurs ou passeurs dans un match (record précédent : 10, Benfica 2022).",
+    "19 buts en quatre premiers matchs européens (record de la Ligue des champions : 14, Juventus) ; 18 tirs pour 4,27 buts attendus.",
+    "Fàbregas avait regretté d'avoir demandé de ralentir à la fin du match précédent contre Manchester United."
+   ],
+   "pourquoi": "Score hors norme, record historique, club français humilié, public foot large.",
+   "angle": "Un promu européen qui marque neuf buts à Bollaert en dévoilant à chaque instant un record battu.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Lens+Como+1-9+highlights+Champions+League",
+     "titre": "Résumé Lens - Côme",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Douvikas+hat-trick+Lens+Como",
+     "titre": "Triplé de Douvikas",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Fabregas+press+conference+after+Lens+Como+9-1",
+     "titre": "Réaction de Fàbregas",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Buts de Paz et Papaccioli",
+    "Réaction de Lens ou de Fàbregas après le match"
+   ],
+   "photos": [
+    "Douvikas Como",
+    "Cesc Fàbregas Côme",
+    "Stade Bollaert"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "UEFA : bilan de la journée 4, Côme égale la plus large victoire",
+     "url": "https://fr.uefa.com/uefachampionsleague/news/02ab-21fe5496e274-39b36c80a565-1000--ligue-des-champions-journee-4-bilan-de-mercredi-come-egale-/"
+    },
+    {
+     "titre": "FotMob : Lens 1-9 Como, record égalé",
+     "url": "https://www.fotmob.com/news/1w2549u9iddbg19eozb3z1c2xv-lens-1-9-como-fabregas-men-record-joint-biggest-win-champions-league-history"
+    },
+    {
+     "titre": "CNews : résultats de la 4e journée",
+     "url": "https://www.cnews.fr/sport/2026-11-04/ligue-des-champions-les-resultats-complets-de-la-4e-journee-de-la-phase-de-ligue"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score recoupé sur 3 sources. Les minutes de certains buts ne sont pas toutes connues : la VO les cite avec prudence. Aucune citation de Fàbregas ou de Lens retrouvée.",
+   "echeance": "Prochains matchs de Lens en Ligue 1 ; journée 5 de la Ligue des champions.",
+   "hooks": [
+    "Côme a battu Lens 9-1 en Ligue des champions, ce qui égale la plus large victoire de la compétition.",
+    "Neuf buts à Bollaert : la plus lourde défaite d'un club français en Ligue des champions."
+   ],
+   "structure": [
+    "Hook : 9-1 et record égalé",
+    "Déroulé des buts",
+    "Lens sauve l'honneur",
+    "Fàbregas et Manchester United",
+    "Records en rafale : 11 joueurs, 19 buts en 4 matchs"
+   ],
+   "scores": {
+    "viral": 9,
+    "faits": 9,
+    "images": 8
+   }
+  },
+  {
+   "id": "alcaraz_michelsen_berrettini",
+   "titre": "Alcaraz bat Michelsen à Paris et retrouve Berrettini, avec toujours un seul objectif : dépasser les quarts",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Mercredi, Alcaraz bat Michelsen 7-6 (4), 6-3 en 1 h 42. Il n'a jamais dépassé les quarts de finale à Paris et affronte Berrettini ensuite.",
+   "faits": [
+    "Mercredi 4 novembre 2026 : Alcaraz bat Michelsen 7-6 (4), 6-3 en 1 h 42 (Tennis Majors).",
+    "Il arrive avec cinq victoires de suite après son titre à Vienne (4e de la saison, finale 6-1, 6-4 contre de Minaur).",
+    "26 coups gagnants contre 12 pour Michelsen ; break à la troisième occasion pour mener 5-3 au 2e set.",
+    "Michelsen, 35e, pouvait devenir le premier joueur plus jeune que lui à le battre.",
+    "Prochain match : Berrettini (a battu Humbert 7-6, 7-5), Alcaraz mène 3-1 dans leurs face-à-face."
+   ],
+   "pourquoi": "Série à Paris et prochain match immédiat, avec citation d'avant-tournoi.",
+   "angle": "Le tournoi où il n'a jamais dépassé les quarts.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+Michelsen+Paris+Masters+2026+highlights",
+     "titre": "Résumé Alcaraz - Michelsen",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+press+conference+Paris+2026+sooner+than+later",
+     "titre": "Conférence avant le tournoi",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Extrait de la conférence de presse"
+   ],
+   "photos": [
+    "Alcaraz Paris 2026",
+    "Berrettini Paris 2026"
+   ],
+   "citations": [
+    {
+     "auteur": "Carlos Alcaraz",
+     "texte": "« I'm pretty sure at some point I will do great in this tournament. »",
+     "source": "conférence de presse avant le tournoi, Tennis Majors"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Alcaraz bat Michelsen",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/alcaraz-edges-michelsen-in-a-tie-break-to-set-up-berrettini-clash-in-paris-865677.html"
+    },
+    {
+     "titre": "Free Malaysia Today : Zverev et Djokovic éliminés, Alcaraz avance",
+     "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/05/no-1-zverev-djokovic-crash-out-of-paris-masters-alcaraz-advances"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score recoupé. « Jamais au-delà des quarts » vient des veilles précédentes et de la presse : à revérifier avant publication.",
+   "echeance": "Alcaraz - Berrettini, 3e tour.",
+   "hooks": [
+    "Carlos Alcaraz n'a jamais dépassé les quarts de finale à Paris, et mercredi un joueur plus jeune voulait le battre."
+   ],
+   "structure": [
+    "Hook : série à Paris",
+    "Match : sauve une balle de break, break à la 3e",
+    "Clip Alcaraz",
+    "Berrettini ensuite"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 8
+   }
+  },
+  {
+   "id": "halys_tiafoe_paris",
+   "titre": "Halys sort Tiafoe après avoir sauvé quatre balles de match, un jour après sa première victoire à Paris",
+   "note": 7.0,
+   "verdict": "go",
+   "suite": true,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Mercredi, Quentin Halys bat Frances Tiafoe 6-3, 1-6, 7-6 (9) après avoir sauvé quatre balles de match. La veille, il n'avait pas perdu un jeu de service pour sa première victoire à Paris.",
+   "faits": [
+    "Mardi 3 novembre : Halys bat Fery en tenant ses 12 jeux de service, avec 17 aces, première victoire de sa carrière à Paris (Tennis Majors).",
+    "Mercredi 4 novembre : Halys bat Tiafoe (7e tête de série) 6-3, 1-6, 7-6 (9) après avoir sauvé quatre balles de match (Tennis Majors).",
+    "Tiafoe était en lice pour la dernière place à Turin ; sa défaite le prive d'un résultat qui comptait dans la course."
+   ],
+   "pourquoi": "Retournement de dernière minute et suite du sujet « Halys sans un jeu perdu » d'hier.",
+   "angle": "Deux victoires en deux jours dans un tournoi où il n'avait jamais gagné.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Halys+Tiafoe+Paris+Masters+2026+highlights",
+     "titre": "Résumé Halys - Tiafoe",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Halys+Fery+Paris+2026+aces",
+     "titre": "Match de la veille, 17 aces",
+     "format": "16:9",
+     "parle": false,
+     "usage": "contexte",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Balles de match sauvées dans le jeu décisif"
+   ],
+   "photos": [
+    "Halys Paris 2026",
+    "Tiafoe Paris 2026"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : mercredi de chocs à Paris",
+     "url": "https://www.tennismajors.com/atp/shock-wednesday-in-paris-hijikata-stuns-djokovic-as-zverev-medvedev-de-minaur-and-tiafoe-also-fall-865627.html"
+    },
+    {
+     "titre": "Tennis Majors : Halys sans break contre Fery",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/unbroken-halys-beats-wimbledon-semi-finalist-fery-for-first-paris-masters-win-865247.html"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Le détail des quatre balles de match ne vient que de Tennis Majors ; à recouper avant le montage.",
+   "echeance": "Prochain tour de Halys à Paris.",
+   "hooks": [
+    "Quentin Halys n'avait jamais gagné dans ce tournoi avant mardi, et mercredi il a sorti Tiafoe après quatre balles de match sauvées."
+   ],
+   "structure": [
+    "Hook : n'avait jamais gagné à Paris",
+    "Veille : aucun jeu de service perdu",
+    "Match : retournement et jeu décisif 11-9"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 6,
+    "images": 6
+   }
+  },
+  {
+   "id": "real_aek_valverde",
+   "titre": "AEK 2-3 Real Madrid : Valverde offre la victoire dans le temps additionnel, 12 points sur 12",
+   "note": 7.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "foot",
+   "format": "court",
+   "resume": "Mercredi à Athènes, le Real est mené 2-1 à un quart d'heure de la fin et gagne 3-2 grâce à Mbappé puis Valverde. Bellingham devient le plus jeune joueur à 60 matchs de Ligue des champions.",
+   "faits": [
+    "Mercredi 4 novembre 2026 : AEK Athènes 2-3 Real Madrid (UEFA, ESPN).",
+    "Buts : Koita (AEK), Bellingham (32e), Pilios (75e), Mbappé (78e), Valverde (90e+2, source ESPN).",
+    "Le Real compte 12 points sur 12 dans la phase de ligue.",
+    "Bellingham, 23 ans et 128 jours, devient le plus jeune à 60 apparitions en Ligue des champions (ESPN)."
+   ],
+   "pourquoi": "Mbappé et Real, finish dramatique, record de Bellingham.",
+   "angle": "Un Real mené qui renverse un match au bout du temps additionnel.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=AEK+Real+Madrid+2-3+Valverde+goal",
+     "titre": "But de Valverde",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=AEK+Real+Madrid+Mbappé+goal+Champions+League",
+     "titre": "But de Mbappé",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "But de Valverde en plein cadre"
+   ],
+   "photos": [
+    "Valverde Real Madrid",
+    "Bellingham Real Madrid"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "UEFA : bilan de mercredi",
+     "url": "https://fr.uefa.com/uefachampionsleague/news/02ab-21fe5496e274-39b36c80a565-1000--ligue-des-champions-journee-4-bilan-de-mercredi-come-egale-/"
+    },
+    {
+     "titre": "ESPN : Mourinho salue Bellingham",
+     "url": "https://www.espn.com/soccer/story/_/id/50382502/mourinho-bellingham-real-madrid-aek-athens-champions-league"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score recoupé ; la minute du but de Valverde varie (90e+2 ou 92e).",
+   "echeance": "Journée 5 de la Ligue des champions.",
+   "hooks": [
+    "Le Real était mené 2-1 à quinze minutes de la fin à Athènes, et Valverde a offert la victoire dans le temps additionnel."
+   ],
+   "structure": [
+    "Hook : mené 2-1",
+    "Les buts",
+    "Record de Bellingham, 12/12"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 8
+   }
+  },
+  {
+   "id": "fenerbahce_liverpool",
+   "titre": "Fenerbahçe 3-2 Liverpool : les Reds menaient deux fois, Muriqi signe la remontée",
+   "note": 7.0,
+   "verdict": "go",
+   "suite": false,
+   "sport": "foot",
+   "format": "court",
+   "resume": "Mercredi à Istanbul, Liverpool mène par Nyoni puis Isak mais perd 3-2 : Greenwood, Brown puis Muriqi renversent le match.",
+   "faits": [
+    "Mercredi 4 novembre 2026 : Fenerbahçe 3-2 Liverpool (UEFA, Sofascore).",
+    "Nyoni (25e, premier but avec Liverpool) et Isak (69e, remplaçant) mettent les Reds devant ; Greenwood égalise sur coup franc dévié par Jacquet.",
+    "Brown égalise vers la 73e puis centre pour Muriqi, de la tête à la 79e minute."
+   ],
+   "pourquoi": "Remontada inattendue, noms connus du public français.",
+   "angle": "Liverpool a mené deux fois, mais perd sur un but de la tête de Muriqi.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Fenerbahce+Liverpool+3-2+highlights+Muriqi",
+     "titre": "Résumé Fenerbahçe - Liverpool",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Coup franc de Greenwood"
+   ],
+   "photos": [
+    "Muriqi Fenerbahçe",
+    "Isak Liverpool"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "UEFA : bilan de mercredi",
+     "url": "https://fr.uefa.com/uefachampionsleague/news/02ab-21fe5496e274-39b36c80a565-1000--ligue-des-champions-journee-4-bilan-de-mercredi-come-egale-/"
+    },
+    {
+     "titre": "Sofascore : Fenerbahçe 3-2 Liverpool",
+     "url": "https://www.sofascore.com/news/fenerbahce-3-2-liverpool-ucl-report-with-numbers-that-matter"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score recoupé ; minute du but de Brown variable (73e).",
+   "echeance": "Journée 5 de la Ligue des champions.",
+   "hooks": [
+    "Liverpool a mené deux fois à Istanbul, et il a quand même perdu 3-2."
+   ],
+   "structure": [
+    "Hook : mené deux fois",
+    "Les buts",
+    "Muriqi de la tête à la 79e"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 7,
+    "images": 6
+   }
+  },
+  {
+   "id": "rinderknech_shelton",
+   "titre": "Rinderknech, premier qualifié pour les huitièmes à Paris, sans une balle de break concédée, et Shelton en face",
+   "note": 6.5,
+   "verdict": "go",
+   "suite": false,
+   "sport": "tennis",
+   "format": "court",
+   "resume": "Mercredi, Arthur Rinderknech bat Mattia Bellucci 6-4, 6-1 en 66 minutes sans faire face à une balle de break. Il retrouve Ben Shelton, 3e tête de série.",
+   "faits": [
+    "Mercredi 4 novembre 2026 : Rinderknech (68e) bat Bellucci 6-4, 6-1 en 66 minutes, sans balle de break concédée (Tennis Majors).",
+    "Premier joueur qualifié pour les huitièmes à Paris ; 5e huitième de finale de Masters 1000 de sa carrière, après Montréal et Paris en 2024.",
+    "Prochain adversaire : Ben Shelton (3e), vainqueur de Norrie 6-3, 6-4 mardi."
+   ],
+   "pourquoi": "Joueur français en forme, prochain match face à une tête de série, échéance proche.",
+   "angle": "Un Français qui n'a pas concédé une seule balle de break.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Rinderknech+Bellucci+Paris+Masters+2026+highlights",
+     "titre": "Résumé Rinderknech - Bellucci",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Extraits de Rinderknech au service"
+   ],
+   "photos": [
+    "Rinderknech Paris 2026",
+    "Shelton Paris 2026"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Rinderknech premier en huitièmes",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rinderknech-never-faces-a-break-point-as-he-sweeps-past-bellucci-to-be-the-first-in-the-round-of-16-in-paris-865529.html"
+    },
+    {
+     "titre": "Tennis Majors : Shelton bat Norrie",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Un seul article détaillé (Tennis Majors), score cohérent avec le tableau.",
+   "echeance": "Rinderknech - Shelton.",
+   "hooks": [
+    "Arthur Rinderknech est le premier qualifié pour les huitièmes à Paris, sans une balle de break."
+   ],
+   "structure": [
+    "Hook : premier qualifié",
+    "Contexte : 5e huitième en Masters 1000",
+    "Shelton ensuite"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 7,
+    "images": 6
+   }
+  }
+ ],
+ "ecartes": [
+  {
+   "titre": "Medvedev battu par Buse, de Minaur par Etcheverry",
+   "raison": "Faits minces, noyés dans le sujet « jour de chocs » déjà traité"
+  },
+  {
+   "titre": "Manchester City 3-2 Leipzig, Arsenal 2-1 Slavia, Dortmund 2-1 Betis",
+   "raison": "Peu d'images et de contexte recoupés dans la veille"
+  },
+  {
+   "titre": "Sinner forfait pour la fin de saison",
+   "raison": "Déjà traité le 2 novembre, pas de nouveau fait"
+  }
+ ]
+}
