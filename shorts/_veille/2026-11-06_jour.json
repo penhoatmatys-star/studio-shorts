@@ -1,0 +1,742 @@
+{
+ "titre": "Veille sport, vendredi 6 novembre 2026",
+ "date": "2026-11-06",
+ "moment": "matin",
+ "tldr": "Jeudi à Bercy : Van Assche bat Musetti pour son premier quart en Masters 1000, Berrettini déclare forfait contre Alcaraz, Fritz sort Fils (qualifié pour Turin la veille) et Hijikata, issu des qualifications, enchaîne après Djokovic. En foot, Fonseca quitte l'OL pour le Sporting, l'OM gagne à Leverkusen (Gouiri) et Lyon accroche la Real Sociedad.",
+ "sujets": [
+  {
+   "id": "van_assche_musetti",
+   "format": "long",
+   "sport": "tennis",
+   "note": 8.5,
+   "titre": "Van Assche prend sa revanche de Lyon sur Musetti et signe son premier quart de finale en Masters 1000 à Paris",
+   "resume": "Jeudi 5 novembre, Luca Van Assche (47e) bat Lorenzo Musetti 7-5, 3-6, 6-4 à Bercy, deux semaines après sa défaite en 3 h 32 à Lyon. Il est le dernier Français du tableau et affronte Hijikata vendredi.",
+   "faits": [
+    "Jeudi 5 novembre 2026, Rolex Paris Masters : Van Assche bat Musetti 7-5, 3-6, 6-4 et conclut à sa première balle de match sur une amortie de volée (Tennis Majors FR).",
+    "C'est son premier quart de finale en Masters 1000 ; il est 47e mondial.",
+    "Deux semaines plus tôt, en quart de finale à Lyon, Musetti l'avait battu 7-6, 6-7, 6-4 en 3 h 32, fini à 1 h 17 du matin, et avait gagné le tournoi.",
+    "À Paris, Van Assche sauve deux balles de break à 15-40 dans le jeu précédent puis breake à 4-4 dans le set décisif.",
+    "Halys et Rinderknech avaient déjà perdu le même jour : Van Assche est le seul Français des quarts.",
+    "Prochain adversaire vendredi : Rinky Hijikata (83e, issu des qualifications), vainqueur de Djokovic et d'Etcheverry."
+   ],
+   "pourquoi": "Revanche à 15 jours d'écart, détail chiffré fort (3 h 32, 1 h 17), seul Français encore en lice à Bercy.",
+   "angle": "La revanche de Lyon : même adversaire, même scénario, fin inversée.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Van+Assche+Musetti+Paris+Masters+2026+highlights",
+     "titre": "Résumé Van Assche - Musetti",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Van+Assche+interview+Bercy+Musetti",
+     "titre": "Interview de Van Assche après le match",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Musetti+Van+Assche+Lyon+2026+3h32",
+     "titre": "Le quart de Lyon (3 h 32)",
+     "format": "16:9",
+     "parle": false,
+     "usage": "contexte",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Amortie de volée sur balle de match",
+    "Images du quart de Lyon"
+   ],
+   "photos": [
+    "Van Assche Bercy 2026",
+    "Musetti trophée Lyon",
+    "Hijikata"
+   ],
+   "citations": [
+    {
+     "auteur": "Luca Van Assche",
+     "texte": "Jouer sur le central est un rêve d'enfant ; gagner devant ce public, c'était « incroyable ».",
+     "source": "Tennis Majors FR, 5 novembre 2026 (paraphrase, mot « incroyable » exact)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors FR : Van Assche prend sa revanche de Lyon sur Musetti",
+     "url": "https://www.tennismajors.com/fr/atp/rolex-paris-masters-1000-atp/van-assche-prend-sa-revanche-de-lyon-sur-musetti-et-soffre-son-premier-quart-de-finale-en-masters-1000-a-paris-809330.html"
+    },
+    {
+     "titre": "Tennis Majors : order of play du jeudi",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-three-frenchmen-in-a-row-on-court-central-on-thursday-865696.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score confirmé par 2 pages Tennis Majors (FR et EN) ; détails du match de Lyon dans l'article FR uniquement.",
+   "echeance": "Vendredi 6 novembre : quart de finale Van Assche - Hijikata",
+   "hooks": [
+    "Il y a deux semaines, à Lyon, ce joueur français a perdu un quart de 3 h 32 fini à 1 h 17 du matin…",
+    "Cette défaite à Lyon est la raison pour laquelle Van Assche joue son premier quart en Masters 1000."
+   ],
+   "structure": [
+    "Hook : le quart de Lyon",
+    "Qui, score de Lyon, Musetti champion",
+    "Match de Paris, balles de break sauvées",
+    "Balle de match, premier quart, citation",
+    "Seul Français, adversaire Hijikata"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 9,
+    "images": 8
+   },
+   "verdict": "go",
+   "suite": false
+  },
+  {
+   "id": "berrettini_alcaraz_forfait",
+   "format": "long",
+   "sport": "tennis",
+   "note": 8,
+   "titre": "Berrettini déclare forfait avec une douleur au bras : Alcaraz passe en quarts de Paris sans jouer",
+   "resume": "Jeudi 5 novembre, Matteo Berrettini (43e) renonce à son huitième contre Alcaraz à cause d'une douleur au bras, après deux victoires dont une sur Humbert. Alcaraz affronte Fritz vendredi.",
+   "faits": [
+    "Jeudi 5 novembre 2026 : Berrettini (43e) déclare forfait pour son match contre Carlos Alcaraz (n°2 du tableau, 3e mondial) ; Alcaraz est qualifié sans jouer (Tennis Majors, Sky Sports, Dawn).",
+    "Berrettini écrit que « la douleur dans le bras qu'il traîne depuis quelques jours » ne lui permettra pas de jouer ; la FFT parle du coude, la presse italienne du coude droit, touché en cours de match contre Humbert (Tennis Majors).",
+    "Il avait battu Nakashima mardi (une victoire dans chacun des Masters 1000) puis Humbert 7-6 (3), 7-5 mercredi.",
+    "En juin, il avait abandonné en larmes son quart de Roland-Garros (hanche) et dit « I'm so tired of it ».",
+    "Alcaraz avait battu Michelsen 7-6 (4), 6-3 ; son meilleur résultat à Paris est le quart de finale.",
+    "Alcaraz jouera Taylor Fritz en quarts vendredi."
+   ],
+   "pourquoi": "Retournement de dernière minute, enjeu Alcaraz, histoire humaine (blessures à répétition de Berrettini).",
+   "angle": "Une semaine parfaite qui s'arrête quelques heures avant le plus gros match.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Berrettini+withdraws+Alcaraz+Paris+Masters+2026",
+     "titre": "Forfait de Berrettini",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Berrettini+Roland+Garros+2026+quart+abandon+larmes",
+     "titre": "Abandon de Berrettini à Roland-Garros (juin)",
+     "format": "16:9",
+     "parle": false,
+     "usage": "contexte",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Alcaraz+Michelsen+Paris+Masters+2026+highlights",
+     "titre": "Alcaraz - Michelsen",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de Berrettini contre Humbert",
+    "Message de Berrettini (capture)"
+   ],
+   "photos": [
+    "Berrettini Paris 2026",
+    "Alcaraz Bercy",
+    "Court central Bercy"
+   ],
+   "citations": [
+    {
+     "auteur": "Matteo Berrettini",
+     "texte": "« The pain in my arm that I have been carrying for a few days will not allow me to take the court tonight. »",
+     "source": "Tennis Majors, 5 novembre 2026"
+    },
+    {
+     "auteur": "Matteo Berrettini",
+     "texte": "« I'm so tired of it. »",
+     "source": "Tennis Majors, après Roland-Garros 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Berrettini withdraws, Alcaraz into the quarter-finals",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/berrettini-withdraws-alcaraz-into-the-paris-quarter-finals-without-playing-865754.html"
+    },
+    {
+     "titre": "Sky Sports : Alcaraz through after Berrettini withdraws",
+     "url": "https://www.skysports.com/tennis/news/13608304/carlos-alcaraz-through-to-rolex-paris-masters-quarter-finals-after-matteo-berrettini-withdraws-injured"
+    },
+    {
+     "titre": "Dawn",
+     "url": "https://www.dawn.com/news/2042460/alcaraz-into-paris-masters-quarters-after-berrettini-withdraws"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Forfait confirmé par 3 sources ; nature exacte de la blessure inconnue (examens à venir). Stade du match : 3e tour / huitième selon les médias.",
+   "echeance": "Vendredi 6 novembre : Alcaraz - Fritz ; examens de Berrettini dans les jours qui viennent",
+   "hooks": [
+    "Ce joueur italien a gagné deux matchs en deux jours à Paris, puis il a déclaré forfait quelques heures avant le plus gros match de sa semaine…",
+    "Berrettini avait gagné dans les neuf Masters 1000. Il n'a pas pu jouer le dixième match qui comptait."
+   ],
+   "structure": [
+    "Hook : forfait quelques heures avant",
+    "Nakashima puis Humbert, douleur au coude",
+    "Message de Berrettini",
+    "Retournement : Roland-Garros en larmes",
+    "Alcaraz qualifié sans jouer, Fritz en face"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 9,
+    "images": 7
+   },
+   "verdict": "go",
+   "suite": false
+  },
+  {
+   "id": "fils_turin_fritz",
+   "format": "long",
+   "sport": "tennis",
+   "note": 8.5,
+   "titre": "Fils qualifié pour Turin mercredi, battu par Fritz sans balle de break jeudi : Fritz relance sa course",
+   "resume": "Fils devient mercredi le premier Français qualifié pour les Finales ATP depuis Monfils en 2016, puis perd 6-3, 6-4 contre Fritz sans obtenir de balle de break. Fritz doit aller en finale ou presque pour viser Turin.",
+   "faits": [
+    "Mercredi 4 novembre 2026 : Fils est officiellement qualifié pour Turin après la victoire de Halys sur Tiafoe, premier Français depuis Monfils en 2016 (Tennis Majors FR).",
+    "Jeudi 5 novembre : Taylor Fritz (11e) bat Fils 6-3, 6-4 en huitièmes ; Fils n'obtient aucune balle de break.",
+    "Fritz break à 4-2 sur sa première balle de break, 14 aces contre 6, 27 coups gagnants contre 15, 41 points sur 51 gagnés sur son service.",
+    "C'est la 100e victoire de Fritz en Masters 1000.",
+    "Course à Turin : Fritz 3 050 points, Jodar 3 234, Tiafoe 3 390, Paul 2 925. Fritz passe Jodar en demi-finale et Tiafoe en finale.",
+    "Fritz joue Alcaraz en quarts vendredi ; Fils avait abandonné à Bâle sur problème de dos. Finales ATP : 15-22 novembre."
+   ],
+   "pourquoi": "Qualification historique pour la France puis défaite sèche : double lecture, course à Turin encore ouverte.",
+   "angle": "Qualifié un jour, battu sans balle de break le suivant.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Fritz+Fils+Paris+Masters+2026+highlights",
+     "titre": "Résumé Fritz - Fils",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Fils+qualifié+Turin+Monfils+2016+premier+Français",
+     "titre": "Fils qualifié pour Turin",
+     "format": "16:9",
+     "parle": false,
+     "usage": "contexte",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Fritz+interview+after+beating+Fils+Paris+2026",
+     "titre": "Interview de Fritz",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de Halys - Tiafoe",
+    "Réaction de Fils en conférence"
+   ],
+   "photos": [
+    "Fils Turin",
+    "Monfils 2016 Turin",
+    "Fritz Bercy 2026"
+   ],
+   "citations": [
+    {
+     "auteur": "Taylor Fritz",
+     "texte": "« C'est comme ça que je veux jouer. »",
+     "source": "Tennis Majors FR, 5 novembre 2026 (traduction française de la page)"
+    },
+    {
+     "auteur": "Arthur Fils",
+     "texte": "« Il a juste mieux joué que moi. »",
+     "source": "Tennis Majors FR, 5 novembre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tennis Majors FR : Fritz élimine Fils",
+     "url": "https://www.tennismajors.com/fr/atp/rolex-paris-masters-1000-atp/fritz-garde-ses-chances-pour-turin-en-eliminant-brutalement-fils-809375.html"
+    },
+    {
+     "titre": "Tennis Majors FR : Fils qualifié pour les Nitto ATP Finals",
+     "url": "https://www.tennismajors.com/fr/atp/rolex-paris-masters-1000-atp/arthur-fils-qualifie-pour-les-nitto-atp-finals-premier-francais-depuis-monfils-en-2016-809086.html"
+    },
+    {
+     "titre": "Tennis Majors : order of play du jeudi",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-three-frenchmen-in-a-row-on-court-central-on-thursday-865696.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et stats d'une seule page FR ; points de la course à recouper avant publication (sources ATP/EssentiallySports légèrement différentes).",
+   "echeance": "Vendredi 6 novembre : Alcaraz - Fritz ; Finales ATP du 15 au 22 novembre à Turin",
+   "hooks": [
+    "Ce joueur français est devenu mercredi le premier Français qualifié pour les Finales ATP depuis dix ans, et vingt-quatre heures plus tard il a perdu sans une seule balle de break.",
+    "Fils est qualifié pour Turin. Fritz, lui, doit gagner Paris pour y aller."
+   ],
+   "structure": [
+    "Hook : qualifié puis battu",
+    "Halys - Tiafoe donne la place",
+    "Fritz - Fils, stats du match",
+    "Citations des deux joueurs",
+    "Course à Turin, Alcaraz en quarts"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 8,
+    "images": 8
+   },
+   "verdict": "go",
+   "suite": false
+  },
+  {
+   "id": "fonseca_quitte_ol",
+   "format": "long",
+   "sport": "foot",
+   "note": 8.5,
+   "titre": "Fonseca quitte l'OL pour le Sporting Portugal : le communiqué, l'indemnité, et un Lyon dirigé par son adjoint",
+   "resume": "Mercredi 4 novembre, l'OL annonce le départ de Paulo Fonseca, approché par le Sporting Portugal. Jeudi, Lyon accroche la Real Sociedad (1-1) avec Jorge Maciel sur le banc.",
+   "faits": [
+    "Mercredi 4 novembre 2026 : l'OL annonce que Fonseca n'est plus entraîneur, après avoir été approché par le Sporting Portugal (France 3, Eurosport, beIN Sports).",
+    "Communiqué : approché « par un club auquel il est particulièrement attaché », Fonseca a informé la direction de son souhait de partir ; le club ne pouvait plus garantir « le niveau d'engagement total indispensable à la réussite du projet ».",
+    "Bilan à Lyon : 83 matchs, 47 victoires, 12 nuls, 24 défaites (beIN Sports) ; il lui restait environ sept mois de contrat.",
+    "Indemnité de 5 millions d'euros versée par le Sporting selon France 3, non confirmée officiellement : à dire au conditionnel.",
+    "Jeudi 5 novembre : Real Sociedad 1-1 Lyon (Oskarsson 28e, Tolisso début de seconde période) ; Jorge Maciel dirige l'équipe.",
+    "Maciel assure l'intérim au moins cette semaine, dont Lyon - Brest dimanche en Ligue 1 ; pas de successeur annoncé."
+   ],
+   "pourquoi": "Départ surprise un jour de match européen, communiqué à citer, suite immédiate sur le terrain.",
+   "angle": "Un entraîneur qui part en pleine saison pour un autre club, et un adjoint qui le remplace le lendemain.",
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Fonseca+quitte+OL+Sporting+annonce",
+     "titre": "Annonce du départ de Fonseca",
+     "format": "16:9",
+     "parle": false,
+     "usage": "contexte",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Real+Sociedad+Lyon+1-1+résumé+Tolisso+Ligue+Europa",
+     "titre": "Résumé Real Sociedad - Lyon",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Maciel+interview+après+Real+Sociedad+Lyon",
+     "titre": "Maciel en conférence",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "a_trouver": [
+    "Images de Fonseca en conférence à Lyon",
+    "Communiqué OL (capture)"
+   ],
+   "photos": [
+    "Fonseca OL",
+    "Sporting Portugal Alvalade",
+    "Jorge Maciel"
+   ],
+   "citations": [
+    {
+     "auteur": "Jorge Maciel",
+     "texte": "« S'il y avait bien une semaine où il fallait faire preuve de résilience, c'est cette semaine. »",
+     "source": "Headtopics, 5 novembre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "France 3 : Paulo Fonseca quitte l'OL",
+     "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/paulo-fonseca-quitte-l-ol-l-entraineur-part-pour-le-sporting-portugal-3443232.html"
+    },
+    {
+     "titre": "beIN Sports : l'OL officialise le départ de Fonseca",
+     "url": "https://www.beinsports.com/fr-fr/football/ligue-1/articles/ligue-1-l-ol-officialise-le-d%C3%A9part-de-paulo-fonseca-que-retenir-du-passage-du-portugais-2026-11-04"
+    },
+    {
+     "titre": "Eurosport : Fonseca n'est plus l'entraîneur de l'OL",
+     "url": "https://www.eurosport.fr/football/transferts/2026-2027/transferts-paulo-fonseca-nest-plus-lentraineur-de-lol-ligue-1-comme-la-annonce-le-club-dans-un-communique-officiel_sto23352048/story.shtml"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Départ officiel confirmé par 3 sources ; indemnité (5 M€) sur une seule source ; date d'arrivée de Fonseca non reprise.",
+   "echeance": "Dimanche 8 novembre : Lyon - Brest ; nom du successeur à annoncer",
+   "hooks": [
+    "Le club de Lyon a annoncé mercredi qu'il perdait son entraîneur la veille d'un match de Ligue Europa…",
+    "La phrase du communiqué de l'OL sur Fonseca tient en une ligne sur un autre club."
+   ],
+   "structure": [
+    "Hook : annonce la veille d'un match",
+    "Bilan de Fonseca et phrase du communiqué",
+    "Sporting et indemnité (conditionnel)",
+    "Real Sociedad - Lyon avec Maciel",
+    "Pas de successeur, Brest dimanche"
+   ],
+   "scores": {
+    "viral": 8,
+    "faits": 8.5,
+    "images": 8
+   },
+   "verdict": "go",
+   "suite": false
+  },
+  {
+   "format": "court",
+   "id": "shelton_rinderknech_tiebreak",
+   "sport": "tennis",
+   "note": 7.5,
+   "titre": "Shelton sort Rinderknech au jeu décisif 7-5 après 2 h 05, malgré 41 coups gagnants du Français",
+   "resume": "Jeudi, Ben Shelton bat Arthur Rinderknech 3-6, 6-4, 7-6 (5) à Bercy. Rinderknech a gagné le premier set en 27 minutes et fini avec plus de coups gagnants, mais 31 fautes directes.",
+   "faits": [
+    "Jeudi 5 novembre 2026 : Shelton (3e tête de série) bat Rinderknech 3-6, 6-4, 7-6 (5) en 2 h 05 (Tennis Majors).",
+    "Set 1 : Rinderknech le gagne en 27 minutes, ne perd que trois points de service.",
+    "Set 3 sans break ; Rinderknech mène 4-2 au jeu décisif, Shelton obtient une balle de match à 5-5 sur le service du Français et la convertit sur son service.",
+    "16 aces chacun ; Rinderknech 41 coups gagnants contre 38, mais 31 fautes directes contre 13.",
+    "Shelton retrouve Tommy Paul en quarts."
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Shelton+Rinderknech+Paris+Masters+2026+tie-break",
+     "titre": "Jeu décisif Shelton - Rinderknech",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "photos": [
+    "Rinderknech Bercy",
+    "Shelton Bercy 2026"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors FR : Shelton renverse Rinderknech",
+     "url": "https://www.tennismajors.com/fr/atp/rolex-paris-masters-1000-atp/thriller-a-paris-shelton-renverse-rinderknech-au-tie-break-decisif-et-retrouve-paul-en-quarts-809290.html"
+    },
+    {
+     "titre": "Tennis Majors : order of play du jeudi",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-three-frenchmen-in-a-row-on-court-central-on-thursday-865696.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score confirmé par 2 pages ; stats d'une seule.",
+   "echeance": "Vendredi 6 novembre : Shelton - Paul",
+   "hooks": [
+    "Ce Français a fait vingt-sept minutes de tennis parfait contre le numéro quatre mondial, et il a quand même perdu."
+   ],
+   "structure": [
+    "Hook : 27 minutes parfaites",
+    "Les trois sets",
+    "Le jeu décisif",
+    "Les statistiques"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8.5,
+    "images": 7
+   },
+   "verdict": "go",
+   "suite": false,
+   "pourquoi": "Jeudi, Ben Shelton bat Arthur Rinderknech 3-6, 6-4, 7-6 (5) à Bercy. Rinderknech a gagné le premier set en 27 minutes et fini avec plus de coups gagnants, mais 31 fautes directes.",
+   "angle": "Shelton sort Rinderknech au jeu décisif 7-5 après 2 h 05, malgré 41 coups gagnants du Français",
+   "a_trouver": []
+  },
+  {
+   "format": "court",
+   "id": "om_leverkusen_gouiri",
+   "sport": "foot",
+   "note": 7.5,
+   "titre": "Leverkusen 0-1 OM : Gouiri offre à Marseille sa première victoire de la saison en Ligue Europa",
+   "resume": "Jeudi 5 novembre, l'OM gagne à la BayArena grâce à un but de Gouiri à la 77e minute, après trois défaites en trois matchs européens.",
+   "faits": [
+    "Jeudi 5 novembre 2026, 4e journée de Ligue Europa : Leverkusen 0-1 OM (Tellement Foot, Headtopics, CNews).",
+    "But d'Amine Gouiri à la 77e minute, frappe enroulée (Tellement Foot).",
+    "Leverkusen avait gagné ses trois premiers matchs européens et touché la barre juste avant la pause (Gutierrez).",
+    "Première victoire de l'OM dans la compétition, 3 points après quatre journées.",
+    "Prochain match : Levski Sofia au Vélodrome, jeudi 26 novembre à 18 h 45."
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Leverkusen+OM+0-1+Gouiri+but+Ligue+Europa",
+     "titre": "But de Gouiri à Leverkusen",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    },
+    {
+     "url": "https://www.youtube.com/results?search_query=Gouiri+interview+Canal++Leverkusen",
+     "titre": "Gouiri sur Canal+",
+     "format": "16:9",
+     "parle": true,
+     "usage": "preuve",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "photos": [
+    "Gouiri OM",
+    "BayArena",
+    "De Zerbi"
+   ],
+   "citations": [
+    {
+     "auteur": "Amine Gouiri",
+     "texte": "Il parle de « match référence en Coupe d'Europe » (Canal+).",
+     "source": "Tellement Foot, 5 novembre 2026 (citation partielle)"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Tellement Foot : Gouiri réagit après la victoire à Leverkusen",
+     "url": "https://tellementfoot.com/om-amine-gouiri-reagit-apres-la-victoire-a-leverkusen-26246"
+    },
+    {
+     "titre": "CNews : Lyon accroche la Real Sociedad, l'OM crée la surprise",
+     "url": "https://www.cnews.fr/sport/2026-11-05/ligue-europa-lyon-accroche-la-real-sociedad-1-1-lom-cree-la-surprise-leverkusen-0"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et buteur confirmés par 3 sources ; minute du but et citations sur Tellement Foot uniquement.",
+   "echeance": "Jeudi 26 novembre : OM - Levski Sofia",
+   "hooks": [
+    "Trois défaites en trois matchs de Ligue Europa, et c'est chez l'équipe qui avait gagné ses trois premiers matchs que l'OM a gagné."
+   ],
+   "structure": [
+    "Hook : 3 défaites puis victoire",
+    "But de Gouiri",
+    "Citation et classement"
+   ],
+   "scores": {
+    "viral": 7,
+    "faits": 8,
+    "images": 7
+   },
+   "verdict": "go",
+   "suite": false,
+   "pourquoi": "Jeudi 5 novembre, l'OM gagne à la BayArena grâce à un but de Gouiri à la 77e minute, après trois défaites en trois matchs européens.",
+   "angle": "Leverkusen 0-1 OM : Gouiri offre à Marseille sa première victoire de la saison en Ligue Europa",
+   "a_trouver": []
+  },
+  {
+   "format": "court",
+   "id": "hijikata_qualifie_quart",
+   "sport": "tennis",
+   "note": 8,
+   "titre": "Hijikata, qualifié 83e mondial, bat Djokovic puis Etcheverry et file en quarts de Paris",
+   "resume": "Rinky Hijikata enchaîne Darderi, Djokovic (2-6, 6-3, 6-3) puis Etcheverry (2-6, 6-3, 7-5) et affronte Van Assche vendredi.",
+   "faits": [
+    "Lundi 2 novembre : Hijikata bat Darderi 6-2, 6-2 après deux matchs de qualification.",
+    "Mercredi 4 novembre : il bat Djokovic 2-6, 6-3, 6-3 ; deux doubles fautes de Djokovic à 3-5 (Tennis Majors FR).",
+    "Jeudi 5 novembre : il bat Etcheverry 2-6, 6-3, 7-5 (order of play Tennis Majors).",
+    "Il a perdu le premier set deux fois de suite ; record personnel de 16 victoires sur le circuit principal cette saison.",
+    "Quart vendredi contre Luca Van Assche."
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Hijikata+Djokovic+Paris+Masters+2026+highlights",
+     "titre": "Hijikata - Djokovic",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "photos": [
+    "Hijikata Bercy",
+    "Djokovic éliminé Paris 2026"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors FR : un mercredi coup de tonnerre, Hijikata fait tomber Djokovic",
+     "url": "https://www.tennismajors.com/fr/atp/rolex-paris-masters-1000-atp/un-mercredi-coup-de-tonnerre-a-paris-hijikata-fait-tomber-djokovic-zverev-medvedev-de-minaur-et-tiafoe-eux-aussi-dehors-809116.html"
+    },
+    {
+     "titre": "Tennis Majors : qualifier Hijikata routs Darderi",
+     "url": "https://www.tennismajors.com/?p=865001"
+    },
+    {
+     "titre": "Tennis Majors : order of play du jeudi",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-three-frenchmen-in-a-row-on-court-central-on-thursday-865696.html"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Djokovic traité hier (suite) ; Etcheverry confirmé par 2 pages.",
+   "suite": true,
+   "echeance": "Vendredi 6 novembre : Van Assche - Hijikata",
+   "hooks": [
+    "Cet Australien est arrivé à Paris sans être dans le tableau, et il vient de battre trois joueurs de suite."
+   ],
+   "structure": [
+    "Hook : arrivé par les qualifs",
+    "Darderi, Djokovic",
+    "Etcheverry",
+    "Quart contre Van Assche"
+   ],
+   "scores": {
+    "viral": 7.5,
+    "faits": 8.5,
+    "images": 7
+   },
+   "verdict": "go",
+   "pourquoi": "Rinky Hijikata enchaîne Darderi, Djokovic (2-6, 6-3, 6-3) puis Etcheverry (2-6, 6-3, 7-5) et affronte Van Assche vendredi.",
+   "angle": "Hijikata, qualifié 83e mondial, bat Djokovic puis Etcheverry et file en quarts de Paris",
+   "a_trouver": []
+  },
+  {
+   "format": "court",
+   "id": "borges_lucky_loser_quart",
+   "sport": "tennis",
+   "note": 7,
+   "titre": "Borges, repêché lucky loser, atteint les quarts de Paris après avoir perdu son dernier match de qualification",
+   "resume": "Nuno Borges (49e) perd contre Molcan en qualifications, entre au tableau comme lucky loser, bat Kouamé puis Buse 6-0, 6-2 et affronte Ruud en quarts.",
+   "faits": [
+    "Borges (49e) a perdu 7-6 (5), 6-2 contre Alex Molcan au dernier tour des qualifications et est entré comme lucky loser (Tennis Majors).",
+    "Premier tour : il bat le wild card français Moïse Kouamé, 17 ans, 6-3, 6-1 en 1 h 04.",
+    "Jeudi 5 novembre : il bat Ignacio Buse 6-0, 6-2 en huitièmes (order of play Tennis Majors).",
+    "Quart de finale contre Casper Ruud.",
+    "Son seul titre ATP date de Bastad 2024, finale gagnée contre Rafael Nadal."
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Borges+Buse+Paris+Masters+2026",
+     "titre": "Borges - Buse",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "photos": [
+    "Borges Bastad 2024",
+    "Kouamé Bercy"
+   ],
+   "citations": [],
+   "sources": [
+    {
+     "titre": "Tennis Majors : Borges ends Kouame's bid",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/borges-ends-kouames-bid-to-become-the-youngest-match-winner-in-paris-865294.html"
+    },
+    {
+     "titre": "Tennis Majors : order of play du jeudi",
+     "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-three-frenchmen-in-a-row-on-court-central-on-thursday-865696.html"
+    }
+   ],
+   "fiabilite": "partiel",
+   "fiabilite_detail": "Le 2e tour (contre Khachanov) n'a pas été vérifié ; score contre Buse sur une seule page.",
+   "echeance": "Vendredi 6 novembre : Ruud - Borges",
+   "hooks": [
+    "Ce joueur avait perdu son dernier match de qualification, et il se retrouve en quarts d'un Masters 1000."
+   ],
+   "structure": [
+    "Hook : perdu les qualifs",
+    "Repêché, Kouamé",
+    "Buse 6-0, 6-2",
+    "Ruud, titre Bastad"
+   ],
+   "scores": {
+    "viral": 6.5,
+    "faits": 7,
+    "images": 6
+   },
+   "verdict": "go",
+   "suite": false,
+   "pourquoi": "Nuno Borges (49e) perd contre Molcan en qualifications, entre au tableau comme lucky loser, bat Kouamé puis Buse 6-0, 6-2 et affronte Ruud en quarts.",
+   "angle": "Borges, repêché lucky loser, atteint les quarts de Paris après avoir perdu son dernier match de qualification",
+   "a_trouver": []
+  },
+  {
+   "format": "court",
+   "id": "lyon_real_sociedad_maciel",
+   "sport": "foot",
+   "note": 6.5,
+   "titre": "Real Sociedad 1-1 Lyon : premier match sans Fonseca, un point arraché avec Maciel sur le banc",
+   "resume": "Jeudi 5 novembre, Lyon égalise par Tolisso à Saint-Sébastien le lendemain de l'annonce du départ de Fonseca.",
+   "faits": [
+    "Jeudi 5 novembre 2026, 4e journée de Ligue Europa : Real Sociedad 1-1 Lyon à Anoeta.",
+    "Oskarsson ouvre le score de la tête (28e) sur un centre de Barrenetxea ; Tolisso égalise début de seconde période sur un centre de Tessmann.",
+    "Oyarzabal touche le poteau ; Tolisso a une tête à la 90e repoussée par Marrero.",
+    "Jorge Maciel dirige l'équipe : « S'il y avait bien une semaine où il fallait faire preuve de résilience, c'est cette semaine. »",
+    "Lyon est en zone de barragiste."
+   ],
+   "videos": [
+    {
+     "url": "https://www.youtube.com/results?search_query=Real+Sociedad+Lyon+1-1+résumé+Tolisso",
+     "titre": "Résumé du match",
+     "format": "16:9",
+     "parle": false,
+     "usage": "action",
+     "alerte": "URL de recherche : choisir un /shorts/ propre, à vérifier en planche-contact"
+    }
+   ],
+   "photos": [
+    "Tolisso OL",
+    "Jorge Maciel"
+   ],
+   "citations": [
+    {
+     "auteur": "Jorge Maciel",
+     "texte": "« S'il y avait bien une semaine où il fallait faire preuve de résilience, c'est cette semaine. »",
+     "source": "Headtopics, 5 novembre 2026"
+    }
+   ],
+   "sources": [
+    {
+     "titre": "Dico du sport : Lyon accroche un bon point chez la Real Sociedad",
+     "url": "https://dicodusport.fr/blog/lyon-accroche-un-bon-point-chez-la-real-sociedad-le-resume-du-match-de-ligue-europa/"
+    },
+    {
+     "titre": "Footmercato : Real Sociedad - Lyon",
+     "url": "https://www.footmercato.net/live/6175454888652435127-real-sociedad-vs-lyon"
+    }
+   ],
+   "fiabilite": "confirme",
+   "fiabilite_detail": "Score et buteurs confirmés par 3 sources ; classement exact non vérifié.",
+   "echeance": "Dimanche 8 novembre : Lyon - Brest",
+   "hooks": [
+    "Lyon a joué jeudi soir son premier match européen depuis le départ de son entraîneur."
+   ],
+   "structure": [
+    "Hook : premier match sans Fonseca",
+    "But de Oskarsson",
+    "Égalisation de Tolisso",
+    "Citation de Maciel"
+   ],
+   "scores": {
+    "viral": 6,
+    "faits": 8,
+    "images": 6
+   },
+   "verdict": "go",
+   "suite": false,
+   "pourquoi": "Jeudi 5 novembre, Lyon égalise par Tolisso à Saint-Sébastien le lendemain de l'annonce du départ de Fonseca.",
+   "angle": "Real Sociedad 1-1 Lyon : premier match sans Fonseca, un point arraché avec Maciel sur le banc",
+   "a_trouver": []
+  }
+ ],
+ "ecartes": [
+  {
+   "titre": "Zverev, Medvedev, de Minaur éliminés mercredi",
+   "raison": "Déjà traité dans la veille du 5 novembre."
+  },
+  {
+   "titre": "Halys battu par Paul 7-6, 6-4",
+   "raison": "Halys déjà traité les 4 et 5 novembre, pas de rebondissement."
+  },
+  {
+   "titre": "Ruud bat Struff 6-3, 6-3",
+   "raison": "Pas d'enjeu ni d'histoire."
+  }
+ ]
+}

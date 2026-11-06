@@ -1,0 +1,170 @@
+{
+ "van_assche_musetti": {
+  "scripts": [
+   {
+    "id": "ad765a",
+    "titre": "La revanche de Lyon : même adversaire, même scénario, fin inversée.",
+    "mecanisme": "Hook revanche (scène de Lyon) puis retournement 'Sauf que' sur le jeu décisif, chute sur l'adversaire surprise",
+    "texte": "Il y a deux semaines, à Lyon, ce joueur français a perdu un quart de finale de trois heures trente-deux, terminé à une heure dix-sept du matin, et personne ne se doutait que Bercy allait lui offrir la revanche.\n\nLe joueur, c'est Luca Van Assche, quarante-septième mondial, et celui qui l'avait battu ce soir-là 7-6, 6-7, 6-4, c'est Lorenzo Musetti, qui allait ensuite gagner le tournoi de Lyon. Parce que jeudi, sur le court central du Rolex Paris Masters, en huitièmes de finale, les deux hommes se retrouvent, alors que Musetti vient de sauver quatre balles de match contre Hurkacz puis de battre Zverev, le nouveau numéro un mondial.\n\nAlors Van Assche prend le premier set 7-5, il perd le deuxième 6-3, et tout se joue dans la troisième manche. Sauf que dans l'avant-dernier jeu, il doit d'abord sauver deux balles de break menées à 15-40, et c'est juste après qu'il breake Musetti à 4-4 pour passer devant.\n\nIl conclut sur sa première balle de match, avec une amortie de volée, 6-4, et c'est son premier quart de finale en Masters 1000. Après le match, il explique que jouer sur le central était un rêve d'enfant, et que gagner devant ce public, c'était incroyable.\n\nLe même jour, Quentin Halys et Arthur Rinderknech ont tous les deux perdu, ce qui fait de Van Assche le seul Français encore en lice dans les quarts de finale.\n\nMais son prochain adversaire, vendredi, n'est ni Alcaraz ni Shelton, c'est Rinky Hijikata, quatre-vingt-troisième mondial, issu des qualifications, qui a déjà sorti Novak Djokovic et Tomas Martin Etcheverry.",
+    "mots": 262,
+    "clips": [
+     {
+      "moment": "Balle de match",
+      "description": "amortie de volée de Van Assche",
+      "url": "https://www.youtube.com/results?search_query=Van+Assche+Musetti+Paris+Masters+2026+highlights"
+     }
+    ],
+    "forces": "Faits chiffrés recoupés, revanche simple à suivre, un fil unique.",
+    "risques": "Citation de Van Assche paraphrasée (seul le mot « incroyable » est exact) ; pas de clip parlé vérifié.",
+    "chat": []
+   }
+  ],
+  "choisi": "ad765a"
+ },
+ "berrettini_alcaraz_forfait": {
+  "scripts": [
+   {
+    "id": "3412f9",
+    "titre": "Une semaine parfaite qui s'arrête quelques heures avant le plus gros match.",
+    "mecanisme": "Hook 'joueur anonyme' puis cause à effet de la blessure, retournement 'Sauf que' sur juin, chute factuelle",
+    "texte": "Ce joueur italien a gagné deux matchs en deux jours à Paris, puis il a déclaré forfait quelques heures avant le plus gros match de sa semaine, contre Carlos Alcaraz, en expliquant qu'une douleur au bras le suivait depuis plusieurs jours.\n\nLe joueur, c'est Matteo Berrettini, quarante-troisième mondial, et son tournoi avait très bien commencé. Mardi il bat Brandon Nakashima, ce qui lui permet d'avoir gagné au moins un match dans chacun des neuf Masters 1000 du circuit. Parce que mercredi, il enchaîne contre Ugo Humbert, qu'il bat 7-6, 7-5, et c'est pendant ce match que, selon la presse italienne, son coude droit commence à le faire souffrir.\n\nAlors jeudi soir, quand il doit jouer Alcaraz sur le court central, il publie un message où il écrit que la douleur qu'il traîne depuis quelques jours ne lui permettra pas d'entrer sur le court. La fédération parle du coude, lui parle simplement du bras, et il annonce des examens dans les prochains jours pour comprendre ce qui se passe.\n\nSauf que ce forfait arrive après un autre moment très dur. En juin, il avait abandonné en larmes son quart de finale à Roland-Garros, avec une blessure à la hanche, et il avait dit à ce moment-là qu'il en avait tellement assez de tout ça.\n\nRésultat, Alcaraz, troisième mondial, passe en quarts de finale sans jouer, alors qu'il avait battu Alex Michelsen 7-6, 6-3 pour son entrée. Il n'a encore jamais fait mieux qu'un quart de finale à Paris.\n\nIl affrontera vendredi Taylor Fritz, qui vient d'éliminer Arthur Fils, et il n'aura donc joué qu'un seul match en trois tours à Bercy.",
+    "mots": 270,
+    "clips": [
+     {
+      "moment": "Forfait",
+      "description": "images de Berrettini et d'Alcaraz sur le central",
+      "url": "https://www.youtube.com/results?search_query=Berrettini+withdraws+Alcaraz+Paris+Masters+2026"
+     }
+    ],
+    "forces": "Faits solides, ligne narrative humaine sans emphase.",
+    "risques": "Ne pas affirmer la nature de la blessure (bras/coude non confirmé) ; citation de juin à replacer exactement avant montage.",
+    "chat": []
+   }
+  ],
+  "choisi": "3412f9"
+ },
+ "fils_turin_fritz": {
+  "scripts": [
+   {
+    "id": "7dfaf9",
+    "titre": "Qualifié un jour, battu sans balle de break le suivant.",
+    "mecanisme": "Hook antithèse sur 24 heures, chaîne de causes (Halys - Tiafoe), retournement 'Sauf que', chute sur les calculs de Turin",
+    "texte": "Ce joueur français est devenu mercredi le premier Français qualifié pour les Finales ATP depuis dix ans, et vingt-quatre heures plus tard il a perdu son match de Bercy sans obtenir une seule balle de break.\n\nLe joueur, c'est Arthur Fils, et c'est le match de Quentin Halys contre Frances Tiafoe, mercredi, qui lui a donné sa place : Halys gagne, Tiafoe est éliminé, et Fils devient le premier Français à Turin depuis Gaël Monfils en 2016. Parce qu'il arrivait pourtant avec un doute, vu qu'il avait dû abandonner à Bâle avec un problème de dos.\n\nAlors jeudi soir, en huitièmes de finale, il joue Taylor Fritz, qui lui doit gagner pour garder une chance d'aller à Turin. Sauf que Fritz le breake à 4-2 dans le premier set sur sa première balle de break, et il gagne 6-3, 6-4, avec quatorze aces contre six et quarante-et-un points gagnés sur cinquante-et-un sur son service.\n\nFritz dit après le match que c'est comme ça qu'il veut jouer, et Fils répond simplement qu'il a mieux joué que lui. C'est la centième victoire de Fritz en Masters 1000, et elle le met à 3 050 points, contre 3 234 pour Rafael Jodar et 3 390 pour Frances Tiafoe.\n\nAutrement dit, pour passer Jodar, il doit aller en demi-finale, et pour passer Tiafoe, il doit atteindre la finale. Son prochain match, vendredi, c'est Carlos Alcaraz en quarts, pendant que Tommy Paul, avec 2 925 points, doit aussi aller en finale, alors que les Finales ATP commencent le 15 novembre.\n\nFils, lui, jouera à Turin du 15 au 22 novembre, avec une place déjà acquise.",
+    "mots": 270,
+    "clips": [
+     {
+      "moment": "Fritz - Fils",
+      "description": "échanges et breaks de Fritz",
+      "url": "https://www.youtube.com/results?search_query=Fritz+Fils+Paris+Masters+2026+highlights"
+     }
+    ],
+    "forces": "Faits chiffrés, enjeu Français, course à Turin facile à suivre.",
+    "risques": "Points de la course à vérifier juste avant la VO ; ne pas dire qu'un joueur est qualifié ou éliminé sans source ATP.",
+    "chat": []
+   }
+  ],
+  "choisi": "7dfaf9"
+ },
+ "fonseca_quitte_ol": {
+  "scripts": [
+   {
+    "id": "bd3228",
+    "titre": "Un entraîneur qui part en pleine saison pour un autre club, et un adjoint qui le remplace le lendemain.",
+    "mecanisme": "Hook annonce + promesse de la raison, chaîne de 'parce que', retournement sur le match du lendemain, chute sur l'intérim",
+    "texte": "Le club de Lyon a annoncé mercredi qu'il perdait son entraîneur la veille d'un match de Ligue Europa, et la raison donnée dans le communiqué tient en une phrase sur un autre club, que personne n'avait vu venir.\n\nCet entraîneur, c'est Paulo Fonseca, qui laisse l'OL avec un bilan de quatre-vingt-trois matchs, quarante-sept victoires, douze nuls et vingt-quatre défaites. Parce que le club explique qu'il a été approché ces derniers jours par un club auquel il est particulièrement attaché, qu'il a informé la direction de son souhait de partir, et que Lyon ne pouvait plus garantir l'engagement total nécessaire à la réussite du projet.\n\nCe club, c'est le Sporting Portugal, et comme il lui restait environ sept mois de contrat à Lyon, le Sporting devrait verser une indemnité, que France 3 chiffre à cinq millions d'euros, sans que le montant soit confirmé officiellement.\n\nAlors dès le lendemain, jeudi, c'est son adjoint Jorge Maciel qui dirige l'équipe à Saint-Sébastien, contre la Real Sociedad, et Lyon est mené 1-0 à la mi-temps. Ensuite, Corentin Tolisso égalise juste après la pause, d'une reprise sur un centre de Tanner Tessmann, et à la fin du match Maciel explique que s'il y avait bien une semaine où il fallait faire preuve de résilience, c'était celle-là.\n\nSauf que le plus compliqué reste à venir, puisque Lyon n'a pas encore de successeur, le club cherchant quelqu'un capable de s'inscrire dans la continuité du projet sportif. Maciel assure l'intérim au moins cette semaine, donc aussi dimanche contre Brest en Ligue 1.\n\nEn Ligue Europa, l'OL reste pour l'instant en zone de barrage, avant la seconde moitié de la phase de ligue.",
+    "mots": 273,
+    "clips": [
+     {
+      "moment": "Real Sociedad - Lyon",
+      "description": "égalisation de Tolisso",
+      "url": "https://www.youtube.com/results?search_query=Real+Sociedad+Lyon+1-1+résumé+Tolisso+Ligue+Europa"
+     }
+    ],
+    "forces": "Faits officiels, citation de communiqué, pont vers un match filmé.",
+    "risques": "Indemnité à dire au conditionnel ; ne pas inventer de reproche à Fonseca ni de nom de successeur.",
+    "chat": []
+   }
+  ],
+  "choisi": "bd3228"
+ },
+ "shelton_rinderknech_tiebreak": {
+  "scripts": [
+   {
+    "id": "bc8ec9",
+    "titre": "Shelton sort Rinderknech au jeu décisif 7-5 après 2 h 05, malgré 41 coups gagnants du Français",
+    "mecanisme": "Hook contraste (27 minutes parfaites / défaite), chute sur l'écart de fautes directes",
+    "texte": "Ce Français a fait vingt-sept minutes de tennis parfait contre le numéro quatre mondial, et il a quand même perdu après deux heures cinq, dans un jeu décisif qui s'est terminé 7-5.\n\nLe joueur, c'est Arthur Rinderknech, qui prend le premier set 6-3 face à Ben Shelton en ne perdant que trois points sur son service. Parce que Shelton revient dans la deuxième manche, en le breakant dans le dernier jeu, et la troisième se joue sans aucun break, jusqu'au tie-break.\n\nRinderknech mène 4-2, sauf que Shelton remonte, obtient une balle de match à 5-5 sur le service du Français, et la convertit sur son propre service, 7-5. Rinderknech finit avec quarante-et-un coups gagnants, contre trente-huit, mais trente-et-une fautes directes, contre treize pour Shelton, qui affrontera Tommy Paul en quarts.",
+    "mots": 130,
+    "clips": [],
+    "forces": "Un seul fil, chiffres nets.",
+    "risques": "Détail du jeu décisif limité à ce qui est sourcé.",
+    "chat": []
+   }
+  ],
+  "choisi": "bc8ec9"
+ },
+ "om_leverkusen_gouiri": {
+  "scripts": [
+   {
+    "id": "36e07f",
+    "titre": "Leverkusen 0-1 OM : Gouiri offre à Marseille sa première victoire de la saison en Ligue Europa",
+    "mecanisme": "Hook contraste sur la série, fait final : prochain match",
+    "texte": "Trois défaites en trois matchs de Ligue Europa, et c'est dans le stade de l'équipe qui avait gagné ses trois premiers matchs européens que l'OM a décroché sa première victoire de la saison dans la compétition.\n\nJeudi soir, à la BayArena, Leverkusen touche la barre transversale juste avant la mi-temps, sur une frappe de Miguel Gutierrez, et le score reste nul et vierge jusqu'à la soixante-dix-septième minute. Parce que c'est là qu'Amine Gouiri prend le ballon, passe entre deux défenseurs et enroule une frappe pour le but du 1-0.\n\nAu micro de Canal+, il explique que l'équipe a tenu le résultat jusqu'à la fin, et que c'est son match référence en Coupe d'Europe. L'OM a trois points après quatre journées, et reçoit le Levski Sofia le 26 novembre.",
+    "mots": 128,
+    "clips": [],
+    "forces": "Fil unique, but clair.",
+    "risques": "Pas de réaction de De Zerbi trouvée ; citations partielles.",
+    "chat": []
+   }
+  ],
+  "choisi": "36e07f"
+ },
+ "hijikata_qualifie_quart": {
+  "scripts": [
+   {
+    "id": "2e5e40",
+    "titre": "Hijikata, qualifié 83e mondial, bat Djokovic puis Etcheverry et file en quarts de Paris",
+    "mecanisme": "Hook parcours improbable, fait final : adversaire du lendemain",
+    "texte": "Cet Australien est arrivé à Paris sans être dans le tableau, et il vient de battre trois joueurs de suite, dont un septuple vainqueur du tournoi, pour se retrouver en quarts de finale d'un Masters 1000.\n\nLe joueur, c'est Rinky Hijikata, quatre-vingt-troisième mondial, qui a gagné deux matchs de qualification avant de battre Luciano Darderi 6-2, 6-2. Parce que mercredi, il renverse Novak Djokovic 2-6, 6-3, 6-3, alors que celui-ci fait deux doubles fautes à 3-5 dans la dernière manche.\n\nJeudi, il refait le même scénario contre Tomas Martin Etcheverry, qu'il bat 2-6, 6-3, 7-5, et il atteint ainsi les quarts après avoir perdu le premier set deux fois de suite. Vendredi, il joue Luca Van Assche, le dernier Français encore en lice dans le tableau.",
+    "mots": 126,
+    "clips": [],
+    "forces": "Fil simple, scores précis.",
+    "risques": "Recoupe le sujet Van Assche : ne pas monter les deux le même jour sans varier les images.",
+    "chat": []
+   }
+  ],
+  "choisi": "2e5e40"
+ },
+ "borges_lucky_loser_quart": {
+  "scripts": [
+   {
+    "id": "9e3175",
+    "titre": "Borges, repêché lucky loser, atteint les quarts de Paris après avoir perdu son dernier match de qualification",
+    "mecanisme": "Hook contraste, fait final : seul titre contre Nadal",
+    "texte": "Ce joueur avait perdu son dernier match de qualification, et quelques jours plus tard il se retrouve en quarts de finale d'un Masters 1000, alors que personne ne l'attendait dans le tableau principal.\n\nLe joueur, c'est Nuno Borges, quarante-neuvième mondial, battu 7-6, 6-2 par Alex Molcan au dernier tour des qualifications, et repêché comme lucky loser. Parce que dès son premier match, il sort le jeune wild card français Moïse Kouamé, dix-sept ans, 6-3, 6-1 en une heure quatre minutes.\n\nJeudi, il écrase Ignacio Buse 6-0, 6-2 en huitièmes, et il affrontera Casper Ruud en quarts. Son seul titre sur le circuit remonte à Bastad en 2024, quand il avait battu Rafael Nadal en finale, et il n'en a pas gagné d'autre depuis.",
+    "mots": 123,
+    "clips": [],
+    "forces": "Histoire simple de repêchage.",
+    "risques": "Parcours exact (2e tour) à confirmer ; peu d'images.",
+    "chat": []
+   }
+  ],
+  "choisi": "9e3175"
+ },
+ "lyon_real_sociedad_maciel": {
+  "scripts": [
+   {
+    "id": "476618",
+    "titre": "Real Sociedad 1-1 Lyon : premier match sans Fonseca, un point arraché avec Maciel sur le banc",
+    "mecanisme": "Hook contexte, chute sur la citation de Maciel",
+    "texte": "Lyon a joué jeudi soir son premier match européen depuis le départ de son entraîneur, avec son adjoint sur le banc, et il en est reparti avec un point.\n\nÀ Saint-Sébastien, la Real Sociedad ouvre le score de la tête par Orri Oskarsson à la vingt-huitième minute, sur un centre d'Ander Barrenetxea, et Lyon rentre aux vestiaires sans avoir eu une vraie occasion. Parce que c'est après la pause que Corentin Tolisso égalise, en contrôlant un centre de Tanner Tessmann avant de frapper.\n\nÀ la quatre-vingt-dixième minute, il a même une tête qui aurait pu offrir la victoire, mais le gardien Unai Marrero la repousse, 1-1. Jorge Maciel, l'entraîneur intérimaire, dit ensuite que s'il y avait bien une semaine où il fallait faire preuve de résilience, c'était celle-là.",
+    "mots": 128,
+    "clips": [],
+    "forces": "Fil unique.",
+    "risques": "Recoupe le sujet Fonseca : à ne produire que si ce long n'est pas monté.",
+    "chat": []
+   }
+  ],
+  "choisi": "476618"
+ }
+}
