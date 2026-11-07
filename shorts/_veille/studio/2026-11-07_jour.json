@@ -1,0 +1,250 @@
+{
+ "van_assche_hijikata": {
+  "scripts": [
+   {
+    "id": "40cabb",
+    "titre": "La revanche de Lyon : le Français qui perd à 1 h du matin et se retrouve en demi à Bercy quinze jours plus tard.",
+    "mecanisme": "Hook scène de Lyon, revanche sur Musetti, retournement « Sauf que » sur Hijikata, chute sur Shelton et la finale",
+    "texte": "Il y a quinze jours, à Lyon, ce joueur français a perdu un quart de finale de trois heures et demie terminé après une heure du matin, et personne ne se doutait qu'il serait bientôt en demi-finale du Masters de Paris.\n\nCe joueur, c'est Luca Van Assche, quarante-septième mondial, et ce soir-là c'est Lorenzo Musetti qui l'avait battu en trois sets avant d'aller gagner le tournoi. Parce qu'à Bercy, jeudi, les deux hommes se retrouvent en huitièmes de finale, et cette fois Van Assche gagne 7-5, 3-6, 6-4, en finissant sur une amortie de volée dès sa première balle de match.\n\nVendredi, il a donc rendez-vous avec Rinky Hijikata, quatre-vingt-troisième mondial, sorti des qualifications, qui a déjà battu Novak Djokovic puis Tomas Martin Etcheverry et qui n'a rien à perdre sur le court central.\n\nSauf que Hijikata ne se laisse pas faire. Il prend le deuxième set au jeu décisif, il remet tout à égalité, et le match part dans une troisième manche où chaque jeu de service compte.\n\nEt c'est Van Assche qui tient, 6-4, 6-7, 7-5, ce qui lui offre sa première demi-finale en Masters 1000. À vingt-deux ans, il devient le deuxième plus jeune Français à atteindre ce stade à Paris, derrière Richard Gasquet en 2007.\n\nLe plus étrange, c'est qu'il était le seul Français encore en lice, parce que Quentin Halys et Arthur Rinderknech avaient tous les deux perdu la veille.\n\nEn face, samedi, il y a Ben Shelton, déjà qualifié pour les Finales ATP de Turin, qui vient de battre Tommy Paul pour jouer sa première demi-finale à Paris, et le vainqueur jouera la finale dimanche à quinze heures.",
+    "mots": 274,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Résumé Van Assche - Hijikata Bercy",
+      "url": "https://www.youtube.com/results?search_query=Van+Assche+Hijikata+Paris+Masters+2026+highlights"
+     },
+     {
+      "moment": "preuve",
+      "description": "Van Assche après sa qualification (interview)",
+      "url": "https://www.youtube.com/results?search_query=Van+Assche+interview+demi-finale+Bercy+2026"
+     },
+     {
+      "moment": "hook",
+      "description": "Van Assche amortie de volée balle de match Musetti",
+      "url": "https://www.youtube.com/results?search_query=Van+Assche+Musetti+Bercy+amortie+balle+de+match"
+     }
+    ],
+    "forces": "Faits datés et chiffrés, une seule ligne narrative, voix de la base.",
+    "risques": "Résultats des quarts relevés surtout chez Univers Tennis (2 pages) : à recouper avec atptour.com avant tournage ; scores des sets cohérents, détails de durée absents. Le record « deuxième plus jeune Français derrière Gasquet 2007 » ne vient que d'Univers Tennis : à vérifier ou à retirer du hook.",
+    "chat": []
+   }
+  ],
+  "choisi": "40cabb"
+ },
+ "alcaraz_premiere_demi_paris": {
+  "scripts": [
+   {
+    "id": "f1fda7",
+    "titre": "La malédiction de Bercy enfin cassée.",
+    "mecanisme": "Hook bilan 5-5 jamais au-delà des quarts, rappel des échecs, forfait de Berrettini, Fritz, première demi",
+    "texte": "Carlos Alcaraz a disputé dix matchs au Masters de Paris, cinq victoires et cinq défaites, et personne ne l'avait jamais vu aller plus loin que les quarts de finale à Bercy avant ce vendredi.\n\nParce qu'à Paris, son histoire se répète depuis ses débuts : en 2022 il s'arrête en quart de finale contre Holger Rune, en 2024 Ugo Humbert l'élimine dès les huitièmes en trois sets, 6-1, 3-6, 7-5, et à chaque fois il repart de Bercy sans avoir touché le dernier week-end.\n\nCette année, le tableau commence pourtant par une vraie chance. Il bat Michelsen en huitièmes, et il doit ensuite retrouver Matteo Berrettini, sauf que Berrettini déclare forfait avec une douleur au bras, et Alcaraz passe en quarts de finale sans jouer.\n\nVendredi, il retrouve Taylor Fritz, et le match commence mal, parce que Fritz prend le premier set au jeu décisif. Alcaraz renverse la situation, il gagne le deuxième set 7-5 et le troisième 6-3, et le score total se lit 6-7, 7-5, 6-3.\n\nEt c'est là que la série s'arrête, parce que pour la première fois de sa carrière il joue une demi-finale à Paris. Sa victoire assure en plus la qualification de Rafael Jodar pour les Finales ATP, alors que Jodar, vingt ans, n'avait même pas à jouer ce match.\n\nAutrement dit, il aura fallu attendre cette édition pour que Bercy le garde jusqu'au samedi.\n\nSamedi, en demi-finale, Alcaraz, deuxième tête de série, affronte Casper Ruud, qui a battu Nuno Borges 7-6, 6-4, et le gagnant jouera dimanche à quinze heures une finale que Carlos Alcaraz n'a encore jamais disputée à Paris.",
+    "mots": 268,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Alcaraz - Fritz Bercy résumé",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+Fritz+Paris+Masters+2026+quart+de+finale"
+     },
+     {
+      "moment": "preuve",
+      "description": "Alcaraz interview après Fritz",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+interview+Paris+Masters+demi-finale+2026"
+     },
+     {
+      "moment": "contexte",
+      "description": "Alcaraz Humbert Bercy 2024",
+      "url": "https://www.youtube.com/results?search_query=Alcaraz+Humbert+Bercy+2024+highlights"
+     }
+    ],
+    "forces": "Faits datés et chiffrés, une seule ligne narrative, voix de la base.",
+    "risques": "Résultats des quarts relevés surtout chez Univers Tennis (2 pages) : à recouper avec atptour.com avant tournage ; scores des sets cohérents, détails de durée absents. Un moteur de recherche a rapproché le score 6-7, 7-5, 6-3 d'un Alcaraz-Fritz de novembre 2025 aux Finales ATP : vérifier la rencontre de Bercy 2026 sur atptour.com avant le tournage. Décompte 5-5 repris de la veille du 3 novembre.",
+    "chat": []
+   }
+  ],
+  "choisi": "f1fda7"
+ },
+ "turin_jodar": {
+  "scripts": [
+   {
+    "id": "7170cc",
+    "titre": "Le billet pour Turin se joue sur un match qu'on ne joue pas.",
+    "mecanisme": "Hook huitième de la course, série de qualifiés, Djokovic éliminé, Fritz-Alcaraz décide, Jodar 17e Espagnol",
+    "texte": "Il y a une semaine, ce joueur de vingt ans était huitième de la course aux Finales ATP, et personne ne se doutait que son billet pour Turin se jouerait sur un match qu'il ne jouait même pas.\n\nCe joueur, c'est l'Espagnol Rafael Jodar, et à Paris la course pour les derniers billets ressemble à un jeu d'élimination. Parce qu'au début du mois, seuls quatre joueurs sont déjà qualifiés, Alexander Zverev, Carlos Alcaraz, Ben Shelton et Daniil Medvedev, et il reste quatre places pour tous les autres.\n\nMercredi, Arthur Fils prend l'une d'elles, une semaine après son abandon à Bâle, et il en reste donc trois. Jodar, lui, est huitième avec trois mille cent quatre-vingt-quatre points, devant Alex de Minaur, neuvième, qui n'a que vingt-quatre points de retard après une correction de vingt-cinq points au classement de la course.\n\nNovak Djokovic, dixième avec deux mille huit cent quatre-vingt-dix points, a besoin d'un grand tournoi à Paris, sauf qu'il perd contre Rinky Hijikata, un qualifié, en huitièmes de finale, et il rate les Finales.\n\nTaylor Fritz, onzième avec deux mille huit cent quatre-vingt-cinq points, est encore dans la course, et il joue vendredi son quart de finale contre Carlos Alcaraz. Et c'est justement là que tout se décide.\n\nAlcaraz gagne en trois sets, 6-7, 7-5, 6-3, Fritz est éliminé, et Jodar est qualifié sans avoir joué une balle ce jour-là. Tommy Paul, battu par Ben Shelton, voit lui aussi sa course s'arrêter.\n\nJodar sera le dix-septième Espagnol de l'histoire à disputer les Finales ATP, qui se jouent à Turin du 15 au 22 novembre.",
+    "mots": 263,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Jodar Paris Masters 2026 highlights",
+      "url": "https://www.youtube.com/results?search_query=Jodar+Paris+Masters+2026+highlights"
+     },
+     {
+      "moment": "preuve",
+      "description": "Jodar qualifié Finales ATP réaction",
+      "url": "https://www.youtube.com/results?search_query=Jodar+ATP+Finals+qualification+reaction"
+     },
+     {
+      "moment": "contexte",
+      "description": "Djokovic - Hijikata Bercy résumé",
+      "url": "https://www.youtube.com/results?search_query=Djokovic+Hijikata+Bercy+2026"
+     }
+    ],
+    "forces": "Faits datés et chiffrés, une seule ligne narrative, voix de la base.",
+    "risques": "Classement du 1er novembre (Punto de Break) ; la qualification de Jodar (vendredi) ne vient que d'Univers Tennis et d'un bandeau de Punto de Break : à confirmer sur atptour.com, ainsi que l'état des places restantes.",
+    "chat": []
+   }
+  ],
+  "choisi": "7170cc"
+ },
+ "zidane_liste_pagis": {
+  "scripts": [
+   {
+    "id": "706480",
+    "titre": "Pagis, l'attaquant du Paris FC que personne n'attendait chez les Bleus.",
+    "mecanisme": "Hook nom inattendu, citation de Zidane, retours et absences, dates",
+    "texte": "Zinédine Zidane a annoncé vendredi sa liste de vingt-trois joueurs pour affronter l'Italie et la Turquie, et il y a dedans un nom que presque personne n'attendait, celui d'un attaquant du Paris FC.\n\nCe joueur, c'est Pablo Pagis, convoqué pour la première fois. Zidane explique son choix très simplement, en disant qu'il veut voir des joueurs, et que l'idée n'est pas de prendre uniquement des vétérans ou uniquement des nouveaux.\n\nParce que depuis qu'il a pris la sélection, le 1er août, Zidane a déjà réuni son groupe une première fois, avec trois victoires et un match nul. Pour ce deuxième rassemblement, il change plusieurs choses. Aurélien Tchouameni revient, alors qu'il n'était pas là au premier rassemblement et qu'il finissait de récupérer. Eduardo Camavinga figure aussi dans la liste, alors qu'il avait été écarté de la liste du Mondial en mai.\n\nEn attaque, Kylian Mbappé est là, avec Michael Olise, Bradley Barcola, Désiré Doué, Marcus Thuram et donc Pablo Pagis, et Zidane précise que Mbappé jouera avant-centre, à son poste préféré.\n\nSauf que plusieurs noms manquent. Ousmane Dembélé est blessé, et William Saliba, Manu Koné, Jules Koundé et Maxence Lacroix sont absents sur blessure ou en reprise. Maghnes Akliouche s'est lui aussi blessé à la dernière minute. Dayot Upamecano sera suspendu à Milan, donc Jérémy Jacquet devrait jouer à côté d'Ibrahima Konaté.\n\nDans les buts, il y a trois gardiens, Mike Maignan, Guillaume Restes et Robin Risser.\n\nLe premier match a lieu jeudi 12 novembre à vingt heures quarante-cinq, à San Siro contre l'Italie, et le second dimanche 15 novembre, à la même heure, à Bordeaux contre la Turquie.",
+    "mots": 268,
+    "clips": [
+     {
+      "moment": "hook",
+      "description": "Pablo Pagis Paris FC buts",
+      "url": "https://www.youtube.com/results?search_query=Pablo+Pagis+Paris+FC+buts+2026"
+     },
+     {
+      "moment": "preuve",
+      "description": "Zidane conférence de presse liste Bleus",
+      "url": "https://www.youtube.com/results?search_query=Zidane+liste+Equipe+de+France+conférence+de+presse+novembre+2026"
+     },
+     {
+      "moment": "contexte",
+      "description": "Tchouameni retour Bleus",
+      "url": "https://www.youtube.com/results?search_query=Tchouameni+équipe+de+France+Zidane"
+     }
+    ],
+    "forces": "Faits datés et chiffrés, une seule ligne narrative, voix de la base.",
+    "risques": "Liste confirmée par franceinfo et Footeo/Footmercato ; âge et statistiques de Pagis non vérifiés, ne pas les citer.",
+    "chat": []
+   }
+  ],
+  "choisi": "706480"
+ },
+ "shelton_paul": {
+  "scripts": [
+   {
+    "id": "71ec83",
+    "titre": "Qualifié contre éliminé.",
+    "mecanisme": "Hook qualifié contre éliminé, score, prochaine demi",
+    "texte": "Ben Shelton était déjà qualifié pour les Finales ATP avant ce quart de finale, alors que Tommy Paul jouait vendredi à Paris ses derniers espoirs de rejoindre Turin.\n\nShelton, troisième tête de série, gagne 6-4, 4-6, 6-3 contre Paul, douzième, et cette défaite met fin à la course de l'Américain pour les Finales. Pour Shelton, c'est une première demi-finale au Rolex Paris Masters, après un huitième de finale contre Arthur Rinderknech gagné au jeu décisif du dernier set, 7-5, en deux heures et cinq minutes, malgré quarante et un coups gagnants du Français.\n\nSamedi, sur le court central de Paris La Défense Arena, il affronte Luca Van Assche, et le vainqueur jouera la finale dimanche à quinze heures.",
+    "mots": 118,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Shelton - Paul Bercy résumé",
+      "url": "https://www.youtube.com/results?search_query=Shelton+Tommy+Paul+Paris+Masters+2026"
+     },
+     {
+      "moment": "hook",
+      "description": "Shelton service 230 km/h Bercy",
+      "url": "https://www.youtube.com/results?search_query=Shelton+Paris+Masters+2026+serve"
+     }
+    ],
+    "forces": "Faits datés et chiffrés, une seule ligne narrative, voix de la base.",
+    "risques": "Résultats des quarts relevés surtout chez Univers Tennis (2 pages) : à recouper avec atptour.com avant tournage ; scores des sets cohérents, détails de durée absents.",
+    "chat": []
+   }
+  ],
+  "choisi": "71ec83"
+ },
+ "hijikata_parcours": {
+  "scripts": [
+   {
+    "id": "3df691",
+    "titre": "Le qualifié qui sort Djokovic.",
+    "mecanisme": "Hook qualifié, parcours, quart perdu, chute Djokovic",
+    "texte": "Il y a quelques jours, ce joueur australien devait encore passer par les qualifications pour entrer dans le tableau de Paris, et personne ne se doutait qu'il battrait Novak Djokovic avant d'atteindre les quarts de finale.\n\nIl s'appelle Rinky Hijikata, il est quatre-vingt-troisième mondial, et à Bercy il commence par battre Luciano Darderi 6-2, 6-2, puis Novak Djokovic, puis Tomas Martin Etcheverry, ce qui l'amène en quart de finale contre le dernier Français du tableau.\n\nVendredi, face à Luca Van Assche, il perd le premier set 6-4, il gagne le deuxième au jeu décisif et il revient à égalité, sauf qu'il s'incline 7-5 dans la troisième manche.\n\nIl quitte Paris sans demi-finale, mais avec une victoire de prestige contre Djokovic.",
+    "mots": 120,
+    "clips": [
+     {
+      "moment": "hook",
+      "description": "Hijikata bat Djokovic Bercy",
+      "url": "https://www.youtube.com/results?search_query=Hijikata+Djokovic+Paris+Masters+2026+highlights"
+     },
+     {
+      "moment": "action",
+      "description": "Hijikata Etcheverry Bercy",
+      "url": "https://www.youtube.com/results?search_query=Hijikata+Etcheverry+Paris+Masters"
+     }
+    ],
+    "forces": "Faits datés et chiffrés, une seule ligne narrative, voix de la base.",
+    "risques": "Résultats des quarts relevés surtout chez Univers Tennis (2 pages) : à recouper avec atptour.com avant tournage ; scores des sets cohérents, détails de durée absents.",
+    "chat": []
+   }
+  ],
+  "choisi": "3df691"
+ },
+ "ruud_demi_paris": {
+  "scripts": [
+   {
+    "id": "738963",
+    "titre": "Dix demis en Masters 1000, jamais à Paris.",
+    "mecanisme": "Hook dix demis jamais Paris, score, chiffres, Alcaraz",
+    "texte": "Casper Ruud a déjà joué dix demi-finales de Masters 1000, et pourtant personne ne l'avait jamais vu dans le dernier carré à Paris avant ce vendredi.\n\nIl bat le Portugais Nuno Borges 7-6, 6-4, après un premier set qui se joue au jeu décisif, et Borges, qui était entré dans le tableau comme repêché après avoir perdu son dernier match de qualification, s'arrête là.\n\nC'est la onzième demi-finale de Ruud en Masters 1000 mais la première à Paris, et il est assuré de retrouver le top vingt à l'issue du tournoi.\n\nSamedi, il affronte Carlos Alcaraz, deuxième tête de série, qui n'avait lui aussi jamais joué de demi-finale à Bercy, et la finale se joue dimanche à quinze heures.",
+    "mots": 119,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Ruud - Borges Bercy",
+      "url": "https://www.youtube.com/results?search_query=Ruud+Borges+Paris+Masters+2026"
+     }
+    ],
+    "forces": "Faits datés et chiffrés, une seule ligne narrative, voix de la base.",
+    "risques": "Résultats des quarts relevés surtout chez Univers Tennis (2 pages) : à recouper avec atptour.com avant tournage ; scores des sets cohérents, détails de durée absents. Le texte source mélange Ruud et « lucky loser » : seul Borges l'est, confirmé par la veille du 6 novembre.",
+    "chat": []
+   }
+  ],
+  "choisi": "738963"
+ },
+ "lille_bodo": {
+  "scripts": [
+   {
+    "id": "678897",
+    "titre": "Lille ouvre enfin son compteur.",
+    "mecanisme": "Hook zéro point, match, premier point, statistique",
+    "texte": "Lille arrivait mardi soir en Norvège sans le moindre point au compteur après trois matchs de Ligue des champions, et personne ne pensait qu'un 0-0 ferait autant de bien.\n\nFace à Bodø/Glimt, les Lillois ne marquent pas, mais ils ne perdent pas non plus, avec huit tirs dont deux cadrés contre cinq tirs pour les Norvégiens, et la possession à peu près partagée, 49 % pour Lille et 51 % pour Bodø.\n\nCe point est le premier de la saison pour le LOSC dans la compétition, lors de la quatrième journée de la phase de ligue.\n\nMais le plus étrange, c'est que ce résultat confirme une statistique inquiétante : Lille n'a gagné qu'un seul de ses sept derniers matchs à l'extérieur en coupe d'Europe.",
+    "mots": 124,
+    "clips": [
+     {
+      "moment": "action",
+      "description": "Résumé Bodø/Glimt - Lille",
+      "url": "https://www.youtube.com/results?search_query=Bodo+Glimt+Lille+0-0+résumé+Ligue+des+champions"
+     }
+    ],
+    "forces": "Faits datés et chiffrés, une seule ligne narrative, voix de la base.",
+    "risques": "Score et statistiques confirmés par plusieurs sources ; la statistique « un match sur sept » n'a qu'une source.",
+    "chat": []
+   }
+  ],
+  "choisi": "678897"
+ },
+ "camavinga_retour": {
+  "scripts": [
+   {
+    "id": "0a09b1",
+    "titre": "Écarté du Mondial, rappelé en novembre.",
+    "mecanisme": "Hook écarté puis rappelé, Zidane, milieu, chute",
+    "texte": "Eduardo Camavinga avait été écarté de la liste de la Coupe du monde en mai, et six mois plus tard son nom réapparaît dans la liste des Bleus, ce qui n'était pas du tout prévu.\n\nC'est Zinédine Zidane, nommé sélectionneur le 1er août, qui l'a retenu parmi les vingt-trois joueurs pour affronter l'Italie à Milan, jeudi 12 novembre, puis la Turquie à Bordeaux, le dimanche 15.\n\nAu milieu de terrain, il retrouve Adrien Rabiot, Aurélien Tchouameni, de retour lui aussi, Lucas Da Cunha, Rayan Cherki et Warren Zaïre-Emery, alors que les Bleus avaient terminé quatrièmes du Mondial sous Didier Deschamps.\n\nZidane dit qu'il veut voir des joueurs, et qu'il ne veut prendre ni uniquement des vétérans ni uniquement des nouveaux.",
+    "mots": 120,
+    "clips": [
+     {
+      "moment": "hook",
+      "description": "Camavinga Real Madrid actions",
+      "url": "https://www.youtube.com/results?search_query=Camavinga+Real+Madrid+2026+highlights"
+     }
+    ],
+    "forces": "Faits datés et chiffrés, une seule ligne narrative, voix de la base.",
+    "risques": "Écart du Mondial confirmé par le titre de L'Avenir ; ne pas dire qu'il manquait au premier rassemblement (non vérifié). Même famille visuelle que le long Zidane : monter à distance.",
+    "chat": []
+   }
+  ],
+  "choisi": "0a09b1"
+ }
+}
